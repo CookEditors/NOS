@@ -1,0 +1,74 @@
+/* ==========================================================================
+   VARIABLES
+   ========================================================================== */
+
+@import 'fonts';
+
+$max-width: 40ems;
+
+/*==========  FONTS  ==========*/
+
+/* TYPE FACES */
+
+$header-font-family: "Josefin Sans",sans-serif;
+$branding-font-family: "ltc-broadway",sans-serif;
+$base-font-family: "raleway",sans-serif;
+
+/* FONT WEIGHTS */
+$light: 100;
+$regular: 400;
+$bold: 600;
+$base-font-weight: $regular;
+$base-font-size: 1em !default;
+$base-line-height: 1.4;
+$header-font-weight: $bold;
+
+
+
+
+
+/*==========  COLORS  ==========*/
+
+$bgcolor: #242424;
+$pcolor: #474F55;
+$acolor: #8B0000;
+$paper: #fffdf7;
+$smallprint: darken($paper, 55%);
+
+
+
+
+
+/*==========  BOURBON REFILLS  ==========*/
+$dark-gray: #222;
+$base-accent-color: $acolor;
+$base-border-color: white;
+$navigation-color: white;
+$navigation-background: $bgcolor;
+$navigation-nav-button-background: $bgcolor;
+$navigation-color-hover: blue;
+$navigation-active-link-color: red;
+$search-bar-border-color: orange;
+
+
+// $navigation-height: 25px
+// $navigation-padding: 
+// $navigation-submenu-padding:
+// $base-border-radius:
+// $navigation-submenu-padding:
+// $navigation-submenu-width:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

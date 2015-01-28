@@ -1,0 +1,138 @@
+/* ==========================================================================
+   NAVIGATION..MENUS
+   ========================================================================== */
+
+.nav__basic {
+	// border: 1px dotted blue;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	list-style: none;
+	overflow: hidden;
+	.active {
+			font-weight: bold;
+			letter-spacing: 1px;
+			text-decoration: underline;
+			// border-bottom: 2px solid #fff; --> set instead of underline when using menu subheads
+		}
+	a {
+		// border: 1px dotted #fff;
+		color: #fff;
+		// padding: 0.75rem;
+		padding: 1.5625rem;
+		line-height: 7.1875rem;
+		text-decoration: none;
+		line-height: 2.5;
+		&:hover {
+			text-decoration: underline;
+			// text-decoration: overline;
+			// border-top: 1px solid white;
+			// border-bottom: 1px solid white;
+		}
+		@media screen and (min-width: 60rem) {
+			padding: 1.25rem 0.75rem;
+			margin: 1rem 0.5rem;
+			display: block;
+			float: left;
+		}
+	}
+}
+
+.navicon {
+	color: #fff;
+	@extend .h2;
+	padding: 1rem 0 0 0;
+	// font-size: 30px;
+	float: right;
+	@media screen and (min-width: 654px) {
+		display: none;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*================================
+=            MAIN NAV            =
+================================*/
+
+/* all css commented out until rebuilt */
+
+
+// #mainmenu {
+//  // border: 1px solid green;
+//  font-variant: small-caps;
+//  display: flex;
+//  flex: 1;
+//  margin: 0.5rem 0 0 0;
+//  // padding-bottom: 0.75rem;
+//  ul {
+//    // border: 1px solid orange;
+//    width: 100%;
+//    margin: 0 auto;
+//    list-style-type: none;
+//    display: flex;
+//    flex-wrap: wrap;
+//    justify-content: space-around;
+//    a {
+//      color: #fff;
+//      text-decoration: none;
+//      padding: 2px 5px;
+//      // margin: 5px;
+//      // &:link, &:visited {
+//      //  color: $acolor;
+//      //  padding: 0 1px;
+//      //  text-decoration: underline;
+//      //  } 
+//      &:hover, &:active {
+//        background-color: $acolor;
+//        color: #fff;
+//        text-decoration: none;
+//        // text-shadow: 1px 1px 1px #333;
+//      }
+//    }
+//    .active {
+//      background-color: #FFF;
+//      color: $acolor;
+//      text-transform: uppercase;
+//      // border: 1px solid white;
+//      border-radius: 2px;
+//    }
+//  }
+// }
+
+
+
+/*-----  End of MAIN NAV  ------*/
+
+
+
+
+
+

@@ -1,0 +1,127 @@
+.squeeze {
+	@include outer-container;
+}
+
+.squeeze__title {
+	font-family: $header-font-family;
+	color: $acolor;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 1rem;
+}
+
+.squeeze__tagline {
+	@extend .h1;
+	font-family: $header-font-family;
+	color: $acolor;
+	text-align: center;
+	text-transform: uppercase;
+	font-style: italic;
+	em {
+		color: lighten($pcolor, 20%);
+	}
+}
+
+.squeeze__byline {
+	@extend .squeeze__tagline;
+	@extend .h2;
+	color: $pcolor;
+	margin: 1rem 0 2rem 0;
+	text-transform: capitalize;	
+}
+
+.squeeze__img {
+	max-width: 100%;
+	margin: 0 auto;
+	@media screen and  (min-width: 350px) {
+		padding: 0 1rem 1rem 0;
+		float: left;
+	}
+	&__left {
+		@extend .squeeze__img;
+		text-align: center;
+		@media screen and  (min-width: 350px) {
+			float: right;
+			margin-right: 7rem;
+			padding-left: 1rem;			
+		}
+	}
+}
+
+.squeeze__headline {
+	background-color: lightyellow;
+	color: $pcolor;
+	text-align: center;
+	text-transform: uppercase;
+	max-width: 47rem;
+	margin: 0 auto;
+	padding: 0.75rem;
+	em {
+		color: $acolor;
+	}
+}
+
+.squeeze__story {
+	margin: 0 auto;
+	padding: 1rem;
+	p {
+		max-width: 35rem;
+		margin: 0 auto;
+		padding-bottom: 1rem;
+	}
+	.first {
+		max-width: 40rem;
+		text-align: justify;
+		font-size: 1.25rem;
+		line-height: 1.25;
+	}
+}
+
+.squeeze__question {
+	background-color: $acolor;
+	color: white;
+	padding: 0.75rem;
+	font-size: 1.15rem;
+}
+
+.emailbox {
+	background-color: $acolor;
+	border: 1px solid grey;
+	border-radius: 5px;
+	margin: 0 auto;
+	padding: 0.75rem;
+	text-align: center;
+	h3 {
+		color: #fff;
+		text-align: center;
+	}
+	p {
+		font-size: 1rem;
+		color: #fff;
+		text-align: left;
+	}
+	.step {
+		text-align: center;
+		text-decoration: underline;
+		// background-color: #fff;
+		// color: $acolor;
+	}
+	.small {
+		color: #fff;
+		text-align: center;
+		font-size: 80%;
+	}
+}
+
+a.nothanks {
+	color: darken(#ddd, 30%);
+	text-align: center;
+	margin: -5rem 0 2000rem 0;
+	padding: 0;
+	font-size: small;
+}
+
+.submit-btn {
+	text-align: center;
+	margin: 0 auto;
+}

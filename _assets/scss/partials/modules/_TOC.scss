@@ -1,0 +1,53 @@
+.toc {
+  font-size: 95%;
+  width: 200px;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+  border-top: 1px solid $acolor;
+  border-bottom: 1px solid $acolor;
+  text-align: center;
+  header {
+    background-color: $acolor;
+  }
+  h6 {
+    margin: 0;
+    padding: 5px 10px;
+    color: #fff;
+    text-transform: uppercase;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+  ul {
+    margin: 2px 0 0;
+    padding: 0;
+    // padding-left: 3rem;
+    line-height: 1;
+  }
+  li {
+    display: block;
+    margin: 0 0 1px 0;
+    padding: 0;
+    font-family: $header-font-family;
+    list-style-type: none;
+    &:last-child {
+      border-bottom-width: 0;
+    }
+    a {
+      padding: 10px;
+      display: block;
+      color: $acolor;
+      text-decoration: none;
+    }
+    ul {
+      margin: 1px 0 0;
+    }
+  }
+}
+#drawer {
+  height: 100%;
+  overflow: hidden;
+  &.js-hidden {
+    max-height: 0;
+  }
+}

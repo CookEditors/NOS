@@ -1,0 +1,194 @@
+.modal {
+  ///////////////////////////////////////////////////////////////////////////////////
+  $base-border-color: gainsboro !default;
+  $base-border-radius: 3px !default;
+  $base-background-color: white !default;
+  $base-font-size: 1em !default;
+  $base-line-height: 1.5em !default;
+  $base-accent-color: #477DCA !default;
+  $dark-gray: #333 !default;
+  $light-gray: #DDD !default;
+  $medium-screen: em(640) !default;
+  $large-screen: em(860) !default;
+  $base-font-color: $dark-gray !default;
+  -webkit-font-smoothing: antialiased;
+
+  text-align: center; // centers button!
+
+  // background-color: #ddd;
+  // border: 2px solid $acolor;
+  
+  margin: 0;
+  padding: 1rem 0.5rem;
+  // border-top: 5px double $acolor;
+
+  h3 {
+    margin: 0;
+    color: $acolor;
+    text-transform: uppercase;
+  }
+
+  p {
+    // color: #fff;
+    line-height: $base-line-height;
+    text-align: left;
+  }
+  //////////////////////////////////////////////////////////////////////////////////
+
+  $modal-padding: 3em;
+  $modal-background: $base-background-color;
+  $modal-close-color: $light-gray;
+  $modal-image-height: 135px;
+  $modal-image-width: $modal-image-height;
+  $modal-trigger-image-width: 300px;
+
+  label {
+    cursor: pointer;
+    margin: 1rem auto;
+  }
+
+  label img {
+    border-radius: $modal-trigger-image-width/2;
+    display: block;
+    max-width: $modal-trigger-image-width;
+  }
+
+  input[type="checkbox"] {
+    display: none;
+  }
+
+  .modal-trigger {
+    @include button(flat, $base-accent-color);
+    text-transform: uppercase;
+    padding: .8em 1em;
+    // margin: 0 auto;
+    margin-bottom: -5rem;
+    max-width: 200px;
+    @media screen and (min-width: 400px) {
+      max-width: 350px;
+    }
+  }
+
+  .modal-open {
+    overflow: hidden;
+  }
+
+  .modal-window { // overlay
+    @include transition(opacity .25s ease);
+    @include position(fixed, 0px 0px 0px 0px);
+    background: rgba(0,0,0, .85);
+    opacity: 0;
+    text-align: left;
+    visibility: hidden;
+    z-index: 99999999999;
+
+    .modal-bg {
+      @include position(absolute, 0px 0px 0px 0px);
+      cursor: pointer;
+    }
+  }
+
+  .modal-close {
+    @include position(absolute, -0.5rem 1rem null null);
+    @include size(1em);
+    // postion: absolute;
+    // top: 0.5rem;
+    // right: 0.5rem;
+    // height: 1em;
+    // width: 1em;
+    // font-size: 0.75rem;
+    background: $modal-background;
+    cursor: pointer;
+
+    &:after,
+    &:before {
+      @include position(absolute,  3px 3px 0 50%);
+      @include transform(rotate(45deg));
+      @include size(.15em .75em);
+      background: $modal-close-color;
+      content: '';
+      display: block;
+      // margin: -3px 0 0 -1px;
+    }
+
+    &:hover:after,
+    &:hover:before {
+      background: darken($modal-close-color, 30);
+    }
+
+    &:before {
+      @include transform(rotate(-45deg));
+    }
+  }
+
+  .modal-inner {
+    @include transition(opacity .25s ease);
+    background: $modal-background;
+    border-radius: $base-border-radius;
+    margin-top: .6em;
+    margin: auto;
+    // max-height: 95%;
+    overflow: auto;
+    padding: $modal-padding /2;
+    position: relative;
+    width: 95%;
+
+    @include media($medium-screen) {
+      margin-top: 3rem;
+      // max-height: 60%;
+      padding: $modal-padding;
+      width: 60%;
+    }
+
+    @include media($large-screen) {
+      // margin-top: 10em;
+      width: 50%;
+    }
+
+    h2 {
+      @extend .h3;
+      color: $pcolor;
+      margin: 1rem 0 .6em 0;
+      text-align: center;
+      // text-transform: capitalize;
+    }
+    p {
+      color: white;
+    }
+
+    .modal-intro {
+      font-weight: 800;
+    }
+
+    .modal-content {
+      color: #fff;
+      font-size: 1.25rem;
+
+      @include media($medium-screen) {
+        // @include columns(2 8em);
+      }
+    }
+
+    a.cta {
+      color: white;
+      display: inline-block;
+      margin-right: .5em;
+      margin-top: 1em;
+
+      &:last-child {
+        padding: 0 2em;
+      }
+    }
+  }
+
+  .modal-state:checked + .modal-window {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .modal-state:checked + .modal-window .modal-inner {
+    top: .5em;
+  }
+}
+
+// Based on code by Kasper Mikiewicz

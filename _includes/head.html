@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en-US">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>{% if page.title %}{{ page.title }} &#124; {% endif %}{{ site.title }}</title>
+		{% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
+		{% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
+		
+		<!-- include open-graph.html w/ open moustache/percent-->
+
+		<!-- Webmaster Tools Verification -->
+		{% if site.owner.google.verify %}<meta name="google-site-verification" content="{{ site.owner.google.verify }}">{% endif %}
+
+		{% capture canonical %}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
+
+		<!-- CSS -->
+		<link rel="stylesheet" href="/assets/css/styles.css">
+		
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+	
+		<!--[if lt IE 9]>
+    	<script src="bower_components/html5shiv/dist/html5shiv.js"></script>
+    	<script src="_assets/js/vendor/respond.js"></script>
+		<![endif]-->
+
+		<!-- Scripts -->
+		<script src="/assets/js/vendor/modernizr.custom.34164.js"></script>
+		<!-- <script src="/assets/js/vendor/classie.js"></script>
+		<script src="/assets/js/vendor/nav.js"></script> -->
+
+		<!-- TYPEKIT -->
+		<script src="//use.typekit.net/gwl0zuj.js"></script>
+		<script>try{Typekit.load();}catch(e){}</script>
+
+		<!-- Icons [http://tinyurl.com/nf7m64p] -->
+
+
+	</head>

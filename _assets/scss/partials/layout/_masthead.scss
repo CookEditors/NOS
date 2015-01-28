@@ -1,0 +1,70 @@
+/* ==========================================================================
+   MASTHEAD..max width 960px, within header
+   ========================================================================== */
+
+/*==========  NO JS/SIMPLE BROWSER  ==========*/
+
+.masthead {
+	// border: 1px dotted red;
+	margin: 1rem;
+	@media screen and (min-width: 654px) {
+		text-align: center;
+	}
+	@media screen and (min-width: 60rem) {
+		text-align: left;
+		float: left;
+	}
+}
+
+// .logo_title {
+// 	border: 2px solid crimson;
+// 	// margin: 0 auto;
+// 	// text-align: center;
+// }
+
+.logo {
+	// border: 1px solid green;
+	margin-top: 0.55rem;
+	width: 200px;
+	@media screen and (min-width: 350px) {
+		width: 250px;
+	}
+}
+
+.title {
+	margin: 0;
+	padding: 0;
+	color: #fff;
+	font-family: $branding-font-family;
+	@extend .h1;
+	span {
+		color: $acolor;
+		display: block;
+		text-transform: uppercase;
+		@media screen and (min-width: 25.0625rem) {
+			display: inline;
+		}
+	}
+	@media screen and (min-width: 60rem) {
+		@extend .h2;
+	}
+}
+
+.tagline {
+	margin: 0;
+	padding: 0;
+	color: #fff;
+	font-family: $branding-font-family;
+	@extend .h4;
+	span {
+		display: block;
+		@media screen and (min-width: 25.0625rem) {
+			display: inline;
+		}
+	}
+	em {
+		color: $acolor;
+	}
+}
+
+

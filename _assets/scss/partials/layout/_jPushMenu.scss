@@ -1,0 +1,176 @@
+/*===========================================
+=            jquery jPushMenu css            =
+===========================================*/
+
+@media screen and (max-width: 653px) {
+
+    /* General styles for all menus */
+    .cbp-spmenu {
+        background-color: rgba($bgcolor, 0.98);
+        position: fixed;
+        height: 300px;
+        // border-left: 3px solid $acolor;
+        // border-right: 3px solid $acolor;
+    }
+
+    // .cbp-spmenu h3 {
+    //     color: #fff;
+    //     font-size: 1.9em;
+    //     padding: 10px;
+    //     margin: 0;
+    //     font-weight: 300;
+    //     background: $bgcolor;
+    // }
+
+    .cbp-spmenu a {
+        display: block;
+        color: #fff;
+        text-decoration: underline;
+        text-decoration-style: dotted;
+        // border-bottom: 1px dotted #fff;
+        // border-right: none;
+        // font-size: 0.75em;
+        font-weight: 300;
+        height: 55px;
+    }
+
+    .cbp-spmenu a:hover {
+        background: darken($acolor, 10%);
+    }
+
+    .cbp-spmenu a:active {
+        background: $acolor;
+        color: #fff;
+    }
+
+    /* Orientation-dependent styles for the content of the menu */
+    .cbp-spmenu-vertical {
+        width: 80%;
+        // height: 100%;
+        top: 0;
+        z-index: 1000;
+        overflow-y: scroll;
+    }
+
+    .cbp-spmenu-vertical a {
+        // border-bottom: 1px solid $acolor;
+        padding: 1em;
+    }
+
+    .cbp-spmenu-horizontal {
+        width: 50%;
+        height: 50px;
+        left: 0;
+        z-index: 1000;
+        overflow: hidden;
+    }
+
+    .cbp-spmenu-horizontal h3 {
+        height: 100%;
+        width: 20%;
+        float: left;
+    }
+
+    .cbp-spmenu-horizontal a {
+        float: left;
+        width: 20%;
+        padding: 0.8em;
+        // border-left: 1px solid $acolor;
+    }
+
+    /* Vertical menu that slides from the left or right */
+    .cbp-spmenu-left {
+        left: -80%;
+    }
+
+    .cbp-spmenu-right {
+        right: -80%;
+    }
+
+    .cbp-spmenu-left.menu-open {
+        left: 0px;
+    }
+
+    .cbp-spmenu-right.menu-open {
+        right: 0px;
+    }
+
+    /* Horizontal menu that slides from the top or bottom */
+
+    .cbp-spmenu-top {
+        top: -150px;
+    }
+
+    .cbp-spmenu-bottom {
+        bottom: -150px;
+    }
+
+    .cbp-spmenu-top.menu-open {
+        top: 0px;
+    }
+
+    .cbp-spmenu-bottom.menu-open {
+        bottom: 0px;
+    }
+
+    /* Push classes applied to the body */
+    .push-body {
+        overflow-x: hidden;
+        position: relative;
+        left: 0;
+    }
+
+    .push-body-toright {
+        left: 80%;
+    }
+
+    .push-body-toleft {
+        left: -80%;
+    }
+
+    /* Transitions */
+    .cbp-spmenu,
+    .push-body {
+        -webkit-transition: all 0.3s ease;
+           -moz-transition: all 0.3s ease;
+                transition: all 0.3s ease;
+    }
+
+    /* Example media queries */
+    // @media screen and (max-width: 55.1875em) {
+    //     .cbp-spmenu-horizontal {
+    //         font-size: 75%;
+    //         height: 110px;
+    //     }
+
+    //     .cbp-spmenu-top {
+    //         top: -110px;
+    //     }
+
+    //     .cbp-spmenu-bottom {
+    //         bottom: -110px;
+    //     }
+    // }
+
+    // @media screen and (max-height: 26.375em) {
+    //     .cbp-spmenu-vertical {
+    //         font-size: 90%;
+    //         width: 190px;
+    //     }
+
+    //     .cbp-spmenu-left,
+    //     .push-body-toleft {
+    //         left: -190px;
+    //     }
+
+    //     .cbp-spmenu-right {
+    //         right: -190px;
+    //     }
+
+    //     .push-body-toright {
+    //         left: 190px;
+    //     }
+    // }
+
+}
+/*-----  End of jquery jPushMenu css  ------*/

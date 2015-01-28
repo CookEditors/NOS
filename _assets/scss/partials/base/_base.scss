@@ -1,0 +1,109 @@
+* {
+	margin: 0;
+	padding: 0; 
+	outline: 0;
+	box-sizing: border-box;
+}
+
+*:before, *:after {
+	box-sizing: border-box;
+}
+
+@-ms-viewport{
+  width: device-width;
+}
+
+html {
+	box-sizing: border-box;
+	background-color: $bgcolor;
+}
+
+body, caption, th, td, input, textarea, select, option, legend, fieldset, h1, h2, h3, h4, h5, h6 {
+  font-size-adjust: 0.5;
+}
+
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	position: relative;
+	font-size: 100%; /* 1rem; ... equivalent to 16px */
+	line-height: 1.25rem; /* equivalent to 20px */
+	font-family: $base-font-family;
+	color: $pcolor;
+	background-color: white;
+}
+
+/**
+* .frame creates a max-width 960px/100% (mobile) area 
+* to center content on page while allowing background 
+* images/colors to be full width.
+**/
+.frame {
+	// border: 3px dashed purple;
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	max-width: 960px;
+	height: 100%;
+	margin: 0 auto;
+}
+
+.container {
+	top: 0px;
+	left: 0px;
+	height: 100%;
+	width: 100%;
+	max-width: 60rem;
+	margin: 0 auto;
+	padding: 0 3.125%; /* copied from AJ for cards; 3.125%=10px @ 320px width*/
+	@media screen and (min-width: 400px) and (max-width: 479px) {
+		padding: 0 5%;
+	}
+	@media screen and (min-width: 480px) and (max-width: 524px) {
+		padding: 0 10%;
+	}
+	@media screen and (min-width: 525px) and (max-width: 599px) {
+		padding: 0 15%;
+	}
+	@media screen and (min-width: 1200px ) {
+		padding: 0;
+	}
+}
+
+hr {
+  border: 0;
+  height: 2px;
+  background-image: url("/assets/img/hr.png");
+}
+
+code {
+	background-color: #ddd;
+	padding: 2px;
+}
+
+.highlight {
+	background-color: yellow;
+}
+
+a {
+	color: $acolor;
+	// font-variant: small-caps;
+	// letter-spacing: -3px;
+	&:hover {
+		color: lighten($acolor, 10%);
+		text-decoration: underline;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+

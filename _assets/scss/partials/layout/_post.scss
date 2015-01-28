@@ -1,0 +1,160 @@
+/* ==========================================================================
+   POST STYLE
+   ========================================================================== */
+
+.post {
+	// margin-top: 4rem;
+	margin: 2rem auto 0;
+	width: 100%;
+	max-width: 60rem;
+}
+
+.post__content {
+	background-color: #FFF;
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 0 1rem;
+	// border-left: 1px solid $acolor;
+	// border-right: 1px solid $acolor;
+}
+
+blockquote {
+	color: $acolor;
+	background-color: #FFF;
+	padding: 1rem;
+	border-top: 1px solid $acolor;
+	border-bottom: 1px solid $acolor;
+	border-left: none;
+	@media screen and (min-width: 500px) {
+		margin-left: -5rem;
+	}
+}
+
+.post__header {
+	// border: 2px solid green;
+	// font-family: $header-font-family;
+	margin: 0 auto 2rem auto;
+	max-width: 60rem;
+	width: 100%;
+}
+
+.post__title {
+	color: $acolor;
+	font-size: 3rem;
+	text-transform: uppercase;
+	padding: 0;
+	margin: 1rem 0 0 0;
+	@media screen and (min-width: 350px) {
+		font-size: 4rem;
+	}
+ 	@media screen and (min-width: 769px) {
+		font-size: 7rem;
+	}
+	// @media screen and (max-width: 768px) {
+	// 	font-size: 4rem;
+	// }
+}
+
+.titles {
+	// border: 2px solid blue;
+	text-align: right;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 300px;
+	@media screen and (min-width: 340px) {
+		max-width: 340px;
+	}
+	@media screen and (min-width: 600px) {
+		float: left;
+		padding: 0 0.5rem;
+		max-width: 430px;
+	}
+	@media screen and (min-width: 960px) {
+		padding: 0 1.25rem;
+		max-width: 640px;
+	}
+
+
+
+
+
+
+
+
+	// float: left;
+	// text-align: right;
+	// margin: 0 1rem;
+	// // padding-right: 2rem;
+	// max-width: 600px;
+	// @media screen and (max-width: 768px) {
+	// 	width: 100%;
+	// 	max-width: 300px;
+	// }
+}
+
+.post__author {
+	color: lighten($pcolor, 30%);
+	padding: 0;
+	margin: 0 0 1.5rem 0;
+}
+
+.post__img {
+	// border: 2px solid orange;
+	// width: 100%;
+	max-width: 320px;
+	height: auto;
+	// margin: 0 1rem 0.5rem 0;
+	margin: 0 auto;
+	@media screen and (min-width: 415px) {
+		padding-right: 1rem;
+		float: right;
+	}
+}
+
+.post__excerpt {
+	font-size: 2rem;
+	line-height: 1.25;
+	// text-align: center;
+	font-style: italic;
+}
+
+.firstpara {
+	font-size: 1.25rem;
+	line-height: 1.25;
+}
+
+.post__footer {
+	background-color: $acolor;
+	color: #fff;
+	width: 100%;
+	// max-width: 60rem;
+	// height: 300px;
+	// border: 2px solid $acolor;
+	margin: 0 auto;
+	padding: 2rem 0;
+	text-align: center;
+	ul li {
+		display: inline-block;
+		// border: 1px solid grey;
+		margin: 1rem 0 0 0;
+		padding: 1rem;
+	}
+	button {
+		color: #fff;
+	}
+}
+
+.post__download {
+	margin: 2rem 0;
+	
+}
+
+.post__share {
+
+}
+
+
+
+
+
+

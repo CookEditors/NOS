@@ -1,0 +1,40 @@
+/* ==========================================================================
+   TERMS
+   ========================================================================== */
+
+.terms {
+	border-top: 2px solid grey;
+	margin: 1rem auto;
+	padding: 1rem;
+	h2 {
+		@extend h1;
+		text-transform: uppercase;
+		text-align: center;
+		color: $acolor;
+	}
+	h3 {
+		// text-transform: capitalize;
+	}
+	p span {
+		color: red;
+		text-transform: uppercase;
+	}
+}
+
+.terms__header {
+	width: 100%;
+}
+
+.terms__content {
+	margin: 0 auto;
+	// max-width: 800px;
+}
+
+.terms__copy {
+	
+	@media screen and (min-width: 400px) {
+		float: left;
+		width: 50%;
+		text-align: right;
+	}
+}

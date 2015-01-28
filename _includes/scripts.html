@@ -1,0 +1,57 @@
+<!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/assets/js/scripts.min.js"></script> -->
+
+<!--load jQuery, required-->
+<script src="/assets/js/vendor/jquery-1.11.2.js"></script>
+<!--load jPushMenu, required-->
+<script src="/assets/js/vendor/jPushMenu.js"></script>
+
+<script src="/assets/js/vendor/slabtext.js"></script>
+
+<script src="/assets/js/vendor/scroll-on-page.js"></script>
+
+<!-- <script src="/assets/js/vendor/expandable-section.js"></script> -->
+
+
+<!--call jPushMenu, required-->
+<script>
+jQuery(document).ready(function($) {
+	$('.toggle-menu').jPushMenu();
+});
+</script>
+
+<!-- <script src="/assets/js/vendor/rwd.js"></script> -->
+
+<script>
+	$("h1").slabText({});
+</script>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+  var expanderTrigger = document.getElementById("js-expander-trigger");
+  var expanderContent = document.getElementById("js-expander-content");
+
+  $('#js-expander-trigger').click(function(){
+    $(this).toggleClass("expander-hidden");
+  });
+});
+</script>
+
+<script>
+
+		(function() {
+
+			var co = $('article').find('span.co').each(function() {
+				var $this = $(this);
+
+				$('<blockquote></blockquote>', {
+					class: 'co',
+					text: $this.text()
+				}).prependTo( $this.closest('p') );
+				
+			});
+
+		})();
+
+	</script>

@@ -1,0 +1,36 @@
+# Site settings
+title: Tales of Murder
+email: talesofmurderpress@gmail.com
+description: A murder mystery short story &amp; novel site.
+baseurl: "localhost:3000" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site ... change to "/NOS" for gh-pages
+twitter_username: talesofmurder
+github_username:  flaturtha
+locale: en_US
+
+paginate: 5
+
+# Site Owner
+# owner:
+# 	name: Rich Cook
+# 	avatar:
+# 	email: talesofmurderpress@gmail.com
+# 	google:
+# 		plus: talesofmurderpress
+# 		analytics: UA-42672955-1
+# 		verify:
+
+
+# Build settings
+permalink: /:categories/:title/
+markdown: kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

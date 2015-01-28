@@ -1,0 +1,40 @@
+/* ==========================================================================
+   POLICIES
+   ========================================================================== */
+
+.policies {
+	border-top: 2px solid grey;
+	margin: 1rem auto;
+	padding: 1rem;
+	h2 {
+		@extend h1;
+		text-transform: uppercase;
+		text-align: center;
+		color: $acolor;
+	}
+	h3 {
+		// text-transform: capitalize;
+	}
+	p span {
+		color: red;
+		text-transform: uppercase;
+	}
+}
+
+.policies__header {
+	width: 100%;
+}
+
+.policies__content {
+	margin: 0 auto;
+	// max-width: 800px;
+}
+
+.policies__copy {
+	
+	@media screen and (min-width: 400px) {
+		float: left;
+		width: 50%;
+		text-align: right;
+	}
+}

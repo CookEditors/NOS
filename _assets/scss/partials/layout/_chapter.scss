@@ -1,0 +1,42 @@
+/* ==========================================================================
+   CHAPTER STYLES
+   ========================================================================== */
+
+.chapternumber {
+	color: desaturate($acolor, 50%);
+	font-size: 1rem;
+	text-transform: uppercase;
+	// text-align: left;
+}
+
+.chaptertitle {
+	color: $acolor;
+	// font-size: 1rem;
+	// text-decoration: underline;
+	text-transform: uppercase;
+	margin-bottom: 1rem;
+	// text-align: center;
+}
+
+.btt {
+	text-align: right;
+	a {
+		color: rgba(139,0,0,0.65);
+	}
+}
+
+#theend {
+	font-family: $header-font-family;
+	font-size: 2rem;
+	text-transform: uppercase;
+	color: $acolor;
+	text-align: center;
+	margin: 2.5rem 0;
+}
+
+.break {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 0.75rem;
+}

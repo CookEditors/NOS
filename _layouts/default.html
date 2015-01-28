@@ -1,0 +1,19 @@
+{% include head.html %}
+
+<body {% if page.title %} id="{{ page.title }}"{% endif %} class="ipadBS">
+
+	{% include masthead.html %}
+	{% include navigation.html %}
+
+  <main class="main" roll="main">
+    <div class="content">
+    	{{ content }}
+    </div>
+
+  </main>
+
+  {% include footer.html %}
+
+  {% include scripts.html %}
+
+</body>

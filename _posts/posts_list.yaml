@@ -1,0 +1,46 @@
+---
+Short Stories:
+	-	title: The Man Who Was Seven
+		author: J. Frederic Thorne
+		wordcount: 13010
+		orig_publication: null
+		orig_issue: null
+		cover_image: null.svg
+
+	- title: The Long Arm of God
+		author: Ward Sterling
+		wordcount: 3686
+		orig_publication: The Black Mask
+		orig_issue: September 1920
+		cover_image: LAOG.svg
+
+	- title: The Choice
+		author: Eugene Guillaume
+		wordcount: 470
+		orig_publication: The Black Mask
+		orig_issue: September 1920
+
+	- title: Fingers from the Grave
+		author: Edwin Garty Ranck
+		wordcount: 3428
+		orig_publication: The Black Mask
+		orig_issue: September 1920
+
+	- title: The Man Who Would Not Die
+		author: Harold Ward
+		wordcount: 9444
+		orig_publication: The Black Mask
+		orig_issue: September 1920
+		cover_image: mannotdie-1.svg
+		images:
+			- mannodie-1.svg
+				mannodie-2.svg
+
+	- title: Daughter of Pigeon
+		author: Harry G. Hervey, Jr.
+		wordcount: 6395
+		orig_publication: The Black Mask
+		orig_issue: September 1920
+		cover_image: pigeon-1.svg
+
+...

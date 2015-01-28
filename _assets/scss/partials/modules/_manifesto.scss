@@ -1,0 +1,47 @@
+/* ==========================================================================
+   MANIFESTO
+   ========================================================================== */
+
+.manifesto {
+	border-top: 2px solid grey;
+	margin: 1rem auto;
+	padding: 1rem;
+	h2 {
+		@extend h1;
+		text-transform: uppercase;
+		text-align: center;
+		color: $acolor;
+		span {
+			font-size: 2rem;
+			color: $pcolor;
+		}
+	}
+	h3 {
+		// text-transform: capitalize;
+	}
+	p span {
+		color: $acolor;
+		text-transform: uppercase;
+		letter-spacing: 0.09375rem;
+		font-weight: bold;
+	}
+}
+
+.manifesto__header {
+	width: 100%;
+}
+
+.manifesto__content {
+	margin: 0 auto;
+	max-width: 800px;
+}
+
+.manifesto__copy {
+	
+	@media screen and (min-width: 400px) {
+		float: left;
+		width: 50%;
+		text-align: right;
+	}
+}
+

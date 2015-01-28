@@ -1,0 +1,48 @@
+/* ==========================================================================
+   BOOK CATALOG
+   ========================================================================== */
+
+.bookcatalog {
+
+}
+
+.bc__header {
+	h2 {
+		color: $acolor;
+		@extend .h1;
+	}
+}
+
+.bc__notify {
+	// margin: 2rem auto;
+}
+
+.bc__list {
+	// margin: 0 auto;
+	// border: 2px solid yellow;
+}
+
+.bc__book {
+	padding: 1rem;
+}
+
+.bc__title {
+	font-size: 1.15rem;
+	text-transform: uppercase;
+	color: $acolor;
+}
+
+.bc__author {
+	font-size: 1rem;
+	color: $pcolor;
+}
+
+.bc__notify-form {
+	// border-top: 1px solid $pcolor;
+	margin: 1rem;
+	@media screen and (min-width: 400px) {
+		// float: right;
+		width: 50%;
+		max-width: 320px;
+	}
+}
