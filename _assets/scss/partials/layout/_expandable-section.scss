@@ -12,6 +12,8 @@
 
   border-bottom: 1px solid $acolor;
 
+  // background-color: green;
+
 
   p {
     line-height: $base-line-height;
@@ -76,10 +78,9 @@
 }
 
 .expander-content {
-  background-color: #ddd;
-  border: 1px solid $acolor;
+  // background-color: #ddd;
+  // border: 1px solid $acolor;
   border-bottom: none;
-  padding: 1rem;
 }
 
 .expander__question, .expander__answer {
@@ -87,7 +88,17 @@
   color: $acolor;
 }
 
+.expander__answer {
+  background-color: #ddd;
+  border: 1px solid $acolor;
+  padding: 0.5rem;
+  margin-bottom: 2rem;
+}
 
+.answer {
+  color: $pcolor;
+  font-weight: normal;
+}
 
 
 

@@ -76,3 +76,10 @@ The physician stared at him &hellip; turned and re-entered the room.
 
 <p id="theend">~ The End ~
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+{% assign story_title = {{ page.title }} %}
+
+
+
+
+

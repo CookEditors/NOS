@@ -28,7 +28,7 @@ module.exports = function(grunt) {
 		// CONCAT JS
 		concat: {
 			options: {
-				separator: '\n;\n',
+				separator: '\n\n\n',
 				stripBanners: true,
 				// banner: '<%= tag.banner %>'
 			},

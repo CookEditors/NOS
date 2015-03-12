@@ -1,0 +1,22 @@
+  <div class="socialmediashare clearfix">
+
+  	<!-- <h2>Share the thrill of<br><span>{{ page.title }}</span></h2> -->
+  	<h3>Thrill your&nbsp;friends&nbsp;with<br><span>{{ page.title }}</span></h3>
+		<div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button"></div>
+
+		<div class="twitter-share-button">
+			<a class="twitter-share-button" href="https://twitter.com/share" data-count="none">
+			Tweet
+			</a>
+			<script>
+			window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
+			</script>
+		</div>
+
+		<div class="email-share-button">
+			<a href="mailto:?subject=I wanted you to see this site&amp;body=I just read a great murder mystery short story on TalesofMurder.com. Check out <span>{{ page.title }}</span>"
+			title="Share by Email">
+		  <img src="http://png-2.findicons.com/files/icons/573/must_have/48/mail.png"></a>
+		</div>
+
+  </div> <!-- end div socialmediashare -->

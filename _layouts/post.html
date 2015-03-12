@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="post ">
+<div class="post">
 
   <header class="post__header clearfix">
 
@@ -15,8 +15,23 @@ layout: default
 		</div>
   </header>
 
+	<!-- insert download teaser div -->
+
+	<div class="cu-tease">
+
+		<!-- <p><strong>NOTE&#058;</strong> You can bookmark <a href="#"><strong>{{ page.title }}</strong></a> for later reading, download a copy for your favorite ereader (<em>Kindle, iBooks, etc.</em>) for offline reading or sharing with a friend. Look for the <span>Bookmark</span>, <span>Share</span>, &amp; <span>Download</span> buttons below this story.</p> --> 
+		
+		<p><strong>PSST! Hey, buddy &hellip;</strong> did'ya know you can download <a href="#"><strong>{{ page.title }}</strong></a> for any ereader device (<em>Kindle, iBooks, etc.</em>) or as PDF &hellip; perfect for reading when you're not online but have time to kill! <strong>Look for the <span>Share</span>> &amp; <span>Download</span> buttons at the end of this story.</strong></p>
+	
+	</div>
+
  	<article class="post__content">
   	{{ content }}
   </article>
 
-</div>
+	<!-- <hr> -->
+
+  <!-- include: (1) social media share; (2) content upgrade -->
+	{% include ssactions.html %}
+
+</div> <!-- end of div post -->

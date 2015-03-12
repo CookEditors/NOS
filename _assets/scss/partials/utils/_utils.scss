@@ -23,3 +23,38 @@
   margin: 0 auto;
   padding: 0 1rem;
 }
+
+.hangingindent {
+  padding-left: 1.375rem;
+  text-indent: -1.375rem;
+}
+
+.px600 {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.specialnote {
+  font-style: italic;
+  max-width: 85%;
+  margin: 0 auto;
+}
+
+.progbar {
+  margin-top: 1rem;
+}
+
+.redbutton {
+  text-align: center;
+  background-color: $acolor;
+  color: #fff;
+  @include button(flat, $base-accent-color);
+  
+}
+
+
+
+
+
+
+

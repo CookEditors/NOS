@@ -1,0 +1,175 @@
+/* ==========================================================================
+   POST SHORT STORY ACTIONS - Bookmark, Share, Download, Embed, Read More
+   ========================================================================== */
+
+/* VARIABLES */
+
+$button-font: sans-serif;
+$iconsize: 1rem;
+
+
+.ssactions {
+	// display: none; /* comment out once sharing is ready */
+	// border-top: 1px solid $acolor;
+	// border-bottom: 1px solid $acolor;
+	// border: 1px solid $acolor;
+	max-width: 600px;
+	width: 95%;
+	padding: 0 1rem 2.35rem 1rem;
+	margin: 2rem auto 0 auto;
+	text-align: center;
+	margin-bottom: 2rem;
+	a {
+		text-decoration: none;
+	}
+}
+
+
+.ssactions__buttontext {
+	color: $acolor;
+	font-family: $button-font;
+	font-size: small;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.ssactions__button {
+	padding: 0;
+	// border: 0;
+	background: transparent;
+	color: #ccc;
+	span {
+		display: block;
+	}
+	position: relative;
+	text-align: center;
+	background-color: transparent;
+	width: 40px;
+	height: 40px;
+	border: 1px solid #ccc;
+	border-radius: 50%;
+	margin: 0 0.75rem;
+	@media screen and (min-width: 30rem) {
+		margin: 0 3rem;
+	}
+	&:hover, &:active, &:visited {
+		color: $acolor;
+		border-color: $acolor;
+		.icon, .label {
+			color: darken($acolor, 10);
+		}
+		.ssactions__buttontext {
+			color: #ccc;
+		}
+	}
+}
+
+.ssactions__button__link {
+	margin-left: 0.75rem;
+}
+
+.icon {
+	position: absolute;
+	top: 28%;
+	left: 30%;
+	font-size: $iconsize;
+	color: #ccc;
+	width: $iconsize;
+	text-align: center;
+	line-height: $iconsize;
+	background: transparent;
+}
+
+.label {
+	position: absolute;
+	top: 45px;
+	left: -10px;
+	font-size: small;
+	color: #aaa;
+	cursor: pointer;
+	
+}
+
+.label__share {
+	position: absolute;
+	top: 45px;
+	left: 0;
+	font-size: small;
+	color: #aaa;
+	cursor: pointer;
+	}
+
+// .label__top {
+// 	position: absolute;
+// 	top: -1.5rem;
+// }
+
+#bookmark, #embed  {
+	display: none;
+	/* when ready, comment out display & remove comment tags around these buttons in ssactions.html */
+}
+
+#share {
+	.icon {
+		left: 27%;
+	}
+}
+
+
+.smactions {
+	margin-left: 0.5rem;
+	a {
+		display: block;
+		text-decoration: none;
+		color: $pcolor;
+		text-align: left;
+		&:hover {
+			color: $acolor;
+		}
+	}
+}
+
+.smactions__list {
+
+}
+
+.smactions__list__item {
+	i {
+		// margin-right: 1.5rem;
+	}
+}
+
+.buttondiv {
+	border: 1px solid orange;
+	display: inline;
+	width: 1000px;
+	height: 100px;
+	margin: 1rem;
+	padding: 0;
+}
+
+span.data-title {
+	border: 1px solid orange;
+	display: inline;
+}
+
+span.data-title:after {
+	content: attr(data-title);
+	font-size: 1rem;
+	color: orange;
+}
+
+.test {
+	display: inline-block;
+}
+
+.test:after {
+	content: attr(data-content);
+}
+
+
+
+
+
+
+

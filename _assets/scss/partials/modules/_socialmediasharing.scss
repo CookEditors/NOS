@@ -1,0 +1,130 @@
+/* ==========================================================================
+   SOCIAL MEDIA SHARING
+   ========================================================================== */
+
+.socialmediashare {
+	// display: none; /* comment out once sharing is ready */
+	// border-top: 1px solid $acolor;
+	max-width: 600px;
+	width: 90%;
+	padding: 1rem 1rem 3rem 1rem;
+	margin: 0 auto;
+	text-align: center;
+	margin-bottom: 2rem;
+}
+
+button {
+	$border-radius: 40px;
+	background-color: #fff;
+	color: #bbb;
+	width: $border-radius;
+	height: $border-radius;
+	border: 1px solid #bbb;
+	border-radius: 50%;
+	&:hover {
+		color: $acolor;
+		border-color: $acolor;
+	}
+}
+
+span[data-icon]:before {
+		font-family: "FontAwesome";
+		content: attr(data-icon);
+	}
+
+.smButton {
+	// $border-radius: 40px;
+	// display: inline;
+	position: relative;
+	margin: 0 auto;
+	text-align: center;
+	// width: $border-radius;
+	// height: $border-radius;
+	// border: 1px solid #bbb;
+	// border-radius: 50%;
+	background-color: #FFF;
+	margin: 2rem 5rem 0 0;
+	&:last-of-type {
+		margin: 2rem 0 0 0;
+	}
+	&:hover {
+		border: 1px solid $acolor;
+		// background-color: #FFF;
+		color: $acolor;
+	}
+	&:after {
+		content: "Bookmark";
+		// display: block;
+		font-size: small;
+	}
+}
+
+.sm {
+	background-color: #fff;
+	&:hover {
+		color: $acolor;
+	}
+}
+
+span[data-icon]:before {
+	font-family: 'FontAwesome';
+	content: attr(data-icon);
+	font-size: 1rem;
+	color: #bbb;
+	position: absolute;
+	top: 28%;
+	left: 35%;
+	&:hover {
+		color: $acolor;
+	}
+}
+
+
+.label {
+	position: absolute;
+	top: $border-radius + 5px;
+	left: -10px;
+	// text-align: center;
+	font-size: small;
+	color: #aaa;
+	&:hover {
+		color: $acolor;
+	}
+}
+
+
+
+.icon {
+	position: absolute;
+	top: 28%;
+	left: 30%;
+	color: #aaa;
+	// text-align: center;
+	// margin: 0;
+	// padding: 0;
+	&:hover {
+		color: $acolor;
+	}
+}
+
+#download {
+	border-color: $acolor;
+	.icon, .label {
+		color: $acolor;
+	}
+	// .label {
+	// 	left: 0;
+	// }
+}
+
+#embed {
+	.label {
+		left: -4px;
+	}
+}
+
+#share {
+	.label {
+		left: 0;
+	}
+}

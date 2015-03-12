@@ -1,0 +1,92 @@
+/* ==========================================================================
+   DOWNLOAD
+   ========================================================================== */
+
+.download {
+	// border-top: 2px solid grey;
+	// margin: 1rem auto;
+	// padding: 1rem;
+	h2 {
+		text-transform: uppercase;
+		text-align: left;
+		color: $acolor;
+	}
+	h3 {
+		text-transform: uppercase;
+		text-align: left;
+		color: $acolor;
+	}
+	p.teaser {
+		// text-transform: uppercase;
+		font-style: italic;
+		letter-spacing: 0.09375rem;
+		font-weight: bold;
+		max-width: 600px;
+		margin: 1rem auto;
+		span {
+			color: $acolor;
+		}
+	}
+	a {
+		text-decoration: none;
+	}
+}
+
+.intro {
+	// border-top-image: url("/assets/img/hr.png");
+	// border-image: url("/assets/img/hr.png");
+	max-width: 650px;
+	margin: 0 auto;
+}
+
+.downloads {
+	text-align: center;
+	margin-bottom: 4rem;
+}
+
+.MB__sample-img {
+	float: left;
+	padding-right: 1rem;
+	// margin-bottom: 2rem;
+	height: 200px;
+	width: auto;
+}
+
+.epub3 {
+	background-image: url("assets/img/e3-icon.png");
+}
+
+#Kindle__download {
+	.label {
+		left: 0;
+	}
+}
+
+#epub3__download {
+	.label {
+		left: -7px;
+	}
+}
+
+#PDF__download {
+	.label {
+		left: 8px;
+	}
+}
+
+.kindleicon {
+	font-size: 0.85rem;
+}
+
+.epubicon {
+	@extend .kindleicon;
+	@include transform(rotate(-30deg));
+}
+
+.fa-stack-15x {
+	font-size: 5rem;
+}
+
+
+
+

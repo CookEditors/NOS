@@ -1,0 +1,86 @@
+---
+layout: default
+title: download
+---
+
+<!-- One overall download template OR a WG-freebie and general download templates? -->
+
+<div class="download clearfix">
+  <section class="herounit">
+    <div class="container">
+
+      <h1 class="h1 herounit__headline"><span class="slabtext">Download</span><span class="slabtext"><script type="text/javascript">formData.display("story_title")</script></span></h1>
+
+    </div> <!-- end div container -->
+  </section> <!-- end section herounit -->
+
+  <section class="page-intro">
+    <div class="container">
+      <p>Step 1&#058; Choose your preferred format<br>(Kindle, ePub 3.0, PDF)</p>
+      <p>Step 2&#058; Click the appropriate button below&nbsp;the&nbsp;description.</p>
+
+      <section class="yamllist">
+        <ul>
+          <li><script type="text/javascript">formData.display("story_title")</script></li>
+          <li><script type="text/javascript">formData.display("story_author")</script></li>
+          <li><script type="text/javascript">formData.display("story_excerpt")</script></li>
+          <li><script type="text/javascript">formData.display("story_image")</script></li>
+          <li><script type="text/javascript">formData.display("story_categories")</script></li>
+          <li><script type="text/javascript">formData.display("story_genre")</script></li>
+          <li><script type="text/javascript">formData.display("story_orig_publication")</script></li>
+          <li><script type="text/javascript">formData.display("story_orig_issue")</script></li>
+          <li><script type="text/javascript">formData.display("story_timetoread")</script></li>
+          <li><script type="text/javascript">formData.display("story_wordcount")</script></li>
+        </ul>
+      </section>
+
+    </div> <!-- end div container -->
+  </section>
+
+  <section class="intro">
+    <div class="container">
+      <div class="px600">
+        <hr>
+      </div>
+      <img class="MB__sample-img" src="{{ site.url }}<script type="text/javascript">formData.display("story_image")</script>" alt="cover image for <script type="text/javascript">formData.display("story_title")</script>">
+      <h2><script type="text/javascript">formData.display("story_title")</script></h2>
+      <h3><script type="text/javascript">formData.display("story_author")</script></h3>
+      <p class="teaser"><script type="text/javascript">formData.display("story_excerpt")</script></p>
+      <div class="px600">
+        <hr>
+      </div>
+    </div> <!-- end div container -->
+  </section> <!-- end section intro -->
+
+
+  <section class="downloads">
+    <div class="container">
+      <a href="#kindle" class="ssactions__button__link">
+        <button class="ssactions__button" id="Kindle__download" type="button" label="Kindle version">
+          <span class="icon"><i class="fa fa-file-o fa-lg"><strong class="fa-stack-1x kindleicon">a</strong></i></span>
+          <span class="label">Kindle</span>
+        </button>
+      </a>
+
+      <a href="#epub" class="ssactions__button__link">
+        <button class="ssactions__button" id="epub3__download" type="button" label="ePub3 version">
+          <span class="icon"><i class="fa fa-file-o fa-lg"></i><strong class="fa-stack-1x epubicon">e</strong></span>
+          <span class="label">ePub 3.0</span>
+        </button>
+      </a>
+
+      <a href="#pdf" class="ssactions__button__link">
+        <button class="ssactions__button" id="PDF__download" type="button" label="PDF version">
+          <span class="icon"><i class="fa fa-file-pdf-o fa-lg"></i></span>
+          <span class="label">PDF</span>
+        </button>
+      </a>
+    </div> <!-- end div container -->
+  </section> <!-- end of section downloads -->
+
+  <!-- include download-instructions.html -->
+
+  {{ story_title }}
+
+
+</div> <!-- end div download -->

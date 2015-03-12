@@ -1,0 +1,72 @@
+/* ==========================================================================
+   WELCOME GATE SALES LETTER
+   ========================================================================== */
+
+.salesletter {
+	// border: 2px dotted green;
+	// max-width: 35rem;
+	margin: 0 auto;
+	h2 {
+		@extend .squeeze__tagline;
+		margin-bottom: 2rem;
+	}
+	h3 {
+		@extend .squeeze__byline;
+		// margin-bottom: 0.25rem;
+		// padding: 0;
+		// text-align: left;
+	}
+	p {
+		em {
+			color: $acolor;
+		}
+		&:first-of-type:first-line {
+			color: $acolor;
+			font-size: 1.25rem;
+		}
+	}
+	i {
+		color: $acolor;
+	}
+}
+
+.salesletter__storylist {
+	margin: 0 auto;
+	max-width: 35rem;
+	li {
+		color: lighten($pcolor, 25);
+		padding-bottom: 1rem;
+		@media screen and (min-width: 30rem) {
+			margin-left: 6rem;
+		}
+		font-weight: bold;
+		em {
+			color: $acolor;
+		}
+		// span {
+		// 	display: block;
+		// 	@media screen and (min-width: 30rem) {
+		// 		display: inline;
+		// 	}
+		// }
+	}
+}
+
+.salesletter__murderbook, .salesletter__doyou {
+ 	@extend .salesletter__storylist;
+ 	li {
+ 	@media screen and (min-width: 30rem) {
+ 		margin-left: 0;
+	 	}
+ 	}
+ }
+
+.salesletter p:first-of-type:first-line {
+	color: $acolor;
+	font-size: 1.25rem;
+}
+
+.storytitle {
+	text-transform: uppercase;
+	color: $acolor;
+}

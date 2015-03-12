@@ -1,0 +1,93 @@
+<div class="ssactions">
+
+
+<!-- SOCIAL MEDIA SHARE BUTTON & POPUP/TOOLTIP -->
+	<div class="tooltip-item">
+		<button class="ssactions__button" id="share" type="button">
+			<span class="icon"><i class="fa fa-share-alt"></i></span>
+			<span class="label label__share">Share</span>
+			<div class="tooltip smactions">
+				<ul class="smactions__list">
+					<li class="smactions__list__item">
+					<a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank"><i class="fa fa-facebook-square fa-fw"></i>&nbsp; Share on Facebook</a>
+					</li>
+
+					<li class="smactions__list__item">
+						<a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&hellip;{{ page.excerpt }}&via=talesofmurder" target="_blank"><i class="fa fa-twitter fa-fw"></i>&nbsp; Share on Twitter</a>
+					</li>
+					<li class="smactions__list__item">
+						<a href="#"><i class="fa fa-clipboard fa-fw"></i>&nbsp; Embed URL</a>
+					</li>
+				</ul>
+			</div>
+		</button>
+	</div>
+
+
+
+<!-- DOWNLOAD THIS SHORT STORY BUTTON -->
+	<a href="#openModal" class="ssactions__button__link">
+		<button class="ssactions__button" id="download" type="button">
+			<span class="icon"><i class="fa fa-cloud-download"></i></span>
+			<span class="label">Download</span>
+		</button>
+	</a>
+
+	<div id="openModal" class="modalDialog">
+    <div class="modal-inner">
+    	<a href="#close" title="Close" class="close">X</a>
+			
+			<img class="progbar" src="/assets/img/Animated_Progress_Bar.gif" alt="animated 50% complete progress bar">
+			<h2 class="modalh2">Download your copy of </h2>
+			<h3 class="modalh3">{{ page.title }}</h3>
+
+			<div class="emailbox">
+				{% include ss-form.html %}
+				<p class="small"><br><i class="fa fa-lock"></i>&nbsp;Your email is securely locked away from prying eyes.<br>I NEVER sell out your <a href="{{ site.url }}/about/#policies" style="color:#fff;text-decoration:underline;">privacy</a>.<br><br><em>For entertainment purposes only.</em></p>
+			</div> <!-- end div emailbox -->
+
+    </div> <!-- end div moodal-inner -->
+	</div> <!-- end div openModal -->
+	
+<!-- TESTING LIQUID VARIABLES -->
+
+
+<!-- 
+<a href="/downloads/murderbook/?title='{{ page.title }}'" class="ssactions__button__link" data-title="{{ page.title }}">
+		<button class="ssactions__button" id="readmore" type="button" label="Choose Another Short Story">
+			<span class="icon"><i class="fa fa-user-secret"></i></span>
+			<span class="label">Download</span>
+		</button>
+	</a>
+ -->
+
+
+
+
+
+<!-- READ MORE SHORT STORIES BUTTON -->
+	<a href="/short-stories/#page-intro" class="ssactions__button__link">
+		<button class="ssactions__button" id="readmore" type="button" label="Choose Another Short Story">
+			<span class="icon"><i class="fa fa-book"></i></span>
+			<span class="label">Read More</span>
+		</button>
+	</a>
+
+</div> <!-- end div ssactions -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

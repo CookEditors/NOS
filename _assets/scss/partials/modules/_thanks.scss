@@ -1,0 +1,27 @@
+/* ==========================================================================
+   THANKS
+   ========================================================================== */
+
+.thanks {
+	.page-intro > .container {
+		max-width: 960px;
+		margin-top: 1rem;
+	}
+	h3, h4 {
+		color: $acolor;
+	}
+}
+
+.thanks__instructions {
+	margin: 3rem 4rem;
+}
+
+
+.thanks .hangingindent {
+  padding-left: 2.75rem;
+  text-indent: -2.75rem;
+}
+
+.checknow {
+	margin: 2rem;
+}

@@ -25,10 +25,15 @@
 		letter-spacing: 0.09375rem;
 		font-weight: bold;
 	}
+	label span {
+		font-size: small;
+	}
+	
 }
 
 .manifesto__header {
 	width: 100%;
+
 }
 
 .manifesto__content {
@@ -44,4 +49,11 @@
 		text-align: right;
 	}
 }
+
+
+.fa-lock {
+		color: $acolor;
+	}
+
+
 
