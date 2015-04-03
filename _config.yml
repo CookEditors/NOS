@@ -8,6 +8,10 @@ twitter_username: talesofmurder
 github_username:  flaturtha
 locale: en_US
 
+# Read Time is a calculator to provide post Estimated Reading Time (ERT) based on word count. Usage is recommended.
+readtime: true
+wpm: 200
+
 paginate: 5
 
 # Site Owner

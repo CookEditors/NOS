@@ -2,11 +2,11 @@
 	margin: 0;
 	padding: 0; 
 	outline: 0;
-	box-sizing: border-box;
+	box-sizing: border-box !important;
 }
 
 *:before, *:after {
-	box-sizing: border-box;
+	box-sizing: inherit;
 }
 
 @-ms-viewport{
@@ -14,7 +14,7 @@
 }
 
 html {
-	box-sizing: border-box;
+	box-sizing: border-box !important;
 	background-color: $bgcolor;
 }
 

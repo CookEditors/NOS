@@ -11,7 +11,7 @@
 @import 'partials/vendor/neat/neat';
 @import 'partials/vendor/base/base';
 @import 'partials/vendor/aweber/wg-form';
-
+@import 'partials/vendor/flickclockjs/flipclock';
 
 
 
@@ -39,6 +39,10 @@
 @import 'partials/modules/ssactions';
 @import 'partials/modules/download';
 @import 'partials/modules/thanks';
+@import 'partials/modules/fadein';
+@import 'partials/modules/userreg';
+@import 'partials/modules/panel';
+
 
 /*==========  LAYOUT  ==========*/
 // @import 'partials/layout/test';

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: post_combo
+layoutTag: post
 title: "The Long Arm of God"
 author: Ward Sterling
 date: 2015-01-21

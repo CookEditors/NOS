@@ -1,5 +1,14 @@
 <ul class="cards">
 	{% for post in site.posts %}
+
+		<!-- README IF STATEMENT -->
+	  {% if site.readtime %}
+		  {% if site.wpm %}
+	  	  {% assign readtime = post.wordcount | divided_by:site.wpm %}
+	  	{% else %}
+	    	{% assign readtime = post.wordcount | divided_by:180 %}
+	  	{% endif %}
+		{% endif %}
 	
 	<!-- <a href="{{ post.url }}"> -->
 		<li class="card">
@@ -18,7 +27,17 @@
 
 			<p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ post.url }}" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
 
-			<p class="meta">{{ post.wordcount }} words | {{ post.timetoread }} min read</p>
+			<p class="meta">{{ post.wordcount | thousands_separated }} words | {% if site.readtime %}
+				{% if readtime > 60 %}
+				{% assign readtime_hours = readtime | divided_by: 60 %}
+				{% assign readtime_minutes = readtime | modulo:60 %}
+					{% if readtime_hours > 1 and readtime_hours < 2 %}1 hour
+					{% else %}<span class="hour">{{ readtime_hours }}</span> hr
+					{% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} <span class="time">{{ readtime_minutes }}</span> min{% endif %}
+				{% else %}
+					{% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> min {% endif %}{% endif %}
+				{% endif %}
+			</p>
 
 		</li>
 	<!-- </a> -->

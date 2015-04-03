@@ -4,12 +4,19 @@
 
 <!--load jQuery, required-->
 <script src="/assets/js/vendor/jquery-1.11.2.js"></script>
+
+<script src="/assets/js/vendor/jquery-ui.min.js"></script>
+
 <!--load jPushMenu, required-->
 <script src="/assets/js/vendor/jPushMenu.js"></script>
 
 <script src="/assets/js/vendor/slabtext.js"></script>
 
 <script src="/assets/js/vendor/scroll-on-page.js"></script>
+
+<script src="/assets/js/vendor/store.js"></script>
+
+<script src="/assets/js/vendor/flipclock.min.js"></script>
 
 <!-- <script src="/assets/js/vendor/expandable-section.js"></script> -->
 
@@ -54,4 +61,124 @@ jQuery(document).ready(function($) {
 
 		})();
 
-	</script>
+</script>
+
+
+
+
+<script>
+function regExpand() {
+  console.log("button works!")
+}
+</script>
+
+
+<script> 
+$(document).ready(function(){
+    $("#register__button").click(function(){
+        $("#panel").slideDown("5000", "easeOutBounce");
+    });
+});
+</script>
+
+
+<script type='text/javascript'>
+  $(document).ready(function() {
+    $(".time").text(function (index, value) {
+      return Math.round(parseFloat(value));
+    });
+    $(".hour").text(function (index, value) {
+      return Math.floor(parseFloat(value));
+    });
+  });
+</script>
+
+<!-- <script>
+	$(document).ready(function() {
+		if (!window.localStorage) {
+			alert('UPGRADE YOUR FREAKING BROWSER, MORON!');
+		} else {
+			$("#regForm").submit(function(){
+				setAllItems();
+			});
+		}
+	});
+
+	var setAllItems = function () {
+
+		var newDate, itemId, formSave;
+
+		newDate = new Date();
+		itemId = newDate.getTime();
+		registered = true;
+		formSave = {
+			email: $("input[name='email']").val(),
+			storyId: $("input[name='storyId']").val(),
+			registered: true
+		};
+
+		localStorage.setItem(itemId, JSON.stringify(formSave));
+
+	};
+
+</script> -->
+
+<!-- <script>
+	
+	$(document).ready(function() {
+		localStorage.setItem('registered', 'true')
+	});
+
+</script> -->
+
+<!-- SET LOCAL STORAGE -->
+<script>
+	
+	$(document).ready(function() {
+
+		init()
+
+		function init() {
+			if (!store.enabled) {
+				alert('Local storage is not supported by your browser. Please disable "Private Mode" to continue, or upgrade your browser.')
+				return
+			}
+			$("#regSubmit").click(function() {
+				// e.preventDefault();
+				store.set('registered', true)	
+			})
+		};
+	})
+
+</script>
+
+<!-- CHECK LOCAL STORAGE -->
+<script>
+	
+	$(document).ready(function() {
+		if ($("#thepost").hasClass("premium_post")) {
+			console.log("Premium Post")
+			
+			if (!store.get('registered')) {
+				console.log('UNREGISTERED User');
+				$(".pc-tease").removeClass("hidden");
+				$(".cu-tease").hide();
+				$(".ssactions").hide();
+
+				$(".read-more").removeClass("hidden");
+				$("#thepost").addClass("notreg")
+			}
+			else {
+				console.log('REGISTERED User')
+			}
+		}
+		else { 
+			console.log("Post")
+		}
+	}) 
+
+</script>
+
+
+
+

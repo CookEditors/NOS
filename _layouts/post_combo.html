@@ -12,18 +12,18 @@ layout: default
     	{% assign readtime = page.wordcount | divided_by:180 %}
   	{% endif %}
 	{% endif %}
-			
+
 		<div class="clearfix">
 	  	<div class="titles" id="top">
 				<h2 class="post__title">{{ page.title }}</h2>
-				<h2 class="post__excerpt">{{ page.excerpt }}</h2>
+				<h2 class="post__excerpt">{{ page.excerpt }}</h4>
 				<h3 class="post__author">By <strong>{{ page.author }}</strong></h3>
 			</div>
 			<div class="post__img">
 				<img src="{{ page.image }}" alt="{{ post.title }}">
 			</div>
-		</div>	
-		
+		</div>
+
 		<div class="post__meta">
 			<p>word count: {{ page.wordcount | thousands_separated }}</p>
 			<p>time to read:
@@ -42,23 +42,27 @@ layout: default
 
   </header>
 
-  <!-- insert download teaser div -->
+	<!-- show either div.pc-tease OR div.cu-tease:
+	(1) if normal post, then show div.cu-tease,
+	(2) if premium post && localStorage[registered=true], then show div.cu-tease,
+	(3) if premium post && !localStorage[registered=true], then show div.pc-tease && include/show readmore.html 
+	-->
 
-	<div class="cu-tease">
-
-		<!-- <p><strong>NOTE&#058;</strong> You can bookmark <a href="#"><strong>{{ page.title }}</strong></a> for later reading, download a copy for your favorite ereader (<em>Kindle, iBooks, etc.</em>) for offline reading or sharing with a friend. Look for the <span>Bookmark</span>, <span>Share</span>, &amp; <span>Download</span> buttons below this story.</p> --> 
+	<div class="pc-tease hidden">
+		<h4><i class="fa fa-sign-in"></i>&nbsp;PREMIUM CONTENT</h4>
+		<h5>REGISTERED USERS ONLY</h5>
+		<p>Enjoy an online sample of <span>{{ page.title }}</span>. To read the full story, just register with a valid email address. You'll also be able to download either a PDF, Kindle or ePub version. Full details below the sample.</p>
+	</div> <!-- end div pc-tease -->
 		
+	<div class="cu-tease">
 		<p><strong>PSST! Hey, buddy &hellip;</strong> did'ya know you can download <a href="#"><strong>{{ page.title }}</strong></a> for any ereader device (<em>Kindle, iBooks, etc.</em>) or as PDF &hellip; perfect for reading when you're not online but have time to kill! <strong>Look for the <span>Share</span>> &amp; <span>Download</span> buttons at the end of this story.</strong></p>
-	
-	</div>
+	</div> <!-- end div cu-tease -->
 
- 	<article class="post__content">
+ 	<article class="post__content" id="resize">
   	{{ content }}
+  	{% include readmore.html %}
   </article>
 
-	<!-- <hr> -->
-
-  <!-- include: (1) social media share; (2) content upgrade -->
 	{% include ssactions.html %}
 
 </div> <!-- end of div post -->
