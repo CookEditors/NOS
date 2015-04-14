@@ -1,0 +1,23 @@
+/* ==========================================================================
+   WELCOME GATE FORM STYLES
+   ========================================================================== */
+
+.wg_signupform {
+	label {
+		color: #fff;
+		padding-top: 1rem;
+		text-align: left;
+	}
+
+	.button:link, .button:active, .button:visited, .button, .button span {
+		background-color: #1ec279 !important;
+		color: #fff !important;
+	}
+
+	.button:hover {
+		background-color: #00a968 !important;
+		color: #fff !important;
+	}
+
+}
+

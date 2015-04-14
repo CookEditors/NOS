@@ -1456,6 +1456,20 @@ dl {
     margin-bottom: 0; }
 
 /* ==========================================================================
+   WELCOME GATE FORM STYLES
+   ========================================================================== */
+.wg_signupform label {
+  color: #fff;
+  padding-top: 1rem;
+  text-align: left; }
+.wg_signupform .button:link, .wg_signupform .button:active, .wg_signupform .button:visited, .wg_signupform .button, .wg_signupform .button span {
+  background-color: #1ec279 !important;
+  color: #fff !important; }
+.wg_signupform .button:hover {
+  background-color: #00a968 !important;
+  color: #fff !important; }
+
+/* ==========================================================================
    CARD MODULE
    ========================================================================== */
 .cards {
@@ -2024,14 +2038,73 @@ span.data-title:after {
   color: #8B0000; }
 
 .thanks__instructions {
-  margin: 3rem 4rem; }
+  margin: 3rem auto;
+  width: 800px;
+  max-width: 90%; }
 
-.thanks .hangingindent {
-  padding-left: 2.75rem;
-  text-indent: -2.75rem; }
+h2.huge {
+  font-weight: bold;
+  font-size: 3rem;
+  color: #8B0000;
+  text-transform: uppercase; }
+
+.smallprint {
+  background-color: lightyellow;
+  color: #000;
+  font-size: 0.8rem;
+  margin: 2rem 2rem 0 2rem;
+  padding: 1rem;
+  border: 1px solid silver; }
 
 .checknow {
-  margin: 2rem; }
+  margin: 3rem auto;
+  width: 800px;
+  max-width: 90%; }
+  .checknow .logo {
+    height: 85px;
+    width: auto; }
+
+ul.doubleO {
+  font-style: italic;
+  list-style-type: upper-roman;
+  margin-left: 2rem; }
+  ul.doubleO:last-of-type {
+    margin-bottom: 1rem; }
+
+ul.subscriber__goodies {
+  list-style-type: disc;
+  margin-left: 2rem; }
+
+ul.openemail li {
+  margin-bottom: 0.5rem; }
+ul.openemail i {
+  color: #8B0000; }
+ul.openemail :last-of-type {
+  margin-bottom: 1rem; }
+
+.digestexplanation {
+  margin: 3rem auto;
+  width: 800px;
+  max-width: 90%; }
+  .digestexplanation h2 {
+    color: #8B0000;
+    margin-bottom: 1rem;
+    text-align: center; }
+    .digestexplanation h2 span {
+      text-transform: uppercase;
+      display: block; }
+  .digestexplanation h3 {
+    margin-top: 1.5rem; }
+  .digestexplanation span {
+    font-style: italic;
+    font-weight: bold;
+    color: #8B0000; }
+
+.note {
+  font-size: 0.85rem;
+  width: 400;
+  max-width: 75%;
+  margin: 0 auto 1rem auto; }
 
 .fade-in-element {
   line-height: 1.4;
@@ -2087,7 +2160,7 @@ span.data-title:after {
    ========================================================================== */
 /*==========  NO JS/SIMPLE BROWSER  ==========*/
 .site__header {
-  background: #242424 url("/assets/img/pulpicons.svg") repeat;
+  background: #242424 url("/assets/img/pulpicons2.svg") repeat;
   padding-bottom: 5rem;
   height: 100px;
   width: 100%; }
@@ -2127,24 +2200,24 @@ body, caption, th, td, input, textarea, select, option, legend, fieldset, h1, .m
     /* equivalent to 22px */ }
  }
 
-h1, .manifesto h2, .policies h2, .terms h2, .contact h2, h2, h3, h4, h5, h6, .h1, .title, .squeeze__tagline, .salesletter h2, .squeeze__byline, .salesletter h3, .bc__header h2, .h2, .title, .navicon, .squeeze__byline, .salesletter h3, .h3, .modal .modal-inner h2, .sectiontitle, .h4, .h5, .h6 {
+h1, .manifesto h2, .policies h2, .terms h2, .contact h2, h2, h3, h4, h5, h6, .h1, .digestexplanation h2, .title, .squeeze__tagline, .salesletter h2, .squeeze__byline, .salesletter h3, .bc__header h2, .h2, .title, .navicon, .squeeze__byline, .salesletter h3, .h3, .modal .modal-inner h2, .sectiontitle, .h4, .h5, .h6 {
   font-family: "Josefin Sans", sans-serif; }
 
-h1, .manifesto h2, .policies h2, .terms h2, .contact h2, .h1, .title, .squeeze__tagline, .salesletter h2, .squeeze__byline, .salesletter h3, .bc__header h2 {
+h1, .manifesto h2, .policies h2, .terms h2, .contact h2, .h1, .digestexplanation h2, .title, .squeeze__tagline, .salesletter h2, .squeeze__byline, .salesletter h3, .bc__header h2 {
   font-size: 2em;
   /* 2x body copy size = 32px */
   line-height: 1.25;
   /* 45px / 36px */ }
 
 @media (min-width: 43.75em) {
-  h1, .manifesto h2, .policies h2, .terms h2, .contact h2, .h1, .title, .squeeze__tagline, .salesletter h2, .squeeze__byline, .salesletter h3, .bc__header h2 {
+  h1, .manifesto h2, .policies h2, .terms h2, .contact h2, .h1, .digestexplanation h2, .title, .squeeze__tagline, .salesletter h2, .squeeze__byline, .salesletter h3, .bc__header h2 {
     font-size: 2.5em;
     /* 2.5x body copy size = 40px */
     line-height: 1.125; }
  }
 
 @media (min-width: 56.25em) {
-  h1, .manifesto h2, .policies h2, .terms h2, .contact h2, .h1, .title, .squeeze__tagline, .salesletter h2, .squeeze__byline, .salesletter h3, .bc__header h2 {
+  h1, .manifesto h2, .policies h2, .terms h2, .contact h2, .h1, .digestexplanation h2, .title, .squeeze__tagline, .salesletter h2, .squeeze__byline, .salesletter h3, .bc__header h2 {
     font-size: 3em;
     /* 3x body copy size = 48px */
     line-height: 1.05;
@@ -2254,15 +2327,20 @@ blockquote {
       float: left; } }
 
 .branding {
-  width: 330px; }
+  width: 200px;
+  float: left; }
+  @media screen and (min-width: 350px) {
+    .branding {
+      float: none;
+      margin: 0 auto; } }
 
 .logo {
-  float: left;
-  margin: 0.55rem 1rem 0 0;
-  width: 50px; }
+  margin: 0.55rem 0 0 0;
+  width: 200px; }
   @media screen and (min-width: 350px) {
     .logo {
-      width: 50px; } }
+      width: 200px;
+      margin: 0.55rem auto; } }
 
 .title {
   margin: 0.8rem 0 0 0;
@@ -3072,9 +3150,13 @@ blockquote {
   margin: 0 auto; }
 
 .specialnote {
+  color: #000;
   font-style: italic;
+  font-size: 1.25rem;
+  text-align: right;
   max-width: 85%;
-  margin: 0 auto; }
+  margin: 2rem auto 0 auto;
+  padding: 3rem; }
 
 .progbar {
   margin-top: 1rem; }

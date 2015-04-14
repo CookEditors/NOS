@@ -13,15 +13,115 @@
 }
 
 .thanks__instructions {
-	margin: 3rem 4rem;
+	margin: 3rem auto;
+	width: 800px;
+	max-width: 90%;
 }
 
 
-.thanks .hangingindent {
-  padding-left: 2.75rem;
-  text-indent: -2.75rem;
+// .thanks .hangingindent {
+//   padding-left: 2.75rem;
+//   text-indent: -2.75rem;
+// }
+
+h2.huge {
+	font-weight: bold;
+	font-size: 3rem;
+	color: $acolor;
+	text-transform: uppercase;
+}
+
+.smallprint {
+	background-color: lightyellow;
+	color: #000;
+	font-size: 0.8rem;
+	// font-style: italic;
+	margin: 2rem 2rem 0 2rem;
+	padding: 1rem;
+	border: 1px solid silver;
 }
 
 .checknow {
-	margin: 2rem;
+	margin: 3rem auto;
+	width: 800px;
+	max-width: 90%;
+	.logo {
+		height: 85px;
+		width: auto;
+	}
 }
+
+ul.doubleO {
+	font-style: italic;
+	list-style-type: upper-roman;
+	margin-left: 2rem;
+	&:last-of-type {
+		margin-bottom: 1rem;
+	}
+}
+
+ul.subscriber__goodies {
+	list-style-type: disc;
+	margin-left: 2rem;
+	// &:last-of-type {
+	// 	margin-bottom: 1rem;
+	// }
+}
+
+ul.openemail {
+	li {
+		margin-bottom: 0.5rem;
+	}
+	i {
+		color: $acolor;
+	}
+	:last-of-type {
+		margin-bottom: 1rem;
+	}
+}
+
+
+.digestexplanation {
+	margin: 3rem auto;
+	width: 800px;
+	max-width: 90%;
+	h2 {
+		color: $acolor;
+		margin-bottom: 1rem;
+		text-align: center;
+		@extend .h1;
+		span {
+		text-transform: uppercase;
+		display: block;
+		}
+	}
+	h3 {
+		margin-top: 1.5rem;
+	}
+	span {
+		font-style: italic;
+		font-weight: bold;
+		color: $acolor;
+	}
+}
+
+.note {
+	font-size: 0.85rem;
+	width: 400;
+	max-width: 75%;
+	margin: 0 auto 1rem auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

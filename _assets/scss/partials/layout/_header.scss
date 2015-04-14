@@ -7,7 +7,7 @@
 	// border: 3px dashed orange;
 	@include clearfix;
 	// color: #fff;  what does this change??
-	background: $bgcolor url("/assets/img/pulpicons.svg") repeat;	// add a media query to only repeat bg image on the X-axis when everything is in one line!
+	background: $bgcolor url("/assets/img/pulpicons2.svg") repeat;	// add a media query to only repeat bg image on the X-axis when everything is in one line!
 	padding-bottom: 5rem;
 	height: 100px;
 	width: 100%;
