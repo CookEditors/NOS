@@ -1458,16 +1458,23 @@ dl {
 /* ==========================================================================
    WELCOME GATE FORM STYLES
    ========================================================================== */
-.wg_signupform label {
+#mc_embed_signup label {
   color: #fff;
-  padding-top: 1rem;
-  text-align: left; }
-.wg_signupform .button:link, .wg_signupform .button:active, .wg_signupform .button:visited, .wg_signupform .button, .wg_signupform .button span {
+  margin-bottom: 1rem;
+  text-align: left;
+  font-size: 1.1rem; }
+#mc_embed_signup .button:link, #mc_embed_signup .button:active, #mc_embed_signup .button:visited, #mc_embed_signup .button, #mc_embed_signup .button span {
   background-color: #1ec279 !important;
   color: #fff !important; }
-.wg_signupform .button:hover {
+#mc_embed_signup .button:hover {
   background-color: #00a968 !important;
   color: #fff !important; }
+
+.mc-field-group input[value] {
+  font-size: 0.8rem;
+  color: grey;
+  text-align: center;
+  font-style: italic; }
 
 /* ==========================================================================
    CARD MODULE
