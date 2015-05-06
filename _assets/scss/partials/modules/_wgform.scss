@@ -3,30 +3,52 @@
    ========================================================================== */
 
 #mc_embed_signup {
+	// background-color: $acolor;
 	label {
 		color: #fff;
 		margin-bottom: 1rem;
 		// padding-top: 0.5rem;
 		text-align: left;
-		font-size: 1.1rem;
+		font-size: 1.15rem;
 	}
+}
 
-	.button:link, .button:active, .button:visited, .button, .button span {
-		background-color: #1ec279 !important;
-		color: #fff !important;
-	}
+#mc_embed_signup_scroll {
+	margin-top: 1.5rem;
+}
 
-	.button:hover {
-		background-color: #00a968 !important;
-		color: #fff !important;
+.button:link, .button:active, .button:visited, .button, .button span {
+	background-color: /* #1ec279 */ #8b8b00 !important;
+	color: #fff !important;
+	&:hover {
+		background-color: /* #00a968 */ #727217 !important;
 	}
 }
 
 .mc-field-group {
-	input[value] {
+	// input[placeholder] {
+	// 	font-size: 0.8rem;
+	// 	color: orange;
+	// 	font-weight: bold;
+	// 	text-align: center;
+	// 	font-style: italic;
+	// }
+
+	input::-webkit-input-placeholder {
 		font-size: 0.8rem;
 		color: grey;
-		text-align: center;
+		font-weight: bold;
+		// text-align: center;
 		font-style: italic;
 	}
+
+	[placeholder]:focus::-webkit-input-placeholder {
+	  transition: opacity 0.5s 0.5s ease; 
+	  opacity: 0;
+	}
+
+}
+
+.form__label {
+	color: #fff;
 }

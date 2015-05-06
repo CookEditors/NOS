@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: post_combo
+layoutTag: post
 title: "Planned by the Stars"
 author: C. S. Montanye
 date: 2015-02-20 10:20:20

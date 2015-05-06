@@ -9,8 +9,7 @@ title: download
   <section class="herounit">
     <div class="container">
 
-      <h1 class="h1 herounit__headline">Download</h1>
-      <h1 class="h1" style="text-transform:uppercase;">Planned by the Stars</h1>
+      <h1 class="h1 herounit__headline"><span class="slabtext">Download</span><span class="slabtext"><script type="text/javascript">formData.display("story_title")</script></span></h1>
 
     </div> <!-- end div container -->
   </section> <!-- end section herounit -->
@@ -19,6 +18,22 @@ title: download
     <div class="container">
       <p>Step 1&#058; Choose your preferred format<br>(Kindle, ePub 3.0, PDF)</p>
       <p>Step 2&#058; Click the appropriate button below&nbsp;the&nbsp;description.</p>
+
+      <section class="yamllist">
+        <ul>
+          <li><script type="text/javascript">formData.display("story_title")</script></li>
+          <li><script type="text/javascript">formData.display("story_author")</script></li>
+          <li><script type="text/javascript">formData.display("story_excerpt")</script></li>
+          <li><script type="text/javascript">formData.display("story_image")</script></li>
+          <li><script type="text/javascript">formData.display("story_categories")</script></li>
+          <li><script type="text/javascript">formData.display("story_genre")</script></li>
+          <li><script type="text/javascript">formData.display("story_orig_publication")</script></li>
+          <li><script type="text/javascript">formData.display("story_orig_issue")</script></li>
+          <li><script type="text/javascript">formData.display("story_timetoread")</script></li>
+          <li><script type="text/javascript">formData.display("story_wordcount")</script></li>
+        </ul>
+      </section>
+
     </div> <!-- end div container -->
   </section>
 
@@ -27,10 +42,10 @@ title: download
       <div class="px600">
         <hr>
       </div>
-      <img class="MB__sample-img" src="/assets/img/fortuneteller.jpg" alt="cover image for Planned by the Stars">
-      <h2>Planned by the Stars</h2>
-      <h3>by C. S. Montanye</h3>
-      <p class="teaser">"The day is ill&#8208;omened! All the planetary influences are dark and evil. This is the star that guides your footsteps through this constellation. Its scarlet rim foretells but one thing &hellip; <span>murder</span>!"</p>
+      <img class="MB__sample-img" src="{{ site.url }}<script type="text/javascript">formData.display("story_image")</script>" alt="cover image for <script type="text/javascript">formData.display("story_title")</script>">
+      <h2><script type="text/javascript">formData.display("story_title")</script></h2>
+      <h3><script type="text/javascript">formData.display("story_author")</script></h3>
+      <p class="teaser"><script type="text/javascript">formData.display("story_excerpt")</script></p>
       <div class="px600">
         <hr>
       </div>

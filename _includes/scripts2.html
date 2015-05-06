@@ -14,8 +14,8 @@
 
 <script src="/assets/js/vendor/scroll-on-page.js"></script>
 
-<!-- <script src="/assets/js/vendor/store.js"></script>
-NOTE: moved to HEAD -->
+<script src="/assets/js/vendor/store.js"></script>
+
 <script src="/assets/js/vendor/flipclock.min.js"></script>
 
 <!-- <script src="/assets/js/vendor/expandable-section.js"></script> -->
@@ -235,36 +235,30 @@ function submitSubscribeForm($form, $resultElement) {
         }
 
       else {
-        if ($("#mc-embedded-subscribe-form").hasClass("form__premium")) {
-          console.log("premium form");
-          var message = "Thank you!! Please continue reading &hellip;";
-          location.reload(); //reloads the premium post page at same location
-        }
-        else if ($("#mc-embedded-subscribe-form").hasClass("form__postdownload")) {
-          console.log("post download form");
-          var message = "Thank you!!<br>You are subscribed &amp; you can download your story next &hellip;";
-          var url = "/downloads/short-stories/index.html"; // needs to be dynamically created for *each* story ... will use localStorage cookie (maybe!)
-
-          $(location).attr('href', url);
-        }
-        else if ($("#mc-embedded-subscribe-form").hasClass("form__wg")) {
-          console.log("wg form");
-
-          var url = "/thanks/theredfile/";
-
-          $(location).attr('href', url);
-        }
-        else {
-          console.log("no class whatsoever!");
-        }
-
-        $resultElement.html(message);
+        // if $("#thepost").hasClass("premium_post") {
+        //   var url = "#"
+        // }
+        // else 
+        // var url = "http://552d72e8f92ea14461000001.governor-cow-56818.netlify.com/downloads/murderbook";
         
-        var email = $("#mce-EMAIL").val();
-        store.set('registered', true);
-        store.set('emailaddress', email); 
+        // $(location).attr('href',url);
+        
+        location.reload();        
 
-      } // end of else statement
+        var message = "Thank you!<br>You've been added to the list and will soon receive a link to download {{ page.title }}.";
+        $resultElement.css({
+        	"background-color": "#fff",
+        	"color": "#8B0000",
+        	"margin-top": "1rem",
+        	"padding": "0.5rem"
+        	});
+        $resultElement.html(message);
+        store.set('registered', true);
+
+        var email = $("#mce-EMAIL").val();
+        console.log(email);
+        store.set('emailaddress', email);
+      }
     }
   });
 }
@@ -273,85 +267,6 @@ return module;
 
 })();
 </script>
-
-
-<!-- sets story data (title, author, etc.) to localStorage/sessionStorage for use on download page -->
-<script>
-  
-$(document).ready(function() {
-
-  $("#button__postdownload").click(function() {
-    // console.log("button__postdownload clicked");
-    var url; // should be available throughout click function
-    
-    init()
-    function init() {
-      if (!store.enabled) {
-        var url = "/downloads/short-stories/index-other.html"; //GENERIC DOWNLOAD PAGE
-        alert('Local storage is not supported by your browswer. Please disable "Private Mode", or upgrade your browser.')
-      return
-      } // end of if !store.enabled
-
-      var url = "/downloads/short-stories/index2.html";         
-      var metaArray = ["{{ page.title }}", "{{ page.author }}", "{{ page.genre }}", "{{ page.image }}", "{{ page.excerpt }}", "{{ page.kindle }}", "{{ page.epub }}", "{{ page.pdf }}"];
-
-      // ARRAY KEY
-      // [0] = title
-      // [1] = author
-      // [2] = genre
-      // [3] = image
-      // [4] = excerpt
-      // [5] = kindle url
-      // [6] = epub url
-      // [7] = pdf url   
-
-      store.set('storyMeta', JSON.stringify(metaArray));
-
-      console.log(metaArray);
-    } // end of function init()
-
-    if (store.get('registered')) {
-      console.log("registered user!");
-      console.log(url);
-
-      var emailaddress = store.get('emailaddress');
-      console.log(emailaddress);
-      $('#mce-EMAIL').val(emailaddress);
-      // $(location).attr('href', url);  sends past modal to download page .. not currently working due to val = url issue!
-    } // end if 
-
-  }); // end of click function
-});
-</script>
-
-
-<!-- retrieve localStorage arrage & dump into page elements -->
-<script>
-  var retrievedMetaString = store.get("storyMeta");
-  var retrievedMetaArray = JSON.parse(retrievedMetaString);
-
-  document.getElementById("title").innerHTML = retrievedMetaArray[0];
-  document.getElementById("author").innerHTML = retrievedMetaArray[1];
-  document.getElementById("genre").innerHTML = retrievedMetaArray[2];
-  document.getElementById("image").src = retrievedMetaArray[3];
-  document.getElementById("excerpt").innerHTML = retrievedMetaArray[4];
-  document.getElementById("kindle").href = retrievedMetaArray[5];
-  document.getElementById("epub").href = retrievedMetaArray[6];
-  document.getElementById("pdf").href = retrievedMetaArray[7];
-
-  $(".download-title").html(retrievedMetaArray[0]);
-
-</script>
-
-
-
-
-
-
-
-
-
-
 
 
 

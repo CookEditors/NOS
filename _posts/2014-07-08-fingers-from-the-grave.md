@@ -4,11 +4,14 @@ title: "Fingers from the Grave"
 author: Edwin Garty Ranck
 date: 2014-07-08 10:20:20
 categories: short-stories
-excerpt: Tom Grimstead was not looking for a "story" when he decided to spend a night in the haunted Carey house. As a newspaperman, he had frequently exposed many bogus mediums and spiritualists.
+excerpt: Tom Grimstead was not looking for a story when he decided to spend a night in the haunted Carey house. As a newspaperman, he had frequently exposed many bogus mediums and spiritualists.
 image: /assets/img/fftg.jpg
 genre: amateur
 wordcount: 3422
 timetoread: 19
+kindle: http://www.talesofmurder.com/downloads/kindleversion.kf8
+epub: http://www.talesofmurder.com/downloads/epubversion.epub
+pdf: http://www.talesofmurder.com/downloads/pdfversion.pdf
 --- 
 
 <section id="toc" class="toc">

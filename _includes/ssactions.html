@@ -1,7 +1,8 @@
-<div class="ssactions">
+<div class="ssactions" id="ssactions_ID">
 
 
 <!-- SOCIAL MEDIA SHARE BUTTON & POPUP/TOOLTIP -->
+<!-- NOTE: issues with links ... creating error in console!! -->
 	<div class="tooltip-item">
 		<button class="ssactions__button" id="share" type="button">
 			<span class="icon"><i class="fa fa-share-alt"></i></span>
@@ -9,11 +10,11 @@
 			<div class="tooltip smactions">
 				<ul class="smactions__list">
 					<li class="smactions__list__item">
-					<a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank"><i class="fa fa-facebook-square fa-fw"></i>&nbsp; Share on Facebook</a>
+					<a href="#" rel="nofollow" target="_blank"><i class="fa fa-facebook-square fa-fw"></i>&nbsp; Share on Facebook</a> <!-- https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }} -->
 					</li>
 
 					<li class="smactions__list__item">
-						<a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&hellip;{{ page.excerpt }}&via=talesofmurder" target="_blank"><i class="fa fa-twitter fa-fw"></i>&nbsp; Share on Twitter</a>
+						<a href="#" target="_blank"><i class="fa fa-twitter fa-fw"></i>&nbsp; Share on Twitter</a> <!-- https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&hellip;{{ page.excerpt }}&via=talesofmurder -->
 					</li>
 					<li class="smactions__list__item">
 						<a href="#"><i class="fa fa-clipboard fa-fw"></i>&nbsp; Embed URL</a>
@@ -26,7 +27,7 @@
 
 
 <!-- DOWNLOAD THIS SHORT STORY BUTTON -->
-	<a href="#openModal" class="ssactions__button__link">
+	<a href="#openModal" class="ssactions__button__link" id="button__postdownload">
 		<button class="ssactions__button" id="download" type="button">
 			<span class="icon"><i class="fa fa-cloud-download"></i></span>
 			<span class="label">Download</span>
@@ -37,31 +38,17 @@
     <div class="modal-inner">
     	<a href="#close" title="Close" class="close">X</a>
 			
-			<img class="progbar" src="/assets/img/Animated_Progress_Bar.gif" alt="animated 50% complete progress bar">
 			<h2 class="modalh2">Download your copy of </h2>
 			<h3 class="modalh3">{{ page.title }}</h3>
 
 			<div class="emailbox">
-				{% include ss-form.html %}
+				{% include ss-form3.html %}
 				<p class="small"><br><i class="fa fa-lock"></i>&nbsp;Your email is securely locked away from prying eyes.<br>I NEVER sell out your <a href="{{ site.url }}/about/#policies" style="color:#fff;text-decoration:underline;">privacy</a>.<br><br><em>For entertainment purposes only.</em></p>
-			</div> <!-- end div emailbox -->
+			</div> <!-- end div .emailbox -->
 
-    </div> <!-- end div moodal-inner -->
-	</div> <!-- end div openModal -->
+    </div> <!-- end div .moodal-inner -->
+	</div> <!-- end div #openModal -->
 	
-<!-- TESTING LIQUID VARIABLES -->
-
-
-<!-- 
-<a href="/downloads/murderbook/?title='{{ page.title }}'" class="ssactions__button__link" data-title="{{ page.title }}">
-		<button class="ssactions__button" id="readmore" type="button" label="Choose Another Short Story">
-			<span class="icon"><i class="fa fa-user-secret"></i></span>
-			<span class="label">Download</span>
-		</button>
-	</a>
- -->
-
-
 
 
 

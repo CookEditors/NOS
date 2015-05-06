@@ -1,0 +1,20 @@
+/* ==========================================================================
+   PREMIUM CONTENT STYLES
+   ========================================================================== */
+
+/* FORM */
+
+.premium-signup__form {
+	input {
+		max-width: 75%;
+		margin: 0 auto;
+	}
+	.form__label {
+		color: $acolor;
+		margin-top: 1rem;
+	}
+	.button {
+		background-color: $acolor !important;
+	}
+}
+

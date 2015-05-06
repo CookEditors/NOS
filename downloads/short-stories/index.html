@@ -1,0 +1,96 @@
+---
+layout: default
+title: post download
+---
+
+<!-- Generic template for post downloads -->
+
+<div class="download clearfix">
+	<section class="herounit">
+		<div class="container">
+			
+			<h1 class="h1 herounit__headline">Download</h1>
+			<h2 class="download-title" style="text-transform:uppercase;font-size:4rem;color:#fff;text-align:center;padding-bottom:1rem;"></h2>
+
+			<!-- <h1 class="h1 herounit__headline"><span class="slabtext">Download</span><span class="download-title"></span></h1> -->
+
+		</div> <!-- end div.container -->
+	</section> <!-- end section.herounit -->
+
+	<section class="page-intro">
+		<div class="container">
+			<p>Step 1&#058; Choose your preferred format<br>(Kindle, ePub 3.0, PDF)</p>
+      <p>Step 2&#058; Click the appropriate button below&nbsp;the&nbsp;description.</p>
+		</div> <!-- end div.container -->
+	</section> <!-- end section.page-intro -->
+
+	<section class="intro">
+		<div class="container">
+			<div class="px600">
+				<hr>
+			</div> <!-- end div.px600 -->
+			<img id="image" src="" alt="cover thumbnail" class="story-image MB__sample-img">
+			<h2 id="title"></h2>
+			<h3>by <span id="author"></span></h3>
+			<p id="excerpt"></p>
+			<small style="text-transform:uppercase;font-weight:bold;">Genre&#058; <span id="genre"></span></small>
+			<div class="px600">
+				<hr>
+			</div> <!-- end div.px600 -->
+		</div> <!-- end div.container -->
+	</section> <!-- end section.intro -->
+
+	<section class="downloads">
+    <div class="container">
+      <a href="" id="kindle" class="ssactions__button__link">
+        <button class="ssactions__button" id="Kindle__download" type="button" label="Kindle version">
+          <span class="icon"><i class="fa fa-file-o fa-lg"><strong class="fa-stack-1x kindleicon">a</strong></i></span>
+          <span class="label">Kindle</span>
+        </button>
+      </a>
+
+      <a href="" id="epub" class="ssactions__button__link">
+        <button class="ssactions__button" id="epub3__download" type="button" label="ePub3 version">
+          <span class="icon"><i class="fa fa-file-o fa-lg"></i><strong class="fa-stack-1x epubicon">e</strong></span>
+          <span class="label">ePub 3.0</span>
+        </button>
+      </a>
+
+      <a href="" id="pdf" class="ssactions__button__link">
+        <button class="ssactions__button" id="PDF__download" type="button" label="PDF version">
+          <span class="icon"><i class="fa fa-file-pdf-o fa-lg"></i></span>
+          <span class="label">PDF</span>
+        </button>
+      </a>
+    </div> <!-- end div container -->
+  </section> <!-- end of section downloads -->
+
+  <script>
+  $(function() {
+  	$(document).attr("title", function() {
+  		return "DOWNLOAD " + retrievedMetaArray[0];
+  	})
+  });
+  </script>
+
+</div> <!-- end div.download -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

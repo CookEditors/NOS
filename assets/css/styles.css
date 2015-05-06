@@ -1462,19 +1462,28 @@ dl {
   color: #fff;
   margin-bottom: 1rem;
   text-align: left;
-  font-size: 1.1rem; }
-#mc_embed_signup .button:link, #mc_embed_signup .button:active, #mc_embed_signup .button:visited, #mc_embed_signup .button, #mc_embed_signup .button span {
-  background-color: #1ec279 !important;
-  color: #fff !important; }
-#mc_embed_signup .button:hover {
-  background-color: #00a968 !important;
-  color: #fff !important; }
+  font-size: 1.15rem; }
 
-.mc-field-group input[value] {
+#mc_embed_signup_scroll {
+  margin-top: 1.5rem; }
+
+.button:link, .button:active, .button:visited, .button, .button span {
+  background-color: #8b8b00 !important;
+  color: #fff !important; }
+  .button:link:hover, .button:active:hover, .button:visited:hover, .button:hover, .button span:hover {
+    background-color: #727217 !important; }
+
+.mc-field-group input::-webkit-input-placeholder {
   font-size: 0.8rem;
   color: grey;
-  text-align: center;
+  font-weight: bold;
   font-style: italic; }
+.mc-field-group [placeholder]:focus::-webkit-input-placeholder {
+  transition: opacity 0.5s 0.5s ease;
+  opacity: 0; }
+
+.form__label {
+  color: #fff; }
 
 /* ==========================================================================
    CARD MODULE
@@ -2150,7 +2159,7 @@ ul.openemail :last-of-type {
   box-shadow: 3px 3px 10px 2px rgba(139, 0, 0, 0.25);
   background-color: #FFF;
   margin: 2.5rem 0;
-  height: 235px; }
+  height: 250px; }
   #panel .previewLabel {
     margin: 1rem; }
 
@@ -2158,8 +2167,75 @@ ul.openemail :last-of-type {
   margin: 1rem;
   display: hidden; }
 
-#af-submit-image-2123962128 {
-  text-transform: uppercase; }
+/* ==========================================================================
+   ANIMATED PROGRESS BAR
+   ========================================================================== */
+progress {
+  display: inline-block;
+  vertical-align: baseline; }
+
+@-webkit-keyframes progress-bar-stripes {
+  from {
+    background-position: 40px 0; }
+
+  to {
+    background-position: 0 0; } }
+
+@-o-keyframes progress-bar-stripes {
+  from {
+    background-position: 40px 0; }
+
+  to {
+    background-position: 0 0; } }
+
+@keyframes progress-bar-stripes {
+  from {
+    background-position: 40px 0; }
+
+  to {
+    background-position: 0 0; } }
+
+.progress {
+  height: 20px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  background-color: #8b0000;
+  border-radius: 4px; }
+
+.progress-bar {
+  float: left;
+  width: 0;
+  height: 100%;
+  font-size: 12px;
+  line-height: 20px;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+  background-color: #8b8b00;
+  box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
+  transition: width 0.6s ease; }
+
+.progress-bar-striped, .progress-striped .progress-bar {
+  background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+  background-size: 40px 40px; }
+
+.progress-bar.active, .progress.active .progress-bar {
+  -webkit-animation: progress-bar-stripes 2s linear infinite;
+  -o-animation: progress-bar-stripes 2s linear infinite;
+  animation: progress-bar-stripes 2s linear infinite; }
+
+/* ==========================================================================
+   PREMIUM CONTENT STYLES
+   ========================================================================== */
+/* FORM */
+.premium-signup__form input {
+  max-width: 75%;
+  margin: 0 auto; }
+.premium-signup__form .form__label {
+  color: #8B0000;
+  margin-top: 1rem; }
+.premium-signup__form .button {
+  background-color: #8B0000 !important; }
 
 /*==========  LAYOUT  ==========*/
 /* ==========================================================================
@@ -3047,29 +3123,18 @@ blockquote {
     display: block;
     font-size: 0.8em;
     margin-bottom: 0.8em; }
-    .expander .expander-trigger:before {
-      font-size: 0.7em;
-      content: '\25BC';
-      margin-right: 0.5em; }
-    .expander .expander-trigger:after {
-      font-size: 0.7em;
-      content: '\25BC';
-      margin-left: 0.5em; }
-  .expander .expander-hidden:before {
-    font-size: 0.7em;
-    content: '\25BA'; }
-  .expander .expander-hidden:after {
-    font-size: 0.7em;
-    content: '\25C0'; }
   .expander .expander-hidden + .expander-content {
     display: none; }
 
 .expander-content {
   border-bottom: none; }
 
-.expander__question, .expander__answer {
+.expander__question, #answer {
+  font-size: 1.15rem;
   font-weight: bold;
-  color: #8B0000; }
+  letter-spacing: 2px;
+  color: #8B0000;
+  text-align: center; }
 
 .expander__answer {
   background-color: #ddd;

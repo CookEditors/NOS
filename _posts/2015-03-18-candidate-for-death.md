@@ -8,9 +8,12 @@ date: 2015-03-18 10:20:20
 categories: short-stories
 excerpt: The knocking on the door was softly urgent. An insistent little tattoo of bunched knuckles. Silence followed. Then the sound began again. Rap, rap, rap! There was something restrained and deadly in that furtive signal on the outside of the locked door of Room 708.
 image: /assets/img/fftg.jpg
-genre: hard boiled
+genre: hardboiled
 wordcount: 7583
 timetoread: 55
+kindle: kindle
+epub: epub
+pdf: pdf
 --- 
 
 <section id="toc" class="toc">
