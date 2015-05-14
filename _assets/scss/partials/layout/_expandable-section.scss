@@ -10,7 +10,7 @@
   $base-font-color: $dark-gray !default;
   -webkit-font-smoothing: antialiased;
 
-  border-bottom: 1px solid $acolor;
+  // border-bottom: 1px solid $acolor;
 
   // background-color: green;
 
@@ -29,6 +29,7 @@
   $expander-toggle-arrow-size: $expander-toggle-size;
   $expander-toggle-margin: 1em;
 
+  width: 100%;
   max-width: 45rem;
   margin: 0 auto;
 
@@ -80,8 +81,7 @@
 .expander-content {
   // background-color: #ddd;
   // border: 1px solid $acolor;
-  border-bottom: none;
-  // margin-top: 4rem;
+  margin-top: 4rem;
 }
 
 .expander__question, /* .expander__answer */ #answer {
@@ -89,7 +89,7 @@
   font-weight: bold;
   letter-spacing:2px;
   color: $acolor;
-  text-align: center;
+  text-align: left;
 }
 
 .expander__answer {

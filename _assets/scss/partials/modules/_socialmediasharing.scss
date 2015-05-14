@@ -42,14 +42,14 @@ span[data-icon]:before {
 	// height: $border-radius;
 	// border: 1px solid #bbb;
 	// border-radius: 50%;
-	background-color: #FFF;
+	background-color: #fff;
 	margin: 2rem 5rem 0 0;
 	&:last-of-type {
 		margin: 2rem 0 0 0;
 	}
 	&:hover {
 		border: 1px solid $acolor;
-		// background-color: #FFF;
+		// background-color: #fff;
 		color: $acolor;
 	}
 	&:after {

@@ -50,11 +50,13 @@ body {
 }
 
 .container {
+	// background-color: hotpink;
+	// border: 2px dotted hotpink;
 	top: 0px;
 	left: 0px;
 	height: 100%;
-	width: 100%;
-	max-width: 60rem;
+	width: 60rem;
+	max-width: 100%;
 	margin: 0 auto;
 	padding: 0 3.125%; /* copied from AJ for cards; 3.125%=10px @ 320px width*/
 	@media screen and (min-width: 400px) and (max-width: 479px) {
@@ -66,7 +68,7 @@ body {
 	@media screen and (min-width: 525px) and (max-width: 599px) {
 		padding: 0 15%;
 	}
-	@media screen and (min-width: 1200px ) {
+	@media screen and (min-width: 600px /* 1200px */ ) {
 		padding: 0;
 	}
 }

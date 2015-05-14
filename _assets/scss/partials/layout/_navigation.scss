@@ -3,8 +3,9 @@
    ========================================================================== */
 
 .nav__basic {
+	width: 700px;
 	// border: 1px dotted blue;
-	margin: 0;
+	margin: -1rem auto 1rem auto;
 	padding: 0;
 	text-align: center;
 	list-style: none;
@@ -17,12 +18,16 @@
 		}
 	a {
 		// border: 1px dotted #fff;
-		color: #fff;
+		font-size: 1.25rem;
+		color: $paper;
+		text-align: center;
+		// margin: 1rem auto 1rem auto;
 		// padding: 0.75rem;
-		padding: 1.5625rem;
-		line-height: 7.1875rem;
+		// padding: 1.5625rem;
+		padding: 1rem;
+		// line-height: 7.1875rem;
 		text-decoration: none;
-		line-height: 2.5;
+		// line-height: 2.5;
 		&:hover {
 			text-decoration: underline;
 			// text-decoration: overline;
@@ -30,24 +35,39 @@
 			// border-bottom: 1px solid white;
 		}
 		@media screen and (min-width: 60rem) {
-			padding: 1.25rem 0.75rem;
-			margin: 1rem 0.5rem;
-			display: block;
-			float: left;
+			// padding: 1.25rem 0.75rem;
+			// margin: 1rem 0.5rem;
+			// display: block;
+			// float: left;
 		}
 	}
 }
 
 .navicon {
-	// border: 1px solid orange;
-	color: #fff;
+	border: 1px solid orange;
+	color: $paper;
 	@extend .h2;
-	padding: 1rem 0 0 0;
+	font-size: 2.75rem;
+	margin: 0;
+	// padding: 2.25rem 0 0.25rem 0;
 	// font-size: 30px;
-	float: right;
-	@media screen and (min-width: 654px) {
-		display: none;
+	// float: right;
+	position: absolute;
+	top: 2rem;
+	right: 1.25rem;
+	@media screen and (min-width: 375px) {
+		position: absolute;
+		top: 2.25rem;
+		right: 2.25rem;
 	}
+	@media screen and (min-width: 410px) {
+		position: absolute;
+		top: 2rem;
+		right: 2rem;
+	}
+	// @media screen and (min-width: 701px) {
+	// 	display: none;
+	// }
 }
 
 
@@ -119,7 +139,7 @@
 //      }
 //    }
 //    .active {
-//      background-color: #FFF;
+//      background-color: #fff;
 //      color: $acolor;
 //      text-transform: uppercase;
 //      // border: 1px solid white;

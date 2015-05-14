@@ -11,7 +11,7 @@ $max-width: 40ems;
 /* TYPE FACES */
 
 $header-font-family: "Josefin Sans",sans-serif;
-$branding-font-family: "ltc-broadway",sans-serif;
+$branding-font-family: "nimbus-sans-condensed",sans-serif; /* "ltc-broadway" */
 $base-font-family: "raleway",sans-serif;
 
 /* FONT WEIGHTS */
@@ -32,7 +32,7 @@ $header-font-weight: $bold;
 $bgcolor: #242424;
 $pcolor: #474F55;
 $acolor: #8B0000; /* darkred */
-$paper: #fffdf7;
+$paper: #fffff0;
 $smallprint: darken($paper, 55%);
 $base-button-color: #00a968;
 $hover-button-color: #1ec279;

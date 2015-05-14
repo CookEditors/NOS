@@ -6,24 +6,31 @@
 
 .masthead {
 	// border: 1px dotted red;
-	margin: 1rem;
-	@media screen and (min-width: 654px) {
-		text-align: center;
-	}
-	@media screen and (min-width: 60rem) {
-		text-align: left;
-		float: left;
-	}
+	width: 100%;
+	max-width: 960px;
+	overflow: hidden;
+	// margin: 1rem;
+	// height: 135px;
+	// @media screen and (min-width: 654px) {
+	// 	// text-align: center;
+	// }
+	// @media screen and (min-width: 60rem) {
+	// 	text-align: left;
+	// 	float: left;
+	// }
 }
 
 .branding {
 	// border: 1px solid green;
-	width: 200px;
-	float: left;
-	@media screen and (min-width: 350px) {
-		float: none;
-		margin: 0 auto;
-	}
+	margin-top: 2rem;
+	height: 350px;
+	width: 700px;
+	// display: inline;
+	// float: left;
+	// @media screen and (min-width: 350px) {
+	// 	float: none;
+	// 	margin: 0 auto;
+	// }
 }
 
 // .logo_title {
@@ -34,50 +41,114 @@
 
 .logo {
 	// border: 1px solid orange;
-	margin: 0.55rem 0 0 0;
+	margin: 3rem 1rem 0 0;
 	width: 200px;
-	@media screen and (min-width: 350px) {
-		width: 200px;
-		margin: 0.55rem auto;
-	}
+	float: left;
+	// @media screen and (min-width: 350px) {
+	// 	width: 200px;
+	// 	margin: 0.55rem auto;
+	// }
 }
 
-.title {
-	margin: 0.8rem 0 0 0;
-	padding: 0 0 0 0.5rem;
-	color: #fff;
-	font-family: $branding-font-family;
-	@extend .h1;
-	font-size: 1.5rem;
-	span {
-		color: $acolor;
-		display: block;
-		text-transform: uppercase;
-		@media screen and (min-width: 25.0625rem) {
-			display: inline;
-		}
-	}
-	@media screen and (min-width: 60rem) {
-		@extend .h2;
-	}
+// .site-title {
+// 	margin: 0.8rem 0 0 0;
+// 	padding: 0 0 0 0.5rem;
+// 	color: #fff;
+// 	font-family: $base-font-family;
+// 	// text-transform: uppercase;
+// 	font-variant: small-caps;
+// 	@extend .h1;
+// 	// font-size: 4rem;
+// 	span {
+// 		.cap {
+// 			// font-size: 5rem;
+// 			color: red;
+// 		}
+// 		// color: $acolor;
+// 		// display: block;
+// 		text-transform: uppercase;
+// 		@media screen and (min-width: 25.0625rem) {
+// 			// display: inline;
+// 		}
+// 	}
+// 	@media screen and (min-width: 60rem) {
+// 		@extend .h2;
+// 	}
+// }
+
+.site-title1 {
+	// margin: 0 -10rem 0 -10rem;
+	color: #ddd;
+	// font-size: 2rem;
+	// font-family: $branding-font-family;
+
+	display: inline-block;
+	// font: 2em/1 impact, sans-serif;
+	// margin-top: 1rem;
+	position: relative;
+	transform: rotate(-4deg) skew(-4deg, 0);
 }
+
+.site-title {
+	font-family: "ltc-broadway";
+	color: $acolor;
+	// margin: 1rem;
+	font-size: 3rem;
+	text-transform: uppercase;
+
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #eee;
+	text-shadow: 4px 3px #ccc;
+
+	display: block;
+	// font: 1em/1 "ltc-broadway";
+	margin-top: 2rem;
+	position: relative;
+	transform: rotate(-4deg) skew(-4deg, 0);
+}
+
+span.pretitle {
+	margin: -15.75rem 0 10rem 14rem;
+	color: #fff;
+	text-transform: none;
+	font-size: 4.5rem;
+	letter-spacing: 2px;
+	display: block;
+	-webkit-text-stroke-width: none;
+	-webkit-text-stroke-color: none;
+	text-shadow: 4px 3px #333;
+	transform: rotate(4deg) skew(4deg, 0);
+	font-family: "ltc-broadway";
+}
+
 
 .tagline {
-	margin: 0;
+	margin: -1rem 0 0 15rem;
 	padding: 0;
 	color: #fff;
-	font-family: $branding-font-family;
+	font-family: impact, sans-serif;
 	// @extend .h4;
-	font-size: 1rem;
+	font-size: 2rem;
+	transform: rotate(-4deg) skew(-5deg, 0);
+	letter-spacing: 2.25px;
+
 	span {
-		display: block;
-		@media screen and (min-width: 25.0625rem) {
-			display: inline;
-		}
-	}
-	em {
 		color: $acolor;
+		font-style: italic;
+		-webkit-text-stroke-width: 0.5px;
+		-webkit-text-stroke-color: #fff;
+		letter-spacing: 4px;
 	}
+
+	// span {
+	// 	display: block;
+	// 	@media screen and (min-width: 25.0625rem) {
+	// 		display: inline;
+	// 	}
+	// }
+	// em {
+	// 	color: $acolor;
+	// }
 }
 
 

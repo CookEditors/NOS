@@ -20,6 +20,12 @@ NOTE: moved to HEAD -->
 
 <!-- <script src="/assets/js/vendor/expandable-section.js"></script> -->
 
+<!-- velocity.js -->
+<script src="/assets/js/vendor/velocity.min.js"></script>
+
+
+
+
 <!-- animated progbar -->
 <script>
   function MoveTo() {
@@ -328,23 +334,45 @@ $(document).ready(function() {
 <!-- retrieve localStorage arrage & dump into page elements -->
 <script>
   var retrievedMetaString = store.get("storyMeta");
-  var retrievedMetaArray = JSON.parse(retrievedMetaString);
+  
+  if (retrievedMetaString) {
+    var retrievedMetaArray = JSON.parse(retrievedMetaString);
+    document.getElementById("title").innerHTML = retrievedMetaArray[0];
+    document.getElementById("author").innerHTML = retrievedMetaArray[1];
+    document.getElementById("genre").innerHTML = retrievedMetaArray[2];
+    document.getElementById("image").src = retrievedMetaArray[3];
+    document.getElementById("excerpt").innerHTML = retrievedMetaArray[4];
+    document.getElementById("kindle").href = retrievedMetaArray[5];
+    document.getElementById("epub").href = retrievedMetaArray[6];
+    document.getElementById("pdf").href = retrievedMetaArray[7];
 
-  document.getElementById("title").innerHTML = retrievedMetaArray[0];
-  document.getElementById("author").innerHTML = retrievedMetaArray[1];
-  document.getElementById("genre").innerHTML = retrievedMetaArray[2];
-  document.getElementById("image").src = retrievedMetaArray[3];
-  document.getElementById("excerpt").innerHTML = retrievedMetaArray[4];
-  document.getElementById("kindle").href = retrievedMetaArray[5];
-  document.getElementById("epub").href = retrievedMetaArray[6];
-  document.getElementById("pdf").href = retrievedMetaArray[7];
-
-  $(".download-title").html(retrievedMetaArray[0]);
-
+    $(".download-title").html(retrievedMetaArray[0]);
+}
 </script>
 
 
-
+<!-- WG reveal -->
+<script>
+  
+  $(document).ready(function(){
+    $(".reveal__button").click(function(){
+      $("#revealer").hide();
+      $(".reveal__answer p").removeClass("answer__hidden");
+      $("#top-p").css({
+        "font-weight": "bold"
+      });
+      $("#last-p").css({
+        'color' : 'darkred',
+        'fontWeight' : 'bold',
+        'fontSize' : '1rem'
+      });
+      $(".reveal__answer").css({
+        'border-color' : 'darkred',
+        'border-size' : '2px'
+      });
+    })
+  });
+</script>
 
 
 

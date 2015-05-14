@@ -20,11 +20,13 @@
 @import 'partials/base/variables';
 @import 'partials/base/base';
 @import 'partials/base/lists';
+@import 'partials/base/index_test';
 
 
 /*==========  MODULES  ==========*/
 // @import 'partials/modules/modules';
 @import 'partials/modules/slabtext';
+@import 'partials/modules/reveal';
 @import 'partials/modules/modal';
 @import 'partials/modules/wgform';
 @import 'partials/modules/card';
@@ -51,7 +53,7 @@
 // @import 'partials/layout/test';
 @import 'partials/layout/header';
 @import 'partials/layout/typography';
-@import 'partials/layout/masthead';
+@import 'partials/layout/masthead2';
 @import 'partials/layout/navigation';
 @import 'partials/layout/jPushMenu';
 @import 'partials/layout/page';

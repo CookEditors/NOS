@@ -4,21 +4,18 @@
 
 /*==========  NO JS/SIMPLE BROWSER  ==========*/
 .site__header {
-	// border: 3px dashed orange;
-	@include clearfix;
-	// color: #fff;  what does this change??
 	background: $bgcolor url("/assets/img/pulpicons2.svg") repeat;	// add a media query to only repeat bg image on the X-axis when everything is in one line!
-	padding-bottom: 5rem;
-	height: 100px;
-	width: 100%;
-	@media screen and (min-width: 650px) {
-		height: 150px;
-	}
-	@media screen and (min-width: 60rem) {
-		float: left;
-		padding-bottom: 0;
-		height: auto;
-	} 
+	// @include clearfix;
+	// color: #fff;  what does this change??
+	// padding-bottom: 5rem;
+	// // height: 100px;
+	// width: 100%;
+	// @media screen and (min-width: 650px) {
+	// 	// height: 250px;
+	// }
+	// @media screen and (min-width: 60rem) {
+	// 	float: left;
+	// 	padding-bottom: 0;
+	// 	// height: auto;
+	// }
 }
-
-

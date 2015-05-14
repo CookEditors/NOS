@@ -7,7 +7,7 @@ title: home
 
   <section class="herounit">
     <div class="container">
-      <h1 class="h1 herounit__headline">whodunit?</h1>
+      <h1 class="h1 herounit__headline">whodunit?</h1> <!-- grit -->
       <h1 class="h3 herounit__subhead">Can you solve a murder?</h1>
       <i class="fa fa-arrow-circle-down fa-3x"></i>
       </div> <!-- end div container -->
@@ -16,8 +16,8 @@ title: home
   <section class="squeeze">
     <div class="container">
       <header class="squeeze__header">
-        <h1 class="squeeze__title">Death by Gas</h1>
-        <h2 class="squeeze__tagline">a brain&ndash;teaser</h2>
+        <h1 class="squeeze__title grit">Death by Gas</h1>
+        <h2 class="squeeze__tagline grit">a brain&ndash;teaser</h2>
         <h4 class="h3" style="text-align:center; color:darkred;">to test your mettle as a detective</h4>
         <h3 class="squeeze__byline">By J. J. Matthews</h3>
         <p class="squeeze__lead"></p>
@@ -38,38 +38,35 @@ title: home
         <p>Herman Matthews didn't wait for an invitation to tell his story. "What the cop says is so," he began. "Lucy, my wife, must have been going nuts in the last month. She even yelled in the grocery wanted to die. Life wasn’t worth while living. She must have gotten out of bed, disconnected the gas heater, and put that tube in her mouth. The gas sort of got me, too. Good thing the milkman came around and smelled the gas, or I would have been a goner, too."</p>
         <p>Something was bothering Captain Pearsons and he stroked his chin twice. There was something wrong in the airfare and he just couldn't put his finger on the detail. "You could have killed your wife," he suggested quietly. "Forced the tube into her mouth and turned on the gas. Figured out just about when the milkman would come, then back into your room after getting a whiff of the gas."</p>
         <p>Herman Matthews was indignant. "You can't prove that. I got a witness who will swear my wife wanted to die. Be careful what you say, Officer."</p>
-        <p>A smile began to play over the lips of Captain Pearsons as he snapped back, "Of course you killed your wife. The evidence right there staring you in the face.”</p>
-        <!-- <hr> -->
-         
+        <p id="reveal__top">A smile began to play over the lips of Captain Pearsons as he snapped back, "Of course you killed your wife. The evidence right there staring you in the face.”</p>
+        
         <div class="expander">
-          <p class="expander__question" id="question">QUESTION&#58;<br>What evidence did Captain Pearson see that proved Herman Matthews killed his wife?</p>
-          <!-- <p class="italic" style="background-color:#eee; padding:0.25rem 1rem; font-size:0.9rem; font-weight: bold;">Consider carefully because a correct answer qualifies you to become a <span style="text-transform:uppercase;">Detecive, 2nd Class</span> &amp; makes you eligible to receive <span style="color:darkred;">THE RED FILES</span>.</p> -->
-          <a href="#question" id="js-expander-trigger" class="expander-trigger expander-hidden" style="font-size:2rem;color:white;background-color:darkred;"><i class="fa fa-puzzle-piece"></i> Reveal solution <i class="fa fa-puzzle-piece"></i></a>
+          <p class="expander__question">What evidence did Captain Pearson see that proved Herman Matthews killed his wife?</p>
+
+          <div class="reveal__answer">
+            <!-- <p class="answer answer__hidden"></p> -->
+            <p class="answer answer__hidden" id="top-p">HINT&#058; Who turned off the gas?</p>
+            <p class="answer answer__hidden">The testimony of the milkman showed he never touched the tube or the gas cock. The patrolman took the tube from the girl’s mouth. If he didn’t turn it off, he must have seen it had been turned off.</p>
+            <p class="answer answer__hidden" id="last-p">That left only Herman &mdash; who, by force of habit &mdash; had turned the gas off.</p>
+          </div> <!-- end div .reveal__answer -->
+
+          <a href="#reveal__top" id="js-expander-trigger" class="expander-trigger expander-hidden reveal__button reveal__box">
+            <div id="revealer">
+              <p>Click to Reveal Solution</p>
+              <div class="spacer"></div>
+            </div>
+          </a>
+
           <div id="js-expander-content" class="expander-content">
-            <div class="expander__answer">
-              <p id="answer" style="color: $acolor;">ANSWER&#58;<br>Who turned off the gas?</p>
-              <p class="answer">The testimony of the milkman showed he never touched the tube or the gas cock. The patrolman took the tube from the girl’s mouth. If he didn’t turn it off, he must have seen it had been turned off.<br><br><strong>That left only Herman &mdash; who, by force of habit &mdash; had turned the gas off.</strong></p>
-            </div> <!-- end div expander__answer -->
-
-            <hr>
-
             <!-- INSERT SALES COPY HERE -->
-            
             {% include wgsalesletter.html %}
-
             <!-- SALES COPY ENDS -->
 
             <!-- MODAL -->
-
             {% include modal.html %}
-
             <!-- END MODAL -->
-
-
-
           </div> <!-- end div expander-content -->
         </div> <!-- end div expander -->
-          
     
     </article> <!-- end of article squeeze__story -->
 

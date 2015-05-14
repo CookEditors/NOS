@@ -235,7 +235,7 @@ button, input[type="submit"] {
   font-weight: normal; }
 
 #af-form-887734146 .af-body input.text, #af-form-887734146 .af-body textarea {
-  background-color: #FFFFFF;
+  background-color: #fffFFF;
   border-color: #D9D9D9;
   border-width: 1px;
   border-style: solid;
@@ -247,7 +247,7 @@ button, input[type="submit"] {
   font-family: Trebuchet MS, sans-serif; }
 
 #af-form-887734146 .af-body input.text:focus, #af-form-887734146 .af-body textarea:focus {
-  background-color: #FFFAD6;
+  background-color: #fffAD6;
   border-color: #030303;
   border-width: 1px;
   border-style: solid; }
@@ -285,7 +285,7 @@ button, input[type="submit"] {
 #af-form-887734146 .buttonContainer input.submit {
   background-color: #0479c2;
   background-image: url("http://aweber.com/images/forms/plain/buttons/grey.png");
-  color: #FFFFFF;
+  color: #fffFFF;
   text-decoration: none;
   font-style: normal;
   font-weight: normal;
@@ -329,7 +329,7 @@ button, input[type="submit"] {
   overflow-x: hidden; }
 
 #af-form-887734146 {
-  background-color: #FFFFFF;
+  background-color: #fffFFF;
   border-color: #CFCFCF;
   border-width: 1px;
   border-style: none; }
@@ -1102,6 +1102,7 @@ td, th {
    ========================================================================== */
 /*==========  FONTS  ==========*/
 /* TYPE FACES */
+/* "ltc-broadway" */
 /* FONT WEIGHTS */
 /*==========  COLORS  ==========*/
 /* darkred */
@@ -1155,8 +1156,8 @@ body {
   top: 0px;
   left: 0px;
   height: 100%;
-  width: 100%;
-  max-width: 60rem;
+  width: 60rem;
+  max-width: 100%;
   margin: 0 auto;
   padding: 0 3.125%;
   /* copied from AJ for cards; 3.125%=10px @ 320px width*/ }
@@ -1169,7 +1170,7 @@ body {
   @media screen and (min-width: 525px) and (max-width: 599px) {
     .container {
       padding: 0 15%; } }
-  @media screen and (min-width: 1200px) {
+  @media screen and (min-width: 600px) {
     .container {
       padding: 0; } }
 
@@ -1204,6 +1205,154 @@ dl {
   dl dd {
     margin: 0; }
 
+/* ==========================================================================
+   SCSS FOR INDEX_TEST.HTML
+   ========================================================================== */
+.site__header__test {
+  background: #242424 url("/assets/img/pulpicons2.svg") repeat-x;
+  color: white;
+  width: 100%;
+  margin: 0;
+  padding: 0; }
+
+.masthead__test {
+  width: 960px;
+  min-height: 75px;
+  max-height: 275px;
+  max-width: 100%;
+  margin: 0; }
+  @media screen and (min-width: 769px) {
+    .masthead__test {
+      margin: 0 0 0 6rem; } }
+  @media screen and (min-width: 700px) and (max-width: 736px) {
+    .masthead__test {
+      margin: 0 0 0 15rem; } }
+
+.masthead-inner__test {
+  padding: 1rem 0;
+  margin: 0 auto; }
+  @media screen and (min-width: 360px) {
+    .masthead-inner__test {
+      display: inline-block;
+      float: left;
+      text-align: center;
+      width: 230px; } }
+  @media screen and (min-width: 737px) {
+    .masthead-inner__test {
+      display: block;
+      width: 960px;
+      max-width: 100%; } }
+
+.nav__test {
+  background-color: darkblue; }
+
+.title__test {
+  float: left;
+  font-family: "nimbus-sans-condensed", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  color: #8B0000;
+  margin: 0 0 -1rem 10%; }
+  .title__test span.urde, .title__test span.m, .title__test span.r {
+    display: inline-block;
+    color: #8B0000;
+    text-transform: uppercase;
+    letter-spacing: -0.25rem;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #444;
+    text-shadow: 2px 1px #a1a199;
+    /* #ccc */
+    -webkit-transform: rotate(-6deg) skew(-3deg, 0);
+    -ms-transform: rotate(-6deg) skew(-3deg, 0);
+    transform: rotate(-6deg) skew(-3deg, 0); }
+    @media screen and (min-width: 737px) {
+      .title__test span.urde, .title__test span.m, .title__test span.r {
+        font-size: 11rem;
+        letter-spacing: -8px;
+        text-shadow: 4px 3px #a1a199;
+        /* #ccc */ } }
+  .title__test span.m, .title__test span.r {
+    -webkit-transform: rotate(-5deg) skew(-5deg, 0);
+    -ms-transform: rotate(-5deg) skew(-5deg, 0);
+    transform: rotate(-5deg) skew(-5deg, 0); }
+  .title__test span.r {
+    letter-spacing: 4px; }
+  @media screen and (min-width: 737px) {
+    .title__test {
+      width: 900px;
+      margin: 0 auto;
+      padding: 0; } }
+
+.title-main__test {
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  vertical-align: middle; }
+
+.title-sub__test {
+  font-family: "nimbus-sans-condensed", sans-serif;
+  font-size: 1.5rem;
+  color: #fffff0;
+  text-transform: initial; }
+  @media screen and (min-width: 737px) {
+    .title-sub__test {
+      display: block;
+      font-size: 4rem;
+      margin: 0 0 -5rem -8.5rem; } }
+
+.tagline__test {
+  display: none;
+  font-family: "nimbus-sans-condensed", sans-serif;
+  font-size: 1.25rem;
+  letter-spacing: 0.25px;
+  color: #fffff0; }
+  .tagline__test span {
+    color: #8B0000;
+    font-style: italic;
+    -webkit-text-stroke-width: 0.75px;
+    -webkit-text-stroke-color: #ccc;
+    text-shadow: 2px 1px #fffff0;
+    /* #ccc */ }
+  @media screen and (min-width: 737px) {
+    .tagline__test {
+      display: inline-block;
+      font-size: 2.5rem;
+      letter-spacing: 2px;
+      line-height: 1px;
+      position: relative;
+      top: -1.15rem;
+      left: -1.5rem;
+      font-weight: 900; } }
+
+.logo__test {
+  display: none;
+  width: 44px;
+  height: auto; }
+  @media screen and (min-width: 360px) {
+    .logo__test {
+      display: inline-block;
+      float: left;
+      position: relative;
+      top: 1rem;
+      left: 1rem; }
+      @media screen and (min-width: 737px) {
+        .logo__test {
+          display: inline;
+          position: static;
+          clear: both;
+          width: 125px;
+          margin: 5rem -25rem 0 3rem;
+          padding: 0; } } }
+
+.navicon__test {
+  color: #fffff0;
+  font-size: 2.75rem;
+  position: absolute;
+  top: 1.75rem;
+  right: 1.5rem; }
+  @media screen and (min-width: 701px) {
+    .navicon__test {
+      display: none; } }
+
 /*==========  MODULES  ==========*/
 /* ==========================================================================
    SLABTEXT.JS CSS
@@ -1225,6 +1374,76 @@ dl {
 .slabtextdone .slabtext {
   display: block;
   line-height: 0.9; }
+
+/* ==========================================================================
+   WELCOME GATE REVEAL Q&A
+   ========================================================================== */
+.reveal {
+  width: 100%;
+  max-width: 600px;
+  height: 200px;
+  margin: 0.5rem auto; }
+
+.reveal__question__header, .reveal__answer__header {
+  font-size: 1.15rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-decoration: underline;
+  color: #8B0000;
+  text-align: center; }
+
+.reveal__question {
+  width: 85%;
+  max-width: 500px;
+  margin: 0 auto;
+  font-size: 1rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: #8B0000;
+  text-align: left; }
+
+.reveal__answer {
+  border: 1px solid rgba(192, 192, 192, 0.5);
+  box-shadow: 3px 3px 10px 2px rgba(192, 192, 192, 0.5);
+  width: 100%;
+  max-width: 595px;
+  margin: 0 auto;
+  cursor: pointer;
+  padding: 1rem 0.75rem 0 0.75rem; }
+
+.reveal__box {
+  width: 98%;
+  max-width: 600px;
+  margin: 1rem auto 0 auto;
+  padding: 1rem;
+  position: absolute;
+  bottom: 125px;
+  right: 5px; }
+  .reveal__box p {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "nimbus-sans-condensed", sans-serif;
+    font-weight: bold;
+    text-shadow: 2px 2px 3px #474F55;
+    font-size: 1.95rem;
+    transform: rotate(-4deg); }
+  @media screen and (min-width: 410px) {
+    .reveal__box {
+      position: absolute;
+      bottom: 95px;
+      right: 285px; } }
+
+.reveal__button {
+  text-decoration: none !important; }
+
+.answer {
+  color: #474F55;
+  font-weight: normal; }
+
+p.answer__hidden {
+  color: transparent;
+  font-weight: bold;
+  text-shadow: 0 0 11px rgba(0, 0, 0, 0.5); }
 
 .modal {
   -webkit-font-smoothing: antialiased;
@@ -2157,7 +2376,7 @@ ul.openemail :last-of-type {
   border-top: 1px solid rgba(192, 192, 192, 0.5);
   border-left: 1px solid rgba(192, 192, 192, 0.5);
   box-shadow: 3px 3px 10px 2px rgba(139, 0, 0, 0.25);
-  background-color: #FFF;
+  background-color: #fff;
   margin: 2.5rem 0;
   height: 250px; }
   #panel .previewLabel {
@@ -2243,22 +2462,7 @@ progress {
    ========================================================================== */
 /*==========  NO JS/SIMPLE BROWSER  ==========*/
 .site__header {
-  background: #242424 url("/assets/img/pulpicons2.svg") repeat;
-  padding-bottom: 5rem;
-  height: 100px;
-  width: 100%; }
-  .site__header:after {
-    content: "";
-    display: table;
-    clear: both; }
-  @media screen and (min-width: 650px) {
-    .site__header {
-      height: 150px; } }
-  @media screen and (min-width: 60rem) {
-    .site__header {
-      float: left;
-      padding-bottom: 0;
-      height: auto; } }
+  background: #242424 url("/assets/img/pulpicons2.svg") repeat; }
 
 /* ==========================================================================
    TYPOGRAPHY..based on modernscale.scss
@@ -2283,45 +2487,45 @@ body, caption, th, td, input, textarea, select, option, legend, fieldset, h1, .m
     /* equivalent to 22px */ }
  }
 
-h1, .manifesto h2, .policies h2, .terms h2, .contact h2, h2, h3, h4, h5, h6, .h1, .digestexplanation h2, .title, .squeeze__tagline, .salesletter h2, .squeeze__byline, .salesletter h3, .bc__header h2, .h2, .title, .navicon, .squeeze__byline, .salesletter h3, .h3, .modal .modal-inner h2, .sectiontitle, .h4, .h5, .h6 {
+h1, .manifesto h2, .policies h2, .terms h2, .contact h2, h2, h3, h4, h5, h6, .h1, .digestexplanation h2, .squeeze__tagline, .salesletter h2, .squeeze__byline, .salesletter h3, .bc__header h2, .h2, .navicon__test, .navicon, .squeeze__byline, .salesletter h3, .h3, .modal .modal-inner h2, .sectiontitle, .h4, .h5, .h6 {
   font-family: "Josefin Sans", sans-serif; }
 
-h1, .manifesto h2, .policies h2, .terms h2, .contact h2, .h1, .digestexplanation h2, .title, .squeeze__tagline, .salesletter h2, .squeeze__byline, .salesletter h3, .bc__header h2 {
+h1, .manifesto h2, .policies h2, .terms h2, .contact h2, .h1, .digestexplanation h2, .squeeze__tagline, .salesletter h2, .squeeze__byline, .salesletter h3, .bc__header h2 {
   font-size: 2em;
   /* 2x body copy size = 32px */
   line-height: 1.25;
   /* 45px / 36px */ }
 
 @media (min-width: 43.75em) {
-  h1, .manifesto h2, .policies h2, .terms h2, .contact h2, .h1, .digestexplanation h2, .title, .squeeze__tagline, .salesletter h2, .squeeze__byline, .salesletter h3, .bc__header h2 {
+  h1, .manifesto h2, .policies h2, .terms h2, .contact h2, .h1, .digestexplanation h2, .squeeze__tagline, .salesletter h2, .squeeze__byline, .salesletter h3, .bc__header h2 {
     font-size: 2.5em;
     /* 2.5x body copy size = 40px */
     line-height: 1.125; }
  }
 
 @media (min-width: 56.25em) {
-  h1, .manifesto h2, .policies h2, .terms h2, .contact h2, .h1, .digestexplanation h2, .title, .squeeze__tagline, .salesletter h2, .squeeze__byline, .salesletter h3, .bc__header h2 {
+  h1, .manifesto h2, .policies h2, .terms h2, .contact h2, .h1, .digestexplanation h2, .squeeze__tagline, .salesletter h2, .squeeze__byline, .salesletter h3, .bc__header h2 {
     font-size: 3em;
     /* 3x body copy size = 48px */
     line-height: 1.05;
     /* keep to a multiple of the 20px line height and something more appropriate for display headings */ }
  }
 
-h2, .h2, .title, .navicon, .squeeze__byline, .salesletter h3 {
+h2, .h2, .navicon__test, .navicon, .squeeze__byline, .salesletter h3 {
   font-size: 1.625em;
   /* 1.625x body copy size = 26px */
   line-height: 1.15384615;
   /* 30px / 26px */ }
 
 @media (min-width: 43.75em) {
-  h2, .h2, .title, .navicon, .squeeze__byline, .salesletter h3 {
+  h2, .h2, .navicon__test, .navicon, .squeeze__byline, .salesletter h3 {
     font-size: 2em;
     /* 2x body copy size = 32px */
     line-height: 1.25; }
  }
 
 @media (min-width: 56.25em) {
-  h2, .h2, .title, .navicon, .squeeze__byline, .salesletter h3 {
+  h2, .h2, .navicon__test, .navicon, .squeeze__byline, .salesletter h3 {
     font-size: 2.25em;
     /* 2.25x body copy size = 36px */
     line-height: 1.25; }
@@ -2398,66 +2602,144 @@ blockquote {
 /* ==========================================================================
    MASTHEAD..max width 960px, within header
    ========================================================================== */
-/*==========  NO JS/SIMPLE BROWSER  ==========*/
+.site__header {
+  background: #242424 url("/assets/img/pulpicons2.svg") repeat-x;
+  color: white;
+  width: 100%;
+  margin: 0;
+  padding: 0; }
+
 .masthead {
-  margin: 1rem; }
-  @media screen and (min-width: 654px) {
+  width: 960px;
+  min-height: 75px;
+  max-height: 275px;
+  max-width: 100%;
+  margin: 0; }
+  @media screen and (min-width: 769px) {
     .masthead {
-      text-align: center; } }
-  @media screen and (min-width: 60rem) {
+      margin: 0 0 0 6rem; } }
+  @media screen and (min-width: 700px) and (max-width: 736px) {
     .masthead {
-      text-align: left;
-      float: left; } }
+      margin: 0 0 0 15rem; } }
 
 .branding {
-  width: 200px;
-  float: left; }
-  @media screen and (min-width: 350px) {
+  padding: 1rem 0;
+  margin: 0 auto; }
+  @media screen and (min-width: 360px) {
     .branding {
-      float: none;
-      margin: 0 auto; } }
+      display: inline-block;
+      float: left;
+      text-align: center;
+      width: 230px; } }
+  @media screen and (min-width: 737px) {
+    .branding {
+      display: block;
+      width: 960px;
+      max-width: 100%; } }
 
-.logo {
-  margin: 0.55rem 0 0 0;
-  width: 200px; }
-  @media screen and (min-width: 350px) {
-    .logo {
-      width: 200px;
-      margin: 0.55rem auto; } }
-
-.title {
-  margin: 0.8rem 0 0 0;
-  padding: 0 0 0 0.5rem;
-  color: #fff;
-  font-family: "ltc-broadway", sans-serif;
-  font-size: 1.5rem; }
-  .title span {
+.masthead__title {
+  float: left;
+  font-family: "nimbus-sans-condensed", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  color: #8B0000;
+  margin: 0 0 -1rem 10%; }
+  .masthead__title span.urde, .masthead__title span.m, .masthead__title span.r {
+    display: inline-block;
     color: #8B0000;
-    display: block;
-    text-transform: uppercase; }
-    @media screen and (min-width: 25.0625rem) {
-      .title span {
-        display: inline; } }
+    text-transform: uppercase;
+    letter-spacing: -0.25rem;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #444;
+    text-shadow: 2px 1px #a1a199;
+    /* #ccc */
+    -webkit-transform: rotate(-6deg) skew(-3deg, 0);
+    -ms-transform: rotate(-6deg) skew(-3deg, 0);
+    transform: rotate(-6deg) skew(-3deg, 0); }
+    @media screen and (min-width: 737px) {
+      .masthead__title span.urde, .masthead__title span.m, .masthead__title span.r {
+        font-size: 11rem;
+        letter-spacing: -8px;
+        text-shadow: 4px 3px #a1a199;
+        /* #ccc */ } }
+  .masthead__title span.m, .masthead__title span.r {
+    -webkit-transform: rotate(-5deg) skew(-5deg, 0);
+    -ms-transform: rotate(-5deg) skew(-5deg, 0);
+    transform: rotate(-5deg) skew(-5deg, 0); }
+  .masthead__title span.r {
+    letter-spacing: 4px; }
+  @media screen and (min-width: 737px) {
+    .masthead__title {
+      width: 900px;
+      margin: 0 auto;
+      padding: 0; } }
 
-.tagline {
-  margin: 0;
-  padding: 0;
-  color: #fff;
-  font-family: "ltc-broadway", sans-serif;
-  font-size: 1rem; }
-  .tagline span {
-    display: block; }
-    @media screen and (min-width: 25.0625rem) {
-      .tagline span {
-        display: inline; } }
-  .tagline em {
-    color: #8B0000; }
+.title__main {
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  vertical-align: middle; }
+
+.title__sub {
+  font-family: "nimbus-sans-condensed", sans-serif;
+  font-size: 1.5rem;
+  color: #fffff0;
+  text-transform: initial; }
+  @media screen and (min-width: 737px) {
+    .title__sub {
+      display: block;
+      font-size: 4rem;
+      margin: 0 0 -5rem -8.5rem; } }
+
+.masthead__tagline {
+  display: none;
+  font-family: "nimbus-sans-condensed", sans-serif;
+  font-size: 1.25rem;
+  letter-spacing: 0.25px;
+  color: #fffff0; }
+  .masthead__tagline span {
+    color: #8B0000;
+    font-style: italic;
+    -webkit-text-stroke-width: 0.75px;
+    -webkit-text-stroke-color: #ccc;
+    text-shadow: 2px 1px #fffff0;
+    /* #ccc */ }
+  @media screen and (min-width: 737px) {
+    .masthead__tagline {
+      display: inline-block;
+      font-size: 2.5rem;
+      letter-spacing: 2px;
+      line-height: 1px;
+      position: relative;
+      top: -1.15rem;
+      left: -1.5rem;
+      font-weight: 900; } }
+
+.masthead__logo {
+  display: none;
+  width: 44px;
+  height: auto; }
+  @media screen and (min-width: 360px) {
+    .masthead__logo {
+      display: inline-block;
+      float: left;
+      position: relative;
+      top: 1rem;
+      left: 1rem; }
+      @media screen and (min-width: 737px) {
+        .masthead__logo {
+          display: inline;
+          position: static;
+          clear: both;
+          width: 125px;
+          margin: 5rem -25rem 0 3rem;
+          padding: 0; } } }
 
 /* ==========================================================================
    NAVIGATION..MENUS
    ========================================================================== */
 .nav__basic {
-  margin: 0;
+  width: 700px;
+  margin: -1rem auto 1rem auto;
   padding: 0;
   text-align: center;
   list-style: none;
@@ -2467,27 +2749,32 @@ blockquote {
     letter-spacing: 1px;
     text-decoration: underline; }
   .nav__basic a {
-    color: #fff;
-    padding: 1.5625rem;
-    line-height: 7.1875rem;
-    text-decoration: none;
-    line-height: 2.5; }
+    font-size: 1.25rem;
+    color: #fffff0;
+    text-align: center;
+    padding: 1rem;
+    text-decoration: none; }
     .nav__basic a:hover {
       text-decoration: underline; }
-    @media screen and (min-width: 60rem) {
-      .nav__basic a {
-        padding: 1.25rem 0.75rem;
-        margin: 1rem 0.5rem;
-        display: block;
-        float: left; } }
 
 .navicon {
-  color: #fff;
-  padding: 1rem 0 0 0;
-  float: right; }
-  @media screen and (min-width: 654px) {
+  border: 1px solid orange;
+  color: #fffff0;
+  font-size: 2.75rem;
+  margin: 0;
+  position: absolute;
+  top: 2rem;
+  right: 1.25rem; }
+  @media screen and (min-width: 375px) {
     .navicon {
-      display: none; } }
+      position: absolute;
+      top: 2.25rem;
+      right: 2.25rem; } }
+  @media screen and (min-width: 410px) {
+    .navicon {
+      position: absolute;
+      top: 2rem;
+      right: 2rem; } }
 
 /*================================
 =            MAIN NAV            =
@@ -2497,7 +2784,8 @@ blockquote {
 /*===========================================
 =            jquery jPushMenu css            =
 ===========================================*/
-@media screen and (max-width: 653px) {
+@media screen and (max-width: 700px) {
+  /* controls at what px width the full menu displays */
   /* General styles for all menus */
   .cbp-spmenu {
     background-color: rgba(36, 36, 36, 0.98);
@@ -2656,14 +2944,14 @@ blockquote {
   max-width: 60rem; }
 
 .post__content {
-  background-color: #FFF;
+  background-color: #fff;
   max-width: 37.5rem;
   margin: 0 auto;
   padding: 0 1rem; }
 
 blockquote {
   color: #8B0000;
-  background-color: #FFF;
+  background-color: #fff;
   padding: 1rem;
   border-top: 1px solid #8B0000;
   border-bottom: 1px solid #8B0000;
@@ -2845,6 +3133,7 @@ blockquote {
   margin-top: 2rem; }
 
 .herounit {
+  box-shadow: 0 10px 10px -10px #000;
   background-color: #8B0000;
   color: #fff;
   text-align: center;
@@ -3101,7 +3390,7 @@ blockquote {
 
 .expander {
   -webkit-font-smoothing: antialiased;
-  border-bottom: 1px solid #8B0000;
+  width: 100%;
   max-width: 45rem;
   margin: 0 auto; }
   .expander p {
@@ -3127,14 +3416,14 @@ blockquote {
     display: none; }
 
 .expander-content {
-  border-bottom: none; }
+  margin-top: 4rem; }
 
 .expander__question, #answer {
   font-size: 1.15rem;
   font-weight: bold;
   letter-spacing: 2px;
   color: #8B0000;
-  text-align: center; }
+  text-align: left; }
 
 .expander__answer {
   background-color: #ddd;
@@ -3147,8 +3436,7 @@ blockquote {
   font-weight: normal; }
 
 .main {
-  background-color: #fff;
-  /* $paper */ }
+  background-color: #fffff0; }
 
 /* ==========================================================================
    BOOK CATALOG
@@ -3182,9 +3470,8 @@ blockquote {
   display: block;
   text-align: center;
   font-size: 1.1rem;
-  color: #fff;
+  color: #fffff0;
   background: #242424 url("/assets/img/footprints1.png") repeat-x;
-  min-height: 4.0625rem;
   padding: 1rem; }
 
 /*==========  UTILITIES  ==========*/
@@ -3229,6 +3516,10 @@ blockquote {
   max-width: 85%;
   margin: 2rem auto 0 auto;
   padding: 3rem; }
+
+.grit {
+  -webkit-mask-image: url("/assets/img/mytexture6.png");
+  mask-image: url("/assets/img/mytexture6.png"); }
 
 .progbar {
   margin-top: 1rem; }
