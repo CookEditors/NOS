@@ -3,81 +3,76 @@
    ========================================================================== */
 
 .site__header__test {
-	// background-color: #242424;
 	background: $bgcolor url("/assets/img/pulpicons2.svg") repeat-x;	// add a media query to only repeat bg image on the X-axis when everything is in one line!
 	color: white;
 	width: 100%;
-	margin: 0;
-	padding: 0;
+	// margin: 0;
+	// padding: 0;
 }
 
 .masthead__test {
-	// border: 1px solid green;
-	// display: block;
-	// background-color: #242424;
-	// margin: 0 auto;
-	// padding: 0.5rem;
+	border: 1px solid hotpink;
 	width: 960px;
-	min-height: 75px;
-	max-height: 275px;
 	max-width: 100%;
-	margin: 0;
+	// min-height: 75px;
+	// max-height: 275px;
+	// margin: 0;
 	@media screen and (min-width: 769px) {
-		margin: 0 0 0 6rem;
+		// margin: 0 0 0 6rem;
 	}
 	@media screen and (min-width: 700px) and (max-width: 736px) {
-		margin: 0 0 0 15rem;
+		// margin: 0 0 0 15rem;
+		
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		align-items: center;
+		align-content: space-between;
 	}
 }
 
-.masthead-inner__test {
-	// border: 1px solid red;
-	padding: 1rem 0;
-	margin: 0 auto;
+.branding__test {
+	border: 1px solid red;
+	// padding: 1rem 0;
+	// margin: 0 auto;
 	@media screen and (min-width: 360px) {
-		display: inline-block;
-		float: left;
-		text-align: center;
-		width: 230px;
+		// display: inline-block;
+		// float: left;
+		// text-align: center;
+		// width: 230px;
 	}
 	@media screen and (min-width: 737px) {
 		display: block;
 		width: 960px;
 		max-width: 100%;
+		display: flex;
+		flex-direction: column;
 	}
 }
 
 .nav__test {
 	background-color: darkblue;
-	// padding: 0.25rem; /* temp */
-	// width: 100%;
-	// max-width: 960px;	
-	// height: auto;
+
 }
 
 .title__test {
-	// border: 1px solid yellow;
-	float: left;
+	border: 1px solid green;
+	// float: left;
 	font-family: $branding-font-family;
 	font-style: normal;
 	font-weight: 900;
 	color: $acolor;
-	margin: 0 0 -1rem 10%;
-
-
+	// margin: 0 0 -1rem 10%;
 	span.urde {
 		display: inline-block;
-		// font: 5rem/1 "nimbus-sans-condensed",sans-serif;
-		// font-weight: 900;
 		color: $acolor;
 		text-transform: uppercase;
 		letter-spacing: -0.25rem;
 
 		-webkit-text-stroke-width: 1px;
 		-webkit-text-stroke-color: #444;
-		text-shadow: 2px 1px #a1a199; /* #ccc */
+		text-shadow: 2px 1px #a1a199; 
 
-		// margin: -2rem 0 2rem 0;
 		-webkit-transform: rotate(-6deg) skew(-3deg, 0);
 		-ms-transform: rotate(-6deg) skew(-3deg, 0);
 		transform: rotate(-6deg) skew(-3deg, 0);
@@ -101,27 +96,17 @@
 		// color: white;
 	}
 	@media screen and (min-width: 737px) {
-		width: 900px;
-		margin: 0 auto;
-		padding: 0;
+		// width: 900px;
+		// margin: 0 auto;
+		// padding: 0;
 	}
 }
 
 .title-main__test {
-	// display: inline-block;
 	font-size: 2.5rem;
 	text-transform: uppercase;
-	vertical-align: middle;
-	// 	-webkit-text-stroke-width: 1px;
-	// 	-webkit-text-stroke-color: #999;
-	// 	-webkit-transform: rotate(-6deg) skew(-3deg, 0);
-	// 	-ms-transform: rotate(-6deg) skew(-3deg, 0);
-	// 	transform: rotate(-6deg) skew(-3deg, 0);
-	// @media screen and (min-width: 737px) {
-	// 	font-size: 11rem;
-	// 	vertical-align: middle;
-	// 	text-shadow: 4px 3px #888; /* #ccc */
-	// }
+	// vertical-align: middle;
+
 }
 
 .title-sub__test {
@@ -129,16 +114,14 @@
 	font-size: 1.5rem;
 	color: $paper;
 	text-transform: initial;
-	// baseline-shift: -10rem;
 	@media screen and (min-width: 737px) {
 		display: block;
 		font-size: 4rem;
-		margin: 0 0 -5rem -8.5rem;
+		// margin: 0 0 -5rem -8.5rem; /* controls positioning relative to MURDER */
 	}
 }
 
 .tagline__test {
-	// border: 1px solid yellow;
 	display: none;
 	font-family: $branding-font-family;
 	font-size: 1.25rem;
@@ -147,54 +130,41 @@
 	span {
 		color: $acolor;
 		font-style: italic;
-		// letter-spacing: 1px;
 		-webkit-text-stroke-width: 0.75px;
 		-webkit-text-stroke-color: #ccc;
 		text-shadow: 2px 1px $paper; /* #ccc */
 	}
-	// text-align: center; 
-	// margin-left: 2rem;
-	// @media screen and (min-width: 700px) {
-	// 	display: inline;
-	// 	float: right;
-	// }
 	@media screen and (min-width: 737px) {
 		display: inline-block;
 		font-size: 2.5rem;
-		// font-variant: small-caps;
 		letter-spacing: 2px;
-		line-height: 1px;
-		// margin: -10rem 0 0.5rem -4rem;
-		position: relative;
-		top: -1.15rem;
-		left: -1.5rem;
+		// line-height: 1px;
+		// position: relative;
+		// top: -1.15rem;
+		// left: -1.5rem;
 		font-weight: 900;
 	}
 }
 
 .logo__test {
-	// border: 1px solid blue;
+	border: 1px solid blue;
 	display: none;
 	width: 44px;
 	height: auto;
 	@media screen and (min-width: 360px) {
 		display: inline-block;
-		float: left;
-		position: relative;
-		top: 1rem;
-		left: 1rem;
-		// width: auto;
-		// margin: 5rem 0 0 1rem;
-		@media screen and (min-width: 737px) {
-			display: inline;
-			position: static;
-			clear: both;
-			width: 125px;
-			// top: 12rem;
-			// left: 2rem;
-			margin: 5rem -25rem 0 3rem;
-			padding: 0;
-		}
+		// float: left;
+		// position: relative;
+		// top: 1rem;
+		// left: 1rem;
+	}
+	@media screen and (min-width: 737px) {
+		display: inline;
+		// position: static;
+		// clear: both;
+		width: 125px;
+		// margin: 5rem -25rem 0 3rem;
+		// padding: 0;
 	}
 }
 
@@ -202,9 +172,9 @@
 	color: $paper;
 	@extend .h2;
 	font-size: 2.75rem;
-	position: absolute;
-	top: 1.75rem;
-	right: 1.5rem;
+	// position: absolute;
+	// top: 1.75rem;
+	// right: 1.5rem;
 	@media screen and (min-width: 701px) {
 		display: none;
 	}

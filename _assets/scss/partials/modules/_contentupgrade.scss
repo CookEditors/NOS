@@ -3,8 +3,8 @@
    ========================================================================== */
 
 .cu-tease {
-	border: 1px solid #c2c2c2;
-	background-color: /*#F5FAA6 */ #f5f5f5;
+	border: 1px solid /* #c2c2c2 */ $acolor;
+	background-color: /*#F5FAA6  #f5f5f5 */ lightyellow;
 	max-width: 600px;
 	width: 90%;
 	padding: 1rem;

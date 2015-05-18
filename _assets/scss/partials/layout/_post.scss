@@ -13,10 +13,11 @@
 }
 
 .post__content {
-	background-color: #fff;
+	background-color: $paper;
+	border: 1px solid $acolor;
 	max-width: 37.5rem;
 	margin: 0 auto;
-	padding: 0 1rem;
+	padding: 1rem;
 	// border-left: 1px solid $acolor;
 	// border-right: 1px solid $acolor;
 }
@@ -242,8 +243,8 @@ blockquote {
 // }
 
 .pc-tease {
-	border: 1px solid #c2c2c2;
-	background-color: /*#F5FAA6 */ #f5f5f5;
+	border: 1px solid /* #c2c2c2 */ $acolor;
+	background-color: /*#F5FAA6  #f5f5f5 */ lightyellow;
 	max-width: 600px;
 	width: 90%;
 	padding: 1rem;

@@ -1,6 +1,6 @@
 # Site settings
 title: Tales of Murder
-email: talesofmurderpress@gmail.com
+email: contact@talesofmurder.com
 description: A murder mystery short story &amp; novel site.
 baseurl: "localhost:3000" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site ... change to "/NOS" for gh-pages
@@ -18,7 +18,7 @@ paginate: 5
 # owner:
 # 	name: Rich Cook
 # 	avatar:
-# 	email: talesofmurderpress@gmail.com
+# 	email: rich@talesofmurder.com
 # 	google:
 # 		plus: talesofmurderpress
 # 		analytics: UA-42672955-1
@@ -38,3 +38,4 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+# gems: [jekyll-assets, autoprefixer-rails]

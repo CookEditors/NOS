@@ -1,0 +1,100 @@
+.flextest__header {
+	background: $bgcolor url("/assets/img/pulpicons2.svg") repeat-x;	// add a media query to only repeat bg image on the X-axis when everything is in one line!
+	color: white;
+	width: 100%;
+	// background-color: blue;
+	// color: #fff;
+	// height: 300px;
+}
+
+.container__temp {
+	@extend .container;
+	// border: 1px solid hotpink;
+}
+
+.flextest__masthead {
+	background-color: transparent;
+	height: 240px;
+	width: 100%;
+	max-width: 960px;
+	padding: 0.5rem;
+
+	display: flex;
+	display: -webkit-box;
+	display: -webkit-flex;
+
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	align-content: space-between;
+}
+
+.flextest__logo {
+	background-color: transparent;
+	height: 125px;
+	width: 125px;
+	padding: 0.5rem;
+	
+	margin: 1rem;
+}
+
+.flextest__branding {
+	// border: 2px solid purple;
+
+	display: flex;
+	flex-direction: column;
+}
+
+.flextest__titles {
+	background-color: transparent;
+	// height: 170px;
+	// width: 525px;
+	padding: 0.5rem;
+
+	font-family: $branding-font-family;
+	font-weight: 900;
+	
+}
+
+.flextest__title-main {
+	color: $acolor;
+	text-transform: uppercase;
+	font-size: 11rem;
+	line-height: 4rem;
+}
+
+.flextest__title-sub {
+	display: block;
+	color: $paper;
+	font-size: 4rem;
+}
+
+.flextest__tagline {
+	background-color: transparent;
+	// padding: 0.5rem;
+
+	font-family: $branding-font-family;
+	font-weight: 900;
+	font-size: 2.5rem;
+	letter-spacing: 4px;
+	color: $paper;
+	align-self: center;
+	span {
+		color: $acolor;
+		font-style: italic;
+	}
+}
+
+.flextest__navicon {
+	background-color: lightblue;
+	height: 44px;
+	width: 44px;
+	padding: 0.25rem;
+
+	position: absolute;
+	top: 2rem;
+	right: 2rem;
+	@media screen and (min-width: 765px) {
+			display: none;
+	}
+}

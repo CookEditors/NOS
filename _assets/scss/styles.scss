@@ -20,7 +20,6 @@
 @import 'partials/base/variables';
 @import 'partials/base/base';
 @import 'partials/base/lists';
-@import 'partials/base/index_test';
 
 
 /*==========  MODULES  ==========*/
@@ -71,16 +70,15 @@
 
 
 
-
-
-
-
-
 /*==========  UTILITIES  ==========*/
 @import 'partials/utils/utils';
 @import 'partials/utils/tooltip';
 
 
+
+/*==========  TESTING  ==========*/
+// @import 'partials/testing-scss/index_test';
+// @import 'partials/testing-scss/flexheader';
 
 
 
