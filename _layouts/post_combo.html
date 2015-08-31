@@ -19,8 +19,13 @@ layout: default
 				<h2 class="post__excerpt">{{ page.excerpt }}</h4>
 				<h3 class="post__author">By <strong>{{ page.author }}</strong></h3>
 			</div>
-			<div class="post__img grit">
-				<img src="{{ page.image }}" alt="{{ post.title }}">
+			<div class="post__img "> <!-- add class grit to dirty up pic -->
+				<figure>
+					<img src="{{ page.image }}" alt="{{ post.title }}">
+					<figcaption style="font-weight: bold;font-size: 0.75rem;color: #8B0000;text-align: center;">CASEFILE NO. {{ page.casefileNumber }}</figcaption>
+				</figure>
+
+
 			</div>
 		</div>
 

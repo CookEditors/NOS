@@ -3133,6 +3133,14 @@ blockquote {
   text-transform: uppercase;
   margin-bottom: 1rem; }
 
+/* ==========================================================================
+FIGURE OUT HOW TO TARGET **ONLY** THE CHAPTER TITLE AND MAKE **IT** BOLD!!
+
+ul#markdown-toc { 
+	font-weight: bold;
+}
+   
+   ========================================================================== */
 .btt {
   text-align: right; }
   .btt a {
