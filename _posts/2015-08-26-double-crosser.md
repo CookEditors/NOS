@@ -7,7 +7,7 @@ author: Johnston McCultey
 date: 2015-08-26
 categories: short-stories
 excerpt: If Danny Blure could get out fast, he'd have a small fortune in jewelry. And if Agnew's boys would take the rap for the murder Danny'd unintentionally committed &mdash; he'd covered himself that far when he planted evidence at the scene of what he'd meant to only be a robbery &hellip;
-image: /assets/img/double-crosser.png
+image: /assets/img/double-crosser.svg
 genre: Hood
 wordcount: 4718
 timetoread: EST TIME TO READ

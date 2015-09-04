@@ -7,7 +7,7 @@ author: Ward Sterling
 date: 2015-08-28
 categories: short-stories
 excerpt: Without a sign of undue haste, Halligan buckled his belt and holster about his waist. Coolly he unbuttoned the holster and drew the gun. He cocked the weapon and, with his finger on the trigger, waited for the others to settle their argument.
-image: /assets/img/long-arm-of-god.png
+image: /assets/img/long-arm-of-god.svg
 genre: Murder
 wordcount: 3712
 timetoread: EST TIME TO READ

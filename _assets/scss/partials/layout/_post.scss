@@ -46,6 +46,7 @@ blockquote {
 	color: $acolor;
 	font-size: 3rem;
 	text-transform: uppercase;
+	text-align: center;
 	padding: 0;
 	margin: 1rem 0 0 0;
 	@media screen and (min-width: 350px) {
@@ -61,21 +62,22 @@ blockquote {
 
 .titles {
 	// background-color: blue;
-	text-align: right;
+	// text-align: right;
 	margin: 0 auto;
+	padding: 10px;
 	width: 100%;
-	max-width: 300px;
+	// max-width: 300px;
 	@media screen and (min-width: 340px) {
-		max-width: 340px;
+		// max-width: 340px;
 	}
 	@media screen and (min-width: 600px) {
 		float: left;
 		padding: 0 0.5rem;
-		max-width: 430px;
+		// max-width: 430px;
 	}
 	@media screen and (min-width: 960px) {
 		padding: 0 1.25rem;
-		max-width: 640px;
+		// max-width: 640px;
 	}
 
 
@@ -96,23 +98,51 @@ blockquote {
 	// }
 }
 
+.titlebox {
+	// border: 1px solid blue;
+	width: 100%;
+	// min-height: 400px;
+}
+
 .post__author {
 	color: lighten($pcolor, 30%);
 	padding: 0;
 	margin: 0 0 1.5rem 0;
+	text-align: center;
 }
 
 .post__img {
 	// background-color: orange;
 	// width: 100%;
-	max-width: 320px;
-	height: auto;
+	// height: 200%;
 	// margin: 0 1rem 0.5rem 0;
-	margin: 0 auto;
+	border: 2px solid black;
+	margin: 0 auto 1.5rem auto;
 	@media screen and (min-width: 415px) {
 		// padding-left: 1rem;
-		float: right;
+		// float: right;
+		width: 600px;
+		// height: 100%;
+		padding: 0;
 	}
+}
+
+.casefilenum {
+	color: $acolor;
+}
+
+figcaption.caption {
+	color: $acolor;
+	text-align: center;
+	// margin: 0 0.5rem;
+}
+
+.post-feature {
+	background-color: green;
+	// float: right;
+	max-width: 30%;
+	// width: 150%;
+	// height: 315px;
 }
 
 .post__meta {
@@ -129,10 +159,15 @@ blockquote {
 }
 
 .post__excerpt {
-	font-size: 1.25rem;
-	line-height: 1.25;
+	margin: 0 auto;
+	padding: 0.75rem;
+	color: lighten($pcolor, 15%);
+	// font-size: 1.25rem;
+	// line-height: 1.25;
 	// text-align: center;
 	font-style: italic;
+	text-align: left;
+	max-width: 500px;
 }
 
 .firstpara {

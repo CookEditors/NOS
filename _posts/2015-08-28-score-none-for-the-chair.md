@@ -7,7 +7,7 @@ author: Thomas Thursday
 date: 2015-08-28
 categories: short-stories
 excerpt: “Look, bub, when you’ve been in the crime-chipping business as long as I have, you’ll learn that a criminal investigator has two duties. One is to prove guilt; the other is to prove innocence.”
-image: /assets/img/score-none-for-the-chair.png
+image: /assets/img/score-none-for-the-chair.svg
 genre: Professional
 wordcount: 1878
 timetoread: EST TIME TO READ

@@ -7,7 +7,7 @@ author: Chester S. Geier
 date: 2015-08-25
 categories: short-stories
 excerpt: Hatred caused Reece to send his rival a gift to be worn next to the heart. But he forgot to say whose heart …
-image: /assets/img/close-to-my-heart.png
+image: /assets/img/close-to-my-heart.svg
 genre: Noir
 wordcount: 4859
 timetoread: EST TIME TO READ

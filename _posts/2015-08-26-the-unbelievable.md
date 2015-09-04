@@ -7,7 +7,7 @@ author: J. B. Hawley
 date: 2015-08-26
 categories: short-stories
 excerpt: “Then how,” the coroner leaned over the desk to ask the question, “do you account for the undeniable fact that your fingerprints are on the handle of the dagger?”
-image: /assets/img/the-unbelievable1.png
+image: /assets/img/the-unbelievable1.svg
 genre: Professional
 wordcount: 7992
 timetoread: EST TIME TO READ
@@ -243,7 +243,7 @@ Then he rose and began to pace the room.
 
 “Miss Granger,” he said at last, pausing before the woman whose eyes did not falter beneath his steady gaze. “In China men are taught to respect certain things as sacred. One of these is the faith of a good woman. I respect your faith in your fiancé’s innocence. I am inclined to do my small best to help you justify it.But tell me what it is that makes you so sure of Mr. Grover’s innocence. As I recall the evidence brought out at the inquest, it was strongly against him.”
 
-![She brushed her hand across her forehead, swaying backward.](/assets/img/the-unbelievable2cap.png)
+![She brushed her hand across her forehead, swaying backward.](/assets/img/the-unbelievable2cap.svg)
 
 With the Chinaman’s words a gleam of hope had come to Sylvia Granger.
 

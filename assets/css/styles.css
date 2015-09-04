@@ -2486,15 +2486,11 @@ blockquote {
   min-height: 75px;
   max-height: 275px;
   max-width: 100%;
-  margin: 0; }
-  @media screen and (min-width: 769px) {
-    .masthead {
-      margin: 0 0 0 6rem; } }
-  @media screen and (min-width: 700px) and (max-width: 736px) {
-    .masthead {
-      margin: 0 0 0 15rem; } }
+  margin: 0 auto; }
 
 .branding {
+  width: 600px;
+  max-width: 100%;
   padding: 1rem 0;
   margin: 0 auto; }
   @media screen and (min-width: 360px) {
@@ -2507,7 +2503,8 @@ blockquote {
     .branding {
       display: block;
       width: 960px;
-      max-width: 100%; } }
+      max-width: 100%;
+      margin: 0 auto; } }
 
 .masthead__title {
   float: left;
@@ -2844,6 +2841,7 @@ blockquote {
   color: #8B0000;
   font-size: 3rem;
   text-transform: uppercase;
+  text-align: center;
   padding: 0;
   margin: 1rem 0 0 0; }
   @media screen and (min-width: 350px) {
@@ -2854,35 +2852,44 @@ blockquote {
       font-size: 7rem; } }
 
 .titles {
-  text-align: right;
   margin: 0 auto;
-  width: 100%;
-  max-width: 300px; }
-  @media screen and (min-width: 340px) {
-    .titles {
-      max-width: 340px; } }
+  padding: 10px;
+  width: 100%; }
   @media screen and (min-width: 600px) {
     .titles {
       float: left;
-      padding: 0 0.5rem;
-      max-width: 430px; } }
+      padding: 0 0.5rem; } }
   @media screen and (min-width: 960px) {
     .titles {
-      padding: 0 1.25rem;
-      max-width: 640px; } }
+      padding: 0 1.25rem; } }
+
+.titlebox {
+  width: 100%; }
 
 .post__author {
   color: #919ca4;
   padding: 0;
-  margin: 0 0 1.5rem 0; }
+  margin: 0 0 1.5rem 0;
+  text-align: center; }
 
 .post__img {
-  max-width: 320px;
-  height: auto;
-  margin: 0 auto; }
+  border: 2px solid black;
+  margin: 0 auto 1.5rem auto; }
   @media screen and (min-width: 415px) {
     .post__img {
-      float: right; } }
+      width: 600px;
+      padding: 0; } }
+
+.casefilenum {
+  color: #8B0000; }
+
+figcaption.caption {
+  color: #8B0000;
+  text-align: center; }
+
+.post-feature {
+  background-color: green;
+  max-width: 30%; }
 
 .post__meta {
   text-align: center;
@@ -2895,9 +2902,12 @@ blockquote {
       margin-top: 0; } }
 
 .post__excerpt {
-  font-size: 1.25rem;
-  line-height: 1.25;
-  font-style: italic; }
+  margin: 0 auto;
+  padding: 0.75rem;
+  color: #6a767f;
+  font-style: italic;
+  text-align: left;
+  max-width: 500px; }
 
 .firstpara {
   font-size: 1.25rem;

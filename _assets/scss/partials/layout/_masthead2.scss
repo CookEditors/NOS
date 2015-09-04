@@ -11,21 +11,24 @@
 }
 
 .masthead {
+	// border: 1px solid pink;
 	width: 960px;
 	min-height: 75px;
 	max-height: 275px;
 	max-width: 100%;
-	margin: 0;
-	@media screen and (min-width: 769px) {
-		margin: 0 0 0 6rem;
-	}
-	@media screen and (min-width: 700px) and (max-width: 736px) {
-		margin: 0 0 0 15rem;
-	}
+	margin: 0 auto;
+	// @media screen and (min-width: 769px) {
+	// 	margin: 0 0 0 6rem;
+	// }
+	// @media screen and (min-width: 700px) and (max-width: 736px) {
+	// 	margin: 0 0 0 15rem;
+	// }
 }
 
 .branding {
 	// border: 1px solid red;
+	width: 600px;
+	max-width: 100%;
 	padding: 1rem 0;
 	margin: 0 auto;
 	@media screen and (min-width: 360px) {
@@ -38,6 +41,7 @@
 		display: block;
 		width: 960px;
 		max-width: 100%;
+		margin: 0 auto;
 	}
 }
 

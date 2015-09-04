@@ -13,21 +13,18 @@ layout: default
   	{% endif %}
 	{% endif %}
 
-		<div class="clearfix">
+		<div class="clearfix titlebox">
 	  	<div class="titles" id="top">
 				<h2 class="post__title grit">{{ page.title }}</h2>
-				<h2 class="post__excerpt">{{ page.excerpt }}</h4>
 				<h3 class="post__author">By <strong>{{ page.author }}</strong></h3>
+				<figure class="post__img"> <!-- add class grit to dirty up pic -->				
+						<img src="{{ page.image }}" alt="{{ post.title }}">
+						<figcaption class="caption"><strong class="casefilenum">CASEFILE NO. {{ page.casefileNumber }}:</strong>
+						<figcaption class="post__excerpt">{{ page.excerpt }}</figcaption>
+				</figure> <!-- end div post__image -->
+				<!-- <h2 class="post__excerpt">{{ page.excerpt }}</h4> -->
 			</div>
-			<div class="post__img "> <!-- add class grit to dirty up pic -->
-				<figure>
-					<img src="{{ page.image }}" alt="{{ post.title }}">
-					<figcaption style="font-weight: bold;font-size: 0.75rem;color: #8B0000;text-align: center;">CASEFILE NO. {{ page.casefileNumber }}</figcaption>
-				</figure>
-
-
-			</div>
-		</div>
+		</div> <!-- end div clearfix -->
 
 		<div class="post__meta">
 			<p>word count: {{ page.wordcount | thousands_separated }}</p>

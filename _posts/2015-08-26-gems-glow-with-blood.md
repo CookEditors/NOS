@@ -7,7 +7,7 @@ author: Joseph Cummings
 date: 2015-08-26
 categories: short-stories
 excerpt: I’m not too honest a private dick, but I draw the line when MURDER lines up on the wrong side.
-image: /assets/img/gems-glow-with-blood.png
+image: /assets/img/gems-glow-with-blood.svg
 genre: Hardboiled
 wordcount: 4576
 timetoread: EST TIME TO READ

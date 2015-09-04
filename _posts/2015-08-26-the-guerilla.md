@@ -7,7 +7,7 @@ author: Clinton Harcourt
 date: 2015-08-26
 categories: short-stories
 excerpt: The man walked past the building, turned, and after a quick glance about, entered the tenement’s hallway.
-image: /assets/img/guerilla.png
+image: /assets/img/guerilla.svg
 genre: Noir
 wordcount: 2735
 timetoread: EST TIME TO READ

@@ -7,7 +7,7 @@ author: Charles Beckman, Jr.
 date: 2015-08-28
 categories: short-stories
 excerpt: All he could remember was the beautiful dead girl. But who was she—and why had he killed her?
-image: /assets/img/how-dead-can-you-get.png
+image: /assets/img/how-dead-can-you-get.svg
 genre: Noir
 wordcount: 4093
 timetoread: EST TIME TO READ

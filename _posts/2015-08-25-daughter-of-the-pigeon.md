@@ -7,7 +7,7 @@ author: Harry C. Hervey, Jr.
 date: 2015-08-25
 categories: short-stories
 excerpt: “The cave!” I shouted, pressing the knife into her hand and pointing to the nearby cavity.
-image: /assets/img/daughter-of-the-pigeon.png
+image: /assets/img/daughter-of-the-pigeon.svg
 genre: Adventure
 wordcount: 6316
 timetoread: EST TIME TO READ

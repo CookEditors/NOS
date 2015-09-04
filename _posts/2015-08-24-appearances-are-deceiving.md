@@ -7,7 +7,7 @@ author: George B. Jenkins, Jr.
 date: 2015-08-24
 categories: short-stories
 excerpt: It was the perfect crime, until Garbett took the wrong chance and lost it all.
-image: /assets/img/appearances.png
+image: /assets/img/appearances.svg
 genre: Crime
 wordcount: 4348
 timetoread: EST TIME TO READ

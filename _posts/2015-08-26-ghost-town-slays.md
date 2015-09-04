@@ -7,7 +7,7 @@ author: James E. Hungerford
 date: 2015-08-26
 categories: short-stories
 excerpt: When the movie company came in, it looked as if a bad-man gambler had returned from Boothill to get in a few more killings!
-image: /assets/img/ghost-town-slays.png
+image: /assets/img/ghost-town-slays.svg
 genre: Professional
 wordcount: 4095
 timetoread: EST TIME TO READ

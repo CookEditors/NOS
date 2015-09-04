@@ -7,7 +7,7 @@ author: Clive Criswell
 date: 2015-08-28
 categories: short-stories
 excerpt: I had the louse I hated in the palm of my hand, but could I really pin this hot murder rap on him?
-image: /assets/img/hate-calls-the-tune.png
+image: /assets/img/hate-calls-the-tune.svg
 genre: Professional
 wordcount: 4355
 timetoread: EST TIME TO READ
