@@ -1,6 +1,6 @@
 # Jekyll files #
 ################	
-_site/
+# _site/
 .sass-cache/
 
 
