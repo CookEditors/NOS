@@ -26,7 +26,9 @@
 	padding: 0.5rem 0;
 	margin-bottom: 1.5rem;
 	@media screen and (max-width: 400px) {
-		@extend .h3;
+		// @extend .h3;
+		font-size: 1.5em; /* 1.5x body copy size = 24px */
+    line-height: 1.25;
 		width: 250px;
 	}
 }

@@ -18,10 +18,10 @@
 }
 
 .button:link, .button:active, .button:visited, .button, .button span {
-	background-color: /* #1ec279 */ #8b8b00 !important;
+	background-color: #8b8b00 !important; /* #1ec279 */ 
 	color: #fff !important;
 	&:hover {
-		background-color: /* #00a968 */ #727217 !important;
+		background-color: #727217 !important; /* #00a968 */
 	}
 }
 
