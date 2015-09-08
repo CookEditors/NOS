@@ -1614,18 +1614,19 @@ p.answer__hidden {
 .cards {
   list-style: none;
   font-size: 0;
-  margin: 0; }
+  padding-left: 10px; }
   .cards p {
     line-height: 1.5rem;
     padding: 5px 10px; }
   .cards a {
     color: #474F55; }
+  @media screen and (min-width: 960px) {
+    .cards {
+      padding-left: 17px; } }
 
 .card {
-  position: relative;
-  display: inline-block;
-  width: 100%;
-  margin: 0 0 20px 0;
+  width: 320px;
+  margin-bottom: 20px;
   /* seperates cards vertically */
   background-color: #fff;
   border: 1px solid #ddd;
@@ -1637,7 +1638,7 @@ p.answer__hidden {
   @media screen and (min-width: 600px) {
     .card {
       width: 47.5%;
-      margin: 0 0 2.5% 2.5%; } }
+      margin: 0 0 2.5% 0; } }
   @media screen and (min-width: 960px) {
     .card {
       width: 30.83%; } }
@@ -1657,8 +1658,8 @@ p.answer__hidden {
 .card__header {
   width: 100%;
   height: 385px;
-  padding: 0px;
-  margin: 0px;
+  padding: 0;
+  margin: 0;
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
@@ -1668,11 +1669,11 @@ p.answer__hidden {
 
 h2.card__meta {
   position: absolute;
-  bottom: 0px;
+  bottom: 0;
   width: 100%;
   color: white;
   background: rgba(0, 0, 0, 0.65);
-  margin: 0px;
+  margin: 0;
   padding: 6px;
   border: none;
   font-size: 1.15rem;
@@ -1708,8 +1709,8 @@ h2.card__meta {
     background-color: yellow;
     box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.6);
     font-family: "Josefin Sans", sans-serif;
-    color: #474F55;
-    font-size: 0.85em;
+    color: #8B0000;
+    font-size: 0.75em;
     font-weight: 800;
     left: -5px;
     line-height: 1.5em;
@@ -2834,7 +2835,9 @@ blockquote {
   line-height: 1.5;
   text-align: center; }
   .page-intro div {
-    max-width: 600px; }
+    max-width: 100%; }
+    .page-intro div span {
+      text-transform: uppercase; }
 
 /* ==========================================================================
    POST STYLE

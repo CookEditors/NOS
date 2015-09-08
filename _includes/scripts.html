@@ -2,10 +2,20 @@
 <script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="/assets/js/scripts.min.js"></script> -->
 
+<script src="/assets/js/vendor/modernizr.custom.34164.js"></script>
+
 <!--load jQuery, required-->
 <script src="/assets/js/vendor/jquery-1.11.2.js"></script>
 
 <script src="/assets/js/vendor/jquery-ui.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+
+<!-- TYPEKIT -->
+<script src="//use.typekit.net/gwl0zuj.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+
+<script src="/assets/js/vendor/store.js"></script>
 
 <!--load jPushMenu, required-->
 <script src="/assets/js/vendor/jPushMenu.js"></script>
@@ -23,7 +33,10 @@ NOTE: moved to HEAD -->
 <!-- velocity.js -->
 <script src="/assets/js/vendor/velocity.min.js"></script>
 
-
+<!-- masonry.js -->
+<script src="/assets/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/assets/js/vendor/isotope.pkgd.min.js"></script>
+<script src="/assets/js/vendor/packery-mode.pkgd.min.js"></script>
 
 
 <!-- animated progbar -->
@@ -375,7 +388,20 @@ $(document).ready(function() {
 </script>
 
 
+<script>
+  
+$(window).on('load', function(){
+  $('ul.cards').isotope({
+    columnWidth: 'li.card',
+    itemSelector: 'li.card',
+    layoutMode: 'masonry',
+    masonry: {
+      gutter: 20
+    }
+  });
+});
 
+</script>
 
 
 

@@ -24,27 +24,7 @@
     	<script src="bower_components/html5shiv/dist/html5shiv.js"></script>
     	<script src="_assets/js/vendor/respond.js"></script>
 		<![endif]-->
-
-		<!-- Scripts [NOTE: added async per Google Pagespeed Insights -->
-		<script async src="/assets/js/vendor/modernizr.custom.34164.js"></script>
-		<!-- <script src="/assets/js/vendor/classie.js"></script>
-		<script src="/assets/js/vendor/nav.js"></script> -->
-
-		<script async src="/assets/js/vendor/jquery-1.11.2.js"></script>
-    <script async src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
-
-
-		<script async src="/assets/js/vendor/store.js"></script>
-
-		<!-- <script src="/assets/js/vendor/velocity.min.js"></script> -->
-
-
-		<!-- TYPEKIT -->
-		<script async src="//use.typekit.net/gwl0zuj.js"></script>
-		<script>try{Typekit.load();}catch(e){}</script>
-
-		<!-- Icons [http://tinyurl.com/nf7m64p] -->
-
+		
 	</head>
 
 
@@ -865,7 +845,7 @@
 
   <footer class="site__footer" id="site__footer">
   <div class="container">
-    <small><span class="rwd-line">Copyright 2014, Tales of Murder Press, LLC. </span>All Rights Reserved.</small>
+    <small><span class="rwd-line">Copyright 2014 &mdash; 2015 Tales&nbsp;of&nbsp;Murder&nbsp;Press,&nbsp;LLC. </span>All Rights Reserved.</small>
   </div>
 </footer>
 
@@ -873,10 +853,20 @@
 <script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="/assets/js/scripts.min.js"></script> -->
 
+<script src="/assets/js/vendor/modernizr.custom.34164.js"></script>
+
 <!--load jQuery, required-->
 <script src="/assets/js/vendor/jquery-1.11.2.js"></script>
 
 <script src="/assets/js/vendor/jquery-ui.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+
+<!-- TYPEKIT -->
+<script src="//use.typekit.net/gwl0zuj.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+
+<script src="/assets/js/vendor/store.js"></script>
 
 <!--load jPushMenu, required-->
 <script src="/assets/js/vendor/jPushMenu.js"></script>
@@ -894,7 +884,10 @@ NOTE: moved to HEAD -->
 <!-- velocity.js -->
 <script src="/assets/js/vendor/velocity.min.js"></script>
 
-
+<!-- masonry.js -->
+<script src="/assets/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/assets/js/vendor/isotope.pkgd.min.js"></script>
+<script src="/assets/js/vendor/packery-mode.pkgd.min.js"></script>
 
 
 <!-- animated progbar -->
@@ -1246,7 +1239,20 @@ $(document).ready(function() {
 </script>
 
 
+<script>
+  
+$(window).on('load', function(){
+  $('ul.cards').isotope({
+    columnWidth: 'li.card',
+    itemSelector: 'li.card',
+    layoutMode: 'masonry',
+    masonry: {
+      gutter: 20
+    }
+  });
+});
 
+</script>
 
 
 

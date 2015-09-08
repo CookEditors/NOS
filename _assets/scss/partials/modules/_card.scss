@@ -8,10 +8,11 @@ $ribbon-background: yellow;
 $ribbon-size: 85px;
 
 .cards {
+	// border: 3px solid green;
 	list-style: none;
 	font-size: 0;
-	margin: 0;
-	// padding-right: 2.5%;
+	// margin: 0 auto;
+	padding-left: 10px;
 	p {
 		line-height: 1.5rem;
 		padding: 5px 10px;
@@ -22,15 +23,18 @@ $ribbon-size: 85px;
 	@media screen and (min-width: 480px) {
 		// margin-left: -2.5%;
 	}
+	@media screen and (min-width: 960px) {
+		padding-left: 17px;
+	}
 }
 
 .card {
-	position: relative;
-	display: inline-block;
-	width: 100%;
-	// max-width: 400px;
+	// position: relative;
+	// display: inline-block;
+	width: 320px;
+	// max-width: 100%;
 	// padding: 10px; /* adds white border around image */
-	margin: 0 0 20px 0; /* seperates cards vertically */
+	margin-bottom: 20px; /* seperates cards vertically */
 	background-color: #fff;
 	border: 1px solid #ddd;
 	border-radius: $border-radius;
@@ -40,7 +44,7 @@ $ribbon-size: 85px;
 	box-shadow: -4px 8px 8px silver;
 	@media screen and (min-width: 600px) {
 		width: 47.5%;
-		margin: 0 0 2.5% 2.5%;
+		margin: 0 0 2.5% 0;
 	}
 	@media screen and (min-width: 960px) {
 		width: 30.83%;
@@ -64,37 +68,11 @@ $ribbon-size: 85px;
 	}
 }
 
-// .effect2 {
-// 	position: relative;
-// }
-
-// .effect2:before, .effect2:after {
-// 	z-index: -1;
-// 	position: absolute;
-// 	content:"";
-// 	bottom: 5px;
-// 	left: 10px;
-// 	width: 50%;
-// 	top: 80%;
-// 	max-width: 80%;
-// 	background: #777;
-// 	box-shadow: 0 15px 10px #777;
-// 	transform: rotate(-3deg);
-
-// }
-
-// .effect2:after {
-// 	transform: rotate(3deg);
-// 	right: 10px;
-// 	left: auto;
-// }
-
-
 .card__header {
 	width:100%;
   height: 385px;
-  padding:0px;
-  margin:0px;
+  padding:0;
+  margin:0;
   background-position:center;
   background-repeat:no-repeat;
   position:relative;
@@ -106,11 +84,11 @@ $ribbon-size: 85px;
 
 h2.card__meta  {
 	position:absolute;
-  bottom:0px;
+  bottom:0;
   width:100%;
   color:white;
   background:rgba(0,0,0,0.65);
-  margin:0px;
+  margin:0;
   padding:6px;
   border:none;
   font-size: 1.15rem;
@@ -147,8 +125,8 @@ h2.card__meta  {
       background-color: $ribbon-background;
       box-shadow: 3px 3px 4px rgba(0,0,0,0.6);
       font-family: $header-font-family;
-      color: $pcolor;
-      font-size: 0.85em;
+      color: $acolor;
+      font-size: 0.75em;
       font-weight: 800;
       left: -5px;
       line-height: 1.5em;
@@ -173,4 +151,16 @@ a.readmore {
 	text-transform: uppercase;
 	font-size: 0.75rem;
 }
+
+
+
+.card__container {
+	// background-color: lightblue;
+}
+
+
+
+
+
+
 
