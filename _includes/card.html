@@ -11,7 +11,7 @@
 		{% endif %}
 	
 	<!-- <a href="{{ post.url }}"> -->
-		<li class="card">
+		<li class="card" {% if post.genre %} id="{{ post.genre | downcase }}"{% endif %}>
 
 			<div class="card__header" style="background-image: url('{{ post.image }}'); width: 100%;">
 

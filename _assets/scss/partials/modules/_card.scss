@@ -158,6 +158,18 @@ a.readmore {
 	// background-color: lightblue;
 }
 
+.iso-filter {
+	margin-bottom: 2rem;
+	ul li {
+		// background-color: green;
+		display: inline;
+		a {
+			color: white;
+			font-size: 0.9rem;
+			padding-right: 1rem;
+		}
+	}
+}
 
 
 

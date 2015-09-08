@@ -1172,21 +1172,51 @@ $(document).ready(function() {
 </script>
 
 
-<script>
-  
-$(window).on('load', function(){
-  $('ul.cards').isotope({
-    columnWidth: 'li.card',
-    itemSelector: 'li.card',
-    layoutMode: 'masonry',
-    masonry: {
-      gutter: 20
-    }
+<!-- Packery/Masonry -->
+<script> 
+  $(window).on('load', function(){
+    $('ul.cards').isotope({
+      columnWidth: 'li.card',
+      itemSelector: 'li.card',
+      layoutMode: 'masonry',
+      masonry: {
+        gutter: 20
+      }
   });
-});
-
 </script>
 
+<!-- Isotope Filter -->
+<script>
+  
+  $(window).load(function(){
+
+    var $container = $('.cards');
+    $container.isotope({
+      filter: '*',
+      animationOptions: {
+        duration: 750,
+        easing: 'linear',
+        queue: false
+      }
+    });
+
+    $('nav.iso-filter ul a').click(function(){
+
+      var selector = $(this).attr('data-filter');
+      $container.isotope({
+        filter: selector,
+        animationOptions: {
+          duration: 750,
+          easing: 'linear',
+          queue: false,
+        }
+      });
+      return false;
+    });
+
+  });
+
+</script>
 
 
 

@@ -115,8 +115,36 @@
 <!-- 	  	<h2>whatever your poison</h2>
 	  	<h4>professional sleuth &middot; cozy &middot; hardboiled pi &middot; amateur sleuth &middot; noir &middot; golden age</h4> 
 	  	<h2>we've got the cure!</h2> -->
-	  </div>
-  </section>
+
+      <nav class="iso-filter">
+        <ul>
+          <li><a href="#" data-filter="*">All Genres</a></li>
+          <li><a href="#" class="selected" data-filter="#professional">Professional</a></li>
+          <li><a href="#" data-filter="#noir">Noir</a></li>
+          <li><a href="#" data-filter="#adventure">Adventure</a></li>
+          <li><a href="#" data-filter="#hood">Hood</a></li>
+          <li><a href="#" data-filter="#hardboiled">Hardboiled</a></li>
+        </ul>
+
+        <!-- <h2>Sort</h2> 
+          <div id="sorts" class="button-group">  <button class="button is-checked" data-sort-by="original-order">original order</button>
+            <button class="button" data-sort-by="genre">genre</button>
+            <button class="button" data-sort-by="author">author</button>
+            <button class="button" data-sort-by="title">title</button>
+            <button class="button" data-sort-by="length">length</button>
+          </div>-->
+
+       <!--  <select class="iso-filter">
+          <option><a href="#" data-filter="*">All Genres</a></option>
+          <option><a href="#" class="selected" data-filter="#professional">Professional</a></option>
+          <option><a href="#" data-filter="#noir">Noir</a></option>
+          <option><a href="#" data-filter="#adventure">Adventure</a></option>
+          <option><a href="#" data-filter="#hood">Hood</a></option>
+          <option><a href="#" data-filter="#hardboiled">Hardboiled</a></option>
+        </select> -->
+
+	  </div> <!-- end of div .container -->
+  </section> <!-- end of section .page-intro -->
 
     <!-- README IF STATEMENT -->
     
@@ -138,7 +166,7 @@
 		
 	
 	<!-- <a href="/short-stories/youll-kill-the-people/"> -->
-		<li class="card">
+		<li class="card"  id="noir">
 
 			<div class="card__header" style="background-image: url('/assets/img/youll-kill-the-people.svg'); width: 100%;">
 
@@ -175,7 +203,7 @@
 		
 	
 	<!-- <a href="/short-stories/two-bells/"> -->
-		<li class="card">
+		<li class="card"  id="adventure">
 
 			<div class="card__header" style="background-image: url('/assets/img/two-bells.svg'); width: 100%;">
 
@@ -212,7 +240,7 @@
 		
 	
 	<!-- <a href="/short-stories/the-ironclad-alibi/"> -->
-		<li class="card">
+		<li class="card"  id="hood">
 
 			<div class="card__header" style="background-image: url('/assets/img/ironclad-alibi.svg'); width: 100%;">
 
@@ -249,7 +277,7 @@
 		
 	
 	<!-- <a href="/short-stories/satan-hogs-the-camera/"> -->
-		<li class="card">
+		<li class="card"  id="amateur">
 
 			<div class="card__header" style="background-image: url('/assets/img/satan-hogs-the-camera.svg'); width: 100%;">
 
@@ -286,7 +314,7 @@
 		
 	
 	<!-- <a href="/short-stories/the-long-arm-of-god/"> -->
-		<li class="card">
+		<li class="card"  id="murder">
 
 			<div class="card__header" style="background-image: url('/assets/img/long-arm-of-god.svg'); width: 100%;">
 
@@ -323,7 +351,7 @@
 		
 	
 	<!-- <a href="/short-stories/score-none-for-the-chair/"> -->
-		<li class="card">
+		<li class="card"  id="professional">
 
 			<div class="card__header" style="background-image: url('/assets/img/score-none-for-the-chair.svg'); width: 100%;">
 
@@ -360,7 +388,7 @@
 		
 	
 	<!-- <a href="/short-stories/ice-from-a-corpse/"> -->
-		<li class="card">
+		<li class="card"  id="hood">
 
 			<div class="card__header" style="background-image: url('/assets/img/ice-from-a-corpse.svg'); width: 100%;">
 
@@ -397,7 +425,7 @@
 		
 	
 	<!-- <a href="/short-stories/how-dead-can-you-get/"> -->
-		<li class="card">
+		<li class="card"  id="noir">
 
 			<div class="card__header" style="background-image: url('/assets/img/how-dead-can-you-get.svg'); width: 100%;">
 
@@ -434,7 +462,7 @@
 		
 	
 	<!-- <a href="/short-stories/hate-calls-the-tune/"> -->
-		<li class="card">
+		<li class="card"  id="professional">
 
 			<div class="card__header" style="background-image: url('/assets/img/hate-calls-the-tune.svg'); width: 100%;">
 
@@ -471,7 +499,7 @@
 		
 	
 	<!-- <a href="/short-stories/the-unbelievable/"> -->
-		<li class="card">
+		<li class="card"  id="professional">
 
 			<div class="card__header" style="background-image: url('/assets/img/the-unbelievable1.svg'); width: 100%;">
 
@@ -508,7 +536,7 @@
 		
 	
 	<!-- <a href="/short-stories/the-guerilla/"> -->
-		<li class="card">
+		<li class="card"  id="noir">
 
 			<div class="card__header" style="background-image: url('/assets/img/guerilla.svg'); width: 100%;">
 
@@ -545,7 +573,7 @@
 		
 	
 	<!-- <a href="/short-stories/ghost-town-slays/"> -->
-		<li class="card">
+		<li class="card"  id="professional">
 
 			<div class="card__header" style="background-image: url('/assets/img/ghost-town-slays.svg'); width: 100%;">
 
@@ -582,7 +610,7 @@
 		
 	
 	<!-- <a href="/short-stories/gems-glow-with-blood/"> -->
-		<li class="card">
+		<li class="card"  id="hardboiled">
 
 			<div class="card__header" style="background-image: url('/assets/img/gems-glow-with-blood.svg'); width: 100%;">
 
@@ -619,7 +647,7 @@
 		
 	
 	<!-- <a href="/short-stories/fear/"> -->
-		<li class="card">
+		<li class="card"  id="crime">
 
 			<div class="card__header" style="background-image: url('/assets/img/fear.svg'); width: 100%;">
 
@@ -656,7 +684,7 @@
 		
 	
 	<!-- <a href="/short-stories/double-crosser/"> -->
-		<li class="card">
+		<li class="card"  id="hood">
 
 			<div class="card__header" style="background-image: url('/assets/img/double-crosser.svg'); width: 100%;">
 
@@ -693,7 +721,7 @@
 		
 	
 	<!-- <a href="/short-stories/dog-biter/"> -->
-		<li class="card">
+		<li class="card"  id="professional">
 
 			<div class="card__header" style="background-image: url('/assets/img/dog-biter.svg'); width: 100%;">
 
@@ -730,7 +758,7 @@
 		
 	
 	<!-- <a href="/short-stories/deuces-dealt-for-death/"> -->
-		<li class="card">
+		<li class="card"  id="noir">
 
 			<div class="card__header" style="background-image: url('/assets/img/deuces-dealt-for-death.svg'); width: 100%;">
 
@@ -767,7 +795,7 @@
 		
 	
 	<!-- <a href="/short-stories/brand-of-cain/"> -->
-		<li class="card">
+		<li class="card"  id="professional">
 
 			<div class="card__header" style="background-image: url('/assets/img/brand-of-cain.svg'); width: 100%;">
 
@@ -804,7 +832,7 @@
 		
 	
 	<!-- <a href="/short-stories/the-con-is-green/"> -->
-		<li class="card">
+		<li class="card"  id="amateur">
 
 			<div class="card__header" style="background-image: url('/assets/img/con-is-green.svg'); width: 100%;">
 
@@ -841,7 +869,7 @@
 		
 	
 	<!-- <a href="/short-stories/daughter-of-the-pigeon/"> -->
-		<li class="card">
+		<li class="card"  id="adventure">
 
 			<div class="card__header" style="background-image: url('/assets/img/daughter-of-the-pigeon.svg'); width: 100%;">
 
@@ -878,7 +906,7 @@
 		
 	
 	<!-- <a href="/short-stories/close-to-my-heart/"> -->
-		<li class="card">
+		<li class="card"  id="noir">
 
 			<div class="card__header" style="background-image: url('/assets/img/close-to-my-heart.svg'); width: 100%;">
 
@@ -915,7 +943,7 @@
 		
 	
 	<!-- <a href="/short-stories/candidate-for-death/"> -->
-		<li class="card">
+		<li class="card"  id="hood">
 
 			<div class="card__header" style="background-image: url('/assets/img/candidate-for-death_right.svg'); width: 100%;">
 
@@ -952,7 +980,7 @@
 		
 	
 	<!-- <a href="/short-stories/boomerang-bomb/"> -->
-		<li class="card">
+		<li class="card"  id="professional">
 
 			<div class="card__header" style="background-image: url('/assets/img/boomerang-bomb.svg'); width: 100%;">
 
@@ -989,7 +1017,7 @@
 		
 	
 	<!-- <a href="/short-stories/appearances-are-deceiving/"> -->
-		<li class="card">
+		<li class="card"  id="crime">
 
 			<div class="card__header" style="background-image: url('/assets/img/appearances.svg'); width: 100%;">
 
@@ -1432,21 +1460,51 @@ $(document).ready(function() {
 </script>
 
 
-<script>
-  
-$(window).on('load', function(){
-  $('ul.cards').isotope({
-    columnWidth: 'li.card',
-    itemSelector: 'li.card',
-    layoutMode: 'masonry',
-    masonry: {
-      gutter: 20
-    }
+<!-- Packery/Masonry -->
+<script> 
+  $(window).on('load', function(){
+    $('ul.cards').isotope({
+      columnWidth: 'li.card',
+      itemSelector: 'li.card',
+      layoutMode: 'masonry',
+      masonry: {
+        gutter: 20
+      }
   });
-});
-
 </script>
 
+<!-- Isotope Filter -->
+<script>
+  
+  $(window).load(function(){
+
+    var $container = $('.cards');
+    $container.isotope({
+      filter: '*',
+      animationOptions: {
+        duration: 750,
+        easing: 'linear',
+        queue: false
+      }
+    });
+
+    $('nav.iso-filter ul a').click(function(){
+
+      var selector = $(this).attr('data-filter');
+      $container.isotope({
+        filter: selector,
+        animationOptions: {
+          duration: 750,
+          easing: 'linear',
+          queue: false,
+        }
+      });
+      return false;
+    });
+
+  });
+
+</script>
 
 
 

@@ -1732,6 +1732,15 @@ a.readmore {
   text-transform: uppercase;
   font-size: 0.75rem; }
 
+.iso-filter {
+  margin-bottom: 2rem; }
+  .iso-filter ul li {
+    display: inline; }
+    .iso-filter ul li a {
+      color: white;
+      font-size: 0.9rem;
+      padding-right: 1rem; }
+
 /* ==========================================================================
    CONTENT UPGRADE
    ========================================================================== */
