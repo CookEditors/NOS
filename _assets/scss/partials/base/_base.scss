@@ -99,9 +99,15 @@ a {
 }
 
 
+.uppercase {
+	text-transform: uppercase;
+}
 
-
-
+.inner-container {
+	text-transform: none;
+	width: 37.5rem;
+	margin: 0 auto;
+}
 
 
 

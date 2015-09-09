@@ -12,7 +12,8 @@ locale: en_US
 readtime: true
 wpm: 200
 
-paginate: 5
+paginate: 12
+paginate_path: "/short-stories/page/:num"
 
 # Site Owner
 # owner:

@@ -1,0 +1,29 @@
+<!-- SORT BY and FILTER ON ... for v1.0 -->
+
+<nav class="iso-filter">
+        <ul>
+          <li><a href="#" data-filter="*">All Genres</a></li>
+          <li><a href="#" class="selected" data-filter="#professional">Professional</a></li>
+          <li><a href="#" data-filter="#noir">Noir</a></li>
+          <li><a href="#" data-filter="#adventure">Adventure</a></li>
+          <li><a href="#" data-filter="#hood">Hood</a></li>
+          <li><a href="#" data-filter="#hardboiled">Hardboiled</a></li>
+        </ul>
+
+<h2>Sort</h2> 
+<div id="sorts" class="button-group">  <button class="button is-checked" data-sort-by="original-order">original order</button>
+<button class="button" data-sort-by="genre">genre</button>
+<button class="button" data-sort-by="author">author</button>
+<button class="button" data-sort-by="title">title</button>
+<button class="button" data-sort-by="length">length</button>
+</div>-->
+
+<h2>Filter</h2>
+<select class="iso-filter">
+<option><a href="#" data-filter="*">All Genres</a></option>
+<option><a href="#" class="selected" data-filter="#professional">Professional</a></option>
+<option><a href="#" data-filter="#noir">Noir</a></option>
+<option><a href="#" data-filter="#adventure">Adventure</a></option>
+<option><a href="#" data-filter="#hood">Hood</a></option>
+<option><a href="#" data-filter="#hardboiled">Hardboiled</a></option>
+</select>

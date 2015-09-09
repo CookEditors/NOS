@@ -1,0 +1,33 @@
+/* ==========================================================================
+   PAGINATION
+   ========================================================================== */
+
+.pagination__nav {
+	background-color: $acolor;
+	color: #fff;
+	font-weight: 800;
+	margin-bottom: 2rem;
+	padding: 0.5rem 1rem;
+	ul li {
+		display: inline;
+		a {
+			color: #fff;
+		}
+	}
+
+	.previous {
+
+	}
+
+	.next {
+		float: right;
+	}
+
+
+
+
+
+	.previous__none, .next__none {
+		font-style: italic;
+	}
+}
