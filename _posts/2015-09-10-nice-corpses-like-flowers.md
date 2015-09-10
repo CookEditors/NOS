@@ -2,7 +2,7 @@
 layout: post_combo
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515af057
-title: "Nice Corpses"
+title: "Nice Corpses Like Flowers"
 author: J. B. Hawley
 date: 2015-09-10
 categories: short-stories
