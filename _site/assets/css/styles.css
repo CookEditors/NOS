@@ -1653,7 +1653,7 @@ p.answer__hidden {
   .card:hover {
     border: 1px solid #8B0000;
     box-shadow: -4px 8px 8px rgba(139, 0, 0, 0.2); }
-    .card:hover .card__meta {
+    .card:hover .card__meta, .card:hover .card__genre {
       font-weight: bold;
       background: #8B0000; }
     .card:hover .meta {
@@ -1699,6 +1699,14 @@ h2.card__meta {
 
 .card__author {
   color: #f2f2f2; }
+
+.card__genre {
+  background: rgba(0, 0, 0, 0.65);
+  color: white;
+  text-align: center;
+  font-size: 0.95rem;
+  font-weight: 800;
+  letter-spacing: 0.15rem; }
 
 .card__ribbonwrapper {
   height: 85px;

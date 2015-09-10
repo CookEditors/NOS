@@ -8,7 +8,7 @@ date: 2015-08-26
 categories: short-stories
 excerpt: “Then how,” the coroner leaned over the desk to ask the question, “do you account for the undeniable fact that your fingerprints are on the handle of the dagger?”
 image: /assets/img/the-unbelievable1.svg
-genre: Professional
+genre: Professional Sleuth
 wordcount: 7992
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE

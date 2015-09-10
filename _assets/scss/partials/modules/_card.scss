@@ -52,7 +52,7 @@ $ribbon-size: 85px;
 	&:hover {
 		border: 1px solid $acolor;
 		box-shadow: -4px 8px 8px transparentize($acolor, .8);
-		.card__meta {
+		.card__meta, .card__genre {
 			// color: $acolor;
 			font-weight: bold;
 			background: $acolor;
@@ -110,6 +110,15 @@ h2.card__meta  {
 .card__author {
 	// font-size: 2rem;
 	color: darken(#fff, 5%);
+}
+
+.card__genre {
+	background:rgba(0,0,0,0.65);
+	color:white;
+	text-align:center;
+	font-size:0.95rem;
+	font-weight:800;
+	letter-spacing: 0.15rem;
 }
 
 .card__ribbonwrapper {

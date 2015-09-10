@@ -17,11 +17,14 @@
 
 			<!-- NOTE: style in div tag (above) MUST be included for class="card__header" to allow the individual post's image to be dropped into as a background-image. Can't (don't know how!) to do it in the CSS stylesheet, so I put it in the HTML style. -->
 			
-				<p style="background-color:darkred;color:white;text-align:center;font-size:0.95rem;font-weight:800;box-shadow:5px 5px 5px #888;">{{ post.genre }}</p>
-			
-				<div class="card__ribbonwrapper">
-					<div class="card__ribbon">{{ post.genre }}</div> <!-- end of div card__ribbon -->
-				</div> <!-- end of div card__ribbonwrapper -->
+				<p class="card__genre">{{ post.genre }}</p>
+
+
+				{% if post.layoutTag == 'premium_post' %}
+					<div class="card__ribbonwrapper">
+						<div class="card__ribbon">PREMIUM</div> <!-- end of div card__ribbon -->
+					</div> <!-- end of div card__ribbonwrapper -->
+				{% endif %}
 
 				<h2 class="card__meta">{{ post.title }} <span>{{ post.author }}</span></h2>
 				

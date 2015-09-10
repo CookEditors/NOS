@@ -8,7 +8,7 @@ date: 2015-08-26
 categories: short-stories
 excerpt: When the movie company came in, it looked as if a bad-man gambler had returned from Boothill to get in a few more killings!
 image: /assets/img/ghost-town-slays.svg
-genre: Professional
+genre: Professional Sleuth
 wordcount: 4095
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE

@@ -8,7 +8,7 @@ date: 2015-08-24
 categories: short-stories
 excerpt: 
 image: /assets/img/boomerang-bomb.svg
-genre: Professional
+genre: Professional Sleuth
 wordcount: 3360
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE

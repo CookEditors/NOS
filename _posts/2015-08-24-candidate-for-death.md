@@ -8,7 +8,7 @@ date: 2015-08-24
 categories: short-stories
 excerpt: Hired guns gave their wolf cry when the Scarlet Ace passed the word, but they forgot the law of the pack until they paid the price of fear.
 image: /assets/img/candidate-for-death_right.svg
-genre: Hood
+genre: Crook
 wordcount: 7622
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE

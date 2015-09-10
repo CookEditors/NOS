@@ -8,7 +8,7 @@ date: 2015-08-31
 categories: short-stories
 excerpt: Nick Ryan could prove he wasn't the murderer being sought for—prove it with the finality of the grave.
 image: /assets/img/ironclad-alibi.svg
-genre: Hood
+genre: Crook
 wordcount: 1743
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE

@@ -8,7 +8,7 @@ date: 2015-08-31
 categories: short-stories
 excerpt: Jack Kelley doubled for the hero in Hollywood film fights. But when he undertook to stand in for the star in a real life-and- death scene, Kelley needed more than acting talent. For instead of cold celluloid, that outside drama was being shot in hot lead,
 image: /assets/img/satan-hogs-the-camera.svg
-genre: Amateur
+genre: Amateur Sleuth
 wordcount: 4722
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE

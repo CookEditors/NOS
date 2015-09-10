@@ -8,7 +8,7 @@ date: 2015-08-24
 categories: short-stories
 excerpt: It was the perfect crime, until Garbett took the wrong chance and lost it all.
 image: /assets/img/appearances.svg
-genre: Crime
+genre: Crook
 wordcount: 4348
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE

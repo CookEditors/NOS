@@ -8,7 +8,7 @@ date: 2015-08-26
 categories: short-stories
 excerpt: A gypsy who can see into the minds of men and see the darkness of their deeds—fortune telling, mind reading and all of that sort of stuff— if it’s results you want, then Lipki is your man.
 image: /assets/img/brand-of-cain.svg
-genre: Professional
+genre: Professional Sleuth
 wordcount: 3256
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE

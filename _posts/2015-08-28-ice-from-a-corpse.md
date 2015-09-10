@@ -8,7 +8,7 @@ date: 2015-08-28
 categories: short-stories
 excerpt: The killers had the doc in a tight spot, but the old medico still had a few tricks up his sleeve.
 image: /assets/img/ice-from-a-corpse.svg
-genre: Hood
+genre: Crook
 wordcount: 1752
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE
