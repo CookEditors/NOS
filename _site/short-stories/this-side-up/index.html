@@ -627,75 +627,44 @@
 			<div class="emailbox">
 				 <!-- Begin MailChimp Signup Form -->
 
-<div class="progress">
-	<div id="progress-bar" class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50%">50%</div>
-</div>
+<link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 
-<div id="mc_embed_signup subscribe-form">
+<div id="mc_embed_signup">
 
-	<form action="https://chimpbuddy.com/subscribe/post-json?u=311e39626c77f842128106e92&amp;id=1c26afbfe4&c=?" method="get" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form__postdownload" target="_blank" novalidate>
+	<form action="//talesofmurder.us10.list-manage.com/subscribe/post?u=311e39626c77f842128106e92&amp;id=1c26afbfe4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 
 		<div id="mc_embed_signup_scroll">
 
 			<div class="mc-field-group">
-				<label for="mce-EMAIL" class="form__label">Where shall I send the story? </label>
-				<input type="email" value="" name="EMAIL" placeholder="Enter your email address" class="required email" id="mce-EMAIL">
-			</div>
+				<label for="mce-EMAIL">Where you want it sent?</label>
+				<input type="email" value="" placeholder="your best email address" name="EMAIL" class="required email" id="mce-EMAIL">
+			</div> <!-- end div mc-field-group ... Email Address -->
 
-			<!-- START hidden fields -->
+			<input id="title" type="hidden" value="Amateur Sleuth" name="TITLE"> <!-- segment title -->
 
-				<input type="hidden" value="true" name="RFFREE"> <!-- add to The Red File segment (all subscribers!) -->
-
-				<input type="hidden" value="Amateur Sleuth" name="GENRE"> <!-- genre segment ... shown on story pages ONLY -->
-
-				<input type="hidden" value="This Side Up" name="SIGNUPLOC" id="SIGNUPLOC"> <!-- adds location of INTIAL signup form to MC list -->
-
-			<!-- END hidden fields -->
+			<input type="hidden" value="true" name="RFFREE"> <!-- SEGMENT The Red File (Free) -->
 
 			<div id="mce-responses" class="clear">
 				<div class="response" id="mce-error-response" style="display:none"></div>
 				<div class="response" id="mce-success-response" style="display:none"></div>
 			</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 
-			<div style="position: absolute; left: -5000px;">
-				<input type="text" name="b_311e39626c77f842128106e92_1c26afbfe4" tabindex="-1" value="">
-			</div>
+			<div style="position: absolute; left: -5000px;"><input type="text" name="b_311e39626c77f842128106e92_1c26afbfe4" tabindex="-1" value=""></div>
 
 			<div class="clear">
-				<input type="submit" value="Register &amp; Download" name="subscribe" id="mc-embedded-subscribe" class="button">
+				<!-- <label for="mc-embedded-subscribe">STEP 2&#058; Verify your application &hellip;</label> -->
+				<input type="submit" value="Gimme my story!" name="subscribe" id="mc-embedded-subscribe" class="button">
 			</div>
-
+			
 		</div> <!-- end div mc_embed_signup_scroll -->
-
-		<div id="footer-subscribe-result"></div> <!-- add styling to suit preferred look of subscribe result!! -->
 
 	</form>
 
 </div> <!-- end div mc_embed_signup -->
 
-<!-- ajaxMailChimp .. manages redirect & ChimpBuddy -->
-<script> 
-	$(document).ready(function(){
-		ajaxMailChimp.init($("#mc-embedded-subscribe-form"), $("#footer-subscribe-result"));
-	});
-</script>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='TITLE';ftypes[3]='text';fnames[4]='RFFREE';ftypes[4]='text';fnames[5]='NOIR';ftypes[5]='text';fnames[6]='HARDBOILED';ftypes[6]='text';fnames[7]='COZY';ftypes[7]='text';fnames[8]='GLDNAGE';ftypes[8]='text';fnames[9]='AMSLEUTH';ftypes[9]='text';fnames[10]='PROSLEUTH';ftypes[10]='text';fnames[11]='POPROC';ftypes[11]='text';fnames[12]='PARANORMAL';ftypes[12]='text';fnames[13]='MED';ftypes[13]='text';fnames[14]='LEGAL';ftypes[14]='text';fnames[15]='CAPER';ftypes[15]='text';fnames[16]='LOCKEDRM';ftypes[16]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 
-
-
-<!-- End MailChimp Signup Form -->
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- End mc_embed_signup -->
 				<p class="small"><br><i class="fa fa-lock"></i>&nbsp;Your email is securely locked away from prying eyes.<br>I NEVER sell out your <a href="/about/#policies" style="color:#fff;text-decoration:underline;">privacy</a>.<br><br><em>For entertainment purposes only.</em></p>
 			</div> <!-- end div .emailbox -->
 
