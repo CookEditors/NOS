@@ -708,13 +708,23 @@
 		<div id="mc_embed_signup_scroll">
 
 			<div class="mc-field-group">
-				<label for="mce-EMAIL">Where you want it sent?</label>
+				<label for="mce-EMAIL">Where do you want it sent?</label>
 				<input type="email" value="" placeholder="your best email address" name="EMAIL" class="required email" id="mce-EMAIL">
 			</div> <!-- end div mc-field-group ... Email Address -->
 
-			<input id="title" type="hidden" value="Noir" name="TITLE"> <!-- segment title -->
+			<!-- START hidden fields -->
 
-			<input type="hidden" value="true" name="RFFREE"> <!-- SEGMENT The Red File (Free) -->
+				<input type="hidden" value="true" name="RFFREE"> <!-- add to The Red File segment (all subscribers!) -->
+
+				<input type="hidden" value="Noir" name="GENRE"> <!-- genre segment ... shown on story pages ONLY -->
+
+				<input type="hidden" value="How Dead Can You Get?" name="SIGNUPLOC" id="SIGNUPLOC"> <!-- adds location of INTIAL signup form to MC list -->
+
+			<!-- END hidden fields -->
+
+			<!-- <input id="title" type="hidden" value="Noir" name="TITLE"> segment title -->
+
+			<!-- <input type="hidden" value="true" name="RFFREE">  SEGMENT The Red File (Free) -->
 
 			<div id="mce-responses" class="clear">
 				<div class="response" id="mce-error-response" style="display:none"></div>
