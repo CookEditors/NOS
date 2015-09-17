@@ -2066,19 +2066,25 @@ cite {
   background-color: transparent;
   width: 40px;
   height: 40px;
-  border: 1px solid #ccc;
+  border: 1px solid #8B0000;
   border-radius: 50%;
   margin: 0 0.75rem; }
+  .ssactions__button .label, .ssactions__button .icon {
+    color: #8B0000; }
   .ssactions__button span {
     display: block; }
   @media screen and (min-width: 30rem) {
     .ssactions__button {
       margin: 0 3rem; } }
   .ssactions__button:hover, .ssactions__button:active, .ssactions__button:visited {
-    color: #8B0000;
-    border-color: #8B0000; }
-    .ssactions__button:hover .icon, .ssactions__button:hover .label, .ssactions__button:active .icon, .ssactions__button:active .label, .ssactions__button:visited .icon, .ssactions__button:visited .label {
-      color: #580000; }
+    color: #fffff0;
+    background-color: #580000; }
+    .ssactions__button:hover .icon, .ssactions__button:active .icon, .ssactions__button:visited .icon {
+      color: #ffffbd;
+      font-weight: bold; }
+    .ssactions__button:hover .label, .ssactions__button:active .label, .ssactions__button:visited .label {
+      color: #580000;
+      font-weight: bold; }
     .ssactions__button:hover .ssactions__buttontext, .ssactions__button:active .ssactions__buttontext, .ssactions__button:visited .ssactions__buttontext {
       color: #ccc; }
 
@@ -2185,11 +2191,16 @@ span.data-title:after {
   text-align: center;
   margin-bottom: 4rem; }
 
-.MB__sample-img {
+.download__image {
+  border: 1px solid #8B0000;
+  box-shadow: 3px 3px 5px #888;
   float: left;
-  padding-right: 1rem;
-  height: 200px;
+  margin: 0 1rem 1rem 0;
+  height: 400px;
   width: auto; }
+  @media screen and (min-width: 600px) {
+    .download__image {
+      height: 225px; } }
 
 .epub3 {
   background-image: url("assets/img/e3-icon.png"); }
@@ -3486,6 +3497,14 @@ ul#markdown-toc {
   max-width: 85%;
   margin: 2rem auto 0 auto;
   padding: 3rem; }
+
+.download__smallprint {
+  margin: 0 auto 2rem;
+  width: 650px;
+  max-width: 90%;
+  text-align: left;
+  font-size: 0.95rem;
+  font-style: italic; }
 
 .grit {
   -webkit-mask-image: url("/assets/img/mytexture6.png");

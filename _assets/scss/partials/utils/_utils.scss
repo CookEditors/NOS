@@ -63,6 +63,14 @@
 //   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 
+.download__smallprint {
+  margin: 0 auto 2rem;
+  width: 650px;
+  max-width: 90%;
+  text-align: left;
+  font-size: 0.95rem;
+  font-style: italic;
+}
 
 .grit {
    -webkit-mask-image: url("/assets/img/mytexture6.png");

@@ -44,12 +44,17 @@
 	margin-bottom: 4rem;
 }
 
-.MB__sample-img {
+.download__image {
+	border: 1px solid $acolor;
+	box-shadow: 3px 3px 5px #888;
 	float: left;
-	padding-right: 1rem;
-	// margin-bottom: 2rem;
-	height: 200px;
+	// padding-right: 1rem;
+	margin: 0 1rem 1rem 0;
+	height: 400px;
 	width: auto;
+	@media screen and (min-width: 600px) {
+		height: 225px;
+	}
 }
 
 .epub3 {
