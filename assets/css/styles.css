@@ -1178,7 +1178,7 @@ body {
   position: relative;
   font-size: 100%;
   /* 1rem; ... equivalent to 16px */
-  line-height: 1.25rem;
+  line-height: 1.25;
   /* equivalent to 20px */
   font-family: "raleway", sans-serif;
   color: #474F55;
@@ -2440,6 +2440,21 @@ progress {
   .pagination__nav .previous__none, .pagination__nav .next__none {
     font-style: italic; }
 
+.fontresizer {
+  border: 1px solid #8B0000;
+  margin: 1rem auto;
+  padding: 1rem;
+  max-width: 600px;
+  width: 90%;
+  text-align: center; }
+  .fontresizer button {
+    color: #8B0000;
+    background-color: #fffff0;
+    padding: 0.5rem 1rem;
+    margin-right: 0.5rem; }
+  .fontresizer .fontresizer__icon {
+    color: #8B0000; }
+
 /*==========  LAYOUT  ==========*/
 /* ==========================================================================
    HEADER .. full width of browser window
@@ -2586,9 +2601,10 @@ blockquote {
 
 .masthead {
   width: 960px;
+  max-width: 100%;
+  height: 245px;
   min-height: 75px;
   max-height: 275px;
-  max-width: 100%;
   margin: 0 auto; }
 
 .branding {
@@ -2604,7 +2620,6 @@ blockquote {
       width: 230px; } }
   @media screen and (min-width: 737px) {
     .branding {
-      display: block;
       width: 960px;
       max-width: 100%;
       margin: 0 auto; } }

@@ -25,6 +25,13 @@
     	<script src="_assets/js/vendor/respond.js"></script>
 		<![endif]-->
 		
+		<!--load jQuery, required-->
+		<script src="/assets/js/vendor/jquery-1.11.2.js"></script>
+
+		<script src="/assets/js/vendor/jquery-ui.min.js"></script>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+
 	</head>
 
 
@@ -57,7 +64,7 @@
 			<!-- <img src="/assets/img/circle_crow_paper.png" alt="" class="masthead__logo grit"> -->
 
 			<div class="branding">
-				<img class="grit" src="/assets/img/site_logo4a_e.png" alt="" width="600px">
+				<img class="grit" src="/assets/img/site_logo4a_e.png" alt="site logo for TalesofMurder.com" width="600">
 				<!-- <h2 class="masthead__title grit"><span class="title__sub">Tales of </span><span class="title__main"><span class="m">m</span><span class="urde">urde</span><span class="r">r</span></span></h2>
 
 				<h3 class="masthead__tagline">For readers with time to <span>kill</span> &hellip;</h3> -->
@@ -94,7 +101,7 @@
 </header> <!-- site__header -->
 
 
-  <main class="main" roll="main"> <!-- removed [style="height:100%;"] to correct ios9 browser height problem ... WHY!? -->
+  <main class="main"> <!-- removed [style="height:100%;"] to correct ios9 browser height problem ... WHY!? -->
     <div class="content">
     	<div class="short-stories clearfix">
 
@@ -1058,12 +1065,37 @@ $(document).ready(function() {
 </script>
 
 
+<!-- Font Resizer -->
+<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>   -->
+<script type="text/javascript">  
+  $(document).ready(function () {  
+    $('#linkIncrease').click(function () {  
+      modifyFontSize('increase');  
+    });  
 
+    $('#linkDecrease').click(function () {  
+      modifyFontSize('decrease');  
+    });  
 
+    $('#linkReset').click(function () {  
+      modifyFontSize('reset');  
+    })  
 
+    function modifyFontSize(flag) {  
+      var divElement = $('#story-main');  
+      var currentFontSize = parseInt(divElement.css('font-size'));  
 
+      if (flag == 'increase')  
+        currentFontSize += 2;  
+      else if (flag == 'decrease')  
+        currentFontSize -= 2;  
+      else  
+        currentFontSize = 16;  
 
-
+      divElement.css('font-size', currentFontSize);  
+    }  
+  });  
+</script>  
 
 
 

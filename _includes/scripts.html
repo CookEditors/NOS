@@ -436,12 +436,37 @@ $(document).ready(function() {
 </script>
 
 
+<!-- Font Resizer -->
+<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>   -->
+<script type="text/javascript">  
+  $(document).ready(function () {  
+    $('#linkIncrease').click(function () {  
+      modifyFontSize('increase');  
+    });  
 
+    $('#linkDecrease').click(function () {  
+      modifyFontSize('decrease');  
+    });  
 
+    $('#linkReset').click(function () {  
+      modifyFontSize('reset');  
+    })  
 
+    function modifyFontSize(flag) {  
+      var divElement = $('#story-main');  
+      var currentFontSize = parseInt(divElement.css('font-size'));  
 
+      if (flag == 'increase')  
+        currentFontSize += 2;  
+      else if (flag == 'decrease')  
+        currentFontSize -= 2;  
+      else  
+        currentFontSize = 16;  
 
-
+      divElement.css('font-size', currentFontSize);  
+    }  
+  });  
+</script>  
 
 
 

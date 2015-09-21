@@ -1,0 +1,45 @@
+---
+layout: blank
+title: testing fontsizer
+---
+
+<head>
+	<title>Font Size Change with jQuery</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/
+	ajax/libs/jquery/1.3/jquery.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function()
+		{
+			$('a').click(function()
+			{
+var content = $("#Text").css("font-size"); //Get size in pixels ex:16px
+var getCurrentSize = parseFloat(content);//Do parsing to convert into number ex:16
+var px = content.slice(-2);
+if ((this).id == "increase")
+{
+	getCurrentSize = getCurrentSize+2;
+}
+else
+{
+	getCurrentSize = getCurrentSize-2;
+};
+$('#Text').css("font-size", getCurrentSize+px);
+return false;
+});
+		});
+	</script>
+</head>
+<body>
+	<div align="center">
+		<div >
+			<h1>Welcome to StudywithDemo ! </h1>
+			<p id="Text" style="padding-top:100px; position:fixed; padding-left:400px">
+				Font Size Increase and Decrease Using jQuery</p>
+			</div>
+			<div style="padding-top:300px" >
+			<a href="#" id="increase">INCREASE</a>
+				<a href="#" id="decrease">DECREASE</a>
+			</div>
+		</div>
+	</body>
+	</html>

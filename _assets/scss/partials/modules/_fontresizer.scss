@@ -1,0 +1,20 @@
+.fontresizer {
+  border: 1px solid $acolor;
+  margin: 1rem auto;
+  padding: 1rem;
+  max-width: 600px;
+  width: 90%;
+  text-align: center;
+  button {
+    color: $acolor;
+    background-color: $paper;
+    // border: 2px solid $paper;
+    padding: 0.5rem 1rem;
+    margin-right: 0.5rem;
+  }
+  .fontresizer__icon {
+    color: $acolor;
+  }
+}
+
+ // style="background-color: darkred; margin: 1rem; padding: 0.5rem 1rem; text-align: center;"

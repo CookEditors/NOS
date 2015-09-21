@@ -25,6 +25,13 @@
     	<script src="_assets/js/vendor/respond.js"></script>
 		<![endif]-->
 		
+		<!--load jQuery, required-->
+		<script src="/assets/js/vendor/jquery-1.11.2.js"></script>
+
+		<script src="/assets/js/vendor/jquery-ui.min.js"></script>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+
 	</head>
 
 
@@ -57,7 +64,7 @@
 			<!-- <img src="/assets/img/circle_crow_paper.png" alt="" class="masthead__logo grit"> -->
 
 			<div class="branding">
-				<img class="grit" src="/assets/img/site_logo4a_e.png" alt="" width="600px">
+				<img class="grit" src="/assets/img/site_logo4a_e.png" alt="site logo for TalesofMurder.com" width="600">
 				<!-- <h2 class="masthead__title grit"><span class="title__sub">Tales of </span><span class="title__main"><span class="m">m</span><span class="urde">urde</span><span class="r">r</span></span></h2>
 
 				<h3 class="masthead__tagline">For readers with time to <span>kill</span> &hellip;</h3> -->
@@ -94,7 +101,7 @@
 </header> <!-- site__header -->
 
 
-  <main class="main" roll="main"> <!-- removed [style="height:100%;"] to correct ios9 browser height problem ... WHY!? -->
+  <main class="main"> <!-- removed [style="height:100%;"] to correct ios9 browser height problem ... WHY!? -->
     <div class="content">
     	<div id="thepost" class="post">
 
@@ -146,8 +153,16 @@
 	<div class="cu-tease grit">
 		<p><strong>PSST! Hey, buddy &hellip;</strong> did'ya know you can download <a href="#"><strong>The Guerilla</strong></a> for any ereader device (<em>Kindle, iBooks, etc.</em>) or as PDF &hellip; perfect for reading when you're not online but have time to kill! <strong>Look for the <a href="#ssactions_ID"><span>Download</span></a> buttons at the end of this story.</strong></p>
 	</div> <!-- end div cu-tease -->
+	
+		<div class="fontresizer">
+	<h6 class="hidden">Adjust Font Size</h6>
+	<button id="linkDecrease"><i class="fa fa-minus-square fa-2x"></i></button>
+	<i class="fontresizer__icon fa fa-font"></i><i class="fontresizer__icon fa fa-font fa-2x"></i>
+	<button id="linkIncrease"><i class="fa fa-plus-square fa-2x"></i></button>   
 
-	<article class="post__content" id="resize">
+</div> <!-- end div fontresizer -->
+
+	<article class="post__content" id="story-main">
   	<section id="toc" class="toc">
   <header>
     <h6>Table of Contents</h6>
@@ -436,6 +451,8 @@
 </div> <!-- end div mc_embed_signup -->
 
 <script>
+// must have jquery loaded BEFORE this script or it errors out
+
 	$(document).ready(function(){
 		ajaxMailChimp.init($("#mc-embedded-subscribe-form"), $("#footer-subscribe-result"));
 
@@ -1068,12 +1085,37 @@ $(document).ready(function() {
 </script>
 
 
+<!-- Font Resizer -->
+<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>   -->
+<script type="text/javascript">  
+  $(document).ready(function () {  
+    $('#linkIncrease').click(function () {  
+      modifyFontSize('increase');  
+    });  
 
+    $('#linkDecrease').click(function () {  
+      modifyFontSize('decrease');  
+    });  
 
+    $('#linkReset').click(function () {  
+      modifyFontSize('reset');  
+    })  
 
+    function modifyFontSize(flag) {  
+      var divElement = $('#story-main');  
+      var currentFontSize = parseInt(divElement.css('font-size'));  
 
+      if (flag == 'increase')  
+        currentFontSize += 2;  
+      else if (flag == 'decrease')  
+        currentFontSize -= 2;  
+      else  
+        currentFontSize = 16;  
 
-
+      divElement.css('font-size', currentFontSize);  
+    }  
+  });  
+</script>  
 
 
 
