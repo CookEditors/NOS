@@ -1,9 +1,10 @@
 .fontresizer {
   border: 1px solid $acolor;
   margin: 1rem auto;
-  padding: 1rem;
-  max-width: 600px;
-  width: 90%;
+  padding: 0 -1rem;
+  // max-width: 600px;
+  width: 50%;
+  font-size: 0.75rem;
   text-align: center;
   button {
     color: $acolor;
@@ -14,6 +15,10 @@
   }
   .fontresizer__icon {
     color: $acolor;
+  }
+  @media screen and (min-width: 960px) {
+    width: 20%;
+    
   }
 }
 

@@ -1,0 +1,12 @@
+		<nav  class="nav__primary"> <!-- if {% if page.url == '/index.html' %} class="hidden" {% endif %} statement removes menu from home (eventually only WelcomeGate) page -->
+			<ul id="menu">
+			  <li><a {% if page.url == '/index.html' %} class="active" {% endif %} href="/index.html">Home</a></li>
+			  <li><a {% if page.url == '/about/index.html' %} class="active" {% endif %} href="/about/index.html">About</a></li>
+			  <li><a {% if page.url == '/short-stories/index.html' %} class="active" {% endif %} href="/short-stories/index.html">Short&nbsp;Stories</a></li>
+			  <li><a {% if page.url == '/book-catalog/index.html' %} class="active" {% endif %} href="/book-catalog/index.html">Book&nbsp;Catalog</a></li>
+			  <li><a {% if page.url == '/the-red-file/index.html' %} class="active" {% endif %} href="/the-red-file/index.html">The&nbsp;Red&nbsp;File</a></li>
+			</ul>
+		</nav>
+
+  </div> <!-- end div frame --> 
+</header> <!-- site__header -->
