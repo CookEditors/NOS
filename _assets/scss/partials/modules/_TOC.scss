@@ -25,7 +25,8 @@
     line-height: 1;
   }
   li {
-    display: block;
+    // display: block;
+    text-transform: uppercase;
     margin: 0 0 1px 0;
     padding: 0;
     font-family: $header-font-family;
@@ -35,7 +36,7 @@
     }
     a {
       padding: 10px;
-      display: block;
+      // display: block;
       color: $acolor;
       text-decoration: none;
     }
@@ -50,4 +51,19 @@
   &.js-hidden {
     max-height: 0;
   }
+  ul li {
+    // border: 1px solid green;
+      display: inline;
+    ul li a {
+      // text-transform: uppercase;
+    }
+  }
 }
+
+#markdown-toc {
+}
+
+
+
+
+

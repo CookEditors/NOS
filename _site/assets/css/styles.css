@@ -1161,6 +1161,9 @@ th {
 *:before, *:after {
   box-sizing: inherit; }
 
+:root {
+  font-size: 16px; }
+
 @-ms-viewport {
   width: device-width; }
 
@@ -1799,7 +1802,7 @@ a.readmore {
     padding: 0;
     line-height: 1; }
   .toc li {
-    display: block;
+    text-transform: uppercase;
     margin: 0 0 1px 0;
     padding: 0;
     font-family: "Josefin Sans", sans-serif;
@@ -1808,7 +1811,6 @@ a.readmore {
       border-bottom-width: 0; }
     .toc li a {
       padding: 10px;
-      display: block;
       color: #8B0000;
       text-decoration: none; }
     .toc li ul {
@@ -1819,6 +1821,8 @@ a.readmore {
   overflow: hidden; }
   #drawer.js-hidden {
     max-height: 0; }
+  #drawer ul li {
+    display: inline; }
 
 /* ==========================================================================
    MANIFESTO
