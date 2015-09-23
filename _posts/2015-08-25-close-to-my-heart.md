@@ -25,12 +25,6 @@ epub: LINK TO EPUB
 </div>
 </section> <!-- table-of-contents -->
 
-<h6 class="btt"><a href="#top">Back to Top</a></h6>
-<hr>
-
-<h6 class="btt"><a href="#top">Back to Top</a></h6>
-<hr>
-
 ###Chapter 1
 {: .chapternumber .no_toc}
 

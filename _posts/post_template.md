@@ -23,10 +23,12 @@ epub: LINK TO EPUB
 1. Auto generated table of contents
 {:toc}
 </div>
+{: .chaptertitle }</section> <!-- table-of-contents -->
+
 </section> <!-- table-of-contents -->
 
-<h6 class="btt"><a href="#top">Back to Top</a></h6>
-<hr>
+</section> <!-- table-of-contents -->
+
 
 ###Chapter 1
 {: .chapternumber .no_toc}
