@@ -27,7 +27,7 @@ epub: LINK TO EPUB
 </section> <!-- table-of-contents -->
 
 ###Introduction
-{: .chapternumber }
+{: .chaptertitle }
 
 “Have one, Janie?”
 

@@ -32,7 +32,7 @@ epub: LINK TO EPUB
 {: .chapternumber .no_toc}
 
 ###The Inquest
-{: .chapternumber }
+{: .chaptertitle }
 
 [raw story copy]
 

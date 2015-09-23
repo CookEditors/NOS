@@ -32,7 +32,7 @@ epub: LINK TO EPUB
 {: .chapternumber .no_toc}
 
 ###Waldo Fellows Had Met Death
-{: .chapternumber }
+{: .chaptertitle }
 
 Doctor Andrews, the physician who had been called in by the coroner, gave as his opinion that Waldo Fellows had met death shortly after midnight. The condition of the body, he said, proved his contention. Then, too, the fact that the blood with which the sheets were smeared had dried and hardened caused him to stick to his statement.
 
@@ -59,7 +59,7 @@ Such a man as Waldo Fellows set down in (he midst of a rural community is bound 
 {: .chapternumber .no_toc}
 
 ###A Bottle of Bromide
-{: .chapternumber }
+{: .chaptertitle }
 
 Fellows was murdered in bed, apparently in cold blood, for there was no evidence of a struggle of any kind. Nothing in the room had been disturbed. So far as could be ascertained nothing of value had been taken. The fact that the bedding was not mussed led to the belief that the murderer had struck while his victim was asleep.
 
@@ -102,7 +102,7 @@ My friend shrugged his shoulders again.
 {: .chapternumber .no_toc}
 
 ###Father Lipki
-{: .chapternumber }
+{: .chaptertitle }
 
 Darkness had fallen when Dwyer and the coroner again drove up to the Fellows home accompanied by Father Lipki, the gypsy.
 
@@ -161,7 +161,7 @@ Then, without warning, he dropped to his knees, his arms outstretched towards th
 {: .chapternumber .no_toc}
 
 ###Ammonium Chloride
-{: .chapternumber }
+{: .chaptertitle }
 
 “No, I never met Lipki until yesterday,” Dwyer chuckled to us as, two hours later, Hitchens safely lodged in jail, he sat with the coroner, the sheriff and myself in the former’s parlor and went over the various phases of the case.
 

@@ -33,7 +33,7 @@ epub: LINK TO EPUB
 {: .chapternumber .no_toc}
 
 ###Bosco The Blimp
-{: .chapternumber }
+{: .chaptertitle }
 
 For many moons, the Boston cops have wondered why Snooty Piper finds out about murders the same time they do. If you know the crackpot, there is nothing mysterious about it. It seems that Snooty has something on most newspaper reporters—little things like two-timing the little woman or playing poker when they should have been to a lodge. So it is not surprising to me that Snooty gets the news that a character named Bosco the Blimp gets knocked off hardly before the remains begin to cool.
 
@@ -74,7 +74,7 @@ Iron Jaw whips off his derby and bangs Snooty just over the right eye.
 {: .chapternumber .no_toc}
 
 ###Sniggy Welp
-{: .chapternumber }
+{: .chaptertitle }
 
 When we get to our favorite tavern and order two beers. Snooty shows me a slip of paper. “I been learn in’ sleight-of-hand out of a book, nights, Scoop,” he explains, blinking like an owl caught suddenly in a night-club spotlight.
 
@@ -131,7 +131,7 @@ Sure enough, she identifies herself as Mamie Slognecker, alias Maggie the Claw. 
 {: .chapternumber .no_toc}
 
 ###Dinsmore Smooch
-{: .chapternumber }
+{: .chaptertitle }
 
 It is all in the papers the next day about Iron Jaw producing a star witness for the state. Snooty is very nettled, and not just in the eyes. He washes his peepers out with some sort of pale green liquid he bought in a drugstore. It is a safe bet that if he ever wore a diamond, it would be green. I am very startled, to say the least, when he suddenly takes out a pair of cheaters and adjusts them. They are a dirty yellow color.
 
@@ -202,7 +202,7 @@ Iron Jaw pulls his punch. Snooty is quite pleased. “I think I’ll wear them a
 {: .chapternumber .no_toc}
 
 ###Humbert Prawn
-{: .chapternumber }
+{: .chaptertitle }
 
 Quite early the next A.M., I am walking along Washington Street and pick up a copy of the Morning Post Mail. It carries a story on the third page, about five sticks, about an arrest made by Iron Jaw O’Shaughnessy.
 
@@ -257,7 +257,7 @@ Again Iron Jaw emerges. He is chewing his derby. “He had a nose bleed,” he s
 {: .chapternumber .no_toc}
 
 ###Snooty Piper
-{: .chapternumber }
+{: .chaptertitle }
 
 It is a rare feeling walking along the streets of Boston later with Snooty and not having somebody throw a shiv or a bullet where it will do a body the most good.
 
@@ -316,7 +316,7 @@ Bang! Zi-i-ing!
 {: .chapternumber .no_toc}
 
 ###Half Ton Tripeski
-{: .chapternumber }
+{: .chaptertitle }
 
 There are more shots. A slug burns my right ear. Then we are abreast of the blue boiler. Snooty Piper swings the wheel to the right.
 

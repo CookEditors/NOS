@@ -29,7 +29,7 @@ epub: LINK TO EPUB
 {: .chapternumber .no_toc}
 
 ###Morgue Bait
-{: .chapternumber }
+{: .chaptertitle }
 
 For many years Bay Street was the place. Bar whisky for eight cents a shot or a double slug for fifteen. Waterfront Street. The dirty grey waves slapped at the crusted piles and left an oil scum. A street to forget with. A street which could close in on you, day to day, night to night, until you maybe ran into an old friend who slipped you a five, and somebody saw you get it; there at dawn an interne from city hospital would shove your eyelid up with a clean, pink thumb. “Icebox meat,” he’d say. “Morgue bait.” And maybe, as he stood up, he’d look down at your hollow grey face and the sharp bones of your wrists and wonder how you’d kept alive so long. So very long.
 
@@ -54,7 +54,7 @@ Frank Bard heard the slow tock, tock of heels, heavy heels, coming down the side
 {: .chapternumber .no_toc}
 
 ###I Like It This Way
-{: .chapternumber }
+{: .chaptertitle }
 
 He looked up. Patrolman Clarence Flynn, tall and solid, stood looking down at him. Flynn’s raincoat had a cape effect across the shoulders that made him look larger than life size.
 
@@ -119,7 +119,7 @@ The stranger looked into Bard’s eyes and moved back a few inches. “Bad luck?
 {: .chapternumber .no_toc}
 
 ###Jeanie
-{: .chapternumber }
+{: .chaptertitle }
 
 Jader came over, his pale eyes watering. He said, “Damn it, Arthur, what did you let this dizzy punk come in here for?”
 
@@ -176,7 +176,7 @@ In the alley Frank Bard stood, his hand on the corner of the packing case, looki
 {: .chapternumber .no_toc}
 
 ###The Back Booth
-{: .chapternumber }
+{: .chaptertitle }
 
 Jader was in a good mood. The drawer was almost full of packages and the first pickup was due in an hour. Arthur Allison had gone to the races. It was the first time Jader had been alone in the place in many months. He liked the feeling of being trusted. The sun was hot on Dorrity Street. It slanted through the smeared front window, lighting the dim interior. One old man was asleep, his head on the booth table. Jader planned to wake him up and get him out soon.
 
@@ -247,7 +247,7 @@ Jader made a strangled noise. His wet eyes widened. “I killed her. She couldn�
 {: .chapternumber .no_toc}
 
 ###Jader
-{: .chapternumber }
+{: .chaptertitle }
 
 He turned then and looked into Frank Bard’s eyes. His underlip hung away from his teeth and he took a slow step away from the booth. Somehow Bard was in front of him. Jader clenched his white fists and struck blindly. He missed and went off balance as Frank Bard’s thin, dirty fist smashed his mouth. He fell heavily to his hands and knees, going over onto his side as one of the grey, broken shoes landed against the side of his head. One of the white hands lay, as still as lard, against the floor. Frank Bard set his heel on the fingers and swiveled his entire weight, slowly.
 

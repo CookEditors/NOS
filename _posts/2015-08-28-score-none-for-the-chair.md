@@ -32,7 +32,7 @@ epub: LINK TO EPUB
 {: .chapternumber .no_toc}
 
 ###Circumstantial Evidence
-{: .chapternumber }
+{: .chaptertitle }
 
 If any one around Headquarters was making a book on a Murder Handicap, I’d lay 100-to-l that Joe Gillen was guilty. A vicious and premeditated homicide, at that. But Howard—that is, Det. Chief Gwynn Howard—never said a word until the morning of the second day.
 
@@ -67,7 +67,7 @@ Howard took three sheets of typed paper from his desk. “Here’s the official 
 {: .chapternumber .no_toc}
 
 ###The Appearance of Innocence
-{: .chapternumber }
+{: .chaptertitle }
 
 I read the confession. Briefly, Gillen stated that he and his wife, Mary, had been drinking in their small frame cottage.
 
@@ -130,7 +130,7 @@ I started for the door, stopped halfway and asked, “Do you mind if I call on B
 {: .chapternumber .no_toc}
 
 ###Maybe I Killed Her
-{: .chapternumber }
+{: .chaptertitle }
 
 Gillen sat on the edge of his cot, with his head in his hands. He was a stupid looking guy, with a half-moon head of hair—half hair, half bald. He told me he was 42 and worked, when he worked, as a carpenter’s helper.
 

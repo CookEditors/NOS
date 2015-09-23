@@ -32,7 +32,7 @@ epub: LINK TO EPUB
 {: .chapternumber .no_toc}
 
 ###Renny Jordahl’s Private Secretary
-{: .chapternumber }
+{: .chaptertitle }
 
 The babe was going to soak her feet and ruin her shoes if she kept running through puddles. I followed her through the rain from the Greyhound Bus Terminal.
 
@@ -111,7 +111,7 @@ I said from the kitchen, “I knew you were scared. You didn’t exactly show it
 {: .chapternumber .no_toc}
 
 ###The Czech
-{: .chapternumber }
+{: .chaptertitle }
 
 I came back again with two whiskey-and-waters. By now she’d even taken off her shoes and stockings. She was the type who needed very little urging to make herself at home. Her nasturtium-shade suit was wrinkled.
 
@@ -162,7 +162,7 @@ I said, “Brief me on the Czech who was murdered.”
 {: .chapternumber .no_toc}
 
 ###He’s Got Something On Me
-{: .chapternumber }
+{: .chaptertitle }
 
 She started slowly. “What do you want to know? Jan Bardijov got out of Czechoslovakia one jump ahead of the Communist grab. He was quite a smuggler. He got out with a sack of harlequin opals.”
 
@@ -221,7 +221,7 @@ She looked at me as if I’d suddenly grown twice as tall. “Renny must have an
 {: .chapternumber .no_toc}
 
 ###The Old Kick-Back
-{: .chapternumber }
+{: .chaptertitle }
 
 But I was keeping it to myself. I wasn’t going to tell her that Jordahl knew me because I had links of my own with the jewelry business—on the shady side. I wasn’t what the police would call an absolutely scrupulous private operator.
 
@@ -258,7 +258,7 @@ I was close enough now to take it out of her hand. Her eyes were looking into mi
 {: .chapternumber .no_toc}
 
 ###What A Stupe
-{: .chapternumber }
+{: .chaptertitle }
 
 She closed her eyes as if ashamed at how weak she was and her arm dropped limply. I snapped back the automatic’s slide. A shiny copper-colored cartridge was bedded there in the barrel, winking brazenly up at me.
 
@@ -291,7 +291,7 @@ She sat down again with a tired flop. She picked up the highball glass and stare
 {: .chapternumber .no_toc}
 
 ###What’s The Matter, Sluefoot?
-{: .chapternumber }
+{: .chaptertitle }
 
 Renny Jordahl was in his office on the twenty-first floor of the Harrow Tower on Fortieth Street. He was going to wait there most of the night, expecting a report from me.
 
@@ -348,7 +348,7 @@ I could see four fists. “Why, you punk!” snarled Cougar.
 {: .chapternumber .no_toc}
 
 ###No Hard Feelings
-{: .chapternumber }
+{: .chaptertitle }
 
 Cougar hit me. I tried to ride the punch and topple over backwards toward the emergency stairway. I rolled over into the dark at the foot of the stairs. Both of them came in after me.
 
@@ -391,7 +391,7 @@ I turned the doorknob. It made only a cobweb of sound. I swung the door wider.
 {: .chapternumber .no_toc}
 
 ###Watery Graves
-{: .chapternumber }
+{: .chaptertitle }
 
 Gertie was at the open wall-safe. She was stuffing handfuls of currency into her handbag. I looked around. Where was Jordahl? No one else was in the office. The window was wide open and the grey monk’s-cloth drapes were billowing inward on the wind and they were speckled dark with the driving rain.
 
@@ -432,7 +432,7 @@ I lurched toward her. “You won’t shoot, Gertie. I took that gat away from yo
 {: .chapternumber .no_toc}
 
 ###Red As My Blood
-{: .chapternumber }
+{: .chaptertitle }
 
 I started to reach out. She pulled the trigger. A sledge-hammer hit me in the right shoulder and I spun halfway around from the impact. I didn’t feel any pain. Just the punch.
 

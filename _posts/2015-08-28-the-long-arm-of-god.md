@@ -45,7 +45,7 @@ He mocked God and spit upon His Commandments. And the long arm of God reached ou
 {: .chapternumber .no_toc}
 
 ###The Ever-Mysterious North
-{: .chapternumber }
+{: .chaptertitle }
 
 Lee was the first to die.
 
@@ -78,7 +78,7 @@ There is no stronger test of friendship than the placing of strong, vigorous men
 {: .chapternumber .no_toc}
 
 ###The Visitation Of God
-{: .chapternumber }
+{: .chaptertitle }
 
 When they found the grisly horror that was Lee, lying stark and stiff in his bunk, gazing, glassy-eyed, toward the ceiling, there was no thought of foul play. It was Halligan who, in straightening out the cold, clinched fingers, discovered the tiny thread of gray wool in the doubled-up fist and called the attention of the others to it.
 
@@ -119,7 +119,7 @@ It was late when they retired that night. All but Wentworth. He refused to eat a
 {: .chapternumber .no_toc}
 
 ###A Pall Of Acrid Smoke
-{: .chapternumber }
+{: .chaptertitle }
 
 They slept fitfully. It was nearly morning when they were awakened by the sharp explosion of a gun.
 
@@ -160,7 +160,7 @@ For Drew lay dead in his bunk. Between his ribs, buried to the hilt, was a hunti
 {: .chapternumber .no_toc}
 
 ###The Girl And The Money
-{: .chapternumber }
+{: .chaptertitle }
 
 Kelly carefully drew the knife from the wound and looked at the initials carved on the handle.
 
@@ -249,7 +249,7 @@ Halligan smiled. “God? Bah! If I’d believed in such foolishness I’d never 
 {: .chapternumber .no_toc}
 
 ###Beginning Of The End
-{: .chapternumber }
+{: .chaptertitle }
 
 He arose and stretched himself. Then, seizing the dead man, he dragged his victim out of doors and buried him alongside of the others.
 

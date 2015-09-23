@@ -32,7 +32,7 @@ epub: LINK TO EPUB
 {: .chapternumber .no_toc}
 
 ###Luck’s A Fickle Jade
-{: .chapternumber }
+{: .chaptertitle }
 
 Corcoran threw snake-eyes. An audible gasp went up from the well-dressed crowd around the crap-table. They had seen Corcoran make six straight passes; watched him run a ten-spot up to six hundred and forty bucks.
 
@@ -61,7 +61,7 @@ Luck’s a fickle jade; when a man wants to lose, he almost invariably wins. It 
 {: .chapternumber .no_toc}
 
 ###A Teller At My Bank
-{: .chapternumber }
+{: .chaptertitle }
 
 The tuxedoed croupier said: “Still your dice if you want them, Mister.”
 
@@ -112,7 +112,7 @@ Shelton spoke into a house-phone.
 {: .chapternumber .no_toc}
 
 ###You Might Call It A Stick-Up
-{: .chapternumber }
+{: .chaptertitle }
 
 In a moment the door opened. A tall, nervous young man came in, the one who had flicked his eyebrow at Corcoran a while ago.
 
@@ -171,7 +171,7 @@ He said: “Okay. He won’t get loose for a while.”
 {: .chapternumber .no_toc}
 
 ###Could I Kiss The Bride?
-{: .chapternumber }
+{: .chaptertitle }
 
 The door opened. A feminine voice said: “That’s what you think.”
 
@@ -218,7 +218,7 @@ She gave him her lips in gratitude.
 {: .chapternumber .no_toc}
 
 ###And Finally, Silence
-{: .chapternumber }
+{: .chaptertitle }
 
 The cab stopped in front of her apartment building.
 
@@ -255,7 +255,7 @@ Corcoran hit the door. It bruisingly rebuffed him. He backed away and smashed at
 {: .chapternumber .no_toc}
 
 ###Pinched For Murder
-{: .chapternumber }
+{: .chaptertitle }
 
 An open window framed the iron fire-ladder just outside. In the room’s center lay Harry Greer, breathing heavily, with his eyes closed. Thick clotted blood wept from a raw hole in his left shoulder. A thin drift of gunpowder-smoke eddied in the dull light from a table-lamp.
 
@@ -308,7 +308,7 @@ It was preposterous, of course. Corcoran knew that. But he wanted to throw a sca
 {: .chapternumber .no_toc}
 
 ###To Save A Guy’s Life
-{: .chapternumber }
+{: .chaptertitle }
 
 All the color drained from her cheeks.
 
@@ -405,7 +405,7 @@ Greer gulped noisily. “You’re all wrong — ”
 {: .chapternumber .no_toc}
 
 ###Turn ’Em Loose
-{: .chapternumber }
+{: .chaptertitle }
 
 Greer snarled: “You’ll never take me, Corcoran!” and swatted at the revolver in the private dick’s fist. Corcoran shot him through the other shoulder.
 

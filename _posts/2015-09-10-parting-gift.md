@@ -32,7 +32,7 @@ epub: LINK TO EPUB
 {: .chapternumber .no_toc}
 
 ###It’s Me, Honey
-{: .chapternumber }
+{: .chaptertitle }
 
 Pomfret walked slowly up the path to his front door, clicked his key in the lock and stepped into the warmth of his own hallway. For a moment he stood there in the semi-darkness, breathing hard, tilting his head, smelling the old familiar smells and wondering at himself for the thing he was about to do.
 
@@ -69,7 +69,7 @@ He closed his eyes and thought about Harvey’s handsome face. Then he went out 
 {: .chapternumber .no_toc}
 
 ###Harvey’s Cigarette Case
-{: .chapternumber }
+{: .chaptertitle }
 
 Eva came down the stairs, and Pomfret paused by the door, watching her, taking her in, gauging the full fluid motion of her body and the slow swing of her long tawny hair and the full rich beauty of her face, feeling again the desire for her and the need of her.
 
@@ -118,7 +118,7 @@ He put the car into high gear and went down the street and turned the corner, ou
 {: .chapternumber .no_toc}
 
 ###They’ll Never Suspect A Thing
-{: .chapternumber }
+{: .chaptertitle }
 
 Harvey grinned. He had a good-natured, boyish grin that worked well with some types of women. He stood in the middle of Joe Pomfret’s living room, staring at Joe Pomfret’s wife. There was sweat on his face.
 

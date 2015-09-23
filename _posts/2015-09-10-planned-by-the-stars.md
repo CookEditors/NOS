@@ -32,7 +32,7 @@ epub: LINK TO EPUB
 {: .chapternumber .no_toc}
 
 ###The Day Is Ill-Omened
-{: .chapternumber }
+{: .chaptertitle }
 
 The sanctum of Madame Sovio was drab and tawdry. The room was small and done in faded blue draperies upon which were tinsel stars and moons.
 
@@ -175,7 +175,7 @@ Joe Carney reflectively rubbed his beard-rusty chin.
 {: .chapternumber .no_toc}
 
 ###The Right Dope
-{: .chapternumber }
+{: .chaptertitle }
 
 The night was hot and unstirring. A full moon rode high in a cloudless sky. The dank smell of the river grew more pronounced. The streets were lined with coatless loungers sprawling at ease in doorway or on stoop.
 

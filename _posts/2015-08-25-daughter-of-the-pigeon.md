@@ -32,7 +32,7 @@ epub: LINK TO EPUB
 {: .chapternumber .no_toc}
 
 ###Bloody Taoha
-{: .chapternumber }
+{: .chaptertitle }
 
 That last night in Marquesan waters, as Cleaves and I sat on the fore-deck of the anchored Jezbel, listening to the talk of Leaping Fire, the Polynesian midshipman, the Bay of Traitors was lit with an eerie glow. Along Taha-uka, from the rockbound shore where the surf hurled its futile rage upon a Bastile of dun-colored stone, to the somnolent lights of Hivaoa dreaming beneath the black thunders of Temetiu, legions of phosphorus battled in green strife.
 
@@ -161,7 +161,7 @@ In the huge sea-chest, face upturned, was a man.
 {: .chapternumber .no_toc}
 
 ###Red Moon
-{: .chapternumber }
+{: .chaptertitle }
 
 I cannot adequately define my emotions. I was filled with a craven desire to run, to shut the lid upon the body, to do anything to escape the horrid cavern. How long I stood there, stiff with fright, I do not know, but it was some time, and the third groan aroused me from the fear-stupor.
 
@@ -278,7 +278,7 @@ It must have been a rock that sent me out. At any rate the pain was sharp— in 
 {: .chapternumber .no_toc}
 
 ###Tahaiupehii
-{: .chapternumber }
+{: .chaptertitle }
 
 The sleep that followed was not calm—nor can I hardly call it sleep, for during the whole period I had a peculiar awareness of things, of movement and a sound like unleashed thunder.
 
@@ -397,7 +397,7 @@ The last glimpse I had of that sodden, rum-soaked flesh called Habuhamo was as t
 {: .chapternumber .no_toc}
 
 ###The Darkness Of Po
-{: .chapternumber }
+{: .chaptertitle }
 
 Tahaiupehii was conscious when I knelt beside her on the edge—slim and white as fire, her wet dark hair spread in a tangle about her lovely face. More than ever her features seemed fashioned from blue moonlight.
 

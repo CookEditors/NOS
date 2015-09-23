@@ -32,7 +32,7 @@ epub: LINK TO EPUB
 {: .chapternumber .no_toc}
 
 ###Trying To Remember
-{: .chapternumber }
+{: .chaptertitle }
 
 He sat alone in the darkness of the room. The night sounds of the city drifted up to him faintly. There was a cigarette between his fingers.
 
@@ -53,7 +53,7 @@ But before that? Nothing. Nothing except that one clear picture. He closed his e
 {: .chapternumber .no_toc}
 
 ###All He Remembered
-{: .chapternumber }
+{: .chaptertitle }
 
 She was beautiful, the girl. Her hair framed her pale, sensuous face in a shimmering black pool.he wore a loose satin negligee, black as her hair, dramatic against the milky white translucence of her smooth skin. Her full, sullen lips were parted slightly, showing a line of fine, even teeth. She was staring up at him without blinking.
 
@@ -76,7 +76,7 @@ He shuffled to the washbasin in a corner of the room, turned the dripping faucet
 {: .chapternumber .no_toc}
 
 ###Clayton City National Bank
-{: .chapternumber }
+{: .chaptertitle }
 
 He saw himself for the first time. A strange face that he could not remember. He brought his fingers up, touching his lips, his cheeks. The reflection was that of a thin man in his late twenties. His complexion was pale as if he were seldom in the sunshine. There were dark smudges under his blue eyes, lines around his mouth. His dark brown hair was clipped in a short, crisp style.
 
@@ -117,7 +117,7 @@ With shaking fingers he took out one of the bundles. The paper band around it bo
 {: .chapternumber .no_toc}
 
 ###Good Evening, George
-{: .chapternumber }
+{: .chaptertitle }
 
 The highway marker on the city limits of Clayton City said, “Population, 7,000.”
 
@@ -156,7 +156,7 @@ No, you said none of those things. You stood there, groping for words that would
 {: .chapternumber .no_toc}
 
 ###You Might Be A Friend
-{: .chapternumber }
+{: .chaptertitle }
 
 She looked up again, at his strange silence. She glanced at his eyes, at his rumpled clothes, the blood on his coat collar.
 
@@ -201,7 +201,7 @@ Her voice was half a sob. “Mary. It’s Mary, George. You can’t—remember a
 {: .chapternumber .no_toc}
 
 ###Nightmare Became Reality
-{: .chapternumber }
+{: .chaptertitle }
 
 She nodded wordlessly. She swung the coupe around, into a side street. They drove silently along shadowy lanes and then parked before an apartment building. It was in a quiet, residential part of town.
 
@@ -238,7 +238,7 @@ Don’t pry any more. Leave the past alone. It’s better that you don’t know 
 {: .chapternumber .no_toc}
 
 ###My Sister
-{: .chapternumber }
+{: .chaptertitle }
 
 Unconsciously, his hand had taken the .25 automatic from his pocket. He was staring at it and at the girl … his mind sick and reeling. So absorbed that he did not hear the key turn in the hall door or the padded footsteps behind him.
 
@@ -269,7 +269,7 @@ The man’s eyes narrowed.
 {: .chapternumber .no_toc}
 
 ###Had He Really Killed Her?
-{: .chapternumber }
+{: .chaptertitle }
 
 His pudgy white finger closed around the trigger.
 
@@ -304,7 +304,7 @@ The thought crashed in his mind like cymbals.
 {: .chapternumber .no_toc}
 
 ###The Head-Strong Type
-{: .chapternumber }
+{: .chaptertitle }
 
 At that precise moment, the hallway door in the other room opened. There was the hurried tap of a woman’s heels and the blonde girl, Mary called, “George? I got worried. You have been here so long … .”
 
@@ -341,7 +341,7 @@ Denham finished, “I tried to talk Liss out of this but she was always the head
 {: .chapternumber .no_toc}
 
 ###You Killed Your Wife
-{: .chapternumber }
+{: .chaptertitle }
 
 George Noles shook his head. “That isn’t all of it. You see there was one detail. The one thing I could remember clearly when I came too back in Sanderton, was this room. I saw Liss just as she’s lying here and that was when someone struck me from behind.
 
@@ -374,7 +374,7 @@ Denham’s breath was coming in short, ragged gasps. His shirt was soggy with pe
 {: .chapternumber .no_toc}
 
 ###Who Are You, Mary?
-{: .chapternumber }
+{: .chaptertitle }
 
 George Noles sat on the sofa with the blonde girl while they waited for the police. There was no fight left in Denham—slumped in a chair opposite them.
 

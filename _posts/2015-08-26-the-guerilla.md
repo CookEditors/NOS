@@ -32,7 +32,7 @@ epub: LINK TO EPUB
 {: .chapternumber .no_toc}
 
 ###Power House Gang
-{: .chapternumber }
+{: .chaptertitle }
 
 His name was Joe Cragen. His family was poor but respectable. Old man Cragen was a law-abiding citizen and Mother Cragen a benevolent, white-haired woman whose fondest recollections were of the County Mayo.
 
@@ -55,7 +55,7 @@ The same night Cragen crept through the meshes of far-flung police nets and “r
 {: .chapternumber .no_toc}
 
 ###Nothing To It
-{: .chapternumber }
+{: .chaptertitle }
 
 On an August night four years after the bank stick-up, and the flight of Cragen, a lean, gray-haired individual in a rusty blue serge suit, cracked shoes and greasy cap entered Wolger’s West Street hotel, crossed the uncarpeted lobby floor and moved to the desk that Abraham Wolger presided over, where he spoke briefly.
 
@@ -134,7 +134,7 @@ He fumbled in his pockets until he found a five-cent piece, turned east to the f
 {: .chapternumber .no_toc}
 
 ###The Tenement
-{: .chapternumber }
+{: .chaptertitle }
 
 At the corner of Forty-ninth Street the man alighted and turned toward the river.
 
@@ -203,7 +203,7 @@ Then wearying of the sport and mindful that time was flying, he used his blackja
 {: .chapternumber .no_toc}
 
 ###Murder In A Fish Store
-{: .chapternumber }
+{: .chaptertitle }
 
 The following morning, Abraham Wolger, at the desk in his West Street hotel, looked up from the third morning edition of his favorite paper and addressed a burly youth who was sweeping out the uncarpeted lobby with a worn broom.
 

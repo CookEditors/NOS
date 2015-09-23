@@ -32,7 +32,7 @@ epub: LINK TO EPUB
 {: .chapternumber .no_toc}
 
 ###Breakin’ Out
-{: .chapternumber }
+{: .chaptertitle }
 
 Nick Ryan tossed aside the magazine he’d been reading by the dingy light of a bulb overhead. But he didn’t get up from the cot, as Sheriff Capehart came along the shadowy corridor that led back to the cellblock. Nick was a slim, dark young man with sly features. He was openly contemptuous of everybody in his hometown of Piney Point.
 
@@ -89,7 +89,7 @@ Nick didn’t argue any more. He didn’t know yet what cooked, but he knew that
 {: .chapternumber .no_toc}
 
 ###Settin’ In
-{: .chapternumber }
+{: .chaptertitle }
 
 A dark sedan was drawn up at the curb half a block away. Blackie slid under the wheel, the tall man got in the back seat with Nick. The automatic was still in his hand. Blackie started the engine.
 

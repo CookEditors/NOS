@@ -32,7 +32,7 @@ epub: LINK TO EPUB
 {: .chapternumber .no_toc}
 
 ###Yucca City
-{: .chapternumber }
+{: .chaptertitle }
 
 On an evening when desert winds moan weirdly through deserted buildings in Yucca City, “Ghost-Town Jim” Boggs sits on the rotting-platform of the Tonapha & Hassayampa brank-line depot muttering greetings to old friends who have been dead for years.
 
@@ -65,7 +65,7 @@ At first Jim refused to be welcoming host to the visitors, resenting their intru
 {: .chapternumber .no_toc}
 
 ###Ghost-Town
-{: .chapternumber }
+{: .chaptertitle }
 
 That evening, when the movie actors gathered on the old Tonapha & Hassayampa depot platform, Jim Boggs told hair-raising yarns about boom-town days that gave his listeners the creeps. Mexican Joe Mendez had drifted in from the desert and joined the group.
 
@@ -100,7 +100,7 @@ Jim smiled in the moonlit darkness—a tender smile. His gaze shifted to Boothil
 {: .chapternumber .no_toc}
 
 ###Big Walt Halperin
-{: .chapternumber }
+{: .chaptertitle }
 
 When the gathering on the depot platform had broken Up, Boggs heard angry, lowered voices in the shadowy darkness of the Casino dance-hall. From behind a corner of the old building, he caught only a brief snatch of the quarrel, “...and if you don’t keep away from her, Marlow, you damn philandering phony, I’ll wring your neck!”
 
@@ -131,7 +131,7 @@ But Mazie O’Hern was in no mood for slumber.
 {: .chapternumber .no_toc}
 
 ###Back From The Dead
-{: .chapternumber }
+{: .chaptertitle }
 
 Jim was trying to calm her nerves, when Lanning came striding into the room. Halting, he stared in surprise to find Mazie O’Hern there. “What’s wrong, honey? What are you doing here?” he questioned sharply.
 
@@ -158,7 +158,7 @@ Marlow laughed raspily. “You’re not as neurotic as I imagined you were, Mr. 
 {: .chapternumber .no_toc}
 
 ###The Devil Hisself
-{: .chapternumber }
+{: .chaptertitle }
 
 Next morning the corpse of the much-disliked Marlow was found sprawled on the floor of the dusty, cobwebbed Palace Hotel room where he had bedded himself, his eyes staring glassily up at the crumbling plaster ceiling. Apparently he had come to his death by strangulation.
 
@@ -191,7 +191,7 @@ Jim noted that enough dust had been wiped from the left side of the mirror to pe
 {: .chapternumber .no_toc}
 
 ###The Toupée
-{: .chapternumber }
+{: .chaptertitle }
 
 Mexican Joe had been doing some exploring on his own account. In one gnarled hand he clutched a large, black, hairy object, which he had found under the mahogany bar.
 
@@ -218,7 +218,7 @@ Helping Mexican Joe over to the Palace Hotel, Jim left his friend’s head-wound
 {: .chapternumber .no_toc}
 
 ###A Halperin Look-Alike
-{: .chapternumber }
+{: .chaptertitle }
 
 Stepping into the hotel hallway, Boggs nearly collided with Director Dave Parsons. “What happened to Mister Marlow’s corpse?” he questioned the movie man sharply. “You ain’t met up with it roamin’ ‘round the hotel somewheres, have you?”
 
@@ -253,7 +253,7 @@ Three actors were preparing to “test out” for the role of Big Watt Halperin,
 {: .chapternumber .no_toc}
 
 ###Shootin’ To Be Done
-{: .chapternumber }
+{: .chaptertitle }
 
 The actors were absorbed in transferring the photograph likeness of Big Watt Halperin to their faces when Jim Boggs entered the Casino dance-hall with Mazie O’Hern. Mexican Joe Mendez shuffled along behind them, fingering the patch of court-plaster Mazie had applied to his scalp-wound.
 
@@ -288,7 +288,7 @@ Jim Boggs stepped swiftly in front of the camera; jerked a wig from the head of 
 {: .chapternumber .no_toc}
 
 ###My Hands Were At His Throat
-{: .chapternumber }
+{: .chaptertitle }
 
 Commotion swept the Casino dance-hall like a conflagration. “He—he must be crazy!” cried out Mazie O’Hern, horrified. “It’s ridiculous to accuse—”
 
@@ -323,7 +323,7 @@ From a rear room of the dance-hall strode the sheriff of Hassayampa County. Jim 
 {: .chapternumber .no_toc}
 
 ###The Tarnished Old Badge
-{: .chapternumber }
+{: .chaptertitle }
 
 With an agonized cry, Mazie O’Hern flung her arms about her uncle.
 

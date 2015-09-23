@@ -32,7 +32,7 @@ epub: LINK TO EPUB
 {: .chapternumber .no_toc}
 
 ###The Inquest
-{: .chapternumber }
+{: .chaptertitle }
 
 During his world tour, undertaken at the behest and at the expense of the Chinese Government, Song Kee found much to admire.
 
@@ -175,7 +175,7 @@ Two days later the Grand Jury indicted the unfortunate young man. He was taken t
 {: .chapternumber .no_toc}
 
 ###The Plea
-{: .chapternumber }
+{: .chaptertitle }
 
 Song Kee’s participation in the Grenville murder case came about in a singular manner.
 
@@ -272,7 +272,7 @@ Sylvia Granger sprang to her feet. “Thank you! Thank you!” she cried. “And
 {: .chapternumber .no_toc}
 
 ###The Evidence
-{: .chapternumber }
+{: .chaptertitle }
 
 The man who left his rooms on a side street off Madison Avenue was a far different Song Kee from the quietly dressed, well-poised man of the world who had promised help to Sylvia Granger at the Traveler an hour or so earlier. His clothes, his linen, his hat—a brown derby with an exceedingly curly brim— were of the fashion of Broadway rather than of Fifth Avenue. His shoes were of a gorgeous tan, contrasting gaily with pale lavender socks.
 
@@ -527,7 +527,7 @@ Leisurely he turned his steps homeward. At a corner drug store he stopped, and s
 {: .chapternumber .no_toc}
 
 ###The Proof
-{: .chapternumber }
+{: .chaptertitle }
 
 The next morning at eleven o’clock five people were gathered in Police Commissioner Oglethorpe’s office at headquarters awaiting the coming of Song Kee.
 

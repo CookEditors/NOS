@@ -29,7 +29,7 @@ epub: LINK TO EPUB
 {: .chapternumber .no_toc}
 
 ###The Scarlet Ace
-{: .chapternumber }
+{: .chaptertitle }
 
 The knocking on the door was softly urgent. An insistent little tattoo of bunched knuckles. Silence followed. Then the sound began again. Rap, rap, rap! There was something restrained and deadly in that furtive signal on the outside of the locked door of Room 708.
 
@@ -160,7 +160,7 @@ Just plain facts. And accurate.
 {: .chapternumber .no_toc}
 
 ###Stalking Shadows
-{: .chapternumber }
+{: .chaptertitle }
 
 In the locked hotel room marked 708, the Scarlet Ace said tonelessly: “Ten grand’s a pretty good day’s Pay, eh, Tony?”
 
@@ -337,7 +337,7 @@ The cab sprang away with a smooth leap and purred round the corner into traffic.
 {: .chapternumber .no_toc}
 
 ###The Man In A Mask
-{: .chapternumber }
+{: .chaptertitle }
 
 There was a bus terminal down there and a waiting-room and platform for Gray Goose passengers. Dillon drove through an archway well beyond the platform and halted in the gloomy repair shop of the bus line. At the far side, in a square concrete recess, were the closed doors of a small private garage.
 
@@ -504,7 +504,7 @@ The chauffeur of the sedan that carried Mr. Tough Tony Farino glanced dutifully 
 {: .chapternumber .no_toc}
 
 ###The Last Card
-{: .chapternumber }
+{: .chaptertitle }
 
 He drove, finally, into a dim street that was mostly ware-houses and factories, with here and there a detached and dilapidated dwelling.
 
