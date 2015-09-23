@@ -20,7 +20,7 @@ epub: LINK TO EPUB
     <h6>Table of Contents</h6>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+1. Auto generated table of contents
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
@@ -29,10 +29,10 @@ epub: LINK TO EPUB
 <hr>
 
 ###Chapter 1
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Luck’s A Fickle Jade
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Corcoran threw snake-eyes. An audible gasp went up from the well-dressed crowd around the crap-table. They had seen Corcoran make six straight passes; watched him run a ten-spot up to six hundred and forty bucks.
 
@@ -58,10 +58,10 @@ Luck’s a fickle jade; when a man wants to lose, he almost invariably wins. It 
 <hr>
 
 ###Chapter 2
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###A Teller At My Bank
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 The tuxedoed croupier said: “Still your dice if you want them, Mister.”
 
@@ -109,10 +109,10 @@ Shelton spoke into a house-phone.
 <hr>
 
 ###Chapter 3
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###You Might Call It A Stick-Up
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 In a moment the door opened. A tall, nervous young man came in, the one who had flicked his eyebrow at Corcoran a while ago.
 
@@ -168,10 +168,10 @@ He said: “Okay. He won’t get loose for a while.”
 <hr>
 
 ###Chapter 4
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Could I Kiss The Bride?
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 The door opened. A feminine voice said: “That’s what you think.”
 
@@ -215,10 +215,10 @@ She gave him her lips in gratitude.
 <hr>
 
 ###Chapter 5
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###And Finally, Silence
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 The cab stopped in front of her apartment building.
 
@@ -252,10 +252,10 @@ Corcoran hit the door. It bruisingly rebuffed him. He backed away and smashed at
 <hr>
 
 ###Chapter 6
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Pinched For Murder
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 An open window framed the iron fire-ladder just outside. In the room’s center lay Harry Greer, breathing heavily, with his eyes closed. Thick clotted blood wept from a raw hole in his left shoulder. A thin drift of gunpowder-smoke eddied in the dull light from a table-lamp.
 
@@ -305,10 +305,10 @@ It was preposterous, of course. Corcoran knew that. But he wanted to throw a sca
 <hr>
 
 ###Chapter 7
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###To Save A Guy’s Life
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 All the color drained from her cheeks.
 
@@ -402,10 +402,10 @@ Greer gulped noisily. “You’re all wrong — ”
 <hr>
 
 ###Chapter 8
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Turn ’Em Loose
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Greer snarled: “You’ll never take me, Corcoran!” and swatted at the revolver in the private dick’s fist. Corcoran shot him through the other shoulder.
 

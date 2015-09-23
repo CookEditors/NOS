@@ -1248,8 +1248,7 @@ a {
   width: 37.5rem;
   margin: 0 auto; }
 
-ul,
-ol {
+ul {
   margin: 0;
   padding: 0;
   list-style-type: none; }
@@ -1782,47 +1781,79 @@ a.readmore {
 
 .toc {
   font-size: 95%;
-  width: 200px;
+  width: 400px;
+  max-width: 95%;
   margin: 0 auto;
   margin-bottom: 2rem;
-  border-top: 1px solid #8B0000;
+  padding: 1rem;
   border-bottom: 1px solid #8B0000;
   text-align: center; }
   .toc header {
     background-color: #8B0000; }
   .toc h6 {
-    margin: 0;
+    margin: 0 0 1rem 0;
     padding: 5px 10px;
     color: #fff;
     text-transform: uppercase; }
     .toc h6:hover {
       cursor: pointer; }
-  .toc ul {
-    margin: 2px 0 0;
-    padding: 0;
-    line-height: 1; }
-  .toc li {
-    text-transform: uppercase;
-    margin: 0 0 1px 0;
-    padding: 0;
-    font-family: "Josefin Sans", sans-serif;
-    list-style-type: none; }
-    .toc li:last-child {
-      border-bottom-width: 0; }
-    .toc li a {
-      padding: 10px;
-      color: #8B0000;
-      text-decoration: none; }
-    .toc li ul {
-      margin: 1px 0 0; }
 
 #drawer {
   height: 100%;
   overflow: hidden; }
   #drawer.js-hidden {
     max-height: 0; }
-  #drawer ul li {
-    display: inline; }
+  #drawer ol {
+    list-style-type: decimal; }
+
+/* http://www.456bereastreet.com/archive/201105/styling_ordered_list_numbers/ */
+ol {
+  counter-reset: li;
+  /* Initiate a counter */
+  margin-left: 0;
+  /* Remove the default left margin */
+  padding-left: 0;
+  /* Remove the default left padding */ }
+
+ol > li {
+  position: relative;
+  /* Create a positioning context */
+  margin: 0 0 6px 2rem;
+  /* Give each list item a left margin to make room for the numbers */
+  padding: 0.25rem 0.5rem 0.25rem 1rem;
+  /* Add some spacing around the content */
+  list-style: none;
+  /* Disable the normal item numbering */
+  text-align: left;
+  text-transform: uppercase; }
+
+ol > li:before {
+  content: counter(li);
+  /* Use the counter as content */
+  counter-increment: li;
+  /* Increment the counter by 1 */
+  /* Position and style the number */
+  position: absolute;
+  top: -2px;
+  left: -2em;
+  width: 2em;
+  /* Some space between the number and the content in browsers that support
+       generated content but not positioning it (Camino 2 is one example) */
+  margin-right: 1rem;
+  padding: 4px;
+  border-top: 2px solid #8B0000;
+  color: #fffff0;
+  background: #8B0000;
+  font-weight: bold;
+  font-family: "Josefin Sans", sans-serif;
+  text-align: center; }
+
+li ol,
+li ul {
+  margin-top: 6px; }
+
+ol ol li:last-child {
+  margin-bottom: 0; }
 
 /* ==========================================================================
    MANIFESTO

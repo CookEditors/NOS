@@ -20,7 +20,7 @@ epub: LINK TO EPUB
     <h6>Table of Contents</h6>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+1. Auto generated table of contents
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
@@ -32,10 +32,10 @@ epub: LINK TO EPUB
 <hr>
 
 ###Chapter 1
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Natural Unspoiled Modesty
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Cleverly placed floodlights silhouetted the girl’s slim body through the filmy robe draped in graceful folds about her. Without the ultra modern bathroom background, she might have been some shy nymph poised beside a pool in a hidden forest glade.
 
@@ -59,10 +59,10 @@ Reece flashed her a grin of reassurance. “Don’t worry, Leila. With you in th
 <hr>
 
 ###Chapter 2
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Vengeful Determination
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Reece glanced at the girl sharply, feeling a sudden wrench of dismay. He wondered why she should be so concerned about Jerry Kendall. Could it be that she was interested in him? Reece went cold at the thought. He had not considered Kendall as a rival, but now the possibility came to him with the shock of an electric current.
 
@@ -102,10 +102,10 @@ But the stumbling block in Kendall’s elimination was how to do it safely. Reec
 <hr>
 
 ###Chapter 3
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Chocked Back Anger
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Jerry Kendall was in his office, talking to Leila, when Reece entered with the finished prints. Kendall rose eagerly to his feet.
 
@@ -149,10 +149,10 @@ In the cocktail lounge, they found a table and ordered drinks. Kendall exuberant
 <hr>
 
 ###Chapter 4
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###A Certain Miniature
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 They laughed and drank. Kendall began to discuss plans for expansion of the agency as if the Dahlia Cosmetic contract was a foregone conclusion. Reece forced a pretense of interest, fuming as he noticed how Leila hung on Kendall’s every word.
 
@@ -208,10 +208,10 @@ Reece remained for a while at the table with Vallo. The mournful-looking art dea
 <hr>
 
 ###Chapter 5
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Plan For Murder
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 A week passed. The Dahlia Cosmetic Company approved of the pictures and layout, and the contract was duly signed. Reece found himself suddenly overwhelmed with an influx of new business. He saw little or nothing of Leila, but from occasional remarks dropped by Kendall, he knew Kendall was seeing the girl frequently—all too frequently.
 
@@ -259,10 +259,10 @@ The fog inside Reece was swiftly evaporating. He glanced at his watch. It was al
 <hr>
 
 ###Chapter 6
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###It Is Not Loaded
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Only one elevator operator was now on duty in the building and his cage was rising to the upper floors. Fuming at Reece’s irritating disbelief, Vallo plunged up the stairs. With a shrug, Reece followed. They met nobody on the way to their floor. The hall itself was empty.
 
@@ -316,10 +316,10 @@ Reece gauged the other’s state of inebriety carefully. He decided to try a rus
 <hr>
 
 ###Chapter 7
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###The Package
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 As before, Vallo bit. His dark eyes lighted with indignation.
 
@@ -349,10 +349,10 @@ He departed by way of the stairs, leaving the lobby of the building only when he
 <hr>
 
 ###Chapter 8
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###A Sudden Sharp Pain
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 That night—and for a good part of the next morning—Reece celebrated what he felt certain was the complete solution of his problems. How he managed to reach his apartment afterward was a mystery which he couldn’t explain. When he awoke, it was early afternoon. Feeling too sick to go down to the agency, he remained in bed.
 

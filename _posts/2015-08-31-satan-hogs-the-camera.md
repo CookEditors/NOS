@@ -20,7 +20,7 @@ epub: LINK TO EPUB
     <h6>Table of Contents</h6>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+1. Auto generated table of contents
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
@@ -29,10 +29,10 @@ epub: LINK TO EPUB
 <hr>
 
 ###Chapter 1
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Horse Opera
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 While Carl Connor, K-T’s best director, was putting the finishing touches on the next take, my eyes wandered over the Hollywood studio lot. Over to the left were the red-tiled office buildings blistering and peeling under the torrid August sun. Lazy-looking employees wandered indifferently across the shaggy lawns. In fact, King-Tanger Studios seemed to have gone to the dogs in the three years I was away. Why, when Uncle King was alive—
 
@@ -78,10 +78,10 @@ Tanger walked up just then. He looked pale under his bottled suntan. I noticed a
 <hr>
 
 ###Chapter 2
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###A Live Bullet
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 I followed him into the little studio dispensary, wondering what was up. Why was Tanger calling me pal, all of a sudden, when everybody on the lot knew Kitty had tossed him over for me?
 
@@ -135,10 +135,10 @@ I said, “Yes.”
 <hr>
 
 ###Chapter 3
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###The Top Kick of K-T
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 The night was typical Hollywood. The heat of the day had cooled down considerably. The sky had shaded down to a deep, rich cobalt.
 
@@ -172,10 +172,10 @@ He flashed a pistol, managing to keep his eyes on the road and on me in the litt
 <hr>
 
 ###Chapter 4
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###End of the Line
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 I didn’t bother to disabuse him of the idea that I was Tanger. I was worried about his driving. It was as if he had suddenly gone nuts. He took those hairpin turns on two wheels. All I could see were his eyes and a rough pen of makeup. He was a bad actor, all right.
 
@@ -197,10 +197,10 @@ But there was one shred left of my shattered consciousness. One chunk of knowled
 <hr>
 
 ###Chapter 5
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###A Raw Deal
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 The feel of soft hands on my forehead helped me out of it. It was nice. Pain shot through me in seven directions, but those cool hands helped a lot. When I opened my peepers, relief rolled over me in a tidal wave. I wasn’t in some nasty old Jap prison camp; I was in Kitty Riley’s apartment. She was looking down at me with sorry, anxious eyes.
 
@@ -254,10 +254,10 @@ Kitty looked so genuinely sorry about it that I planted a kiss square on her wid
 <hr>
 
 ###Chapter 6
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Last Will and Testament
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Four hours I slept, then went out to the studio. It was a good half hour before shooting time. Contrary to propaganda, a star’s day starts real early and lasts real late sometimes. With a quickie Western like this one, it was even tougher. Tanger was shooting it on a shoestring, and a frayed one at that.
 
@@ -303,10 +303,10 @@ I walked away fast, stiff-legged. I was wrong. Dead wrong. There was no triangul
 <hr>
 
 ###Chapter 7
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###A Triangular Red Mole
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Today’s takes were to be some of the last big scenes. All the location shots were completed, processed and ready for cutting in the lab, having been filmed the week before up in the Sherwood Lake country.
 
@@ -338,10 +338,10 @@ I leaped after him. Fury was upon me. I forgot all about cameras and movies. All
 <hr>
 
 ###Chapter 8
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Yellow-Bellied 4F
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 I swayed there a moment, getting back my wind. Ignoring Connor’s orchids, I walked up to Kirk Tanger, who was standing off to one side with Kitty.
 

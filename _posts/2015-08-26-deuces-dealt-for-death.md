@@ -20,7 +20,7 @@ epub: LINK TO EPUB
     <h6>Table of Contents</h6>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+1. Auto generated table of contents
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
@@ -29,10 +29,10 @@ epub: LINK TO EPUB
 <hr>
 
 ###Chapter 1
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###The Black Butcher
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 So old Joe Marmaduke was blind! Clinsey smiled grimly. Ten years he’d waited for Marmaduke to die, but this was better. Now the old man would soon know the black knife had struck again.
 
@@ -82,10 +82,10 @@ The postmaster shook his head doubtfully. “I guess he’s still alive and loos
 <hr>
 
 ###Chapter 2
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###A Welcoming Committee Of One
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Clinsey was in his room at the hotel sitting at a desk writing letters when somebody rapped.
 
@@ -129,10 +129,10 @@ When Baldy Clark wasn’t smiling there was something annoyingly familiar about 
 <hr>
 
 ###Chapter 3
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Still Sharp
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Somebody had moved Clinsey’s letters. He knew how he’d left them because he always left them precisely the same way, stacked neatly, edges even, with the four corners pointing north, south, east and west. It was an old method of his, and now the letters on his desk were out of position. He shrugged lightly.
 
@@ -174,10 +174,10 @@ Clark walked back to the hotel with him. As they parted in the lobby Clinsey was
 <hr>
 
 ###Chapter 4
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Blood Hunt
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 For over an hour Clinsey sat in his room without turning on the lights, trying to recall his every act since his arrival in Lake City. Had he made a slip somewhere? Had any of his actions been such as to arouse suspicion? Since Joe Marmaduke’s blindness and Lona Dickson’s death the town was Black Butcher conscious. Everyone was talking about the ten year old murders, speculating on the possibility of the killer’s return.
 
@@ -233,10 +233,10 @@ Clinsey nodded, “How about tonight? I’m free anytime.”
 <hr>
 
 ###Chapter 5
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###A Fixed Deck
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 At a few minutes of seven, after eating a light meal, Clinsey went to the garage and drove out the red coupe. The suitcases he’d taken to his hotel room were fakes, packed with bundles of waste paper. His clothing had never been removed from the turtleback trunk of his car. He drove into the country a short distance, driving slowly to conserve gasoline and pass the time. He was ringing Dickson’s doorbell at nine sharp.
 
@@ -284,10 +284,10 @@ In a flash Clinsey was on him, the black butcher knife in his hand.
 <hr>
 
 ###Chapter 6
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Something Familiar
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Clinsey dropped the knife and stood up from Dickson’s prone body, glancing at the police positive in Clark’s right hand — a hand that was solid and businesslike.
 

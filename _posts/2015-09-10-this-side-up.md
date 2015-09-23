@@ -20,7 +20,7 @@ epub: LINK TO EPUB
     <h6>Table of Contents</h6>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+1. Auto generated table of contents
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
@@ -29,10 +29,10 @@ epub: LINK TO EPUB
 <hr>
 
 ###Chapter 1
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###First Farmers Bank
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 The long, sleek limousine rolled slowly to a halt in front of the First Farmers Bank of New Albany, Indiana. The liveried negro chauffeur started to turn off the ignition when a sharp, thin voice from the rear seat froze his hand.
 
@@ -92,10 +92,10 @@ Behind him was a shambles: three dead men, panic and the senseless clangor of th
 <hr>
 
 ###Chapter 2
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###We Gotta Get The Facts, Sister
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Al Aronson, ace reporter of the Louisville Courier Journal, bent over the dying man. It was hard to hear his words. His chest swathed in bandages to hide the_ gaping wound and keep the ebbing life within a little longer, rose and fell in labored spasms.
 
@@ -147,10 +147,10 @@ The chauffeur seemed to slump underneath the bedclothes. His eyes were fixed on 
 <hr>
 
 ###Chapter 3
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Hunches
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Lt. Hunt chewed angrily on his cigar. “Stop trying to ride me, Aronson,” he exploded. “I’m telling you for the last time that killer was no local kid. I know every last hoodlum in town, and this punk doesn’t fit in. He’s an outsider.”
 
@@ -194,10 +194,10 @@ Benson was his moniker. I moved him and his old man. The kid said he’d help me
 <hr>
 
 ###Chapter 4
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###But What Could I Do?
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Three hours later Al Aronson made his way down a dirty, ramshackle street in Louisville, to the address Davis had given him. He surveyed the paint-peeled, two room structure in the small, littered yard.
 
@@ -255,10 +255,10 @@ Aronson’s lips tightened. He took the receipt and headed for the door. “I’
 <hr>
 
 ###Chapter 5
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###I’ll Kill You! I’ll Kill You!
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 In the quiet of the darkened warehouse, Lt. Hunt flashed his light along the rows of high-piled crates, trunks and boxes.
 

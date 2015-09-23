@@ -20,7 +20,7 @@ epub: LINK TO EPUB
     <h6>Table of Contents</h6>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+1. Auto generated table of contents
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
@@ -29,10 +29,10 @@ epub: LINK TO EPUB
 <hr>
 
 ###Chapter 1
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Breakin’ Out
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Nick Ryan tossed aside the magazine he’d been reading by the dingy light of a bulb overhead. But he didn’t get up from the cot, as Sheriff Capehart came along the shadowy corridor that led back to the cellblock. Nick was a slim, dark young man with sly features. He was openly contemptuous of everybody in his hometown of Piney Point.
 
@@ -86,10 +86,10 @@ Nick didn’t argue any more. He didn’t know yet what cooked, but he knew that
 <hr>
 
 ###Chapter 2
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Settin’ In
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 A dark sedan was drawn up at the curb half a block away. Blackie slid under the wheel, the tall man got in the back seat with Nick. The automatic was still in his hand. Blackie started the engine.
 

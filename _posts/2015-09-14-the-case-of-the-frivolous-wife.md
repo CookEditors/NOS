@@ -21,12 +21,13 @@ epub: LINK TO EPUB
     <h6>Table of Contents</h6>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+1. Auto generated table of contents
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
 
-Introduction
+###Introduction
+{: .chapternumber }
 
 “Have one, Janie?”
 
@@ -65,11 +66,11 @@ Ten minutes later she was dead!
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 1
-{: .chapternumber}
+##Chapter 1
+{: .chapternumber .no_toc}
 
 ###The Poisoned Chocolates
-{: .chaptertitle .no_toc}
+{: .chaptertitle}
 
 Dr. Hollis, the Priestlys’ medical attendant, was at the house within half an hour.
 
@@ -150,11 +151,11 @@ Tommy Burke followed him to the foot of the staircase.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 2
-{: .chapternumber}
+##Chapter 2
+{: .chapternumber .no_toc}
 
 ###The Invalid
-{: .chaptertitle .no_toc}
+{: .chaptertitle}
 
 Upstairs in the invalid’s bedroom Hawke was distressed to see the feeble physical condition of the man whom he had once considered to be the fittest and most alert director in the City. But he soon realised that John Priestly had lost none of his old mental qualities.
 
@@ -187,11 +188,11 @@ The nurse nodded coldly, as if already accusing Hawke of disturbing her patient.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 3
-{: .chapternumber}
+##Chapter 3
+{: .chapternumber .no_toc}
 
 ###Tracing the Parcel
-{: .chaptertitle .no_toc}
+{: .chaptertitle}
 
 Downstairs again the private detective asked Inspector Denver if he could see the box of chocolates.
 
@@ -288,11 +289,11 @@ The sergeant nodded.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 4
-{: .chapternumber}
+##Chapter 4
+{: .chapternumber .no_toc}
 
 ###Wanted—A Girl Guide!
-{: .chaptertitle .no_toc}
+{: .chaptertitle}
 
 It was past three when they returned to Priestly s house.
 
@@ -351,11 +352,11 @@ Dixon Hawke went indoors and waited in the lounge while a servant took a message
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 5
-{: .chapternumber}
+##Chapter 5
+{: .chapternumber .no_toc}
 
 ###The Clue of the Cosmetics
-{: .chaptertitle .no_toc}
+{: .chaptertitle}
 
 A little while later the nurse entered the room.
 
@@ -404,11 +405,11 @@ Hawke turned to his assistant.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 6
-{: .chapternumber}
+##Chapter 6
+{: .chapternumber .no_toc}
 
 ###The “Knot” is Untied
-{: .chaptertitle .no_toc}
+{: .chaptertitle}
 
 An hour later Inspector Denver was in a very subdued mood.
 

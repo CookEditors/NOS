@@ -20,7 +20,7 @@ epub: LINK TO EPUB
     <h6>Table of Contents</h6>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+1. Auto generated table of contents
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
@@ -29,10 +29,10 @@ epub: LINK TO EPUB
 <hr>
 
 ###Chapter 1
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###The Apartment House
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Nobody saw Danny Blure enter the apartment house; he had darted into the alley and gone to the service entrance. By lucky chance, he found the service hall empty. He entered the elevator, closed the door, and punched the button for a stop at the fourth floor. Danny’s bachelor suite was on the fifth.
 
@@ -56,10 +56,10 @@ His hands were clammy as he hurried along the corridor. He was licking at lips d
 <hr>
 
 ###Chapter 2
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Fox Agnew’s Gang
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Why had he done it? Why had he tried to go it alone? He might have known that Fox and the gang would suspect him some day, prove his guilt to their satisfaction, give him a facetious warning, then blast life out of his body.
 
@@ -85,10 +85,10 @@ So Danny Blure became associated with the Fox Agnew gang.
 <hr>
 
 ###Chapter 3
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Never Satisfied
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 It had paid him well from the start. He kept his criminal sideline independent of his regular business. He continued to turn in more orders and build up his legitimate commissions. The more places of wealth to which he gained an entree, the more valuable information he had to send to Agnew.
 
@@ -110,10 +110,10 @@ He had contacted Fox Agnew only by telephone since their deal, and his percentag
 <hr>
 
 ###Chapter 4
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###An Independent Job
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 The go-between Fox had contact him at times met Danny in a cafe. The go-between was nervous, and as they talked and the money was slipped to Danny, the nervous go-between pared his nails with a little gold knife.
 
@@ -153,10 +153,10 @@ Fear began leaving him His pockets were stuffed with loot, but he felt sure that
 <hr>
 
 ###Chapter 5
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###A Killer
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 The following morning, he went to work as usual, his nerves quiet again. He got his samples and a list of prospects the firm furnished him, and started out. At a corner newsstand, he bought a late edition of a morning paper and scanned it rapidly as the taxi carried him toward his first customer of the day.
 
@@ -180,10 +180,10 @@ Danny knew he was in no condition to visit prospective customers and take orders
 <hr>
 
 ###Chapter 6
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###A Gun & Angry Eyes
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 When he did return to the office in the evening, he found on his desk an office note to call a number he did not know. Danny called it. But it was not the voice of some woman eager to buy lingerie that came to him over the wire.
 
@@ -237,10 +237,10 @@ Danny was shocked by bewilderment, scarcely capable of thought and action. Only 
 <hr>
 
 ###Chapter 7
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###I’m No Killer
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Danny reeled back the wall, put up his hands trembling as he pressed them against the wall’s surface. The man’s hands exploring his body. His wallet was taken, also the gun he wore in a shoulder holster.
 
@@ -284,10 +284,10 @@ He snapped the bag shut and started to turn toward the door of the living room.
 <hr>
 
 ###Chapter 8
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###I Can Shoot
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Danny whirled, terror clutching at him again. It had been a woman’s voice. She was standing in the doorway, a well-dressed blonde whose age he guessed at about thirty. And the gun she held looked as formidable to Danny Blure as the one he had seen in the hand of the passkey thief.
 
@@ -317,10 +317,10 @@ Her eyes were glittering now. “I was in the WAC during the war, and learned to
 <hr>
 
 ###Chapter 9
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###The Doring Affair
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 She spoke as if discussing an ordinary event of minor interest “Oh, it’s quite simple. The Doring affair, you know. The police have had eyes on you for some time; they learned that jewel robberies followed in your wake. They witnessed some of your contacts. We had everything we need except the loot from the Doring job, to pin this murder on you. Now we have that—thanks to you for digging it out for me.”
 

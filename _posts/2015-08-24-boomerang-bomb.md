@@ -20,13 +20,13 @@ epub: LINK TO EPUB
     <h6>Table of Contents</h6>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+1. Auto generated table of contents
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
 
 ###Introduction
-{: .chapternumber}
+{: .chaptertitle .no_toc }
 
 Before he met his frightful but not entirely unfitting death, Maurice Pollitt had had some life infused into him.
 
@@ -50,7 +50,7 @@ At first she had been patently contemptuous of young Pollitt, and then, graduall
 <hr>
 
 ###Chapter 1
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###The Doable Explosion
 {: .chaptertitle }
@@ -75,7 +75,7 @@ Dr. Smith nodded.
 <hr>
 
 ###Chapter 2
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Inspector Gray’s Theory
 {: .chaptertitle }
@@ -106,7 +106,7 @@ Hawke nodded.
 <hr>
 
 ###Chapter 3
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###The Time-table Clue
 {: .chaptertitle }
@@ -149,7 +149,7 @@ It then occurred to me to see if I. could make some use of that mongrel. The bea
 <hr>
 
 ###Chapter 4
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###A Promising Bite!
 {: .chaptertitle }
@@ -196,7 +196,7 @@ Hawke gripped Tommy’s arm, and, looking through the open doorway of the tavern
 <hr>
 
 ###Chapter 5
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Tommy “Steps On It”
 {: .chaptertitle }
@@ -253,7 +253,7 @@ Tommy understood the significance of the order as soon as it was uttered.
 <hr>
 
 ###Chapter 6
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###When Murder Misfired
 {: .chaptertitle }

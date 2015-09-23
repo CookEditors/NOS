@@ -20,7 +20,7 @@ epub: LINK TO EPUB
     <h6>Table of Contents</h6>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+1. Auto generated table of contents
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
@@ -29,10 +29,10 @@ epub: LINK TO EPUB
 <hr>
 
 ###Chapter 1
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Funeral Pieces
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 The basement of the flower store was chill with dampness; the naked light-bulb above the work table glaring harshly, piled up huge, crouching shadows in the corners, police coat buttons.
 
@@ -78,10 +78,10 @@ She did not answer.
 <hr>
 
 ###Chapter 2
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Lilacs
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 The man on her left spoke for the first time. He was short and stocky,, his black eyes antagonistic.
 
@@ -125,10 +125,10 @@ He went on up the stairs.
 <hr>
 
 ###Chapter 3
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Suspects
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Tom Davies seemed more than anxious to help and he sat in a deep leather chair, his bread face puckered into a frown of worry, his fingers picking at the front of his dressing gown. His false teeth flashed whitely when he spoke.
 
@@ -168,10 +168,10 @@ Clint grinned crookedly at him. “You’ll know,” he promised.
 <hr>
 
 ###Chapter 4
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Yellow Roses
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Clint parked his car at the curb, and went o the door of “Davies Flowers” and rapped on the glass. Pat came to let him in. She was alone.
 
@@ -223,10 +223,10 @@ Pat followed his motion. “Well, they’re pretty expensive; they haven’t sol
 <hr>
 
 ###Chapter 5
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###U In Murder
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Mike Sloan’s store was called “The Patio.” It was smaller than Davies’ flower shop. A small, pasty-faced man came around the counter as Clint entered.
 
@@ -270,10 +270,10 @@ Clint scarcely heard him, for he had walked a few steps, stooped and picked up a
 <hr>
 
 ###Chapter 6
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Gardenia
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 The next afternoon Clint Fleming was exactly where he had been the day before—nowhere near a solution. He’d been to see the a solution. He’d been to see the chief —which did nothing for his ego, as Chief Cummings had said he’d better start showing some action, or else. And the “or else” had been punctuated by the slam of a big fist on the top of a desk … .
 
@@ -331,10 +331,10 @@ He caught Martin watching him, so he bent his head to the rose in his lapel. He 
 <hr>
 
 ###Chapter 7
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Empty Buttonhole
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 A bell was ringing someplace. For a long time Fleming lay in his bed, his eyes closed, hoping it would go away.
 
@@ -416,10 +416,10 @@ A trickle of blood seeped out of his hair where Clint’s bullet had grazed him.
 <hr>
 
 ###Chapter 8
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###The Roses
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Clint looked at the crate. It was the same one he had seen earlier, only now the waxed-paper-wrapped bundles of roses lay scattered on the cement. He stooped, picked up a bunch. The buds were open—but not naturally—they had been forced open. The very center of the roses were missing. And then Clint saw the little pile of white-powder-filled capsules by Martin’s hand.
 
@@ -463,10 +463,10 @@ Clint turned and went to the wall phone. He dialed a number, spoke briefly to th
 <hr>
 
 ###Chapter 9
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Fresh Flowers
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 The cops were already there when the storeowner came hurrying in. His broad face was tense, and he looked as if he had fallen into his clothes.
 

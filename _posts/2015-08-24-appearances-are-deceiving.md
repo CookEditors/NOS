@@ -20,18 +20,15 @@ epub: LINK TO EPUB
     <h6>Table of Contents</h6>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+1. Auto generated table of contents
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
 
-<h6 class="btt"><a href="#top">Back to Top</a></h6>
-<hr>
+##Chapter 1
+{: .chapternumber .no_toc}
 
-#Chapter 1
-{: .chapternumber}
-
-##An Honest Man in New York
+###An Honest Man in New York
 {: .chaptertitle }
 
 Garbett squeezed himself out of the East Side subway train, walked through the tunnel, and took a shuttle train that would disgorge its passengers at Times Square. He hung to a strap in complete oblivion of his surroundings, for his mind was busy with the “trick” he was planning.
@@ -95,10 +92,10 @@ The fifty dollars was invested in a present for Mazie.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-#Chapter 2
-{: .chapternumber}
+##Chapter 2
+{: .chapternumber .no_toc}
 
-##Something I Can Wear In My Hair
+###Something I Can Wear In My Hair
 {: .chaptertitle }
 
 Needs, unfortunately, have a habit of arising. Two days after Mazie had finished her work the proprietor of the wholesale silk establishment had a new burglar alarm system put in and engaged the services of a private detective agency.
@@ -140,10 +137,10 @@ Garbett had the uncomfortable feeling that he hadn’t a thing to say, but he wi
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-#Chapter 3
-{: .chapternumber}
+##Chapter 3
+{: .chapternumber .no_toc}
 
-##A Diamond Bar Pin
+###A Diamond Bar Pin
 {: .chaptertitle }
 
 Long lines of apple trees, mostly plucked of their fruit, could be seen from the car windows. Velma was a thriving town, boasting a drug-store, several large stores that kept in stock everything from needles, on through clothing, china, typewriters, tobacco, furniture, up to literature—the works of Harold Bell Wright. It had a garage, and the county jail, as well as that prosperous, at present, financial institution—the First National Bank.

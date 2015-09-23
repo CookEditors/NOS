@@ -20,7 +20,7 @@ epub: LINK TO EPUB
     <h6>Table of Contents</h6>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+1. Auto generated table of contents
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
@@ -29,10 +29,10 @@ epub: LINK TO EPUB
 <hr>
 
 ###Chapter 1
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Trying To Remember
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 He sat alone in the darkness of the room. The night sounds of the city drifted up to him faintly. There was a cigarette between his fingers.
 
@@ -50,10 +50,10 @@ But before that? Nothing. Nothing except that one clear picture. He closed his e
 <hr>
 
 ###Chapter 2
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###All He Remembered
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 She was beautiful, the girl. Her hair framed her pale, sensuous face in a shimmering black pool.he wore a loose satin negligee, black as her hair, dramatic against the milky white translucence of her smooth skin. Her full, sullen lips were parted slightly, showing a line of fine, even teeth. She was staring up at him without blinking.
 
@@ -73,10 +73,10 @@ He shuffled to the washbasin in a corner of the room, turned the dripping faucet
 <hr>
 
 ###Chapter 3
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Clayton City National Bank
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 He saw himself for the first time. A strange face that he could not remember. He brought his fingers up, touching his lips, his cheeks. The reflection was that of a thin man in his late twenties. His complexion was pale as if he were seldom in the sunshine. There were dark smudges under his blue eyes, lines around his mouth. His dark brown hair was clipped in a short, crisp style.
 
@@ -114,10 +114,10 @@ With shaking fingers he took out one of the bundles. The paper band around it bo
 <hr>
 
 ###Chapter 4
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Good Evening, George
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 The highway marker on the city limits of Clayton City said, “Population, 7,000.”
 
@@ -153,10 +153,10 @@ No, you said none of those things. You stood there, groping for words that would
 <hr>
 
 ###Chapter 5
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###You Might Be A Friend
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 She looked up again, at his strange silence. She glanced at his eyes, at his rumpled clothes, the blood on his coat collar.
 
@@ -198,10 +198,10 @@ Her voice was half a sob. “Mary. It’s Mary, George. You can’t—remember a
 <hr>
 
 ###Chapter 6
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Nightmare Became Reality
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 She nodded wordlessly. She swung the coupe around, into a side street. They drove silently along shadowy lanes and then parked before an apartment building. It was in a quiet, residential part of town.
 
@@ -235,10 +235,10 @@ Don’t pry any more. Leave the past alone. It’s better that you don’t know 
 <hr>
 
 ###Chapter 7
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###My Sister
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Unconsciously, his hand had taken the .25 automatic from his pocket. He was staring at it and at the girl … his mind sick and reeling. So absorbed that he did not hear the key turn in the hall door or the padded footsteps behind him.
 
@@ -266,10 +266,10 @@ The man’s eyes narrowed.
 <hr>
 
 ###Chapter 8
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Had He Really Killed Her?
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 His pudgy white finger closed around the trigger.
 
@@ -301,10 +301,10 @@ The thought crashed in his mind like cymbals.
 <hr>
 
 ###Chapter 9
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###The Head-Strong Type
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 At that precise moment, the hallway door in the other room opened. There was the hurried tap of a woman’s heels and the blonde girl, Mary called, “George? I got worried. You have been here so long … .”
 
@@ -338,10 +338,10 @@ Denham finished, “I tried to talk Liss out of this but she was always the head
 <hr>
 
 ###Chapter 10
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###You Killed Your Wife
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 George Noles shook his head. “That isn’t all of it. You see there was one detail. The one thing I could remember clearly when I came too back in Sanderton, was this room. I saw Liss just as she’s lying here and that was when someone struck me from behind.
 
@@ -371,10 +371,10 @@ Denham’s breath was coming in short, ragged gasps. His shirt was soggy with pe
 <hr>
 
 ###Chapter 11
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Who Are You, Mary?
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 George Noles sat on the sofa with the blonde girl while they waited for the police. There was no fight left in Denham—slumped in a chair opposite them.
 

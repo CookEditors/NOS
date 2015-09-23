@@ -20,7 +20,7 @@ epub: LINK TO EPUB
     <h6>Table of Contents</h6>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+1. Auto generated table of contents
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
@@ -29,10 +29,10 @@ epub: LINK TO EPUB
 <hr>
 
 ###Chapter 1
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###The Paper-Wrapped Package
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 When the newspaper truck pulled up and the late afternoon editions thudded on the pavement beside Gimpy’s stand, Benny Kerr got up from his park bench and started over. He’d read the latest on the torso murders, get a bowl of chili, and take in the double feature at the Bijou.
 
@@ -70,10 +70,10 @@ The eyes came back to Benny, burned through the window, burned into Benny’s sc
 <hr>
 
 ###Chapter 2
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###He Might Even Be You
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 The cab was lost in traffic, then. Benny was left clutching the oblong package. He hefted it, licking his Ups. There must be something pretty valuable in it. That’s why the black-eyed man had studied him; he wanted his package back.
 
@@ -121,10 +121,10 @@ Benny’s lips worked. He almost blurted it out. He was reaching the point where
 <hr>
 
 ###Chapter 3
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###The Black-Eyed Man
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Benny ducked into the doorway of the tenement where he lived. He went up the first two flights fast, but on the third his chest began to hurt. He stopped, leaned against the narrow bannister, breathing jerkily at the musty, thick-hot air.
 
@@ -174,10 +174,10 @@ But Benny was blacking out now. The strain was over. The reaction set in …
 <hr>
 
 ###Chapter 4
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Meet Falik
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 When Benny came to, there was a pleasant stupor in his limbs. He was in bed. Doc Kunz was bending over him. The doctor’s words came slowly, as from a great distance. He was questioning Benny. Benny answered with no trouble at all. He didn’t realize that the morphine Kunz had given him was responsible for his sense of ease and well-being. He knew only that he was safe and sleepy. He told his story from beginning to end.
 
@@ -231,10 +231,10 @@ Benny peered at Doc’s burning eyes, his gaunt, lined face. The doctor looked l
 <hr>
 
 ###Chapter 5
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###But No Hurley
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Benny forced himself to nod. He understood all too well. He was bait. Doc said he and Matt Hurley would be nearby, but Benny chewed his lips and sniffled. Benny wouldn’t let tears come to his eyes while Doc was there, but when the black, stringy man left the room Benny hugged the sheet around himself tightly.
 
@@ -270,10 +270,10 @@ He glanced fitfully about. If he could get just one glimpse of Matt Hurley’s b
 <hr>
 
 ###Chapter 6
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Room 317
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 “It’s okay, Benny.” The voice came from nowhere. Benny jumped. It came again. “Don’t worry, Benny. I’m behind this tree.”
 
@@ -331,10 +331,10 @@ Benny heard a faint little popping somewhere. It didn’t sound loud enough to b
 <hr>
 
 ###Chapter 7
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Might Even Be Me
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Clearly it was much harder getting awake than it had been going to sleep. Sleeping had been peaceful. Getting awake again brought with it pain and nausea. The thick, rubbery thing in his mouth, Benny learned later, was a stomach pump.
 

@@ -20,7 +20,7 @@ epub: LINK TO EPUB
     <h6>Table of Contents</h6>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+1. Auto generated table of contents
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
@@ -29,10 +29,10 @@ epub: LINK TO EPUB
 <hr>
 
 ###Chapter 1
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###It’s Me, Honey
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Pomfret walked slowly up the path to his front door, clicked his key in the lock and stepped into the warmth of his own hallway. For a moment he stood there in the semi-darkness, breathing hard, tilting his head, smelling the old familiar smells and wondering at himself for the thing he was about to do.
 
@@ -66,10 +66,10 @@ He closed his eyes and thought about Harvey’s handsome face. Then he went out 
 <hr>
 
 ###Chapter 2
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Harvey’s Cigarette Case
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Eva came down the stairs, and Pomfret paused by the door, watching her, taking her in, gauging the full fluid motion of her body and the slow swing of her long tawny hair and the full rich beauty of her face, feeling again the desire for her and the need of her.
 
@@ -115,10 +115,10 @@ He put the car into high gear and went down the street and turned the corner, ou
 <hr>
 
 ###Chapter 3
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###They’ll Never Suspect A Thing
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Harvey grinned. He had a good-natured, boyish grin that worked well with some types of women. He stood in the middle of Joe Pomfret’s living room, staring at Joe Pomfret’s wife. There was sweat on his face.
 

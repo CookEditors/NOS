@@ -20,7 +20,7 @@ epub: LINK TO EPUB
     <h6>Table of Contents</h6>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+1. Auto generated table of contents
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
@@ -29,10 +29,10 @@ epub: LINK TO EPUB
 <hr>
 
 ###Chapter 1
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Pop’s D-Dead
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Footsteps slapped the sidewalk behind me, pounding, running hard. A voice piped shrilly: “Pat—Pat, wait!”
 
@@ -62,10 +62,10 @@ He wouldn’t let go of my sleeve. “Pat, gee, listen!”
 <hr>
 
 ###Chapter 2
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###The Kid Had Really Told The Truth
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 That stopped me cold. I’d never had anything against old Aaron Harcourt. He was a nice enough guy, as music teachers go. A little impractical, maybe. But he’d managed to bring up his two motherless kids on what he earned giving violin lessons. You had to respect him for that.
 
@@ -105,10 +105,10 @@ I walked into the bungalow’s living room and saw Aaron Harcourt’s body spraw
 <hr>
 
 ###Chapter 3
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###A Terrific Struggle
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 I went through the motions of putting my finger on the artery in his neck. I knew there’d be no pulse-beats. He was still warm, though. He hadn’t been dead too long. I crossed the room, picked up the phone, and called headquarters. “Pat Whitney talking,” I said. I reported the kill, gave the address, and was told to sit tight; the homicide boys would be right over with a tech squad. I rang off. Then I looked around.
 
@@ -126,10 +126,10 @@ So now I was back again. And Barbara’s father was dead in a room that had been
 <hr>
 
 ###Chapter 4
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###A Genuine Enamieri
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 I picked up a double cabinet photoholder in a hinged leather frame. The girl was Barbara in her white graduation gown, her first formal. The tall, studious-looking kid with the glasses was Al Carlin. The wiry, swarthy one was Ferranti. The big hulking guy with the lantern jaw and stupid expression was me.
 
@@ -177,10 +177,10 @@ The kid’s lower lip trembled. “Pat, I got to tell you this. I don’t want y
 <hr>
 
 ###Chapter 5
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Out Of Its Case
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 He knew better, of course. He knew I was lying when I said I wasn’t sore. Kids are smarter than you give them credit for. He knew it was eating my heart out because Barbara had married Ferranti. He just didn’t know how to put his sympathy into words.
 
@@ -236,10 +236,10 @@ His eyes still reminded me of his sister’s. I went out of the house and didn�
 <hr>
 
 ###Chapter 6
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Where’d You Get The Fiddle?
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Moon Garden was on the edge of town, just inside the city limits but a good mile beyond where the subdivision housing developments stopped. It was a rambling, ramshackle eyesore that masked its shabbiness with neon signs, including a big pale neon moon over the flat roof. The only thing that put it a cut above a juke joint was Al Carlin’s eight-piece orchestra.
 
@@ -277,10 +277,10 @@ He frowned a little. He didn’t seem to like my tone of voice. “Is that you t
 <hr>
 
 ###Chapter 7
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###I Believe You
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 He lifted a shoulder. “I bought it. From Rudy. He finally talked old man Harcourt into selling it.”
 
@@ -348,10 +348,10 @@ The denial seemed to choke him. He scuttled to Barbara.
 <hr>
 
 ###Chapter 8
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###To Pinch Rudy
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 So she believed him. But that wouldn’t keep him out of the electric chair.
 

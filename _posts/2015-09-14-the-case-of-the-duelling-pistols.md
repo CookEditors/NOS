@@ -21,7 +21,7 @@ epub: LINK TO EPUB
     <h6>Table of Contents</h6>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+1. Auto generated table of contents
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
@@ -80,10 +80,10 @@ The warder came to take Foxy away. Dixon Hawke and the inspector left the jail. 
 <hr>
 
 ###Chapter 1
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###The Bullet in the Wall
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 The house was midway between Hampstead and Golders Green, standing at the edge of the wide heath. Inspector Meadow’s unlocked the doors and showed the way to the room where Martin had been killed.
 
@@ -147,10 +147,10 @@ Hurrying across the room he put a chair against the wall and climbed on to it. C
 <hr>
 
 ###Chapter 2
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###A Visitor from Moravia
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 The second bullet was a valuable clue, but at that the new line of investigation was halted. It had already been established that nobody had hoard the firing of the shots. The house stood alone at the edge of the heath and it was easy to enter or leave the place without being seen.
 
@@ -214,10 +214,10 @@ Then the detective hesitated a moment. Meadows called his name several times bef
 <hr>
 
 ###Chapter 3
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###At the Hotel du Roi
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 To Dixon Hawke, the French capital was as familiar as London. When the bus from Le Bourget dropped him at the air terminus on the Rue George V’., he strolled slowly along the boulevard to the great Place du Concorde. Under his arm was a small package which he had passed unopened through the Customs with the aid of his Scotland Yard credentials.
 
@@ -243,10 +243,10 @@ Several minutes passed and then the clerk called him. He was requested to go up 
 <hr>
 
 ###Chapter 4
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###A Full Confession
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 It was a fine room, lighted by the bright evening sky. In a chair near the windows sat a tall and dignified man. He wore a dressing-gown over his pyjamas, and the detective noticed that his left arm was in a sling. As Hawke entered, lie gazed at him intently.
 
@@ -288,10 +288,10 @@ But taking the law into one’s hands was a crime in England. General Pablo woul
 <hr>
 
 ###Chapter 5
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###A Present from Foxy
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 I will come with you to England if you wish,” the General said.
 

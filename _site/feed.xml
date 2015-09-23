@@ -5,8 +5,8 @@
     <description>A murder mystery short story &amp;amp; novel site.</description>
     <link>localhost:3000/</link>
     <atom:link href="localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Sep 2015 19:20:07 -0500</pubDate>
-    <lastBuildDate>Tue, 22 Sep 2015 19:20:07 -0500</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2015 10:34:50 -0500</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2015 10:34:50 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -16,21 +16,21 @@
     &lt;h6&gt;Table of Contents&lt;/h6&gt;
   &lt;/header&gt;
 &lt;div id=&quot;drawer&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-1&quot; id=&quot;markdown-toc-chapter-1&quot;&gt;Chapter 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-2&quot; id=&quot;markdown-toc-chapter-2&quot;&gt;Chapter 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-3&quot; id=&quot;markdown-toc-chapter-3&quot;&gt;Chapter 3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-4&quot; id=&quot;markdown-toc-chapter-4&quot;&gt;Chapter 4&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-5&quot; id=&quot;markdown-toc-chapter-5&quot;&gt;Chapter 5&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#morgue-bait&quot; id=&quot;markdown-toc-morgue-bait&quot;&gt;Morgue Bait&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#i-like-it-this-way&quot; id=&quot;markdown-toc-i-like-it-this-way&quot;&gt;I Like It This Way&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#jeanie&quot; id=&quot;markdown-toc-jeanie&quot;&gt;Jeanie&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-back-booth&quot; id=&quot;markdown-toc-the-back-booth&quot;&gt;The Back Booth&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#jader&quot; id=&quot;markdown-toc-jader&quot;&gt;Jader&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
   &lt;/div&gt;
 &lt;/section&gt;
 &lt;p&gt;&lt;!-- table-of-contents --&gt;&lt;/p&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;morgue-bait&quot;&gt;Morgue Bait&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;morgue-bait&quot;&gt;Morgue Bait&lt;/h3&gt;
 
 &lt;p&gt;For many years Bay Street was the place. Bar whisky for eight cents a shot or a double slug for fifteen. Waterfront Street. The dirty grey waves slapped at the crusted piles and left an oil scum. A street to forget with. A street which could close in on you, day to day, night to night, until you maybe ran into an old friend who slipped you a five, and somebody saw you get it; there at dawn an interne from city hospital would shove your eyelid up with a clean, pink thumb. “Icebox meat,” he’d say. “Morgue bait.” And maybe, as he stood up, he’d look down at your hollow grey face and the sharp bones of your wrists and wonder how you’d kept alive so long. So very long.&lt;/p&gt;
 
@@ -51,9 +51,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;i-like-it-this-way&quot;&gt;I Like It This Way&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;i-like-it-this-way&quot;&gt;I Like It This Way&lt;/h3&gt;
 
 &lt;p&gt;He looked up. Patrolman Clarence Flynn, tall and solid, stood looking down at him. Flynn’s raincoat had a cape effect across the shoulders that made him look larger than life size.&lt;/p&gt;
 
@@ -114,9 +114,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;jeanie&quot;&gt;Jeanie&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;jeanie&quot;&gt;Jeanie&lt;/h3&gt;
 
 &lt;p&gt;Jader came over, his pale eyes watering. He said, “Damn it, Arthur, what did you let this dizzy punk come in here for?”&lt;/p&gt;
 
@@ -169,9 +169,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-4&quot;&gt;Chapter 4&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-4&quot;&gt;Chapter 4&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;the-back-booth&quot;&gt;The Back Booth&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;the-back-booth&quot;&gt;The Back Booth&lt;/h3&gt;
 
 &lt;p&gt;Jader was in a good mood. The drawer was almost full of packages and the first pickup was due in an hour. Arthur Allison had gone to the races. It was the first time Jader had been alone in the place in many months. He liked the feeling of being trusted. The sun was hot on Dorrity Street. It slanted through the smeared front window, lighting the dim interior. One old man was asleep, his head on the booth table. Jader planned to wake him up and get him out soon.&lt;/p&gt;
 
@@ -238,9 +238,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-5&quot;&gt;Chapter 5&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-5&quot;&gt;Chapter 5&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;jader&quot;&gt;Jader&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;jader&quot;&gt;Jader&lt;/h3&gt;
 
 &lt;p&gt;He turned then and looked into Frank Bard’s eyes. His underlip hung away from his teeth and he took a slow step away from the booth. Somehow Bard was in front of him. Jader clenched his white fists and struck blindly. He missed and went off balance as Frank Bard’s thin, dirty fist smashed his mouth. He fell heavily to his hands and knees, going over onto his side as one of the grey, broken shoes landed against the side of his head. One of the white hands lay, as still as lard, against the floor. Frank Bard set his heel on the fingers and swiveled his entire weight, slowly.&lt;/p&gt;
 
@@ -282,11 +282,11 @@
     &lt;h6&gt;Table of Contents&lt;/h6&gt;
   &lt;/header&gt;
 &lt;div id=&quot;drawer&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-1&quot; id=&quot;markdown-toc-chapter-1&quot;&gt;Chapter 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-2&quot; id=&quot;markdown-toc-chapter-2&quot;&gt;Chapter 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-3&quot; id=&quot;markdown-toc-chapter-3&quot;&gt;Chapter 3&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#right-under-your-stupid-noses&quot; id=&quot;markdown-toc-right-under-your-stupid-noses&quot;&gt;Right Under Your Stupid Noses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#a-little-friendly-call-on-louie&quot; id=&quot;markdown-toc-a-little-friendly-call-on-louie&quot;&gt;A Little, Friendly Call On Louie&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-mountain&quot; id=&quot;markdown-toc-the-mountain&quot;&gt;The Mountain&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
   &lt;/div&gt;
 &lt;/section&gt;
@@ -295,9 +295,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;right-under-your-stupid-noses&quot;&gt;Right Under Your Stupid Noses&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;right-under-your-stupid-noses&quot;&gt;Right Under Your Stupid Noses&lt;/h3&gt;
 
 &lt;p&gt;Detective Sergeant Forbes made a gesture of exasperated frustration with his big hands.&lt;/p&gt;
 
@@ -334,9 +334,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;a-little-friendly-call-on-louie&quot;&gt;A Little, Friendly Call On Louie&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;a-little-friendly-call-on-louie&quot;&gt;A Little, Friendly Call On Louie&lt;/h3&gt;
 
 &lt;p&gt;Late in the afternoon, having a free hour or so, Stephen went over the reports carefully in the privacy of his own law office. He learned from them two things that he considered significant. The first was that every morning at exactly ten-thirty, Lonesome Louie left the cheap hotel where he was staying to go for a walk, during which he merely strolled aimlessly about for an hour or so, then returned to the hotel; the second was that he repeated this procedure every afternoon at exactly one-thirty. Stephen smiled with satisfaction at the reports. They had told him precisely what he wanted to know.&lt;/p&gt;
 
@@ -373,9 +373,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;the-mountain&quot;&gt;The Mountain&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;the-mountain&quot;&gt;The Mountain&lt;/h3&gt;
 
 &lt;p&gt;Back in the district attorney’s office an hour or so later, Stephen lolled in the visitor’s chair and cocked one leg indolently over its arm. “It was all perfectly simple, Jeff,” he drawled. “I spotted it as soon as I read those reports, and noticed that Louie went for a walk every day at exactly the same time in the morning, and again in the afternoon. After he’d left the hotel —with Forbes or Donovan or Greene, as the case might be, following—Landis simply walked in and waited in his room for him to come back, when he gave Louie a fresh supply of the counterfeit money and collected his share of the real money Louie had got in change when he passed the phony bills. Then, when Louie went out for his afternoon walk, Landis left again. It was all perfectly safe and, as I said before, perfectly simple; so simple that I’d have spotted it even without reading the reports.”&lt;/p&gt;
 
@@ -403,14 +403,14 @@
     &lt;h6&gt;Table of Contents&lt;/h6&gt;
   &lt;/header&gt;
 &lt;div id=&quot;drawer&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-1&quot; id=&quot;markdown-toc-chapter-1&quot;&gt;Chapter 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-2&quot; id=&quot;markdown-toc-chapter-2&quot;&gt;Chapter 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-3&quot; id=&quot;markdown-toc-chapter-3&quot;&gt;Chapter 3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-4&quot; id=&quot;markdown-toc-chapter-4&quot;&gt;Chapter 4&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-5&quot; id=&quot;markdown-toc-chapter-5&quot;&gt;Chapter 5&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-6&quot; id=&quot;markdown-toc-chapter-6&quot;&gt;Chapter 6&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#a-rude-cabin&quot; id=&quot;markdown-toc-a-rude-cabin&quot;&gt;A Rude Cabin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#amos-norton&quot; id=&quot;markdown-toc-amos-norton&quot;&gt;Amos Norton&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-tri-motor&quot; id=&quot;markdown-toc-the-tri-motor&quot;&gt;The Tri-Motor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#aint-seen-no-plane&quot; id=&quot;markdown-toc-aint-seen-no-plane&quot;&gt;Ain’t Seen No Plane&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-pilot-of-the-douglas&quot; id=&quot;markdown-toc-the-pilot-of-the-douglas&quot;&gt;The Pilot Of The Douglas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#silence-like-a-bombshell&quot; id=&quot;markdown-toc-silence-like-a-bombshell&quot;&gt;Silence Like A Bombshell&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
   &lt;/div&gt;
 &lt;/section&gt;
@@ -419,9 +419,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;a-rude-cabin&quot;&gt;A Rude Cabin&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;a-rude-cabin&quot;&gt;A Rude Cabin&lt;/h3&gt;
 
 &lt;p&gt;Somewhere in the gathering gloom of the Adirondack forest a twig snapped sharply. Corporal Hal Robberts, New York state trooper, halted, his whipcord body of his tensing beneath the trim gray and black uniform. For a moment he listened, his gloved hand sliding back to the comforting assurance of the big .45 Colt belted around the sheepskin coat.&lt;/p&gt;
 
@@ -444,9 +444,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;amos-norton&quot;&gt;Amos Norton&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;amos-norton&quot;&gt;Amos Norton&lt;/h3&gt;
 
 &lt;p&gt;A bulky man, face covered with a heavy growth of beard, arose and peered at the trooper through thick-lensed spectacles.&lt;/p&gt;
 
@@ -499,9 +499,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;the-tri-motor&quot;&gt;The Tri-Motor&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;the-tri-motor&quot;&gt;The Tri-Motor&lt;/h3&gt;
 
 &lt;p&gt;After Dorgan had given detailed directions for finding Norton’s cabin, the two separated. For an hour Robberts followed the course of a small winding river. Suddenly, a small black object near the foot of a spruce caught his attention. Curiously, the trooper strode to the spot and looked down at a fine pine marten, securely imprisoned in a steel trap. The little animal was frozen stiff by the intense cold. Robberts examined the trap staring for a long moment at the initials scratched in the steel. When he straightened a long whistle of satisfaction escaped his lips. Mind busy with a dozen thoughts he resumed his search.&lt;/p&gt;
 
@@ -540,9 +540,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-4&quot;&gt;Chapter 4&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-4&quot;&gt;Chapter 4&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;aint-seen-no-plane&quot;&gt;Ain’t Seen No Plane&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;aint-seen-no-plane&quot;&gt;Ain’t Seen No Plane&lt;/h3&gt;
 
 &lt;p&gt;A thorough search of the cabin revealed no trace of the missing currency. Robberts stepped outside and glanced keenly around the cabin walls. A sizable pile of firewood was stacked neatly against one end of the shack. The next moment the trooper began a systematic dismantling of the piled wood.&lt;/p&gt;
 
@@ -585,9 +585,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-5&quot;&gt;Chapter 5&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-5&quot;&gt;Chapter 5&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;the-pilot-of-the-douglas&quot;&gt;The Pilot Of The Douglas&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;the-pilot-of-the-douglas&quot;&gt;The Pilot Of The Douglas&lt;/h3&gt;
 
 &lt;p&gt;The look of bewilderment vanished from Norton’s crafty features, to be replaced by fear. Abruptly he shut his traplike mouth and refused to speak again.&lt;/p&gt;
 
@@ -622,9 +622,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-6&quot;&gt;Chapter 6&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-6&quot;&gt;Chapter 6&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;silence-like-a-bombshell&quot;&gt;Silence Like A Bombshell&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;silence-like-a-bombshell&quot;&gt;Silence Like A Bombshell&lt;/h3&gt;
 
 &lt;p&gt;As the words fell upon the silence like a bombshell, the room erupted into violent action. With a lightning swing of his arm Amsden seized the pan of scalding dishwater from the stove and flung it straight at Robberts’ face. As the trooper attempted to duck his foot slipped and he went half to his knees. Half of the contents of the pan splashed agonizingly into his face, blinding him. Instinctively his finger contacted upon the trigger of the Colt.&lt;/p&gt;
 
@@ -660,20 +660,21 @@
     &lt;h6&gt;Table of Contents&lt;/h6&gt;
   &lt;/header&gt;
 &lt;div id=&quot;drawer&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-1&quot; id=&quot;markdown-toc-chapter-1&quot;&gt;Chapter 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-2&quot; id=&quot;markdown-toc-chapter-2&quot;&gt;Chapter 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-3&quot; id=&quot;markdown-toc-chapter-3&quot;&gt;Chapter 3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-4&quot; id=&quot;markdown-toc-chapter-4&quot;&gt;Chapter 4&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-5&quot; id=&quot;markdown-toc-chapter-5&quot;&gt;Chapter 5&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-6&quot; id=&quot;markdown-toc-chapter-6&quot;&gt;Chapter 6&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#introduction&quot; id=&quot;markdown-toc-introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-poisoned-chocolates&quot; id=&quot;markdown-toc-the-poisoned-chocolates&quot;&gt;The Poisoned Chocolates&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-invalid&quot; id=&quot;markdown-toc-the-invalid&quot;&gt;The Invalid&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tracing-the-parcel&quot; id=&quot;markdown-toc-tracing-the-parcel&quot;&gt;Tracing the Parcel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#wanteda-girl-guide&quot; id=&quot;markdown-toc-wanteda-girl-guide&quot;&gt;Wanted—A Girl Guide!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-clue-of-the-cosmetics&quot; id=&quot;markdown-toc-the-clue-of-the-cosmetics&quot;&gt;The Clue of the Cosmetics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-knot-is-untied&quot; id=&quot;markdown-toc-the-knot-is-untied&quot;&gt;The “Knot” is Untied&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
   &lt;/div&gt;
 &lt;/section&gt;
 &lt;p&gt;&lt;!-- table-of-contents --&gt;&lt;/p&gt;
 
-&lt;p&gt;Introduction&lt;/p&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
 
 &lt;p&gt;“Have one, Janie?”&lt;/p&gt;
 
@@ -712,9 +713,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h3&gt;
+&lt;h2 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h2&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;the-poisoned-chocolates&quot;&gt;The Poisoned Chocolates&lt;/h3&gt;
+&lt;h3 class=&quot;chaptertitle&quot; id=&quot;the-poisoned-chocolates&quot;&gt;The Poisoned Chocolates&lt;/h3&gt;
 
 &lt;p&gt;Dr. Hollis, the Priestlys’ medical attendant, was at the house within half an hour.&lt;/p&gt;
 
@@ -795,9 +796,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h3&gt;
+&lt;h2 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h2&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;the-invalid&quot;&gt;The Invalid&lt;/h3&gt;
+&lt;h3 class=&quot;chaptertitle&quot; id=&quot;the-invalid&quot;&gt;The Invalid&lt;/h3&gt;
 
 &lt;p&gt;Upstairs in the invalid’s bedroom Hawke was distressed to see the feeble physical condition of the man whom he had once considered to be the fittest and most alert director in the City. But he soon realised that John Priestly had lost none of his old mental qualities.&lt;/p&gt;
 
@@ -830,9 +831,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h3&gt;
+&lt;h2 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h2&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;tracing-the-parcel&quot;&gt;Tracing the Parcel&lt;/h3&gt;
+&lt;h3 class=&quot;chaptertitle&quot; id=&quot;tracing-the-parcel&quot;&gt;Tracing the Parcel&lt;/h3&gt;
 
 &lt;p&gt;Downstairs again the private detective asked Inspector Denver if he could see the box of chocolates.&lt;/p&gt;
 
@@ -929,9 +930,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-4&quot;&gt;Chapter 4&lt;/h3&gt;
+&lt;h2 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-4&quot;&gt;Chapter 4&lt;/h2&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;wanteda-girl-guide&quot;&gt;Wanted—A Girl Guide!&lt;/h3&gt;
+&lt;h3 class=&quot;chaptertitle&quot; id=&quot;wanteda-girl-guide&quot;&gt;Wanted—A Girl Guide!&lt;/h3&gt;
 
 &lt;p&gt;It was past three when they returned to Priestly s house.&lt;/p&gt;
 
@@ -990,9 +991,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-5&quot;&gt;Chapter 5&lt;/h3&gt;
+&lt;h2 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-5&quot;&gt;Chapter 5&lt;/h2&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;the-clue-of-the-cosmetics&quot;&gt;The Clue of the Cosmetics&lt;/h3&gt;
+&lt;h3 class=&quot;chaptertitle&quot; id=&quot;the-clue-of-the-cosmetics&quot;&gt;The Clue of the Cosmetics&lt;/h3&gt;
 
 &lt;p&gt;A little while later the nurse entered the room.&lt;/p&gt;
 
@@ -1041,9 +1042,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-6&quot;&gt;Chapter 6&lt;/h3&gt;
+&lt;h2 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-6&quot;&gt;Chapter 6&lt;/h2&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;the-knot-is-untied&quot;&gt;The “Knot” is Untied&lt;/h3&gt;
+&lt;h3 class=&quot;chaptertitle&quot; id=&quot;the-knot-is-untied&quot;&gt;The “Knot” is Untied&lt;/h3&gt;
 
 &lt;p&gt;An hour later Inspector Denver was in a very subdued mood.&lt;/p&gt;
 
@@ -1075,13 +1076,13 @@
     &lt;h6&gt;Table of Contents&lt;/h6&gt;
   &lt;/header&gt;
 &lt;div id=&quot;drawer&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-1&quot; id=&quot;markdown-toc-chapter-1&quot;&gt;Chapter 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-2&quot; id=&quot;markdown-toc-chapter-2&quot;&gt;Chapter 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-3&quot; id=&quot;markdown-toc-chapter-3&quot;&gt;Chapter 3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-4&quot; id=&quot;markdown-toc-chapter-4&quot;&gt;Chapter 4&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-5&quot; id=&quot;markdown-toc-chapter-5&quot;&gt;Chapter 5&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-bullet-in-the-wall&quot; id=&quot;markdown-toc-the-bullet-in-the-wall&quot;&gt;The Bullet in the Wall&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#a-visitor-from-moravia&quot; id=&quot;markdown-toc-a-visitor-from-moravia&quot;&gt;A Visitor from Moravia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#at-the-hotel-du-roi&quot; id=&quot;markdown-toc-at-the-hotel-du-roi&quot;&gt;At the Hotel du Roi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#a-full-confession&quot; id=&quot;markdown-toc-a-full-confession&quot;&gt;A Full Confession&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#a-present-from-foxy&quot; id=&quot;markdown-toc-a-present-from-foxy&quot;&gt;A Present from Foxy&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
   &lt;/div&gt;
 &lt;/section&gt;
@@ -1140,9 +1141,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;the-bullet-in-the-wall&quot;&gt;The Bullet in the Wall&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;the-bullet-in-the-wall&quot;&gt;The Bullet in the Wall&lt;/h3&gt;
 
 &lt;p&gt;The house was midway between Hampstead and Golders Green, standing at the edge of the wide heath. Inspector Meadow’s unlocked the doors and showed the way to the room where Martin had been killed.&lt;/p&gt;
 
@@ -1205,9 +1206,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;a-visitor-from-moravia&quot;&gt;A Visitor from Moravia&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;a-visitor-from-moravia&quot;&gt;A Visitor from Moravia&lt;/h3&gt;
 
 &lt;p&gt;The second bullet was a valuable clue, but at that the new line of investigation was halted. It had already been established that nobody had hoard the firing of the shots. The house stood alone at the edge of the heath and it was easy to enter or leave the place without being seen.&lt;/p&gt;
 
@@ -1270,9 +1271,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;at-the-hotel-du-roi&quot;&gt;At the Hotel du Roi&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;at-the-hotel-du-roi&quot;&gt;At the Hotel du Roi&lt;/h3&gt;
 
 &lt;p&gt;To Dixon Hawke, the French capital was as familiar as London. When the bus from Le Bourget dropped him at the air terminus on the Rue George V’., he strolled slowly along the boulevard to the great Place du Concorde. Under his arm was a small package which he had passed unopened through the Customs with the aid of his Scotland Yard credentials.&lt;/p&gt;
 
@@ -1297,9 +1298,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-4&quot;&gt;Chapter 4&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-4&quot;&gt;Chapter 4&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;a-full-confession&quot;&gt;A Full Confession&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;a-full-confession&quot;&gt;A Full Confession&lt;/h3&gt;
 
 &lt;p&gt;It was a fine room, lighted by the bright evening sky. In a chair near the windows sat a tall and dignified man. He wore a dressing-gown over his pyjamas, and the detective noticed that his left arm was in a sling. As Hawke entered, lie gazed at him intently.&lt;/p&gt;
 
@@ -1340,9 +1341,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-5&quot;&gt;Chapter 5&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-5&quot;&gt;Chapter 5&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;a-present-from-foxy&quot;&gt;A Present from Foxy&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;a-present-from-foxy&quot;&gt;A Present from Foxy&lt;/h3&gt;
 
 &lt;p&gt;I will come with you to England if you wish,” the General said.&lt;/p&gt;
 
@@ -1400,13 +1401,13 @@
     &lt;h6&gt;Table of Contents&lt;/h6&gt;
   &lt;/header&gt;
 &lt;div id=&quot;drawer&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-1&quot; id=&quot;markdown-toc-chapter-1&quot;&gt;Chapter 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-2&quot; id=&quot;markdown-toc-chapter-2&quot;&gt;Chapter 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-3&quot; id=&quot;markdown-toc-chapter-3&quot;&gt;Chapter 3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-4&quot; id=&quot;markdown-toc-chapter-4&quot;&gt;Chapter 4&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-5&quot; id=&quot;markdown-toc-chapter-5&quot;&gt;Chapter 5&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#first-farmers-bank&quot; id=&quot;markdown-toc-first-farmers-bank&quot;&gt;First Farmers Bank&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#we-gotta-get-the-facts-sister&quot; id=&quot;markdown-toc-we-gotta-get-the-facts-sister&quot;&gt;We Gotta Get The Facts, Sister&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#hunches&quot; id=&quot;markdown-toc-hunches&quot;&gt;Hunches&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#but-what-could-i-do&quot; id=&quot;markdown-toc-but-what-could-i-do&quot;&gt;But What Could I Do?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ill-kill-you-ill-kill-you&quot; id=&quot;markdown-toc-ill-kill-you-ill-kill-you&quot;&gt;I’ll Kill You! I’ll Kill You!&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
   &lt;/div&gt;
 &lt;/section&gt;
@@ -1415,9 +1416,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;first-farmers-bank&quot;&gt;First Farmers Bank&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;first-farmers-bank&quot;&gt;First Farmers Bank&lt;/h3&gt;
 
 &lt;p&gt;The long, sleek limousine rolled slowly to a halt in front of the First Farmers Bank of New Albany, Indiana. The liveried negro chauffeur started to turn off the ignition when a sharp, thin voice from the rear seat froze his hand.&lt;/p&gt;
 
@@ -1476,9 +1477,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;we-gotta-get-the-facts-sister&quot;&gt;We Gotta Get The Facts, Sister&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;we-gotta-get-the-facts-sister&quot;&gt;We Gotta Get The Facts, Sister&lt;/h3&gt;
 
 &lt;p&gt;Al Aronson, ace reporter of the Louisville Courier Journal, bent over the dying man. It was hard to hear his words. His chest swathed in bandages to hide the_ gaping wound and keep the ebbing life within a little longer, rose and fell in labored spasms.&lt;/p&gt;
 
@@ -1529,9 +1530,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;hunches&quot;&gt;Hunches&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;hunches&quot;&gt;Hunches&lt;/h3&gt;
 
 &lt;p&gt;Lt. Hunt chewed angrily on his cigar. “Stop trying to ride me, Aronson,” he exploded. “I’m telling you for the last time that killer was no local kid. I know every last hoodlum in town, and this punk doesn’t fit in. He’s an outsider.”&lt;/p&gt;
 
@@ -1574,9 +1575,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-4&quot;&gt;Chapter 4&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-4&quot;&gt;Chapter 4&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;but-what-could-i-do&quot;&gt;But What Could I Do?&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;but-what-could-i-do&quot;&gt;But What Could I Do?&lt;/h3&gt;
 
 &lt;p&gt;Three hours later Al Aronson made his way down a dirty, ramshackle street in Louisville, to the address Davis had given him. He surveyed the paint-peeled, two room structure in the small, littered yard.&lt;/p&gt;
 
@@ -1633,9 +1634,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-5&quot;&gt;Chapter 5&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-5&quot;&gt;Chapter 5&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;ill-kill-you-ill-kill-you&quot;&gt;I’ll Kill You! I’ll Kill You!&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;ill-kill-you-ill-kill-you&quot;&gt;I’ll Kill You! I’ll Kill You!&lt;/h3&gt;
 
 &lt;p&gt;In the quiet of the darkened warehouse, Lt. Hunt flashed his light along the rows of high-piled crates, trunks and boxes.&lt;/p&gt;
 
@@ -1711,10 +1712,10 @@
     &lt;h6&gt;Table of Contents&lt;/h6&gt;
   &lt;/header&gt;
 &lt;div id=&quot;drawer&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-1&quot; id=&quot;markdown-toc-chapter-1&quot;&gt;Chapter 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-2&quot; id=&quot;markdown-toc-chapter-2&quot;&gt;Chapter 2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-day-is-ill-omened&quot; id=&quot;markdown-toc-the-day-is-ill-omened&quot;&gt;The Day Is Ill-Omened&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-right-dope&quot; id=&quot;markdown-toc-the-right-dope&quot;&gt;The Right Dope&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
   &lt;/div&gt;
 &lt;/section&gt;
@@ -1723,9 +1724,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;the-day-is-ill-omened&quot;&gt;The Day Is Ill-Omened&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;the-day-is-ill-omened&quot;&gt;The Day Is Ill-Omened&lt;/h3&gt;
 
 &lt;p&gt;The sanctum of Madame Sovio was drab and tawdry. The room was small and done in faded blue draperies upon which were tinsel stars and moons.&lt;/p&gt;
 
@@ -1864,9 +1865,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;the-right-dope&quot;&gt;The Right Dope&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;the-right-dope&quot;&gt;The Right Dope&lt;/h3&gt;
 
 &lt;p&gt;The night was hot and unstirring. A full moon rode high in a cloudless sky. The dank smell of the river grew more pronounced. The streets were lined with coatless loungers sprawling at ease in doorway or on stoop.&lt;/p&gt;
 
@@ -1954,11 +1955,11 @@
     &lt;h6&gt;Table of Contents&lt;/h6&gt;
   &lt;/header&gt;
 &lt;div id=&quot;drawer&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-1&quot; id=&quot;markdown-toc-chapter-1&quot;&gt;Chapter 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-2&quot; id=&quot;markdown-toc-chapter-2&quot;&gt;Chapter 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-3&quot; id=&quot;markdown-toc-chapter-3&quot;&gt;Chapter 3&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#its-me-honey&quot; id=&quot;markdown-toc-its-me-honey&quot;&gt;It’s Me, Honey&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#harveys-cigarette-case&quot; id=&quot;markdown-toc-harveys-cigarette-case&quot;&gt;Harvey’s Cigarette Case&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#theyll-never-suspect-a-thing&quot; id=&quot;markdown-toc-theyll-never-suspect-a-thing&quot;&gt;They’ll Never Suspect A Thing&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
   &lt;/div&gt;
 &lt;/section&gt;
@@ -1967,9 +1968,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;its-me-honey&quot;&gt;It’s Me, Honey&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;its-me-honey&quot;&gt;It’s Me, Honey&lt;/h3&gt;
 
 &lt;p&gt;Pomfret walked slowly up the path to his front door, clicked his key in the lock and stepped into the warmth of his own hallway. For a moment he stood there in the semi-darkness, breathing hard, tilting his head, smelling the old familiar smells and wondering at himself for the thing he was about to do.&lt;/p&gt;
 
@@ -2002,9 +2003,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;harveys-cigarette-case&quot;&gt;Harvey’s Cigarette Case&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;harveys-cigarette-case&quot;&gt;Harvey’s Cigarette Case&lt;/h3&gt;
 
 &lt;p&gt;Eva came down the stairs, and Pomfret paused by the door, watching her, taking her in, gauging the full fluid motion of her body and the slow swing of her long tawny hair and the full rich beauty of her face, feeling again the desire for her and the need of her.&lt;/p&gt;
 
@@ -2049,9 +2050,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;theyll-never-suspect-a-thing&quot;&gt;They’ll Never Suspect A Thing&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;theyll-never-suspect-a-thing&quot;&gt;They’ll Never Suspect A Thing&lt;/h3&gt;
 
 &lt;p&gt;Harvey grinned. He had a good-natured, boyish grin that worked well with some types of women. He stood in the middle of Joe Pomfret’s living room, staring at Joe Pomfret’s wife. There was sweat on his face.&lt;/p&gt;
 
@@ -2107,16 +2108,16 @@
     &lt;h6&gt;Table of Contents&lt;/h6&gt;
   &lt;/header&gt;
 &lt;div id=&quot;drawer&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-1&quot; id=&quot;markdown-toc-chapter-1&quot;&gt;Chapter 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-2&quot; id=&quot;markdown-toc-chapter-2&quot;&gt;Chapter 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-3&quot; id=&quot;markdown-toc-chapter-3&quot;&gt;Chapter 3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-4&quot; id=&quot;markdown-toc-chapter-4&quot;&gt;Chapter 4&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-5&quot; id=&quot;markdown-toc-chapter-5&quot;&gt;Chapter 5&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-6&quot; id=&quot;markdown-toc-chapter-6&quot;&gt;Chapter 6&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-7&quot; id=&quot;markdown-toc-chapter-7&quot;&gt;Chapter 7&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-8&quot; id=&quot;markdown-toc-chapter-8&quot;&gt;Chapter 8&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#lucks-a-fickle-jade&quot; id=&quot;markdown-toc-lucks-a-fickle-jade&quot;&gt;Luck’s A Fickle Jade&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#a-teller-at-my-bank&quot; id=&quot;markdown-toc-a-teller-at-my-bank&quot;&gt;A Teller At My Bank&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#you-might-call-it-a-stick-up&quot; id=&quot;markdown-toc-you-might-call-it-a-stick-up&quot;&gt;You Might Call It A Stick-Up&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#could-i-kiss-the-bride&quot; id=&quot;markdown-toc-could-i-kiss-the-bride&quot;&gt;Could I Kiss The Bride?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#and-finally-silence&quot; id=&quot;markdown-toc-and-finally-silence&quot;&gt;And Finally, Silence&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#pinched-for-murder&quot; id=&quot;markdown-toc-pinched-for-murder&quot;&gt;Pinched For Murder&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#to-save-a-guys-life&quot; id=&quot;markdown-toc-to-save-a-guys-life&quot;&gt;To Save A Guy’s Life&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#turn-em-loose&quot; id=&quot;markdown-toc-turn-em-loose&quot;&gt;Turn ’Em Loose&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
   &lt;/div&gt;
 &lt;/section&gt;
@@ -2125,9 +2126,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;lucks-a-fickle-jade&quot;&gt;Luck’s A Fickle Jade&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;lucks-a-fickle-jade&quot;&gt;Luck’s A Fickle Jade&lt;/h3&gt;
 
 &lt;p&gt;Corcoran threw snake-eyes. An audible gasp went up from the well-dressed crowd around the crap-table. They had seen Corcoran make six straight passes; watched him run a ten-spot up to six hundred and forty bucks.&lt;/p&gt;
 
@@ -2152,9 +2153,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;a-teller-at-my-bank&quot;&gt;A Teller At My Bank&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;a-teller-at-my-bank&quot;&gt;A Teller At My Bank&lt;/h3&gt;
 
 &lt;p&gt;The tuxedoed croupier said: “Still your dice if you want them, Mister.”&lt;/p&gt;
 
@@ -2201,9 +2202,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;you-might-call-it-a-stick-up&quot;&gt;You Might Call It A Stick-Up&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;you-might-call-it-a-stick-up&quot;&gt;You Might Call It A Stick-Up&lt;/h3&gt;
 
 &lt;p&gt;In a moment the door opened. A tall, nervous young man came in, the one who had flicked his eyebrow at Corcoran a while ago.&lt;/p&gt;
 
@@ -2258,9 +2259,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-4&quot;&gt;Chapter 4&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-4&quot;&gt;Chapter 4&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;could-i-kiss-the-bride&quot;&gt;Could I Kiss The Bride?&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;could-i-kiss-the-bride&quot;&gt;Could I Kiss The Bride?&lt;/h3&gt;
 
 &lt;p&gt;The door opened. A feminine voice said: “That’s what you think.”&lt;/p&gt;
 
@@ -2303,9 +2304,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-5&quot;&gt;Chapter 5&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-5&quot;&gt;Chapter 5&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;and-finally-silence&quot;&gt;And Finally, Silence&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;and-finally-silence&quot;&gt;And Finally, Silence&lt;/h3&gt;
 
 &lt;p&gt;The cab stopped in front of her apartment building.&lt;/p&gt;
 
@@ -2338,9 +2339,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-6&quot;&gt;Chapter 6&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-6&quot;&gt;Chapter 6&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;pinched-for-murder&quot;&gt;Pinched For Murder&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;pinched-for-murder&quot;&gt;Pinched For Murder&lt;/h3&gt;
 
 &lt;p&gt;An open window framed the iron fire-ladder just outside. In the room’s center lay Harry Greer, breathing heavily, with his eyes closed. Thick clotted blood wept from a raw hole in his left shoulder. A thin drift of gunpowder-smoke eddied in the dull light from a table-lamp.&lt;/p&gt;
 
@@ -2389,9 +2390,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-7&quot;&gt;Chapter 7&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-7&quot;&gt;Chapter 7&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;to-save-a-guys-life&quot;&gt;To Save A Guy’s Life&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;to-save-a-guys-life&quot;&gt;To Save A Guy’s Life&lt;/h3&gt;
 
 &lt;p&gt;All the color drained from her cheeks.&lt;/p&gt;
 
@@ -2484,9 +2485,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-8&quot;&gt;Chapter 8&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-8&quot;&gt;Chapter 8&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;turn-em-loose&quot;&gt;Turn ’Em Loose&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;turn-em-loose&quot;&gt;Turn ’Em Loose&lt;/h3&gt;
 
 &lt;p&gt;Greer snarled: “You’ll never take me, Corcoran!” and swatted at the revolver in the private dick’s fist. Corcoran shot him through the other shoulder.&lt;/p&gt;
 
@@ -2520,17 +2521,17 @@
     &lt;h6&gt;Table of Contents&lt;/h6&gt;
   &lt;/header&gt;
 &lt;div id=&quot;drawer&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-1&quot; id=&quot;markdown-toc-chapter-1&quot;&gt;Chapter 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-2&quot; id=&quot;markdown-toc-chapter-2&quot;&gt;Chapter 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-3&quot; id=&quot;markdown-toc-chapter-3&quot;&gt;Chapter 3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-4&quot; id=&quot;markdown-toc-chapter-4&quot;&gt;Chapter 4&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-5&quot; id=&quot;markdown-toc-chapter-5&quot;&gt;Chapter 5&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-6&quot; id=&quot;markdown-toc-chapter-6&quot;&gt;Chapter 6&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-7&quot; id=&quot;markdown-toc-chapter-7&quot;&gt;Chapter 7&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-8&quot; id=&quot;markdown-toc-chapter-8&quot;&gt;Chapter 8&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-9&quot; id=&quot;markdown-toc-chapter-9&quot;&gt;Chapter 9&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#funeral-pieces&quot; id=&quot;markdown-toc-funeral-pieces&quot;&gt;Funeral Pieces&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#lilacs&quot; id=&quot;markdown-toc-lilacs&quot;&gt;Lilacs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#suspects&quot; id=&quot;markdown-toc-suspects&quot;&gt;Suspects&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#yellow-roses&quot; id=&quot;markdown-toc-yellow-roses&quot;&gt;Yellow Roses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#u-in-murder&quot; id=&quot;markdown-toc-u-in-murder&quot;&gt;U In Murder&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#gardenia&quot; id=&quot;markdown-toc-gardenia&quot;&gt;Gardenia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#empty-buttonhole&quot; id=&quot;markdown-toc-empty-buttonhole&quot;&gt;Empty Buttonhole&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-roses&quot; id=&quot;markdown-toc-the-roses&quot;&gt;The Roses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fresh-flowers&quot; id=&quot;markdown-toc-fresh-flowers&quot;&gt;Fresh Flowers&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
   &lt;/div&gt;
 &lt;/section&gt;
@@ -2539,9 +2540,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;funeral-pieces&quot;&gt;Funeral Pieces&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;funeral-pieces&quot;&gt;Funeral Pieces&lt;/h3&gt;
 
 &lt;p&gt;The basement of the flower store was chill with dampness; the naked light-bulb above the work table glaring harshly, piled up huge, crouching shadows in the corners, police coat buttons.&lt;/p&gt;
 
@@ -2586,9 +2587,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;lilacs&quot;&gt;Lilacs&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;lilacs&quot;&gt;Lilacs&lt;/h3&gt;
 
 &lt;p&gt;The man on her left spoke for the first time. He was short and stocky,, his black eyes antagonistic.&lt;/p&gt;
 
@@ -2631,9 +2632,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;suspects&quot;&gt;Suspects&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;suspects&quot;&gt;Suspects&lt;/h3&gt;
 
 &lt;p&gt;Tom Davies seemed more than anxious to help and he sat in a deep leather chair, his bread face puckered into a frown of worry, his fingers picking at the front of his dressing gown. His false teeth flashed whitely when he spoke.&lt;/p&gt;
 
@@ -2672,9 +2673,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-4&quot;&gt;Chapter 4&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-4&quot;&gt;Chapter 4&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;yellow-roses&quot;&gt;Yellow Roses&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;yellow-roses&quot;&gt;Yellow Roses&lt;/h3&gt;
 
 &lt;p&gt;Clint parked his car at the curb, and went o the door of “Davies Flowers” and rapped on the glass. Pat came to let him in. She was alone.&lt;/p&gt;
 
@@ -2725,9 +2726,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-5&quot;&gt;Chapter 5&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-5&quot;&gt;Chapter 5&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;u-in-murder&quot;&gt;U In Murder&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;u-in-murder&quot;&gt;U In Murder&lt;/h3&gt;
 
 &lt;p&gt;Mike Sloan’s store was called “The Patio.” It was smaller than Davies’ flower shop. A small, pasty-faced man came around the counter as Clint entered.&lt;/p&gt;
 
@@ -2770,9 +2771,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-6&quot;&gt;Chapter 6&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-6&quot;&gt;Chapter 6&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;gardenia&quot;&gt;Gardenia&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;gardenia&quot;&gt;Gardenia&lt;/h3&gt;
 
 &lt;p&gt;The next afternoon Clint Fleming was exactly where he had been the day before—nowhere near a solution. He’d been to see the a solution. He’d been to see the chief —which did nothing for his ego, as Chief Cummings had said he’d better start showing some action, or else. And the “or else” had been punctuated by the slam of a big fist on the top of a desk … .&lt;/p&gt;
 
@@ -2829,9 +2830,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-7&quot;&gt;Chapter 7&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-7&quot;&gt;Chapter 7&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;empty-buttonhole&quot;&gt;Empty Buttonhole&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;empty-buttonhole&quot;&gt;Empty Buttonhole&lt;/h3&gt;
 
 &lt;p&gt;A bell was ringing someplace. For a long time Fleming lay in his bed, his eyes closed, hoping it would go away.&lt;/p&gt;
 
@@ -2912,9 +2913,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-8&quot;&gt;Chapter 8&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-8&quot;&gt;Chapter 8&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;the-roses&quot;&gt;The Roses&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;the-roses&quot;&gt;The Roses&lt;/h3&gt;
 
 &lt;p&gt;Clint looked at the crate. It was the same one he had seen earlier, only now the waxed-paper-wrapped bundles of roses lay scattered on the cement. He stooped, picked up a bunch. The buds were open—but not naturally—they had been forced open. The very center of the roses were missing. And then Clint saw the little pile of white-powder-filled capsules by Martin’s hand.&lt;/p&gt;
 
@@ -2957,9 +2958,9 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h3 class=&quot;chapternumber&quot; id=&quot;chapter-9&quot;&gt;Chapter 9&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-9&quot;&gt;Chapter 9&lt;/h3&gt;
 
-&lt;h3 class=&quot;chaptertitle no_toc&quot; id=&quot;fresh-flowers&quot;&gt;Fresh Flowers&lt;/h3&gt;
+&lt;h3 class=&quot;chapternumber&quot; id=&quot;fresh-flowers&quot;&gt;Fresh Flowers&lt;/h3&gt;
 
 &lt;p&gt;The cops were already there when the storeowner came hurrying in. His broad face was tense, and he looked as if he had fallen into his clothes.&lt;/p&gt;
 

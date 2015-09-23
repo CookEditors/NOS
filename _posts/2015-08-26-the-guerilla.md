@@ -20,7 +20,7 @@ epub: LINK TO EPUB
     <h6>Table of Contents</h6>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+1. Auto generated table of contents
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
@@ -29,10 +29,10 @@ epub: LINK TO EPUB
 <hr>
 
 ###Chapter 1
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Power House Gang
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 His name was Joe Cragen. His family was poor but respectable. Old man Cragen was a law-abiding citizen and Mother Cragen a benevolent, white-haired woman whose fondest recollections were of the County Mayo.
 
@@ -52,10 +52,10 @@ The same night Cragen crept through the meshes of far-flung police nets and “r
 <hr>
 
 ###Chapter 2
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Nothing To It
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 On an August night four years after the bank stick-up, and the flight of Cragen, a lean, gray-haired individual in a rusty blue serge suit, cracked shoes and greasy cap entered Wolger’s West Street hotel, crossed the uncarpeted lobby floor and moved to the desk that Abraham Wolger presided over, where he spoke briefly.
 
@@ -131,10 +131,10 @@ He fumbled in his pockets until he found a five-cent piece, turned east to the f
 <hr>
 
 ###Chapter 3
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###The Tenement
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 At the corner of Forty-ninth Street the man alighted and turned toward the river.
 
@@ -200,10 +200,10 @@ Then wearying of the sport and mindful that time was flying, he used his blackja
 <hr>
 
 ###Chapter 4
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Murder In A Fish Store
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 The following morning, Abraham Wolger, at the desk in his West Street hotel, looked up from the third morning edition of his favorite paper and addressed a burly youth who was sweeping out the uncarpeted lobby with a worn broom.
 

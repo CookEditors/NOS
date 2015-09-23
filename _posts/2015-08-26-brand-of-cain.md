@@ -20,7 +20,7 @@ epub: LINK TO EPUB
     <h6>Table of Contents</h6>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+1. Auto generated table of contents
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
@@ -29,10 +29,10 @@ epub: LINK TO EPUB
 <hr>
 
 ###Chapter 1
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Waldo Fellows Had Met Death
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Doctor Andrews, the physician who had been called in by the coroner, gave as his opinion that Waldo Fellows had met death shortly after midnight. The condition of the body, he said, proved his contention. Then, too, the fact that the blood with which the sheets were smeared had dried and hardened caused him to stick to his statement.
 
@@ -56,10 +56,10 @@ Such a man as Waldo Fellows set down in (he midst of a rural community is bound 
 <hr>
 
 ###Chapter 2
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###A Bottle of Bromide
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Fellows was murdered in bed, apparently in cold blood, for there was no evidence of a struggle of any kind. Nothing in the room had been disturbed. So far as could be ascertained nothing of value had been taken. The fact that the bedding was not mussed led to the belief that the murderer had struck while his victim was asleep.
 
@@ -99,10 +99,10 @@ My friend shrugged his shoulders again.
 <hr>
 
 ###Chapter 3
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Father Lipki
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 Darkness had fallen when Dwyer and the coroner again drove up to the Fellows home accompanied by Father Lipki, the gypsy.
 
@@ -158,10 +158,10 @@ Then, without warning, he dropped to his knees, his arms outstretched towards th
 <hr>
 
 ###Chapter 4
-{: .chapternumber}
+{: .chapternumber .no_toc}
 
 ###Ammonium Chloride
-{: .chaptertitle .no_toc}
+{: .chapternumber }
 
 “No, I never met Lipki until yesterday,” Dwyer chuckled to us as, two hours later, Hitchens safely lodged in jail, he sat with the coroner, the sheriff and myself in the former’s parlor and went over the various phases of the case.
 
