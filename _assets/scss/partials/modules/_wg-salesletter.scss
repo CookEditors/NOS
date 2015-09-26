@@ -20,15 +20,28 @@
 		em {
 			color: $acolor;
 		}
-		&:first-of-type:first-line {
-			color: $acolor;
-			font-size: 1.25rem;
-		}
-	}
-	i {
-		color: $acolor;
+		// &:first-of-type:first-line {
+		// 	color: $acolor;
+		// 	font-size: 1.25rem;
+		// }
 	}
 }
+
+.salesletter__sub1 {
+	font-size: 1rem;
+	color: $pcolor;
+	font-style: italic;
+}
+
+.salesletter__sub2 {
+	padding-top: 2rem;
+	text-indent: -5rem;
+	color: $acolor;
+	font-size: 1.5rem;
+	font-weight: bold;
+	// text-align: center;
+}
+
 
 .salesletter__storylist {
 	margin: 0 auto;
@@ -52,8 +65,12 @@
 	}
 }
 
-.salesletter__murderbook, .salesletter__doyou {
- 	@extend .salesletter__storylist;
+.salesletter__trf {
+	font-size: 1rem;
+	margin: 0 0 2rem 0;
+	i {
+		color: $acolor;
+	}
  	li {
  	@media screen and (min-width: 30rem) {
  		margin-left: 0;
@@ -61,12 +78,81 @@
  	}
  }
 
-.salesletter p:first-of-type:first-line {
-	color: $acolor;
-	font-size: 1.25rem;
-}
+// .salesletter p:first-of-type:first-line {
+// 	color: $acolor;
+// 	font-size: 1.25rem;
+// }
 
 .storytitle {
 	text-transform: uppercase;
 	color: $acolor;
 }
+
+.cover-fan {
+	display: block;
+	// border: 1px solid pink;
+	width: 90%;
+	// max-width: 90%;
+	margin: 1rem auto 2rem;
+	@media screen and (min-width: 37rem) {
+		width: 100%;
+	}
+}
+
+.rf-cover {
+	display: block;
+	width: 90%;
+	margin: 0 auto 1rem;
+	padding: 1rem 0 2rem;
+	transform: rotate(-3deg);
+	@media screen and (min-width: 37rem) {
+		width: 40%;
+	}
+}
+
+.intro_atticus {
+	// border: 2px dotted green;
+	float: left;
+	padding-right: 0.75rem;
+	width: 25%;
+}
+
+
+.challenge {
+	// background-color: $acolor;
+	// color: $paper;
+	max-width: 37rem;
+	margin: -1rem auto 0;
+	padding: 1rem;
+}
+
+.q-bar {
+	// border: 2px solid blue;
+	display: block;
+	margin: 0 auto 1rem;
+	height: 75px;
+	// fill: darkred;
+}
+
+.q__challenge {
+	max-width: 80%;
+	font-style: italic;
+	// color: $acolor;
+}
+
+.footnote {
+	font-size: .9rem;
+	font-style: italic;
+	color: $acolor;
+	padding: 0 5rem;
+	// @extend .hangingindent;
+}
+
+.customer-avatar {
+	float: left;
+	padding-right: 1rem;
+	height: 140px;
+}
+
+
+

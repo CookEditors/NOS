@@ -37,6 +37,35 @@
   text-indent: -1.375rem;
 }
 
+.indent {
+  text-indent: 2rem;
+}
+.indent2 {
+  text-indent: 4rem;
+}
+.indent3 {
+  text-indent: 6rem;
+}
+.indent4 {
+  text-indent: 8rem;
+}
+.indent5 {
+  text-indent: 10rem;
+}
+.indent6 {
+  text-indent: 12rem;
+}
+.indent7 {
+  text-indent: 14rem;
+}
+.neg-indent {
+  text-indent: -2rem;
+}
+
+
+
+
+
 .px600 {
   max-width: 600px;
   margin: 0 auto;
@@ -95,9 +124,27 @@
   
 }
 
+.underline {
+  text-decoration: underline;
+}
 
+.bloodied {
+  color: $acolor;
+}
 
+.sitetitle {
+  color: $acolor;
+  font-weight: bold;
+}
 
+.caps {
+  text-transform: uppercase;
+}
 
+.bold {
+  font-weight: bold;
+}
 
-
+.italic {
+  font-variant: italic;
+}

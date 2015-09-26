@@ -1,30 +1,30 @@
 .fade-in-element {
   ///////////////////////////////////////////////////////////////////////////////////
-  $base-border-color: gainsboro !default;
+  $base-border-color: $paper !default;
   $base-border-radius: 3px !default;
-  $base-background-color: white !default;
+  $base-background-color: $acolor !default;
   $base-line-height: 1.5em !default;
-  $base-spacing: 1.5em !default;
   $dark-gray: #333 !default;
   $base-font-color: $dark-gray !default;
   
-  line-height: $base-line-height;
+  // line-height: $base-line-height;
 
   p {
-    color: $base-font-color;
-    line-height: $base-line-height;
+    color: $paper;
+    // line-height: $base-line-height;
   }
   //////////////////////////////////////////////////////////////////////////////////
 
   @include clearfix;
-  background: $base-background-color;
+  background: $acolor;
   border-radius: $base-border-radius;
   border: 1px solid silver;
   box-shadow: 0 2px 2px transparentize(black, 0.8);
-  margin-bottom: 4em;
-  padding: $base-spacing;
-  text-align: center;
+  margin: 0 auto 4em auto;
+  padding: 2rem;
+  // text-align: center;
   width: 100%;
+  max-width: 600px;
 
 }
 
@@ -33,6 +33,11 @@
 }
 
 .js-fade-element-show {
-  @include transition (all 0.4s ease-in-out);
+  @include transition (all 3s ease-in-out);
   opacity: 1;
+}
+
+.answer__first {
+  font-weight: bold;
+  text-align: center;
 }
