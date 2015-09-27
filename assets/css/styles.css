@@ -1698,7 +1698,7 @@ a.readmore {
 /* ==========================================================================
    CONTENT UPGRADE
    ========================================================================== */
-.cu-tease {
+.cu-tease, .giveaway__smallprint {
   border: 1px solid #8B0000;
   background-color: lightyellow;
   max-width: 600px;
@@ -1706,9 +1706,9 @@ a.readmore {
   padding: 1rem;
   margin: 0 auto;
   margin-bottom: 2rem; }
-  .cu-tease p {
+  .cu-tease p, .giveaway__smallprint p {
     font-size: .85rem; }
-  .cu-tease span {
+  .cu-tease span, .giveaway__smallprint span {
     color: #3f0000; }
 
 .contentupdown {
@@ -2029,8 +2029,46 @@ ol ol li:last-child {
 
 .customer-avatar {
   float: left;
-  padding-right: 1rem;
+  padding: 0 1rem 1rem 0;
   height: 140px; }
+
+.description {
+  transform: rotate(-1.5deg);
+  border: 1px solid #474F55;
+  box-shadow: 4px 5px 3px #999;
+  margin: 1rem 0 3rem 0;
+  padding: 1rem;
+  font-size: 1.15rem;
+  font-weight: 400; }
+  .description .giveaway__cover {
+    border: 1px solid #474F55;
+    float: left;
+    margin: 1rem 1rem 1rem 0;
+    height: 250px; }
+  .description .giveaway__title {
+    font-family: "nimbus-sans-condensed", sans-serif;
+    color: #8B0000;
+    margin: 0;
+    padding: 0; }
+  .description .giveaway__author {
+    font-family: "nimbus-sans-condensed", sans-serif;
+    color: #8B0000;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 1.25rem; }
+  .description .cfn {
+    text-align: center;
+    font-size: 0.75rem;
+    color: #8B0000; }
+  .description .giveaway__meta {
+    font-size: 0.75rem;
+    text-align: center;
+    font-style: italic; }
+
+.giveaway__smallprint {
+  font-size: 0.75;
+  max-width: 75%; }
 
 /* ==========================================================================
    FAKE TESTIMONIALS
@@ -2355,9 +2393,9 @@ ul.openemail :last-of-type {
   opacity: 0; }
 
 .js-fade-element-show {
-  -webkit-transition: all 3s ease-in-out;
-  -moz-transition: all 3s ease-in-out;
-  transition: all 3s ease-in-out;
+  -webkit-transition: all 1.5s ease-in-out;
+  -moz-transition: all 1.5s ease-in-out;
+  transition: all 1.5s ease-in-out;
   opacity: 1; }
 
 .answer__first {

@@ -150,9 +150,70 @@
 
 .customer-avatar {
 	float: left;
-	padding-right: 1rem;
+	padding: 0 1rem 1rem 0;
 	height: 140px;
 }
+
+
+.description {
+	transform: rotate(-1.5deg);
+	border: 1px solid $pcolor;
+	// border-left: 1px solid $acolor;
+	// border-right: 1px solid 
+	box-shadow: 4px 5px 3px #999;
+	margin: 1rem 0 3rem 0;
+	padding: 1rem;
+	font-size: 1.15rem;
+	font-weight: 400;
+	.giveaway__cover {
+		border: 1px solid $pcolor;
+		float: left;
+		margin: 1rem 1rem 1rem 0;
+		height: 250px;
+}
+	.giveaway__title {
+		font-family: $branding-font-family;
+		color: $acolor;
+		margin: 0;
+		padding: 0;
+	}
+	.giveaway__author {
+		font-family: $branding-font-family;
+		color: $acolor;
+		text-align: center;
+		margin: 0;
+		padding: 0;
+		font-size: 1.25rem;
+	}
+	.cfn {
+		text-align: center;
+		font-size: 0.75rem;
+		color: $acolor;
+	}
+	.giveaway__meta {
+		font-size: 0.75rem;
+		text-align: center;
+		font-style: italic;
+	}
+}
+
+.giveaway__smallprint {
+	@extend .cu-tease;
+	font-size: 0.75;
+	max-width: 75%; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

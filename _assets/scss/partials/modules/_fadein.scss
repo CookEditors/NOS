@@ -33,7 +33,7 @@
 }
 
 .js-fade-element-show {
-  @include transition (all 3s ease-in-out);
+  @include transition (all 1.5s ease-in-out);
   opacity: 1;
 }
 
