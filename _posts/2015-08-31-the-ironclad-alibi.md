@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef92
 title: "The Ironclad Alibi"
 author: Gunnison Steele
 date: 2015-08-31
-categories: short-stories
+category: short-stories
 excerpt: Nick Ryan could prove he wasn't the murderer being sought for—prove it with the finality of the grave.
 image: /assets/img/ironclad-alibi.svg
 genre: Crook

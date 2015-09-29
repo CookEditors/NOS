@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aefb7
 title: "The Case of the Boomerang Bomb"
 author: A Dixon Hawke Mystery
 date: 2015-08-24
-categories: short-stories
+category: short-stories
 excerpt: 
 image: /assets/img/boomerang-bomb.svg
 genre: Professional Sleuth

@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef07
 title: "The Masked Alibi"
 author: John Gregory
 date: 2015-09-14
-categories: short-stories
+category: short-stories
 excerpt: Hal Robberts of the State Police played a long hunch on &hellip;
 image: /assets/img/masked-alibi.svg
 genre: Professional Sleuth

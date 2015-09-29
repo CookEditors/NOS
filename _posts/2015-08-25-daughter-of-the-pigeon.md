@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef2d
 title: "Daughter of the Pigeon"
 author: Harry C. Hervey, Jr.
 date: 2015-08-25
-categories: short-stories
+category: short-stories
 excerpt: “The cave!” I shouted, pressing the knife into her hand and pointing to the nearby cavity.
 image: /assets/img/daughter-of-the-pigeon.svg
 genre: Adventure

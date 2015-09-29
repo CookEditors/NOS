@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef51
 title: "The Brand of Cain"
 author: Ward Sterling
 date: 2015-08-26
-categories: short-stories
+category: short-stories
 excerpt: A gypsy who can see into the minds of men and see the darkness of their deeds—fortune telling, mind reading and all of that sort of stuff— if it’s results you want, then Lipki is your man.
 image: /assets/img/brand-of-cain.svg
 genre: Professional Sleuth

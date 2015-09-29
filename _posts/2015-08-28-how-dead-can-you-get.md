@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef85
 title: "How Dead Can You Get?"
 author: Charles Beckman, Jr.
 date: 2015-08-28
-categories: short-stories
+category: short-stories
 excerpt: All he could remember was the beautiful dead girl. But who was she—and why had he killed her?
 image: /assets/img/how-dead-can-you-get.svg
 genre: Noir

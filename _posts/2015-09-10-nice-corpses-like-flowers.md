@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515af057
 title: "Nice Corpses Like Flowers"
 author: J. B. Hawley
 date: 2015-09-10
-categories: short-stories
+category: short-stories
 excerpt: The only clue was a gilt letter U clutched in the dead man's stiffening fingers!
 image: /assets/img/nice-corpses-like-flowers.svg
 genre: Professional Sleuth

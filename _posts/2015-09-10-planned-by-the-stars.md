@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef27
 title: "Planned by the Stars"
 author: C. S. Montanye
 date: 2015-09-10
-categories: short-stories
+category: short-stories
 excerpt: “Murder!” She said quietly. “At midnight you come upon this earth and at midnight the stars plan that you shall be removed from it.
 image: /assets/img/planned-by-the-stars.svg
 genre: Crook

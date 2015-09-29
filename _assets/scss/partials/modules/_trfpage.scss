@@ -1,0 +1,63 @@
+/*=============================================
+	THE RED FILE PAGE
+=============================================*/
+
+
+.trf__archive {
+	padding: 1rem;
+}
+
+.current-issue {
+	margin: 0 auto;
+	figure {
+		max-width: 300px;
+		padding-right: 1rem;
+		float: right;
+	}
+	figcaption {
+		text-align: center;
+		font-weight: bold;
+	}
+	dl {
+		// font-size: 0.75rem;
+		// display: inline;
+	}
+	dt {
+		font-weight: bold;
+		color: $acolor;
+		text-transform: uppercase;
+	}
+	dd {
+		margin-bottom: 1rem;
+	}
+	ol {
+		list-style-type: decimal;
+	}
+	ul {
+		margin-bottom: 1rem;
+		li {
+			list-style-type: disc;
+		}
+	}
+}
+
+.prev-issues {
+	// border: 4px solid green;
+	img {
+		max-width: 100px;
+	}
+	ul {
+		// border: 1px solid blue;
+		// width: 100%;
+		// padding: 0;
+		// margin: 0;
+		li {
+			float: left;
+			// border: 1px solid orange;
+			display: inline;
+			list-style-type: none;
+		}
+	}
+}
+
+

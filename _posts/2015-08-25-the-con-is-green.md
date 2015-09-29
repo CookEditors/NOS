@@ -6,7 +6,7 @@ title: "The Con Is Green"
 subtitle: "A Dizzy Duo Yarn"
 author: Joe Archibald
 date: 2015-08-25
-categories: short-stories
+category: short-stories
 excerpt: Though Snooty Piper, the Beantown crimehound, usually spots the hot-seat evidence first, this time he's only got spots before his eyes. Yet that wacky reporter can even find a way to line up those visual aberrations to put a killer on the spot.
 image: /assets/img/con-is-green.svg
 genre: Amateur Sleuth

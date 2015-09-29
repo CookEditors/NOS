@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef00
 title: "The Mountain Comes to Mohammed"
 author: Amelia R. Long
 date: 2015-09-14
-categories: short-stories
+category: short-stories
 excerpt: When the cops couldn’t figure out how Big Ben Landis was passing his counterfeit cash to his gang, the DA’s younger brother decided to see if he could solve the mystery and catch Landis with the dirty money.
 image: /assets/img/mountain-comes-to-mohammed.svg
 genre: Amateur Sleuth

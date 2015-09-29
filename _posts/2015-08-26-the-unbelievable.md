@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef34
 title: "The Unbelievable"
 author: J. B. Hawley
 date: 2015-08-26
-categories: short-stories
+category: short-stories
 excerpt: “Then how,” the coroner leaned over the desk to ask the question, “do you account for the undeniable fact that your fingerprints are on the handle of the dagger?”
 image: /assets/img/the-unbelievable1.svg
 genre: Professional Sleuth

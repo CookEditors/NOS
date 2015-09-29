@@ -1,0 +1,75 @@
+/* ==========================================================================
+   THE RED FILE ISSUE PAGE STYLE
+   ========================================================================== */
+
+#theredfile {
+	margin: 1rem auto;
+	padding: 1rem;
+	border: 2px solid $acolor;
+
+	.trf__titles {
+		background-color: $acolor;
+	}
+	.trf__content {
+		max-width: 60rem;
+		margin: 0 auto;
+		h2 {
+			color: $acolor;
+			text-align: center;
+			text-decoration: underline;
+			text-transform: uppercase;
+			margin-bottom: 1rem;
+		}
+		h3 {
+			// text-transform: uppercase;
+			color: $acolor;
+		}
+	}
+	.trf__title {
+		font-family: "blakely", sans-serif !important;
+		font-size: 5rem;
+		color: $paper;
+		// background-color: $acolor;
+		text-align: center;
+		padding: 0.5rem 0 0;
+	}
+	.trf__date {
+		color: $paper;
+		text-align: center;
+		padding: 0 0 1rem 0;
+	}
+
+	figure {
+		float: right;
+		max-width: 300px;
+		height: auto;
+		margin: 2rem;
+		img {
+			border: 2px solid $pcolor;
+		}
+		figcaption {
+			text-align: center;
+			font-weight: bold;
+			margin-top: 1rem;
+		}
+		button {
+			background-color: rgb(139,139,0);
+			color: $paper;
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+} /* end of #theredfile styles */

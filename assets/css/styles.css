@@ -1205,6 +1205,7 @@ body {
   left: 0px;
   height: 100%;
   width: 60rem;
+  /* 960px */
   max-width: 100%;
   margin: 0 auto;
   padding: 0 3.125%;
@@ -1323,7 +1324,7 @@ dl {
     background-clip: padding-box;
     text-transform: uppercase;
     padding: 0.8em 1em;
-    margin-bottom: -5rem;
+    margin-bottom: 1rem;
     max-width: 200px; }
     .modal .modal-trigger:hover:not(:disabled) {
       background-color: #a40000;
@@ -1337,6 +1338,32 @@ dl {
       cursor: not-allowed; }
     @media screen and (min-width: 400px) {
       .modal .modal-trigger {
+        max-width: 350px; } }
+  .modal .nothanks {
+    background-color: #474F55;
+    border-radius: 3px;
+    border: none;
+    color: white;
+    display: inline-block;
+    font-size: inherit;
+    font-weight: bold;
+    padding: 7px 18px;
+    text-decoration: none;
+    background-clip: padding-box;
+    padding: 0.8em 1em;
+    max-width: 200px; }
+    .modal .nothanks:hover:not(:disabled) {
+      background-color: #4f5c67;
+      cursor: pointer; }
+    .modal .nothanks:active:not(:disabled),
+    .modal .nothanks:focus:not(:disabled) {
+      background-color: #3e4244;
+      cursor: pointer; }
+    .modal .nothanks:disabled {
+      opacity: 0.5;
+      cursor: not-allowed; }
+    @media screen and (min-width: 400px) {
+      .modal .nothanks {
         max-width: 350px; } }
   .modal .modal-open {
     overflow: hidden; }
@@ -1520,6 +1547,16 @@ dl {
     color: #8B0000; }
   .modalp small {
     margin-bottom: 0; }
+
+.quiz-answer {
+  border: 1px solid #8B0000;
+  background-color: #FFFFE0;
+  margin-bottom: 0.5rem;
+  padding: 0 0.5rem; }
+  .quiz-answer dt {
+    font-style: italic; }
+  .quiz-answer dd {
+    font-size: 0.9rem; }
 
 /* ==========================================================================
    WELCOME GATE FORM STYLES
@@ -1945,6 +1982,18 @@ ol ol li:last-child {
     margin-bottom: 2rem; }
   .salesletter p em {
     color: #8B0000; }
+  .salesletter .indent {
+    padding-left: 1.375rem;
+    text-indent: -1.375rem; }
+    @media screen and (min-width: 400px) {
+      .salesletter .indent {
+        padding-left: 0;
+        text-indent: 2rem; } }
+  .salesletter li.inner {
+    list-style-type: circle;
+    text-transform: none; }
+    .salesletter li.inner:first-of-type {
+      margin-bottom: 1rem; }
 
 .salesletter__sub1 {
   font-size: 1rem;
@@ -1953,10 +2002,12 @@ ol ol li:last-child {
 
 .salesletter__sub2 {
   padding-top: 2rem;
-  text-indent: -5rem;
   color: #8B0000;
   font-size: 1.5rem;
   font-weight: bold; }
+  @media screen and (min-width: 400px) {
+    .salesletter__sub2 {
+      text-indent: -5rem; } }
 
 .salesletter__storylist {
   margin: 0 auto;
@@ -2025,7 +2076,7 @@ ol ol li:last-child {
   font-size: .9rem;
   font-style: italic;
   color: #8B0000;
-  padding: 0 5rem; }
+  padding: 0 2rem; }
 
 .customer-avatar {
   float: left;
@@ -2033,18 +2084,25 @@ ol ol li:last-child {
   height: 140px; }
 
 .description {
-  transform: rotate(-1.5deg);
   border: 1px solid #474F55;
-  box-shadow: 4px 5px 3px #999;
-  margin: 1rem 0 3rem 0;
+  margin: 1rem auto 3rem auto;
   padding: 1rem;
   font-size: 1.15rem;
   font-weight: 400; }
+  @media screen and (min-width: 400px) {
+    .description {
+      transform: rotate(-1.5deg);
+      box-shadow: 4px 5px 3px #999; } }
   .description .giveaway__cover {
     border: 1px solid #474F55;
-    float: left;
-    margin: 1rem 1rem 1rem 0;
-    height: 250px; }
+    margin: 0 auto 1rem;
+    width: 100%; }
+    @media screen and (min-width: 400px) {
+      .description .giveaway__cover {
+        height: 250px;
+        width: auto;
+        float: left;
+        margin: 1rem 1rem 1rem 0; } }
   .description .giveaway__title {
     font-family: "nimbus-sans-condensed", sans-serif;
     color: #8B0000;
@@ -2067,8 +2125,8 @@ ol ol li:last-child {
     font-style: italic; }
 
 .giveaway__smallprint {
-  font-size: 0.75;
-  max-width: 75%; }
+  font-size: 0.85;
+  max-width: 100%; }
 
 /* ==========================================================================
    FAKE TESTIMONIALS
@@ -2524,6 +2582,42 @@ progress {
   @media screen and (min-width: 960px) {
     .fontresizer {
       width: 20%; } }
+
+/*=============================================
+	THE RED FILE PAGE
+=============================================*/
+.trf__archive {
+  padding: 1rem; }
+
+.current-issue {
+  margin: 0 auto; }
+  .current-issue figure {
+    max-width: 300px;
+    padding-right: 1rem;
+    float: right; }
+  .current-issue figcaption {
+    text-align: center;
+    font-weight: bold; }
+  .current-issue dt {
+    font-weight: bold;
+    color: #8B0000;
+    text-transform: uppercase; }
+  .current-issue dd {
+    margin-bottom: 1rem; }
+  .current-issue ol {
+    list-style-type: decimal; }
+  .current-issue ul {
+    margin-bottom: 1rem; }
+    .current-issue ul li {
+      list-style-type: disc; }
+
+.prev-issues img {
+  max-width: 100px; }
+
+.prev-issues ul li {
+  float: left;
+  display: inline;
+  list-style-type: none; }
 
 /*==========  LAYOUT  ==========*/
 /* ==========================================================================
@@ -3383,7 +3477,7 @@ ul#markdown-toc {
       float: left; } }
   .squeeze__img__left {
     text-align: center; }
-    @media screen and (min-width: 350px) {
+    @media screen and (min-width: 400px) {
       .squeeze__img__left {
         float: right;
         margin-right: 7rem;
@@ -3542,6 +3636,52 @@ ul#markdown-toc {
   background: #242424 url("/assets/img/footprints1a.png") repeat-x;
   padding: 1rem; }
 
+/* ==========================================================================
+   THE RED FILE ISSUE PAGE STYLE
+   ========================================================================== */
+#theredfile {
+  margin: 1rem auto;
+  padding: 1rem;
+  border: 2px solid #8B0000; }
+  #theredfile .trf__titles {
+    background-color: #8B0000; }
+  #theredfile .trf__content {
+    max-width: 60rem;
+    margin: 0 auto; }
+    #theredfile .trf__content h2 {
+      color: #8B0000;
+      text-align: center;
+      text-decoration: underline;
+      text-transform: uppercase;
+      margin-bottom: 1rem; }
+    #theredfile .trf__content h3 {
+      color: #8B0000; }
+  #theredfile .trf__title {
+    font-family: "blakely", sans-serif !important;
+    font-size: 5rem;
+    color: #fffff0;
+    text-align: center;
+    padding: 0.5rem 0 0; }
+  #theredfile .trf__date {
+    color: #fffff0;
+    text-align: center;
+    padding: 0 0 1rem 0; }
+  #theredfile figure {
+    float: right;
+    max-width: 300px;
+    height: auto;
+    margin: 2rem; }
+    #theredfile figure img {
+      border: 2px solid #474F55; }
+    #theredfile figure figcaption {
+      text-align: center;
+      font-weight: bold;
+      margin-top: 1rem; }
+    #theredfile figure button {
+      background-color: #8b8b00;
+      color: #fffff0; }
+
+/* end of #theredfile styles */
 /*==========  UTILITIES  ==========*/
 /* ==========================================================================
    UTILITY CLASSES
@@ -3592,7 +3732,13 @@ ul#markdown-toc {
   text-indent: 12rem; }
 
 .indent7 {
-  text-indent: 14rem; }
+  text-align: center;
+  letter-spacing: 0.5rem; }
+  @media screen and (min-width: 400px) {
+    .indent7 {
+      letter-spacing: 0;
+      text-align: left;
+      text-indent: 14rem; } }
 
 .neg-indent {
   text-indent: -2rem; }
@@ -3662,12 +3808,6 @@ ul#markdown-toc {
 
 .caps {
   text-transform: uppercase; }
-
-.bold {
-  font-weight: bold; }
-
-.italic {
-  font-variant: italic; }
 
 .tooltip-item {
   background: transparent;

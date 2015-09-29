@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef82
 title: "Hate Calls The Tune"
 author: Clive Criswell
 date: 2015-08-28
-categories: short-stories
+category: short-stories
 excerpt: I had the louse I hated in the palm of my hand, but could I really pin this hot murder rap on him?
 image: /assets/img/hate-calls-the-tune.svg
 genre: Professional Sleuth

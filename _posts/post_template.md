@@ -5,7 +5,7 @@ casefileNumber: MongoDB _id number
 title: "The Unbelievable"
 author: J. B. Hawley
 date: DATE POSTED
-categories: short-stories
+category: short-stories
 excerpt: 25-50 WORD EXCERPT
 image: /assets/img/IMAGE-LOCATION.TYPE
 genre: Professional Sleuth

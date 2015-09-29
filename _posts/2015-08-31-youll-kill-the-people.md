@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef05
 title: "You'll Kill the People"
 author: Richard Brister
 date: 2015-08-31
-categories: short-stories
+category: short-stories
 excerpt: Right after he first appeared on TV, Buddy Burton began to receive warnings&#58; get out while you’re still alive! It didn’t seem to make any sense, but Buddy found that the party sending them mean business, and &hellip;
 image: /assets/img/youll-kill-the-people.svg
 genre: Noir

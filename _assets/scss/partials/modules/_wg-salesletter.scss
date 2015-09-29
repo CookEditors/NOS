@@ -25,6 +25,21 @@
 		// 	font-size: 1.25rem;
 		// }
 	}
+	.indent {
+		padding-left: 1.375rem;
+  	text-indent: -1.375rem;
+  	@media screen and (min-width: 400px) {
+  		padding-left: 0;
+  		text-indent: 2rem;
+  	}
+	}
+	li.inner {
+		list-style-type: circle;
+		text-transform: none;
+		&:first-of-type {
+			margin-bottom: 1rem;
+		}
+	}
 }
 
 .salesletter__sub1 {
@@ -35,11 +50,13 @@
 
 .salesletter__sub2 {
 	padding-top: 2rem;
-	text-indent: -5rem;
 	color: $acolor;
 	font-size: 1.5rem;
 	font-weight: bold;
 	// text-align: center;
+	@media screen and (min-width: 400px) {
+		text-indent: -5rem;
+	}
 }
 
 
@@ -144,7 +161,7 @@
 	font-size: .9rem;
 	font-style: italic;
 	color: $acolor;
-	padding: 0 5rem;
+	padding: 0 2rem;
 	// @extend .hangingindent;
 }
 
@@ -156,20 +173,27 @@
 
 
 .description {
-	transform: rotate(-1.5deg);
 	border: 1px solid $pcolor;
 	// border-left: 1px solid $acolor;
 	// border-right: 1px solid 
-	box-shadow: 4px 5px 3px #999;
-	margin: 1rem 0 3rem 0;
+	margin: 1rem auto 3rem auto;
 	padding: 1rem;
 	font-size: 1.15rem;
 	font-weight: 400;
+	@media screen and (min-width: 400px) {
+		transform: rotate(-1.5deg);
+		box-shadow: 4px 5px 3px #999;
+	}
 	.giveaway__cover {
 		border: 1px solid $pcolor;
-		float: left;
-		margin: 1rem 1rem 1rem 0;
-		height: 250px;
+		margin: 0 auto 1rem;
+		width: 100%;
+		@media screen and (min-width: 400px) {
+			height: 250px;
+			width: auto;
+			float: left;
+			margin: 1rem 1rem 1rem 0;
+		}
 }
 	.giveaway__title {
 		font-family: $branding-font-family;
@@ -199,8 +223,8 @@
 
 .giveaway__smallprint {
 	@extend .cu-tease;
-	font-size: 0.75;
-	max-width: 75%; 
+	font-size: 0.85;
+	max-width: 100%; 
 }
 
 

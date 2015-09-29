@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef8f
 title: "Murder in Small Packages"
 author: William Rough
 date: 2015-09-10
-categories: short-stories
+category: short-stories
 excerpt: Good-hearted Benny Kerr only wanted to hand that mislaid meat parcel back to its loser. But when it turned out that the package contained an axe-maniac's tidbit, it was the murder-mad chopper that wanted to make Benny the red-handed receiver.
 image: /assets/img/murder-in-small-packages.svg
 genre: Amateur Sleuth

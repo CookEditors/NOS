@@ -56,7 +56,13 @@
   text-indent: 12rem;
 }
 .indent7 {
-  text-indent: 14rem;
+  text-align: center;
+  letter-spacing: 0.5rem;
+  @media screen and (min-width: 400px) {
+    letter-spacing: 0;
+    text-align: left;
+    text-indent: 14rem;
+  }
 }
 .neg-indent {
   text-indent: -2rem;
@@ -139,12 +145,4 @@
 
 .caps {
   text-transform: uppercase;
-}
-
-.bold {
-  font-weight: bold;
-}
-
-.italic {
-  font-variant: italic;
 }

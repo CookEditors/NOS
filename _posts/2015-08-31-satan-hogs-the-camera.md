@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef91
 title: "Satan Hogs the Camera"
 author: Emil Petaja
 date: 2015-08-31
-categories: short-stories
+category: short-stories
 excerpt: Jack Kelley doubled for the hero in Hollywood film fights. But when he undertook to stand in for the star in a real life-and- death scene, Kelley needed more than acting talent. For instead of cold celluloid, that outside drama was being shot in hot lead,
 image: /assets/img/satan-hogs-the-camera.svg
 genre: Amateur Sleuth

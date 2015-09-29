@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef88
 title: "Odds Are On Death"
 author: Ashley Calhoun
 date: 2015-09-10
-categories: short-stories
+category: short-stories
 excerpt: Corcoran looked like a sucker in the gambling Joint, but he was really a private dick, and a tough one at that!
 image: /assets/img/odds-are-on-death.svg
 genre: Hardboiled PI

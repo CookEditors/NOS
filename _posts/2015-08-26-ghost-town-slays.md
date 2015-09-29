@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aeefc
 title: "Ghost-Town Slays"
 author: James E. Hungerford
 date: 2015-08-26
-categories: short-stories
+category: short-stories
 excerpt: When the movie company came in, it looked as if a bad-man gambler had returned from Boothill to get in a few more killings!
 image: /assets/img/ghost-town-slays.svg
 genre: Professional Sleuth

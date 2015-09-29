@@ -1,0 +1,37 @@
+<div class="modal">
+  <a href="#openModal">
+    <span class="modal-trigger">YES! I want THE&nbsp;RED&nbsp;FILES<br><small>And my free novella!</small></span>
+  </a>
+
+  <a href="{{ site.url }}/short-stories">
+    <span class="nothanks">No, thanks.<br><small>I'm boring, so I'll just&nbsp;read&nbsp;online. :-(</small></span>
+  </a>
+</div> <!-- end div modal -->
+<!-- <div class="nothanks">
+  <a href="{{ site.url }}/short-stories" class="nothanks">No thanks. <wbr>I just want to read online, without the perks.</a>
+</div> -->
+
+<div id="openModal" class="modalDialog">
+  <div class="modal-inner">
+    <a href="#close" title="Close" class="close">X</a>
+
+    <h3 class="modalh2">the weekly digest of murder &hellip;</h3>
+    <h2 class="modalh3"><span style="color:darkred;">THE RED FILES</span></h2>
+    <p class="modalp">And a <em>free</em> copy of <span>The Campaign for Vengence</span></p>
+    
+    <div class="quiz-answer">
+      <dl>
+        <dt>Flivver</dt>
+        <dd>/ˈflivər/ (n) a cheap car, especially one in bad condition; a jalopy</dd>
+      </dl>
+    </div> <!-- end of div .quiz-answer -->
+
+    <div class="emailbox">
+      {% include MC_form2.html %}
+      <p class="small"><br><i class="fa fa-lock"></i>&nbsp;Your email is securely locked away from prying eyes.<br>I NEVER sell out your <a href="{{ site.url }}/about/#policies" style="color:#fff;text-decoration:underline;">privacy</a>.</p>
+      <p class="small"><em>For entertainment purposes only.</em></p>
+    </div> <!-- end div emailbox -->
+
+
+  </div> <!-- end div modal-inner -->
+</div> <!-- end div openModal -->

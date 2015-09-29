@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef3a
 title: "The Guerilla"
 author: Clinton Harcourt
 date: 2015-08-26
-categories: short-stories
+category: short-stories
 excerpt: The man walked past the building, turned, and after a quick glance about, entered the tenement’s hallway.
 image: /assets/img/guerilla.svg
 genre: Noir

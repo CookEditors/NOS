@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef03
 title: "This Side Up"
 author: John Ladd
 date: 2015-09-10
-categories: short-stories
+category: short-stories
 excerpt: There’s no glamour in crime, particularly when a sixteen-year-old kid turns bank-bandit and killer. A true story of a boy whom no one ever love &hellip;
 image: /assets/img/this-side-up.svg
 genre: Amateur Sleuth

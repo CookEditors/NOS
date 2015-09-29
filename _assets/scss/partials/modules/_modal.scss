@@ -62,7 +62,16 @@
     text-transform: uppercase;
     padding: .8em 1em;
     // margin: 0 auto;
-    margin-bottom: -5rem;
+    margin-bottom: 1rem;
+    max-width: 200px;
+    @media screen and (min-width: 400px) {
+      max-width: 350px;
+    }
+  }
+  
+  .nothanks {
+    @include button(flat, $pcolor);
+    padding: .8em 1em;
     max-width: 200px;
     @media screen and (min-width: 400px) {
       max-width: 350px;
@@ -288,7 +297,18 @@
   }
 }
 
-
+.quiz-answer {
+  border: 1px solid $acolor;
+  background-color: #FFFFE0;
+  margin-bottom: 0.5rem;
+  padding: 0 0.5rem;
+  dt {
+    font-style: italic;
+  }
+  dd {
+    font-size: 0.9rem;
+  }
+}
 
 
 

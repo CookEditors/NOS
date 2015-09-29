@@ -5,7 +5,7 @@ casefileNumber: MongoDB _id number
 title: "Ice from a Corpse"
 author: Ed Barceio
 date: 2015-08-28
-categories: short-stories
+category: short-stories
 excerpt: The killers had the doc in a tight spot, but the old medico still had a few tricks up his sleeve.
 image: /assets/img/ice-from-a-corpse.svg
 genre: Crook

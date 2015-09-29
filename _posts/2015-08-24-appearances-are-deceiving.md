@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef4c
 title: "Appearances Are Deceiving"
 author: George B. Jenkins, Jr.
 date: 2015-08-24
-categories: short-stories
+category: short-stories
 excerpt: It was the perfect crime, until Garbett took the wrong chance and lost it all.
 image: /assets/img/appearances.svg
 genre: Crook

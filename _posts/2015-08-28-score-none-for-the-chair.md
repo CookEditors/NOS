@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef04
 title: "Score None for the Chair"
 author: Thomas Thursday
 date: 2015-08-28
-categories: short-stories
+category: short-stories
 excerpt: “Look, bub, when you’ve been in the crime-chipping business as long as I have, you’ll learn that a criminal investigator has two duties. One is to prove guilt; the other is to prove innocence.”
 image: /assets/img/score-none-for-the-chair.svg
 genre: Professional Sleuth

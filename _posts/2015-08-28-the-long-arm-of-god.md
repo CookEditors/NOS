@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef25
 title: "The Long Arm of God"
 author: Ward Sterling
 date: 2015-08-28
-categories: short-stories
+category: short-stories
 excerpt: Without a sign of undue haste, Halligan buckled his belt and holster about his waist. Coolly he unbuttoned the holster and drew the gun. He cocked the weapon and, with his finger on the trigger, waited for the others to settle their argument.
 image: /assets/img/long-arm-of-god.svg
 genre: Murder

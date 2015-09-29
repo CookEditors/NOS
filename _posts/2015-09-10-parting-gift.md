@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef81
 title: "Parting Gift"
 author: Frank Ward
 date: 2015-09-10
-categories: short-stories
+category: short-stories
 excerpt: The jealous husband had a perfect plan to get rid of his wife and her boy friend—until Fate took a hand.
 image: /assets/img/parting-gift.svg
 genre: Murder

@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aefb3
 title: "You Remember Jeanie"
 author: John D. MacDonald
 date: 2015-09-14
-categories: short-stories
+category: short-stories
 excerpt: He’d been a good cop once, then, when Frank Bard's wife was killed, he went off his nut, became an alcoholic bum who thought Jeanie was still with him all the time &mdash; until &hellip;
 image: /assets/img/you-remember-jeanie.svg
 genre: Professional Sleuth

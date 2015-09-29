@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef83
 title: "Gems Glow With Blood"
 author: Joseph Cummings
 date: 2015-08-26
-categories: short-stories
+category: short-stories
 excerpt: I’m not too honest a private dick, but I draw the line when MURDER lines up on the wrong side.
 image: /assets/img/gems-glow-with-blood.svg
 genre: Hardboiled PI

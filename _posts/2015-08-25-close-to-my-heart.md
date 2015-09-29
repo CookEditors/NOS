@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef8b
 title: "Close To My Heart"
 author: Chester S. Geier
 date: 2015-08-25
-categories: short-stories
+category: short-stories
 excerpt: Hatred caused Reece to send his rival a gift to be worn next to the heart. But he forgot to say whose heart …
 image: /assets/img/close-to-my-heart.svg
 genre: Noir
