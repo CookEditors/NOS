@@ -12,6 +12,12 @@ locale: en_US
 readtime: true
 wpm: 200
 
+collections:
+  the-red-file:
+    output: true
+    permalink: /the-red-file/:path/
+
+
 paginate: 12
 paginate_path: "/short-stories/page/:num"
 

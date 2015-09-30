@@ -126,7 +126,73 @@
 	
 	<div class="bc__notify">
 		<p>Get presale discounts, beta&#45;reader opportunities and other special deals &mdash; for subscribers only. And get free short stories delivered to you inbox.</p>
-		<p>Current works in progress include&#58;</p>
+
+			<!-- Begin MailChimp Signup Form -->
+<!-- For Premium Content Signup -->
+
+<!-- <div class="progress">
+	<div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50%">50%</div>
+</div> -->
+
+<div id="mc_embed_signup subscribe-form" class="premium-signup__form bc__notify-form shadowed">
+
+	<form action="https://chimpbuddy.com/subscribe/post-json?u=311e39626c77f842128106e92&amp;id=1c26afbfe4&c=?" method="get" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form__premium" target="_blank" novalidate>
+
+		<div id="mc_embed_signup_scroll">
+
+			<!-- email input label & field -->
+			<div class="mc-field-group">
+				<label for="mce-EMAIL" class="form__label" style="color: #fff;">Email Address:</label>
+				<input type="email" value="" name="EMAIL" placeholder="enter your best email address" class="required email" id="mce-EMAIL">
+			</div>
+
+			<!-- START hidden fields -->
+
+				<input type="hidden" value="true" name="RFFREE"> <!-- add to The Red File segment (all subscribers!) -->
+
+				<input type="hidden" value="true" name="BOOKCAT"> <!-- genre segment ... shown on story pages ONLY -->
+
+				<input type="hidden" value="book-catalog" name="SIGNUPLOC" id="SIGNUPLOC"> <!-- adds location of signup form to MC list -->
+
+			<!-- END hidden fields -->
+
+			<div id="mce-responses" class="clear">
+				<div class="response" id="mce-error-response" style="display:none"></div>
+				<div class="response" id="mce-success-response" style="display:none"></div>
+			</div> <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+
+			<div style="position: absolute; left: -5000px;">
+				<input type="text" name="b_311e39626c77f842128106e92_1c26afbfe4" tabindex="-1" value="">
+			</div>
+
+			<!-- submit button label & field -->
+			<div class="clear">
+				<label for="mc-embedded-subscribe" class="form__label"></label>
+				<input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button">
+			</div>
+
+			<div id="footer-subscribe-result"></div> <!-- add styling to suit preferred look of subscribe result!! -->
+
+		</div> <!-- end div mc_embed_signup_scroll -->
+
+	</form>
+
+</div> <!-- end div mc_embed_signup -->
+
+<script>
+// must have jquery loaded BEFORE this script or it errors out
+
+	$(document).ready(function(){
+		ajaxMailChimp.init($("#mc-embedded-subscribe-form"), $("#footer-subscribe-result"));
+
+		// insert a callback function to the localStorage thing either here or at the end of the ajaxMailChimp script in scripts.html...maybe!
+
+	});
+</script>
+
+<!-- End MailChimp Signup Form -->
+
+		<h3>Current works in progress include&#58;</h3>
 		<ul class="cards bc__list clearfix">
 			<li class="card bc__book">
 				<h2 class="card__title bc__title">And Sudden Death</h2>
@@ -163,31 +229,9 @@
 		</ul>
 	</div>
 
-	<hr>
-
-	<form method="post" class="af-form-wrapper" accept-charset="iso-8859-1" action="http://www.aweber.com/scripts/addlead.pl"  >
-		<input type="hidden" name="meta_web_form_id" value="1820489910" />
-		<input type="hidden" name="meta_split_id" value="" />
-		<input type="hidden" name="listname" value="awlist3582323" />
-		<input type="hidden" name="redirect" value="http://talesofmurder.com/followups/bc-thanks.html" id="redirect_77eb7d443e872467b7dcb112587995d8" />
-
-		<input type="hidden" name="meta_adtracking" value="Book_Catalog_Notification" />
-		<input type="hidden" name="meta_message" value="1" />
-		<input type="hidden" name="meta_required" value="name,email" />
-		<input type="hidden" name="meta_forward_vars" value="1" />
-		<input type="hidden" name="meta_tooltip" value="" />
-
-		<label class="previewLabel" for="awf_field-69895319">Name: </label>
-		<input id="awf_field-69895319" type="text" name="name" class="text" value=""  onfocus=" if (this.value == '') { this.value = ''; }" onblur="if (this.value == '') { this.value='';} " tabindex="500" />
-
-		<label class="previewLabel" for="awf_field-69895320">Email: </label>
-		<input class="text" id="awf_field-69895320" type="text" name="email" value="" tabindex="501" onfocus=" if (this.value == '') { this.value = ''; }" onblur="if (this.value == '') { this.value='';} " />
-
-		<input name="submit" id="af-submit-image-1820489910" type="image" class="image" style="background: none; max-width: 100%;" alt="Submit Form" src="http://aweber.com/images/forms/plain/buttons/grey.png" tabindex="502" />
-	</form>
+	<!-- <hr> -->
 
 	
-
 
 </section> <!-- end section bookcatalog -->
   

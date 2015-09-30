@@ -9,7 +9,7 @@ layout: default
 	  	<div class="trf__titles" id="top">
 
 				<h2 class="trf__title">THE RED FILE</h2>
-				<h3 class="trf__date">{{ page.title }} | {{ page.date | date_to_string }}</h3>
+				<h3 class="trf__date">{{ page.title }} | {{ page.date | date: "%-d %b %Y" }} </h3>
 
 				
 			</div> <!-- end div titles -->
@@ -23,7 +23,7 @@ layout: default
 	<article class="trf__content" id="story-main" style="margin-bottom: 2rem;">
 		<figure>
 			<img class="shadowed" src="{{ page.image }}" alt="{{ post.title }}">
-			<figcaption>{{ page.title }} | {{ page.date | date_to_string }}</figcaption>
+			<figcaption>{{ page.title }} | {{ page.date | date: "%-d %b %Y" }}</figcaption>
 			<figcaption>
 				<button>SUBSCRIBE &amp; DOWNLOAD ISSUE</button>
 			</figcaption>

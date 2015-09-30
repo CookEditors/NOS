@@ -2,8 +2,8 @@
 layout: trf-issue
 casefileNumber: 
 title: "Vol. 1 No. 1"
-date: 2015-09-20
 category: the-red-file
+date: 2015-09-20
 excerpt: 
 image: /assets/img/rf-cover.png
 wordcount: 

@@ -3603,6 +3603,10 @@ ul#markdown-toc {
 /* ==========================================================================
    BOOK CATALOG
    ========================================================================== */
+.bookcatalog {
+  margin: 0 auto;
+  padding: 1rem; }
+
 .bc__header h2 {
   color: #8B0000; }
 
@@ -3619,7 +3623,12 @@ ul#markdown-toc {
   color: #474F55; }
 
 .bc__notify-form {
-  margin: 1rem; }
+  background-color: #848f98;
+  border: 1px solid #8B0000;
+  margin: 2rem auto;
+  padding: 1rem; }
+  .bc__notify-form .mc-field-group input {
+    margin: 0; }
   @media screen and (min-width: 400px) {
     .bc__notify-form {
       width: 50%;

@@ -1,6 +1,5 @@
 <ul class="cards">
-	{% for post in site.posts %}
-	<!-- NOTE: must be site.posts not paginator.posts in order for the if post.category = short-stories to work ... when a fix is found, also uncomment pagination on short-stories.index.html! -->
+	{% for post in paginator.posts %}
 
 		<!-- README IF STATEMENT -->
 	  {% if site.readtime %}

@@ -3,7 +3,9 @@
    ========================================================================== */
 
 .bookcatalog {
-
+	margin: 0 auto;
+	padding: 1rem;
+	// width: 960px;
 }
 
 .bc__header {
@@ -38,8 +40,13 @@
 }
 
 .bc__notify-form {
-	// border-top: 1px solid $pcolor;
-	margin: 1rem;
+	background-color: lighten($pcolor, 25);
+	border: 1px solid $acolor;
+	margin: 2rem auto;
+	padding: 1rem;
+	.mc-field-group input {
+		margin: 0;
+	}
 	@media screen and (min-width: 400px) {
 		// float: right;
 		width: 50%;
