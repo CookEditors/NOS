@@ -75,7 +75,7 @@ Garbett smiled, and edged away.
 
 Garbett’s ears twitched, and his eyes became introspective. Mr. Riddick thought these signs were good omens, and his shrewd, kindly eyes brightened.
 
-“A young man, an honest young man—” the portly gentleman paused. “I suppose you have something to do— but—if you ever need a job, and come in to see me, I will see that you get it.”
+“A young man, an honest young man—” the portly gentleman paused. “I suppose you have something to do—but—if you ever need a job, and come in to see me, I will see that you get it.”
 
 “Well, I’m rather busy just now,” remarked Garbett, thinking of the wholesale silk house robbery.
 
@@ -92,7 +92,7 @@ The fifty dollars was invested in a present for Mazie.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-##Chapter 2
+## Chapter 2
 {: .chapternumber .no_toc}
 
 ###Something I Can Wear In My Hair
@@ -122,7 +122,7 @@ In the Pennsylvania Station, Garbett made his farewell to Mazie. She was small a
 
 “Goodbye,” said Mazie bravely, wondering whether Garbett would think of her every moment that he was away. “Bring me back a souvenir—something pretty.”
 
-‘‘Any particular kind of souvenir?” he asked, glancing up at the enormous clock with its black hands and Roman numerals.
+"Any particular kind of souvenir?” he asked, glancing up at the enormous clock with its black hands and Roman numerals.
 
 “Oh—something—something I can wear in my hair,” she suggested.
 
@@ -130,7 +130,7 @@ A moment of thoughtful silence. Mazie knew of a hundred things she wanted to say
 
 Garbett had the uncomfortable feeling that he hadn’t a thing to say, but he wished Mazie would not look as though she was about to cry. .
 
-“Have you got—it?” she asked. ‘It’ meaning Dan’s solvent.
+“Have you got it?” she asked. ‘It’ meaning Dan’s solvent.
 
 “Yes, and a quart of something else.” And then the announcer wailed his unintelligible and garbled song, which rose high and echoed from the ceiling, a signal that a train going for somewhere was soon to depart.
 
@@ -189,9 +189,10 @@ Also, he wanted to know whether the bank was guarded at night. If there was a wa
 
 Garbett came to himself, and his eyes read the signboard. Up to this time, he had been too busy thinking to look.
 
-Cabaret and Dance
-Velma Dramatic Club
+Cabaret and Dance<br>
+Velma Dramatic Club<br>
 Tonight
+{: .uppercase .italic }
 
 Garbett chuckled with amusement and strolled toward the garage. The Riddicks could be disposed of very simply. He remembered, now, that Mrs. Riddick had drawn the conversation during luncheon to artistic channels.
 
@@ -280,7 +281,7 @@ Peter Riddick had remained silent; now he put his small automatic back into his 
 
 Peter Riddick observed the opening with brooding eyes. “That’s remarkable, but—I am sorry this young man made it. In about ten minutes he has—” He turned once more to Garbett.
 
-“I recall that your corkscrew— fell to pieces. You are a clever young man”—he shook his head sadly—“but you are not an honest one.”
+“I recall that your corkscrew fell to pieces. You are a clever young man,” he shook his head sadly, “but you are not an honest one.”
 
 Garbett knew that the evidence against him was complete and damning. He was helpless and hopeless. So he refused to answer any of the questions that were asked.
 
