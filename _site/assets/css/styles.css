@@ -1961,12 +1961,15 @@ ol ol li:last-child {
       width: 50%;
       max-width: 320px; } }
   .contact__form input[type="email"], .contact__form input[type="text"], .contact__form textarea {
-    background-color: #fffff0; }
+    background-color: #fffff0;
+    color: #474F55; }
   .contact__form input[type="submit"] {
     background-color: #727217;
     border-radius: 5px;
     width: 100%;
     margin: 1rem 0 0.5rem 0; }
+  .contact__form i {
+    color: #fffff0; }
 
 .readmore__button__link {
   color: #8B0000;

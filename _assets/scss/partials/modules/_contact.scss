@@ -59,12 +59,16 @@
 	}
 	input[type="email"], input[type="text"], textarea {
 		background-color: $paper;
+		color: $pcolor;
 	}
 	input[type="submit"] {
 		background-color: #727217;
 		border-radius: 5px;
 		width: 100%;
 		margin: 1rem 0 0.5rem 0;
+	}
+	i {
+		color: $paper;
 	}
 }
 
