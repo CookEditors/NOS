@@ -25,10 +25,33 @@ layout: default
 			<img class="shadowed" src="{{ page.image }}" alt="{{ post.title }}">
 			<figcaption>{{ page.title }} | {{ page.date | date: "%-d %b %Y" }}</figcaption>
 			<figcaption>
-				<button>SUBSCRIBE &amp; DOWNLOAD ISSUE</button>
+
+				<h3>DOWNLOAD ISSUE</h3>
+
+				<a href="https://s3.amazonaws.com/talesofmurder.com/shortstories/THE_RED_FILE_v1n1.mobi" class="ssactions__button__link">
+	        <button class="ssactions__button" id="Kindle__download" type="button" label="Kindle version">
+	          <span class="icon"><i class="fa fa-file-o fa-lg"><strong class="fa-stack-1x kindleicon">a</strong></i></span>
+	          <span class="label">Kindle</span>
+	        </button>
+	      </a>
+
+	      <a href="https://s3.amazonaws.com/talesofmurder.com/shortstories/THE_RED_FILE_v1n1.epub" class="ssactions__button__link">
+	        <button class="ssactions__button" id="epub3__download" type="button" label="ePub3 version">
+	          <span class="icon"><i class="fa fa-file-o fa-lg"></i><strong class="fa-stack-1x epubicon">e</strong></span>
+	          <span class="label">ePub 3.0</span>
+	        </button>
+	      </a>
+
 			</figcaption>
 		</figure>
   	{{ content }}
   </article>
 
 </div> <!-- end of div post -->
+
+
+<section class="downloads">
+    <div class="container">
+      
+    </div> <!-- end div container -->
+  </section> <!-- end of section downloads -->

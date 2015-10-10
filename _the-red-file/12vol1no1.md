@@ -3,7 +3,7 @@ layout: trf-issue
 casefileNumber: 
 title: "Vol. 1 No. 1"
 category: the-red-file
-date: 2015-09-20
+date: 2015-10-11
 excerpt: 
 image: /assets/img/rf-cover.png
 wordcount: 
@@ -13,76 +13,76 @@ kindle: LINK TO KINDLE
 epub: LINK TO EPUB
 --- 
 
-Contents
+##Contents
 
-The Unbelievable
+###Two Bells (PREMIUM)
 
-By J. B. Hawley
+####By Harry C. Hervey, Jr.
 
-“Then how,” the coroner leaned over the desk to ask the question, “do you account for the undeniable fact that your fingerprints are on the handle of the dagger?”
+It all came back to him — the lamp-lit Australian water-front, the slinking shadows along the quay, the sickening emotions following the blow and the return to consciousness in the hold of the trading brig bound for eleven degrees south of the equator.
 
-The Mountain Comes to Mohammed
+###The Brand of Cain
 
-By Amelia r. Long
+####By Ward Sterling
 
-“The police couldn’t seem to crack this counterfeiting set-up, until Stephen Carter thought of a possible switcheroo—simple to the point of genius. But, if Carter were right, it explained why they never saw the fat man.
+A gypsy who can see into the minds of men and see the darkness of their deeds—fortune telling, mind reading and all of that sort of stuff— if it’s results you want, then Lipki is your man.
 
-The Daughter of The Pigeon
+###Parting Gift
 
-By Harry C. Hervey, Jr.
+####By Frank Ward
 
-“In the days before the Christian God came, when Po, the Power of Darkness, ruled the islands, the sea-robbers of Tahiti used to hide their treasures there—somewhere near the High Place and the Vale Where Dead Men Walk.”
+The jealous husband had a perfect plan to get rid of his wife and her boyfriend—until Fate took a hand.
 
-Ghost-Town Slays
+###Candidate for Death (PREMIUM)
 
-By James E. Hubgerford.
+####By Theodore A. Tinsley
 
-When the movie compnay came in, it looked as it a bad-man gambler had returned from Boothill to get in a few more killings!”
+A SCARLET ACE NOVELLET — Hired guns have their wolf cry when the Scarlet Ace passed the word, but they forgot the law of the pack until they paid the price of fear.”
 
-You’ll Kill the People
+###Hate Calls the Tune
 
-By Richard Brister
+####By Clive Criswell
 
-Right after he first appeared on TV, Buddy Burton began to receive warnings: get out while you’re still alive! It didn’t seem to make any sense, but Buddy found that the party sending them mean business, and …”
+“I had the louse I hated in the palm of my hand, but could I really pin this hot murder rap on him?””
 
-Double-Crosser
+###Gems Glow with Blood
 
-By Johnston McCultey
+####By Joseph Cummings
 
-If Danny Blure could get out fast, he’d have a small fortune in jewelry. And one of Ace Agnew’s boys would take the rap for the murder Danny’d unintentionally committed; he’d covered himself that far, when he planted evidence at the scene of what he’d meant to only be a robbery …
+I’m not too honest a private dick, but I draw the line when MURDER lines up on the wrong side.
 
-The Long Arm of God
+###Ice from a Corpse
 
-By Ward Sterling
+####By Ed Barceio
 
-In a rock-bound gulch, half-buried under the sands of summer, covered beneath ten fee of snow in winter, six skeletons lie, grinning mockingly.
+The killers had doc in a tight spot, but the old medico still had a few tricks up his sleeve.
 
-Appearances Are Deceiving
+###How dead Can You Get?
 
-By George B. Jenkins, Jr.
+####By Charles Beckman, Jr.
 
-One swift glance over his shoulder and hope fell from him.
+All he could remember was the beautiful dead girl. But who was she — and why had he killed her?
 
-Odds Are On Death
+###Score None for the Chair
 
-By Ashley Calhoun
+####By Thomas Thursday
 
-Corcoran looked like a sucker in the gambling Joint, but he was really a private dick, and a tough one at that!
+“Look bub, when you’ve been the crime-chipping business as long as I have, you’ll learn that a criminal investigator has two duties. One is to prove guilt; the other is to prove innocence.”
 
-Satan Hogs the Camera
+###The Guerilla
 
-By Emil Petaja
+####By Clinton Harcourt
 
-Jack Kelley doubled for the hero in Hollywood film fights. But when he undertook to stand in for the star in a real life-and-death scene, Kelley needed more than acting talent. For instead of cold celluloid, that outside drama was being shot in hot lead.
+The man walked past the building, turned, and after a quick glance about, entered the tenement’s hallway.
 
-Deuces Dealt For Death
+###The Con is Green
 
-By Glenn Low
+####By Joe Archibald
 
-Slitting the throat of the fourth of Clinsey’s quartet quarry should be as easy as falling off a log, that vengeance stayer figured. But Clinsey should have known that when success goes to a kilter’s head, it may be even easier for him to fall from a gallows first.
+A “DIZZY DUO” YARN — Though Snooty Piper, the Beantown crimehound, usually spots the hot-seat evidence first, this time he’s only got spots before his eyes. yet that wacky reporter can even find a way to line up those visual aberrations to put a killer on the spot.
 
-Fear
+###This side Up
 
-By Pettersen Marzoni
+####By John Ladd
 
-John Barnes found the perfect scheme to get rid of his penny-pinching partner. But when a clerk blackmailed him for more and more control of the company, how far would he let the man go before his anger overwhelmed his fear of exposure.
+There’s no glamour in crime, particularly when a sixteen-year-old kid turns bank-bandit and killer. A true story of a boy whom no one ever loved …
