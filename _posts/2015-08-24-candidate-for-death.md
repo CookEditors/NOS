@@ -11,8 +11,8 @@ image: /assets/img/candidate-for-death_right.svg
 genre: Crook
 wordcount: 7622
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Candidate_for_Death.mobi
+epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Candidate_for_Death.epub
 ---
 
 <section id="toc" class="toc">
@@ -25,11 +25,14 @@ epub: LINK TO EPUB
 </div>
 </section> <!-- table-of-contents -->
 
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
 ###Chapter 1
 {: .chapternumber .no_toc}
 
 ###The Scarlet Ace
-{: .chaptertitle }
+{: .chaptertitle}
 
 The knocking on the door was softly urgent. An insistent little tattoo of bunched knuckles. Silence followed. Then the sound began again. Rap, rap, rap! There was something restrained and deadly in that furtive signal on the outside of the locked door of Room 708.
 
@@ -49,15 +52,17 @@ He said, throatily, “Who is it? Whaddye want?”
 
 “Okay, Tony! Open up!”
 
-A swift jerk of Tony’s head sent the girl tip- toeing to a rear corner of the room where she crouched behind a battered oak dresser. Farino grinned as he saw her slide a toy-size weapon out of her handbag. The kid was sure a strong-jawed jane; better in a rough and tumble brawl than a lotta soft-bellied mugs who called themselves hard guys. His eyes said to her silently: “Attagirl!”
+A swift jerk of Tony’s head sent the girl tip-toeing to a rear corner of the room where she crouched behind a battered oak dresser. Farino grinned as he saw her slide a toy-size weapon out of her handbag. The kid was sure a strong-jawed jane; better in a rough and tumble brawl than a lotta soft-bellied mugs who called themselves hard guys. His eyes said to her silently: “Attagirl!”
 
-Farino himself was no slob in any man’s town. He was a paid killer, a hired rod. He had rolled in from Boston that very very morning to glom a little pocket-money—an even ten grand.
+Farino himself was no slob in any man’s town. He was a paid killer, a hired rod. He had rolled in from Boston that very morning to glom a little pocket-money—an even ten grand.
 
 Ten grand for a rub-out was pretty good dough, even for a sure-thing artist like Tony. His nostrils flared with pleasure as he thought of it in the Pullman speeding from Boston. His first, real break in the Big Town! A swell chance to chisel into fast company. The Scarlet Ace was a name to conjure with in Tony’s business. He’d show the Big Fella that when it came to iced guts Tough Tony’s innards were way below freezing point.
 
-A photograph of the man he had come to kill was in his inside coat pocket. Tony didn’t like his proposed victim’s— name—John Tattersall Lacy. Sounded like manicured fingernails and silk underwear. A cake-eater with a little blond mustache who didn’t know what it was all about. Wotta laugh! A magazine full of soft lead pumped into a soft belly and a swell chance to play big- time ball with the Scarlet Ace.
+A photograph of the man he had come to kill was in his inside coat pocket. Tony didn’t like his proposed victim’s— name—John Tattersall Lacy. Sounded like manicured fingernails and silk underwear. A cake-eater with a little blond mustache who didn’t know what it was all about.
 
-Thoughts like this had made Tony’s chest swell pleasantly on the old rattler from Boston. But now, in a cheap hotel hideout that no one was supposed to know about; with someone out in the corridor rapping softly for admission. Tough Tony had a swift moment of dismay, a faint pin-prick of fear in the nerve cords of his spine. It vanished in a wave of killer’s conceit. If the mug outside was a nosy; dick, it’d be just too bad; he’d yank him inside, burn him and scram down the fire-escape to the back alley with the girl friend. Farino was a great guy for figuring his out. He had tabbed that alley down below before he had been two minutes in the room.
+Wotta laugh! A magazine full of soft lead pumped into a soft belly and a swell chance to play big-time ball with the Scarlet Ace.
+
+Thoughts like this had made Tony’s chest swell pleasantly on the old rattler from Boston. But now, in a cheap hotel hideout that no one was supposed to know about; with someone out in the corridor rapping softly for admission. Tough Tony had a swift moment of dismay, a faint pin-prick of fear in the nerve cords of his spine. It vanished in a wave of killer’s conceit. If the mug outside was a nosy dick, it’d be just too bad; he’d yank him inside, burn him and scram down the fire-escape to the back alley with the girl friend. Farino was a great guy for figuring his out. He had tabbed that alley down below before he had been two minutes in the room.
 
 Farino turned the key suddenly, threw the door open. The snout of his gun was like solid rock.
 
@@ -67,15 +72,15 @@ Farino gasped. Neither of the two men said a word. The killer’s gun hand waver
 
 The intruder said, in a muffled and remote voice: “What the hell’s the idea keeping me waiting?”
 
-The silken mask seemed to stifle his utterance, made it sound wooden, almost expressionless. The mask covered his entire face, hung well below his chin. There were two narrow slits for eye-holes. The lower half of the mask rose and fell lightly with the unhurried rhythm of his breathing. The mask was the color of blood— bright red.
+The silken mask seemed to stifle his utterance, made it sound wooden, almost expressionless. The mask covered his entire face, hung well below his chin. There were two narrow slits for eye-holes. The lower half of the mask rose and fell lightly with the unhurried rhythm of his breathing. The mask was the color of blood — bright red.
 
-“The Scarlet Ace!” Farino growled hoarsely. “What’s the idea keepin’ me waiting?”
+“The Scarlet Ace!” Farino growled hoarsely.
+
+“What’s the idea keepin’ me waiting?”
 
 “Jeeze, boss, I never dreamed—I had me orders from Katz where he gimme the photograph in Boston.”
 
-“Shut up! Who told you to come clean?
-
-You’re not in Boston now, Tony. Don’t spill your guts till you’re asked. Who’s this moll with you? Some tramp you picked up on the train?”
+“Shut up! Who told you to come clean? You’re not in Boston now, Tony. Don’t spill your guts till you’re asked. Who’s this moll with you? Some tramp you picked up on the train?”
 
 Farino’s face darkened.
 
@@ -83,15 +88,13 @@ Farino’s face darkened.
 
 The Scarlet Ace slapped the gun viciously to one side with his open palm. His right fist clenched and Farino stepped back hastily.
 
-“‘Your business?” said the menacing voice.
-
-“Since when?”
+“‘Your business?” said the menacing voice. “Since when?”
 
 He walked to the window and, pulled down the shade.
 
 He said to the girl, “You Farino’s woman?”
 
-“Yeah.”‘
+“Yeah.”
 
 “Well, I don’t want you here. Pack up and get the hell out!”
 
@@ -103,7 +106,7 @@ He said to the girl, “You Farino’s woman?”
 
 “No, but—”
 
-“That was your own idea, eh? Well, I don’t mind telling you. it’s lousy. I brought you here to bump a guy, and you show up with a blond honey- ball. You’re here to get hot with a rod, brother, and nothing else. Slip the girl-friend her return stub to Boston.”
+“That was your own idea, eh? Well, I don’t mind telling you. it’s lousy. I brought you here to bump a guy, and you show up with a blond honey-ball. You’re here to get hot with a rod, brother, and nothing else. Slip the girl-friend her return stub to Boston.”
 
 “I didn’t buy no returns,” Farino muttered. “I figgered we’d stick around.”
 
@@ -111,7 +114,7 @@ He said to the girl, “You Farino’s woman?”
 
 The Scarlet Ace drew a small roll of bills from his pocket and tossed it on the table.
 
-“Pack your bag,” he told the girl curtly. “Take a cab over to Newark and grab the first tri- motored job that flies to Boston.”
+“Pack your bag,” he told the girl curtly. “Take a cab over to Newark and grab the first tri-motored job that flies to Boston.”
 
 She stood with a hand on one hip, a sneering smile twisting the brilliant carmine of her lips. Her lovely mouth framed an inaudible gutter word.
 
@@ -127,11 +130,11 @@ Tony shrugged. He blinked at the money on the table. He muttered to the girl, �
 
 “Why, you dirty, yeller—” Rage twisted her painted doll’s face. She squalled a string of oaths, spat out snake-like words at him. He walked over to her, twisted the toy gun out of her hand, clapped a dirty palm over her mouth.
 
-“Don’t be a Dumb Dora,” he said thickly. “Take your runout powder to Boston like a good kid. I’ll send fer yuh in a coupla days. No kiddin’. We, gotta use brains, honey. We’re in the Big Town”
+“Don’t be a Dumb Dora,” he said thickly. “Take your runout powder to Boston like a good kid. I’ll send fer yuh in a coupla days. No kiddin’. We gotta use brains, honey. We’re in the Big Town.”
 
 “Sure we are,” she spluttered. “Yuh didn’t think we was in Milwaukee, did yuh?”
 
-There were tears in her eyes. She had shot her bolt and the storm was over. She. said, sullenly, ‘“That’s, a hell of a note!” and the curve of her lovely bosom rose and fell with the slow dregs of anger and disappointment. Pretty as a picture, Farino thought hotly. He swung his big arm about her body and crushed her till she yelped. He kissed the smooth skin below her ear and released her with a little shove.
+There were tears in her eyes. She had shot her bolt and the storm was over. She said, sullenly, ‘“That’s a hell of a note!” and the curve of her lovely bosom rose and fell with the slow dregs of anger and disappointment. Pretty as a picture, Farino thought hotly. He swung his big arm about her body and crushed her till she yelped. He kissed the smooth skin below her ear and released her with a little shove.
 
 “Play ball, honey,” he mumbled appealingly.
 
@@ -160,15 +163,15 @@ Just plain facts. And accurate.
 {: .chapternumber .no_toc}
 
 ###Stalking Shadows
-{: .chaptertitle }
+{: .chaptertitle}
 
-In the locked hotel room marked 708, the Scarlet Ace said tonelessly: “Ten grand’s a pretty good day’s Pay, eh, Tony?”
+In the locked hotel room marked 708, the Scarlet Ace said tonelessly: “Ten grand’s a pretty good day’s pay, eh, Tony?”
 
 “It’s fair.”
 
 ‘“Think you can earn it?”
 
-Farino chuckled. His laugh sounded like, the drip of oil.
+Farino chuckled. His laugh sounded like the drip of oil.
 
 ‘‘I’m here, ain’t I?’” He added curiously, “Got any new orders? I kinda expected—”
 
@@ -178,17 +181,17 @@ Farino chuckled. His laugh sounded like, the drip of oil.
 
 “All right. Follow it. I just stepped around to cut the moll loose. I like a man who works for me to keep his mind on business.”
 
-Tough Tony laughed again. “What’d yuh do– tab me in from Boston?”
+Tough Tony laughed again. “What’d yuh do — tab me in from Boston?”
 
 “I hear things,” said the masked man grimly. “Studied the photograph, have you?”
 
 “Sure. Just a pushover. A sap.”
 
-The Scarlet Ace grunted. “Just, a pushover. That’s, why I’m paying, you ten grand. I love to spend money.”
+The Scarlet Ace grunted. “Just a pushover. That’s, why I’m paying you ten grand. I love to spend money.”
 
 Farino thrust out his lower lip belligerently.
 
-“I seen soldier boys, before. One of ‘em tried to cleanup, Philly, once.”
+“I seen soldier boys, before. One of ‘em tried to cleanup Philly, once.”
 
 “This soldier’s different. He don’t go to court with a case. He kills people. Ever hear of a secret outfit called Amusement, Incorporated?”
 
@@ -216,7 +219,7 @@ Tony chuckled.
 
 “He’ll be there,” said the man in the mask. “Shoot. Got the rest straight?”
 
-“Sure. I jest foller the bum down to Forty- ninth an’ halfway through the block; an’ he stops; an’ I say, ‘Got a match, Mac?’ Accordin’ to this mug, Katz, there’s a car waitin’ in Forty-ninth an’ me an’ the boy-friend pile in, an’ he slips cheaters on me so I won’t see where I’m goin’. Screwy in my language.”
+“Sure. I jest foller the bum down to Forty-ninth an’ halfway through the block; an’ he stops; an’ I say, ‘Got a match, Mac?’ Accordin’ to this mug, Katz, there’s a car waitin’ in Forty-ninth an’ me an’ the boy-friend pile in, an’ he slips cheaters on me so I won’t see where I’m goin’. Screwy in my language.”
 
 “They’re my orders,” said the muffled voice savagely.
 
@@ -228,19 +231,21 @@ He laughed shortly and fished for a cigarette. The Scarlet Ace flipped open a pl
 
 Tough Tony lit a fag from the case and blew a funnel of gray smoke.
 
-“I still don’t get all the big mystery stuff.” “Use your head, Farino. Do you think I tip my headquarters to every punk I import into New York for a job? Maybe you’ll click tonight and maybe you won’t. If the deal flops you go out of my headquarters the same way you came in—blindfolded. You’re in no position to rat on me. And Tony——n
+“I still don’t get all the big mystery stuff.”
+
+“Use your head, Farino. Do you think I tip my headquarters to every punk I import into New York for a job? Maybe you’ll click tonight and maybe you won’t. If the deal flops you go out of my headquarters the same way you came in—blindfolded. You’re in no position to rat on me. And Tony—”
 
 The voice crawled with menace!
 
-“That’s a break for you; not being able to rat.” The killer said vaguely: “Sure, sure!” His flat forehead was wrinkled as though in perplexity. He clicked his tongue and swallowed. His eyes looked glazed, uncertain. He rocked a little and regarded the ash on his cigarette with owlish gravity.
+“That’s a break for you; not being able to rat.”
 
-He whispered in foggy alarm: “Say, listen.... What th’...”
+The killer said vaguely: “Sure, sure!” His flat forehead was wrinkled as though in perplexity. He clicked his tongue and swallowed. His eyes looked glazed, uncertain. He rocked a little and regarded the ash on his cigarette with owlish gravity. He whispered in foggy alarm: “Say, listen.... What th’...”
 
 His eyelids closed. His body bent suddenly at the waist and pitched forward.
 
 The masked man sprang catlike, without a sound, caught the unconscious killer as he fell and eased him to the floor. He picked up the cigarette from the carpet, pinched out the glow and dropped it into his pocket.
 
-The shade on the window was still drawn. With a muscular heave be flopped Farino on the bed and composed him for untroubled slumber.
+The shade on the window was still drawn. With a muscular heave he flopped Farino on the bed and composed him for untroubled slumber.
 
 For a moment he stood tense, listening. Then he jerked off the scarlet mask. Farino’s mouth was wide open; he looked like a hippo; a hippo with gold bridges work and brown, tobacco-stained molars.
 
@@ -248,11 +253,11 @@ The intruder said softly: “You’re not so tough.”
 
 He searched him carefully; found nothing he wanted; took nothing at all from him. There was a calendar on the wall and he ripped off the topmost sheet and scribbled a message on the blank side:
 
-Sorry to leave you this way. No one ever sees my face and I can’t walk out of this dump with a mask on—hence the drugged cigarette. You’ll be okay in a couple of hours. Keep your Mouth shut and obey my orders.
+Sorry to leave you this way. No one ever sees my face and I can’t walk out of this dump with a mask on—hence the drugged cigarette. You’ll be okay in a couple of hours. Keep your mouth shut and obey my orders.
 
 The room-key was still in the lock on the inside. The visitor went out, locked the door on the outside and tossed the key through the open transom. He heard it bounce on the carpet with a dull thud.
 
-The elevator shaft was down the hall, close to a turn in the dim corridor. The stealthy figure passed the empty shaft and descended the fire- stairs silently to the fifth floor. He whipped out a key and let himself into a room.
+The elevator shaft was down the hall, close to a turn in the dim corridor. The stealthy figure passed the empty shaft and descended the fire-stairs silently to the fifth floor. He whipped out a key and let himself into a room.
 
 A spare little man with a crab-apple face laid down a big blue gun on the dresser and grinned.
 
@@ -264,7 +269,7 @@ The little man whispered eagerly: “How did it work?”
 
 They grinned at each other, did Weaver and Lacy. The two field officers of Amusement, Inc. were alike in the quality and coloring of their eyes—blue ice under moonlight. By all other standards they were different.
 
-Major Lacy was tall, well knit, supple as a whip. Thin lips, sensitive nostrils, a close-cropped sandy mustache. You looked at him and you thought polo, foxhunt, cavalry. He had served in France and you knew that too. In France they called him the Iron Major. Plenty of good soldiers had died in his machine-gun battalion. But no man of his command died because of stupidity or bungling. He was a gallant and shrewd leader.
+Major Lacy was tall, well knit, supple as a whip. Thin lips, sensitive nostrils, a close-cropped sandy mustache. You looked at him and you thought polo, foxhunt, cavalry. He had served in France and you knew that, too. In France they called him the Iron Major. Plenty of good soldiers had died in his machine-gun battalion. But no man of his command died because of stupidity or bungling. He was a gallant and shrewd leader.
 
 Charlie Weaver had served under him as a company commander, as captain. He was short, nervous, fidgety. He looked more like an insurance adjuster than an ex-captain of marines. But Lacy knew better. When the Emergency Council for Crime Control called upon him to lead a patriotic and secret war against criminals—death against death—the Iron Major made Charlie Weaver his chief of staff and he had never regretted it.
 
@@ -284,7 +289,7 @@ His smile deepened.
 
 “Think she went straight back to Boston?”
 
-“Pat Harrigan will tell us the answer, to that when we get back to the Cloud Building.”
+“Pat Harrigan will tell us the answer to that when we get back to the Cloud Building.”
 
 Weaver’s nervous fingers twisted. “Let’s shove off. Let’s get out of here.”
 
@@ -292,17 +297,19 @@ Weaver’s nervous fingers twisted. “Let’s shove off. Let’s get out of her
 
 “I wish to God we could get our hands on that same damned Scarlet Ace!”
 
-“Softly, Charles.... We will,” said Lacy cheerfully.
+“Softly, Charles …. We will,” said Lacy cheerfully.
 
 “Eh?
 
-“Tonight, little man, if the gods are good.” Weaver fairly bounced with excitement. “What do you mean? Did Farino –”
+“Tonight, little man, if the gods are good.” Weaver fairly bounced with excitement.
+
+“What do you mean? Did Farino –”
 
 “Farino did. He pumps quite easily. To be quite blunt he—er—spilled his guts very prettily. I expect to use him as a decoy duck tonight. We have a date with the Scarlet Ace—at his headquarters, Charles—and I sincerely hope he’s at home.”
 
 “Where’s his headquarters this time? Did you find out? “ Weaver rapped.
 
-“Haven’t the foggiest. Not the slightest idea. Shall we leave that detail to Farino? I’m sure he’ll show us the way. . . . Quite ready, Charles?”
+“Haven’t the foggiest. Not the slightest idea. Shall we leave that detail to Farino? I’m sure he’ll show us the way …. Quite ready, Charles?”
 
 Tattersall Lacy picked up his light malacca stick, adjusted his Homburg hat a precise angle and unlocked the door.
 
@@ -312,9 +319,7 @@ He punched the elevator bell with the end of his cane and the two men rode down 
 
 He had registered earlier under the name of John Major.
 
-The two men passed a rank of taxis and walked halfway down the block where a red-and- blue Paragon cab waited. A bronze-faced hackman threw open the door deferentially. He was Sergeant
-
-Dillon, the major’s personal chauffeur. The custom-built cab he drove was a special job with braced chassis, concealed steel shutters and a racing motor under the deceptive hood.
+The two men passed a rank of taxis and walked halfway down the block where a red-and-blue Paragon cab waited. A bronze-faced hackman threw open the door deferentially. He was Sergeant Dillon, the major’s personal chauffeur. The custom-built cab he drove was a special job with braced chassis, concealed steel shutters and a racing motor under the deceptive hood.
 
 This particular cab had seen some hot adventures since the hour of that quiet penthouse conference when Amusement, Incorporated, was born and christened so oddly by the major’s freakish humor. There was a paneled recess behind the chauffeur’s compartment. Inside it a Tommie gun hung on hard rubber hooks. Below, in a shallow drawer, were Mills bombs and a half dozen tear-gas projectiles. The whole arrangement was a bit of clever built-in camouflage.
 
@@ -337,7 +342,7 @@ The cab sprang away with a smooth leap and purred round the corner into traffic.
 {: .chapternumber .no_toc}
 
 ###The Man In A Mask
-{: .chaptertitle }
+{: .chaptertitle}
 
 There was a bus terminal down there and a waiting-room and platform for Gray Goose passengers. Dillon drove through an archway well beyond the platform and halted in the gloomy repair shop of the bus line. At the far side, in a square concrete recess, were the closed doors of a small private garage.
 
@@ -365,9 +370,7 @@ A log fire was crackling in the big fireplace. A beefy, red-headed man with fist
 
 At sight of Lacy the big red-headed giant came forward with a rumbling sound of welcome. Pat had a voice like the wash of surf on rocks. There was no formality in these private councils of war that took place in the lofty beamed library of the penthouse.
 
-“Howdy, Jack!” Harrigan roared. “Hello,
-
-Charlie! What are you grinning about? You look like a wizened little ape that’s just found a cocoanut.”
+“Howdy, Jack!” Harrigan roared. “Hello, Charlie! What are you grinning about? You look like a wizened little ape that’s just found a cocoanut.”
 
 “Coconut, hell,” Weaver rejoined. “Jack claims he’s found the Scarlet Ace—or found out how to find him—or something.”
 
@@ -389,7 +392,7 @@ Pat frowned.
 
 “It was. The Scarlet Ace has brought him in from Boston to do a murder job. The price is ten thousand dollars, cash on delivery.”
 
-“And the victim?” Ed Corning asked dryly. “Farino had a photograph in his inside coat pocket.” The major smiled like the thin edge of a bolo knife. “The candidate for death is an ex-major of marines now actively engaged in the secret pursuit of criminals. A man named John Tattersall Lacy”
+“And the victim?” Ed Corning asked dryly. “Farino had a photograph in his inside coat pocket.” The major smiled like the thin edge of a bolo knife. “The candidate for death is an ex-major of marines now actively engaged in the secret pursuit of criminals. A man named John Tattersall Lacy.”
 
 ***
 
@@ -397,11 +400,13 @@ He lit a long graceful panatella and blew fragrant smoke. Pat looked at him with
 
 “Did you actually pull the masquerade act? And how in the name of the seven blessed martyrs did you get him to spill the arrangements for the bump-off?”
 
-“Not the actual bump-off, Pat. That hasn’t been arranged yet so far as I know. But he did spill something damned, interesting for the ears of the Emergency Council. He gave me the lead, the tip- off, the open sesame, by Judas Priest!— to the hitherto undiscovered hangout of the kingpin of crime in New York, the latest headquarters of the Scarlet Ace.
+“Not the actual bump-off, Pat. That hasn’t been arranged yet so far as I know. But he did spill something damned interesting for the ears of the Emergency Council. He gave me the lead, the tip-off, the open sesame, by Judas Priest! — to the hitherto undiscovered hangout of the kingpin of crime in New York, the latest headquarters of the Scarlet Ace.
 
 “Where is it?” Corning cut in swiftly. Ed’s sleepy eyes were wide open.
 
-“I don’t know yet.” “But you just said —”
+“I don’t know yet.”
+
+“But you just said —”
 
 Tattersall Lacy waved his panatella grimly. “Sit you down, gentlemen,” he said in crisp command. “Tm going to tell you all I know at present. If any one of you asks a stupid question or makes me repeat a fact twice, I’ll bar him from the adventure tonight. Is that clear? Very well...”
 
@@ -411,7 +416,7 @@ He frowned at the long expensive ash on his cigar tip.
 
 He shrugged impatiently. Explanations always bored him.
 
-“Briefly, gentlemen, here is what happened...”
+“Briefly, gentlemen, here is what happened ….”
 
 ***
 
@@ -441,9 +446,11 @@ The man took a quick, shrewd look at the overcoat and shoes.
 
 “Listen, monkey; did I say Garden? Dig the dirt outa yer ears. I wanta go to Madison Square on Twenty-third Street.”
 
-He settled back on the cushions with a grunt. That was the way to talk to these wise mugs! Show ‘em they weren’t dealin’ with a sap!”
+He settled back on the cushions with a grunt. That was the way to talk to these wise mugs! Show ‘em they weren’t dealin’ with a sap!
 
-He got out at Twenty-third, glanced at a street sign under a lamp and discovered that the dope had let him out on the wrong side of the park. He took a winding path past benches sparsely filled with shivering bums and walked up Fifth to the north end of the Square. There was a circular metal standard on the curb with a printed sign on it: NUMBER THREE BUSES START HERE.
+He got out at Twenty-third, glanced at a street sign under a lamp and discovered that the dope had let him out on the wrong side of the park. He took a winding path past benches sparsely filled with shivering bums and walked up Fifth to the north end of the Square. There was a circular metal standard on the curb with a printed sign on it:
+
+NUMBER THREE BUSES START HERE
 
 Farino sat down on a bench and listened to the clock in the Metropolitan Tower chiming the quarter hour. At nine o’clock it chimed again. An empty bus rolled in presently and he got on and climbed to the upper deck.
 
@@ -465,9 +472,11 @@ Farino hastened his steps and the man ahead of him slowed down. A dark sedan sto
 
 Farino cleared his throat and obeyed instructions.
 
-He said, hoarsely, “Got a match, Mac?” “Okay,” the other man nodded.
+He said, hoarsely, “Got a match, Mac?”
 
-He was a paunchy, soft-looking man with a fat face and shrewd ferret eyes under straw- colored eyebrows.
+“Okay,” the other man nodded.
+
+He was a paunchy, soft-looking man with a fat face and shrewd ferret eyes under straw-colored eyebrows.
 
 He said: “Right on the dot, fella. Good stuff. The Big Guy likes that.”
 
@@ -491,7 +500,7 @@ The sedan jumped away from the deserted curb and bored smoothly along at a caref
 
 There was plenty of traffic going south. Tires whined a steady song; horns tooted noisily. The lights ahead were like a long string of magic beads—presto, red! —presto, green! Cars turned in, turned out, an ever changing throng.
 
-But there were a few cars that didn’t change. An inconspicuous Chevy tailed the sedan for. a while and then dropped back. A Pontiac breezed along for a half mile. There were at least two Paragon cabs in the procession. And farther back, in constant touch with the changing trailers, rolled a glossy closed delivery wagon that belonged to the Blue Front Grocery Stores.
+But there were a few cars that didn’t change. An inconspicuous Chevy tailed the sedan for a while and then dropped back. A Pontiac breezed along for a half mile. There were at least two Paragon cabs in the procession. And farther back, in constant touch with the changing trailers, rolled a glossy closed delivery wagon that belonged to the Blue Front Grocery Stores.
 
 Blue Front was a subsidiary of Continental Foodstuffs. The chairman of the Continental board was Hiram Vandaman Cutler, the international sports-man and polo player. Hiram Vandaman Cutler had another secret name that his wife and social acquaintances had never heard. He was Mr. Saturday in the Emergency Council for Crime Control. The truck was his—but there were no groceries in it.
 
@@ -504,13 +513,13 @@ The chauffeur of the sedan that carried Mr. Tough Tony Farino glanced dutifully 
 {: .chapternumber .no_toc}
 
 ###The Last Card
-{: .chaptertitle }
+{: .chaptertitle}
 
 He drove, finally, into a dim street that was mostly ware-houses and factories, with here and there a detached and dilapidated dwelling.
 
 Halfway down the block he stopped in front of one of the latter, with his engine purring musically.
 
-The ground floor of the dwelling was an ancient bakery shop, boarded up and empty. There was a “To-Let” sign swinging crazily in the cold night wind. Not a peep of light showed anywhere in the building. The windows were all shuttered tight. Alongside the house was a narrow alley with nothing visible except an empty and lopsided ash- can and a gaunt black cat that skittered away with tail erect.
+The ground floor of the dwelling was an ancient bakery shop, boarded up and empty. There was a “To-Let” sign swinging crazily in the cold night wind. Not a peep of light showed anywhere in the building. The windows were all shuttered tight. Alongside the house was a narrow alley with nothing visible except an empty and lopsided ash-can and a gaunt black cat that skittered away with tail erect.
 
 Inside the parked sedan Farino said thickly: “So what?” The bandage was still over his eyes.
 
@@ -562,7 +571,7 @@ Somewhere behind him on the ground floor he could hear Tough Tony’s voice cryi
 
 The major shouted in a trumpet-tone: “Sledge! Front and center with the sledge!” and leaped up the rickety stairs three at a time.
 
-The front room on the second floor was locked; he couldn’t budge it. Then the sledge- swinger arrived and got to work. He battered the door grimly from its fastening. Ripped it away from bolts and hinges. Lacy straddled the ruin and went in headlong.
+The front room on the second floor was locked; he couldn’t budge it. Then the sledge-swinger arrived and got to work. He battered the door grimly from its fastening. Ripped it away from bolts and hinges. Lacy straddled the ruin and went in headlong.
 
 The room was empty. The Scarlet Ace was gone.
 
@@ -628,7 +637,7 @@ He turned to Weaver. “How long is it since Jackson smashed in the back door, C
 
 Weaver looked at his wrist watch. “Four minutes and twenty seconds, sir.”
 
-“Hmmm. . . . Brisk work, gentlemen. Where’s Cartright?”
+“Hmmm. Brisk work, gentlemen. Where’s Cartright?”
 
 “Here, sir.”
 
@@ -640,7 +649,9 @@ Cartright’s voice sounded bashful and embarrassed. He was a tall six foot kid 
 
 “Knocked him out?”
 
-“Yes, sir. I—er—laid him in the alley.” “Hmm.... Regrettable. Quite regrettable.” He kept his face and his lips coldly sober. “Captain Weaver, get your men back to the truck at once.”
+“Yes, sir. I—er—laid him in the alley.”
+
+“Hmm … regrettable. Quite regrettable.” He kept his face and his lips coldly sober. “Captain Weaver, get your men back to the truck at once.”
 
 Weaver barked a swift order and the room emptied.
 

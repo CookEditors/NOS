@@ -11,8 +11,8 @@ image: /assets/img/parting-gift.svg
 genre: Murder
 wordcount: 1703
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Parting_Gift.mobi
+epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Parting_Gift.epub
 --- 
 
 <section id="toc" class="toc">
@@ -25,11 +25,14 @@ epub: LINK TO EPUB
 </div>
 </section> <!-- table-of-contents -->
 
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
 ###Chapter 1
 {: .chapternumber .no_toc}
 
 ###It’s Me, Honey
-{: .chaptertitle }
+{: .chaptertitle}
 
 Pomfret walked slowly up the path to his front door, clicked his key in the lock and stepped into the warmth of his own hallway. For a moment he stood there in the semi-darkness, breathing hard, tilting his head, smelling the old familiar smells and wondering at himself for the thing he was about to do.
 
@@ -66,7 +69,7 @@ He closed his eyes and thought about Harvey’s handsome face. Then he went out 
 {: .chapternumber .no_toc}
 
 ###Harvey’s Cigarette Case
-{: .chaptertitle }
+{: .chaptertitle}
 
 Eva came down the stairs, and Pomfret paused by the door, watching her, taking her in, gauging the full fluid motion of her body and the slow swing of her long tawny hair and the full rich beauty of her face, feeling again the desire for her and the need of her.
 
@@ -102,7 +105,7 @@ He opened the door and reached down for his bags.
 
 Trust me! he thought bitterly. You don’t know if you can trust me?
 
-He tried a laugh on, just to see if it would fit, and when it didn’t, he turned and walked quickly from the house to the oar. There was a harsh bitter nip of Fall in the air. The breaths he took crackled in his lungs and reminded him of football games and the sharp clean tang of mustard on hot-dogs and the closeness and warmth Eva had been to him then, before Harvey joined the firm and began his series of weekly visits, finally moving into the house next door.
+He tried a laugh on, just to see if it would fit, and when it didn’t, he turned and walked quickly from the house to the car. There was a harsh bitter nip of Fall in the air. The breaths he took crackled in his lungs and reminded him of football games and the sharp clean tang of mustard on hot-dogs and the closeness and warmth Eva had been to him then, before Harvey joined the firm and began his series of weekly visits, finally moving into the house next door.
 
 Pomfret almost tore the transmission out of the car getting it into second gear. As he passed Harvey’s house he saw the shadow of Harvey’s bulk against the windowshades, and he knew that before he reached the corner the big eager man would be sneaking slyly through the gate in the hedge to where Eva waited for him.
 
@@ -115,7 +118,7 @@ He put the car into high gear and went down the street and turned the corner, ou
 {: .chapternumber .no_toc}
 
 ###They’ll Never Suspect A Thing
-{: .chaptertitle }
+{: .chaptertitle}
 
 Harvey grinned. He had a good-natured, boyish grin that worked well with some types of women. He stood in the middle of Joe Pomfret’s living room, staring at Joe Pomfret’s wife. There was sweat on his face.
 

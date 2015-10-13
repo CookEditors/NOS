@@ -11,8 +11,8 @@ image: /assets/img/ice-from-a-corpse.svg
 genre: Crook
 wordcount: 1752
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Ice_From_A_Corpse.mobi
+epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Ice_From_A_Corpse.epub
 --- 
 
 <section id="toc" class="toc">
@@ -25,11 +25,14 @@ epub: LINK TO EPUB
 </div>
 </section> <!-- table-of-contents -->
 
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
 ###Chapter 1
 {: .chapternumber .no_toc}
 
 ###I’m No Surgeon
-{: .chaptertitle }
+{: .chaptertitle}
 
 Old Doc Welch thought it was thunder the first time he heard it. He sat up in bed, stiff, tense, listening for it again. And then, suddenly, a cold chill swept over him as he heard again, this time unmistaken, the three knocks at the front door.
 
@@ -61,7 +64,7 @@ Shivering, cold rain lashing his face and body, Doc Welch stared at the two men 
 
 “You’re a surgeon now, Doc.”
 
-Doc Welch saw the gun, then. A .30 was clutched in the man’s hand, it’s shiny, blue barrel only a few inches from Doc Welch’s stomach. They forced the door open.
+Doc Welch saw the gun, then. A .38 was clutched in the man’s hand, it’s shiny, blue barrel only a few inches from Doc Welch’s stomach. They forced the door open.
 
 “Behave like a good, little doctor and nothing’ll happen to you. Get smart and we’ll blast you. Okay, Felix, go get the patient.” Felix, the short one, disappeared to a car outside.
 
@@ -92,7 +95,7 @@ He hesitated, then seeing no choice, moved toward the white-paneled door. He ope
 {: .chapternumber .no_toc}
 
 ###A Fear-Crazed Look
-{: .chaptertitle }
+{: .chaptertitle}
 
 He started toward the cabinets at the far end of the room. There was a jug of concentrated ammonia in one cabinet and if he could get his hands on it before the lights went on, throw it in their faces, it would blind them and choke them for a few seconds and a few seconds was all he wanted.
 
@@ -125,7 +128,7 @@ She moved toward him in short, quick steps. He put his arm around her. Felix and
 {: .chapternumber .no_toc}
 
 ###A Little Stomach Trouble
-{: .chaptertitle }
+{: .chaptertitle}
 
 He shot a glance at his wife, saw the tears, the tremor of her lips, patted her gently, then moved reluctantly toward the table. He made a visual examination of the man on the table and in just a few seconds, he knew.
 
@@ -178,7 +181,7 @@ Doc Welch began.
 {: .chapternumber .no_toc}
 
 ###A Load Of Hot Gallstones
-{: .chaptertitle }
+{: .chaptertitle}
 
 A clock hung next to the linen cabinet. It ticked away five, ten, fifteen minutes … and then, Doc Welch looked up. He couldn’t help feeling a sort of grim, professional satisfaction at a job well done. The incision had been made and he had found what he was looking for.
 
@@ -194,7 +197,7 @@ Ten minutes later he removed the last pellet, stared at between fifteen and twen
 
 For a long minute the Doc stood silent.
 
-“You’ll need some kind of a corrosive agent to take that plastic stuff off. Lye ’ll do.”
+“You’ll need some kind of a corrosive agent to take that plastic stuff off. Lye’ll do.”
 
 Then he stopped.
 
@@ -216,7 +219,7 @@ The butt of the gun came sudden like a whip, smashed against the Doc’s mouth, 
 
 “See you, Doc.” The tall one laughed, slapped at the gauze bundle in his pocket. “Wonderful surgeon, that Doc.” They were both laughing throatily as they left.
 
-Doc Welch didn’t speak until he heard their car grinding up the country lane. Then he turned his head, looked up at Myra. A slow, trickle of blood oozed from his pain- throbbed lips. Yet he smiled, and the smile became a laugh.
+Doc Welch didn’t speak until he heard their car grinding up the country lane. Then he turned his head, looked up at Myra. A slow, trickle of blood oozed from his pain-throbbed lips. Yet he smiled, and the smile became a laugh.
 
 “You know, Myra, I’d give a hundred dollars to see the look on them gunmen’s faces when they try to peddle a load of hot gallstones. Go call up the sheriff.”
 

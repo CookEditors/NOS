@@ -11,8 +11,8 @@ image: /assets/img/how-dead-can-you-get.svg
 genre: Noir
 wordcount: 4093
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/How_Dead_Can_You_Get.mobi
+epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/How_Dead_Can_You_Get.epub
 --- 
 
 <section id="toc" class="toc">
@@ -25,11 +25,14 @@ epub: LINK TO EPUB
 </div>
 </section> <!-- table-of-contents -->
 
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
 ###Chapter 1
 {: .chapternumber .no_toc}
 
 ###Trying To Remember
-{: .chaptertitle }
+{: .chaptertitle}
 
 He sat alone in the darkness of the room. The night sounds of the city drifted up to him faintly. There was a cigarette between his fingers.
 
@@ -50,9 +53,9 @@ But before that? Nothing. Nothing except that one clear picture. He closed his e
 {: .chapternumber .no_toc}
 
 ###All He Remembered
-{: .chaptertitle }
+{: .chaptertitle}
 
-She was beautiful, the girl. Her hair framed her pale, sensuous face in a shimmering black pool.he wore a loose satin negligee, black as her hair, dramatic against the milky white translucence of her smooth skin. Her full, sullen lips were parted slightly, showing a line of fine, even teeth. She was staring up at him without blinking.
+She was beautiful, the girl. Her hair framed her pale, sensuous face in a shimmering black pool. She wore a loose satin negligee, black as her hair, dramatic against the milky white translucence of her smooth skin. Her full, sullen lips were parted slightly, showing a line of fine, even teeth. She was staring up at him without blinking.
 
 He could see himself looking down at her and thinking crazily that he was glad the bullet hole was in her temple so the hair would cover it. So that, even dead, she could go on being beautiful.
 
@@ -73,7 +76,7 @@ He shuffled to the washbasin in a corner of the room, turned the dripping faucet
 {: .chapternumber .no_toc}
 
 ###Clayton City National Bank
-{: .chaptertitle }
+{: .chaptertitle}
 
 He saw himself for the first time. A strange face that he could not remember. He brought his fingers up, touching his lips, his cheeks. The reflection was that of a thin man in his late twenties. His complexion was pale as if he were seldom in the sunshine. There were dark smudges under his blue eyes, lines around his mouth. His dark brown hair was clipped in a short, crisp style.
 
@@ -114,7 +117,7 @@ With shaking fingers he took out one of the bundles. The paper band around it bo
 {: .chapternumber .no_toc}
 
 ###Good Evening, George
-{: .chaptertitle }
+{: .chaptertitle}
 
 The highway marker on the city limits of Clayton City said, “Population, 7,000.”
 
@@ -122,7 +125,7 @@ It was a small, clean town nestling in the hills. A town where life was not hurr
 
 It had taken George Noles—if that was his name—an hour of fast driving to reach Clayton City after asking directions from a filling station attendant.
 
-Now he drove slowly down Main Street, not knowing what to do next. He told himself he was a fool for coming back here. And yet, suppose he were innocent of any crime. Suppose he had a family here …waiting for him….
+Now he drove slowly down Main Street, not knowing what to do next. He told himself he was a fool for coming back here. And yet, suppose he were innocent of any crime. Suppose he had a family here … waiting for him … .
 
 A man lounging in the doorway of a drug store waved as his car passed. “Evening, George,” he called. Noles forced himself to wave back. Now he was at least sure that his name was George Noles and he was from this town.
 
@@ -153,7 +156,7 @@ No, you said none of those things. You stood there, groping for words that would
 {: .chapternumber .no_toc}
 
 ###You Might Be A Friend
-{: .chaptertitle }
+{: .chaptertitle}
 
 She looked up again, at his strange silence. She glanced at his eyes, at his rumpled clothes, the blood on his coat collar.
 
@@ -171,7 +174,7 @@ He began slowly, searching for the words.
 
 In the darkness, her eyes were filled with many things. Incredulity, shock, pity … and something else.
 
-“Let’s —let’s say we were once friends, George,” she whispered. “I—yes, I’ll help you if I can.”
+“Let’s — let’s say we were once friends, George,” she whispered. “I—yes, I’ll help you if I can.”
 
 He felt a growing dread of the truth he was trying to uncover. He felt that when he broke the dam that locked his past, a flood of evilness would wash his soul straight to hell.
 
@@ -198,7 +201,7 @@ Her voice was half a sob. “Mary. It’s Mary, George. You can’t—remember a
 {: .chapternumber .no_toc}
 
 ###Nightmare Became Reality
-{: .chaptertitle }
+{: .chaptertitle}
 
 She nodded wordlessly. She swung the coupe around, into a side street. They drove silently along shadowy lanes and then parked before an apartment building. It was in a quiet, residential part of town.
 
@@ -235,7 +238,7 @@ Don’t pry any more. Leave the past alone. It’s better that you don’t know 
 {: .chapternumber .no_toc}
 
 ###My Sister
-{: .chaptertitle }
+{: .chaptertitle}
 
 Unconsciously, his hand had taken the .25 automatic from his pocket. He was staring at it and at the girl … his mind sick and reeling. So absorbed that he did not hear the key turn in the hall door or the padded footsteps behind him.
 
@@ -251,9 +254,9 @@ Everything about him was neat, precise: his short, clipped mustache, his thinnin
 
 Noles licked his lips. “Listen … .”
 
-“I can see how it was,” the man went on, trembling now. “You decided it would be nicer to have the whole fifty thousand …better than having Liss. She planned it all for you. You wouldn’t have had brains enough to open a tin piggy bank. But once you had the money, you started thinking a little under your own power. How simple it would be, you know, to have it all for yourself. So you killed her, you rotten hick. . .
+“I can see how it was,” the man went on, trembling now. “You decided it would be nicer to have the whole fifty thousand … better than having Liss. She planned it all for you. You wouldn’t have had brains enough to open a tin piggy bank. But once you had the money, you started thinking a little under your own power. How simple it would be, you know, to have it all for yourself. So you killed her, you rotten hick … ”
 
-“No,” Noles cried. “Listen, I don’t know who you are or who this woman is. I—I don’t even know who I am. I woke up in a hotel room less than two hours ago, sixty miles from here. I had been struck on the back of the head. I couldn’t remember how I got there or anything before I woke up. All I could remember was this woman lying in this room. But I couldn’t have killed her…. I’m not a murderer.”
+“No,” Noles cried. “Listen, I don’t know who you are or who this woman is. I—I don’t even know who I am. I woke up in a hotel room less than two hours ago, sixty miles from here. I had been struck on the back of the head. I couldn’t remember how I got there or anything before I woke up. All I could remember was this woman lying in this room. But I couldn’t have killed her … . I’m not a murderer.”
 
 The man’s eyes narrowed.
 
@@ -266,7 +269,7 @@ The man’s eyes narrowed.
 {: .chapternumber .no_toc}
 
 ###Had He Really Killed Her?
-{: .chaptertitle }
+{: .chaptertitle}
 
 His pudgy white finger closed around the trigger.
 
@@ -301,7 +304,7 @@ The thought crashed in his mind like cymbals.
 {: .chapternumber .no_toc}
 
 ###The Head-Strong Type
-{: .chaptertitle }
+{: .chaptertitle}
 
 At that precise moment, the hallway door in the other room opened. There was the hurried tap of a woman’s heels and the blonde girl, Mary called, “George? I got worried. You have been here so long … .”
 
@@ -338,9 +341,9 @@ Denham finished, “I tried to talk Liss out of this but she was always the head
 {: .chapternumber .no_toc}
 
 ###You Killed Your Wife
-{: .chaptertitle }
+{: .chaptertitle}
 
-George Noles shook his head. “That isn’t all of it. You see there was one detail. The one thing I could remember clearly when I came too back in Sanderton, was this room. I saw Liss just as she’s lying here and that was when someone struck me from behind.
+George Noles shook his head. “That isn’t all of it. You see there was one detail. The one thing I could remember clearly when I came to back in Sanderton, was this room. I saw Liss just as she’s lying here and that was when someone struck me from behind.
 
 “The last thing I did before that person hit me, was to straighten a little gold locket Liss always wore at her throat.” He nodded at the body.
 
@@ -371,7 +374,7 @@ Denham’s breath was coming in short, ragged gasps. His shirt was soggy with pe
 {: .chapternumber .no_toc}
 
 ###Who Are You, Mary?
-{: .chaptertitle }
+{: .chaptertitle}
 
 George Noles sat on the sofa with the blonde girl while they waited for the police. There was no fight left in Denham—slumped in a chair opposite them.
 
@@ -387,7 +390,8 @@ Her eyes were filled with that strange look … and with tears. She looked away 
 
 “Who are you, Mary? What were you to me?”
 
-She started to speak, but didn’t. She had been dead inside for so long now, she couldn’t trust herself with emotions. She’d tell him later ... or perhaps his mind would clear and he would remember …that she was his wife….
+She started to speak, but didn’t. She had been dead inside for so long now, she couldn’t trust herself with emotions. She’d tell him later ... or perhaps his mind would clear and he would remember … that she was his wife … .
+
 
 <p id="theend">~ The End ~
 <h6 class="btt"><a href="#top">Back to Top</a></h6>

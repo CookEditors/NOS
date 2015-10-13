@@ -11,8 +11,8 @@ image: /assets/img/this-side-up.svg
 genre: Amateur Sleuth
 wordcount: 3400
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/This_Side_Up.mobi
+epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/This_Side_Up.epub
 --- 
 
 <section id="toc" class="toc">
@@ -25,11 +25,14 @@ epub: LINK TO EPUB
 </div>
 </section> <!-- table-of-contents -->
 
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
 ###Chapter 1
 {: .chapternumber .no_toc}
 
 ###First Farmers Bank
-{: .chaptertitle }
+{: .chaptertitle}
 
 The long, sleek limousine rolled slowly to a halt in front of the First Farmers Bank of New Albany, Indiana. The liveried negro chauffeur started to turn off the ignition when a sharp, thin voice from the rear seat froze his hand.
 
@@ -37,7 +40,7 @@ The long, sleek limousine rolled slowly to a halt in front of the First Farmers 
 
 “Y-yes, suh!”
 
-“Get out and go into the bank—slowly f I’ll be right in back of you. Understand?”
+“Get out and go into the bank—slowly! I’ll be right in back of you. Understand?”
 
 “Yes, suh. I—I understand.” George’s face was a little pale as he got out of the car and walked slowly, as directed, through the door of the bank. Though there was a cool breeze, sweat beaded his forehead.
 
@@ -71,15 +74,15 @@ Smythe braced himself. “I won’t,” he said.
 
 The kid fired. Sharp sound filled the bank. Smythe jerked forward, staggered and fell headlong.
 
-Horton gasped, dropped his right arm swiftly in a desperate attempt for his gun. The kid swerved; sound. again blasted the walls. The guard’s fingers uncurled, and the half-drawn gun dropped with a clatter to the floor. He followed it, shuddered and lay still.
+Horton gasped, dropped his right arm swiftly in a desperate attempt for his gun. The kid swerved; sound again blasted the walls. The guard’s fingers uncurled, and the half-drawn gun dropped with a clatter to the floor. He followed it, shuddered and lay still.
 
 But even as the reverberation of gunfire echoed from the marble, a new sound blasted with insistent clamor. The urgent shout of the alarm bell.
 
-The kid shoved his gun at the frightened teller. “You lousy son,” he screamed. “You asked for it” A single shot pierced the stridency of the alarm. Henry Green, his foot still on the buzzer, crumpled out of sight.
+The kid shoved his gun at the frightened teller. “You lousy son,” he screamed. “You asked for it.” A single shot pierced the stridency of the alarm. Henry Green, his foot still on the buzzer, crumpled out of sight.
 
 The kid backed toward the door, the smoking pistol covering his retreat. “You!” he stabbed at George. “Get the hell out there into the car. And no funny work. Understand?”
 
-“I—I understand.” Ashen-faced, the breath sobbing in his lungs, the chauffeur stumbled out into the light
+“I—I understand.” Ashen-faced, the breath sobbing in his lungs, the chauffeur stumbled out into the light.
 
 The gunman waited until he heard him open the car door. Then he spun around, raced for the limousine, flung himself into the back seat “Drive like hell! I’ll tell you where to go.”
 
@@ -92,11 +95,11 @@ Behind him was a shambles: three dead men, panic and the senseless clangor of th
 {: .chapternumber .no_toc}
 
 ###We Gotta Get The Facts, Sister
-{: .chaptertitle }
+{: .chaptertitle}
 
-Al Aronson, ace reporter of the Louisville Courier Journal, bent over the dying man. It was hard to hear his words. His chest swathed in bandages to hide the_ gaping wound and keep the ebbing life within a little longer, rose and fell in labored spasms.
+Al Aronson, ace reporter of the Louisville Courier-Journal, bent over the dying man. It was hard to hear his words. His chest swathed in bandages to hide the gaping wound and keep the ebbing life within a little longer, rose and fell in labored spasms.
 
-The hospital nurse said: “You two will have to be brief; talking isn’t good for him,”
+The hospital nurse said: “You two will have to be brief; talking isn’t good for him.”
 
 Lt. Dave Hunt of the New Albany police said gruffly: “We gotta get the facts, sister. Go ahead, Al. See if you can make out what he’s saying.”
 
@@ -130,7 +133,7 @@ Poor fellow, thought Aronson. No use trying to tell him he’s going to be bette
 
 Aloud he said: “What did he look like, George?”
 
-“A heavy, tough kid— ‘bout seventeen, I’d say—and ‘bout five eight or nine. Wore a checked, tight suit o’ that loud green, and a cap. Couldn’t see much of his face; had his cap down too far; but he was full o’ pimples. Had a tough kid’s voice; the filthiest I ever did hear.”
+“A heavy, tough kid — ‘bout seventeen, I’d say — and ‘bout five eight or nine. Wore a checked, tight suit o’ that loud green, and a cap. Couldn’t see much of his face; had his cap down too far; but he was full o’ pimples. Had a tough kid’s voice; the filthiest I ever did hear.”
 
 Aronson straightened wearily. “That’s fine, George. Now, unless Lt. Hunt wants to ask you some more, just relax.”
 
@@ -147,7 +150,7 @@ The chauffeur seemed to slump underneath the bedclothes. His eyes were fixed on 
 {: .chapternumber .no_toc}
 
 ###Hunches
-{: .chaptertitle }
+{: .chaptertitle}
 
 Lt. Hunt chewed angrily on his cigar. “Stop trying to ride me, Aronson,” he exploded. “I’m telling you for the last time that killer was no local kid. I know every last hoodlum in town, and this punk doesn’t fit in. He’s an outsider.”
 
@@ -183,9 +186,7 @@ A mover named Davis said, “A mean kid, dark haired, pimples? A real low-down m
 
 “When did you move him?” Al asked.
 
-“Must have been about a year ago. But I remember him good. Frankie
-
-Benson was his moniker. I moved him and his old man. The kid said he’d help me with a crate—a big crate—kind of a piano crate, but no piano in it When we had it up, he let go his end. Near busted my back. He started cussing me. Filthiest mouth I ever heard. I grabbed the punk and almost slugged him. Then I remembered he was just a kid, so I let him go. And when I turned around, he threw a hammer at me. Lucky his aim wasn’t too good. It missed my head, but near tore off my ear; here, I’ll show you the scar. They had to put three stitches in it, I woulda torn him apart if I got my hands on him, but he ran away, and I never saw him again.”
+“Must have been about a year ago. But I remember him good. Frankie Benson was his moniker. I moved him and his old man. The kid said he’d help me with a crate—a big crate—kind of a piano crate, but no piano in it. When we had it up, he let go his end. Near busted my back. He started cussing me. Filthiest mouth I ever heard. I grabbed the punk and almost slugged him. Then I remembered he was just a kid, so I let him go. And when I turned around, he threw a hammer at me. Lucky his aim wasn’t too good. It missed my head, but near tore off my ear; here, I’ll show you the scar. They had to put three stitches in it, I woulda torn him apart if I got my hands on him, but he ran away, and I never saw him again.”
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
@@ -194,7 +195,7 @@ Benson was his moniker. I moved him and his old man. The kid said he’d help me
 {: .chapternumber .no_toc}
 
 ###But What Could I Do?
-{: .chaptertitle }
+{: .chaptertitle}
 
 Three hours later Al Aronson made his way down a dirty, ramshackle street in Louisville, to the address Davis had given him. He surveyed the paint-peeled, two room structure in the small, littered yard.
 
@@ -220,11 +221,11 @@ His mind flashed back on his own boyhood. Thirteen—that was the year he was co
 
 A kid needs people to love him, he said to himself. People rooting for him. Frankie never had anybody on his side.
 
-“He used to hit me,” Benson went on in a voice that was now half sobbing. “His own father. I was afraid even to talk to him. I’d ask him to do something, he’d knock me down. Once when he was out in the box I yelled for him to come in to eat. He nearly choked me to death— said he’d kill me if I ever bothered him when he was busy with the box.”
+“He used to hit me,” Benson went on in a voice that was now half sobbing. “His own father. I was afraid even to talk to him. I’d ask him to do something, he’d knock me down. Once when he was out in the box I yelled for him to come in to eat. He nearly choked me to death — said he’d kill me if I ever bothered him when he was busy with the box.”
 
 Aronson leaned over and said softly, “What box, Mr. Benson?”
 
-“It was a piano crate, I don’t know where he got it; he brought it home one day, years ago. He fixed it up and would stay in it. Sometimes almost a whole day. Like he was hiding from the world. It used to be sort of a game, I think—like most kids would use a tent. But then he’d shut himself in and hide. I don’t know from what.”
+“It was a piano crate, I don’t know where he got it; he brought it home one day, years ago. He fixed it up and would stay in it. Sometimes almost a whole day. Like he was hiding from the world. It used to be sort of a game, I think — like most kids would use a tent. But then he’d shut himself in and hide. I don’t know from what.”
 
 “Where’s the box now?”
 
@@ -240,7 +241,7 @@ The old man thought for a moment. “Day before yesterday. That musta been the d
 
 “Do you have a receipt for the box?”
 
-“Yes. I’ll get it.” . Benson reached into a drawer in the kitchen table, brought out a couple of scraps of paper. He gave the receipt to Aronson, and then stood studying a dirty piece of notepaper in his hand. “I found this on the table that night, after he told me about sending the box. I—I didn’t know what he meant then.”
+“Yes. I’ll get it.” Benson reached into a drawer in the kitchen table, brought out a couple of scraps of paper. He gave the receipt to Aronson, and then stood studying a dirty piece of notepaper in his hand. “I found this on the table that night, after he told me about sending the box. I—I didn’t know what he meant then.”
 
 Aronson took the note from his fingers, and read the child-like scrawl. Stop me, please, before I do it again.
 
@@ -255,7 +256,7 @@ Aronson’s lips tightened. He took the receipt and headed for the door. “I’
 {: .chapternumber .no_toc}
 
 ###I’ll Kill You! I’ll Kill You!
-{: .chaptertitle }
+{: .chaptertitle}
 
 In the quiet of the darkened warehouse, Lt. Hunt flashed his light along the rows of high-piled crates, trunks and boxes.
 
@@ -291,7 +292,7 @@ Aronson motioned for Hunt to take cover. He himself stepped behind a large trunk
 
 Two shots splintered holes in the box. A hysterical voice called, “Stay away from me, you lousy bums. I’ll kill you! I’ll kill you!”
 
-“Be sensible, Kid,” the reporter called. “You can’t hit us because you can’t see us. But we can fill that box of yours full of lead; we can put more holes in it than a sieve. Come on out and give yourself up-”
+“Be sensible, Kid,” the reporter called. “You can’t hit us because you can’t see us. But we can fill that box of yours full of lead; we can put more holes in it than a sieve. Come on out and give yourself up.”
 
 An obscene curse was the only answer, and a third shot crashed wood and spanged into a metal drum. “Show him we mean business, Lieutenant,” Al said.
 
@@ -301,9 +302,9 @@ The detective fired a shot through the upper corner of the box.
 
 There was a moment of silence, then a muffled sob, and the side of the case swung slowly back on its hinges.
 
-Frankie Benson came oat with his hands raised, crying. “Why did I do it?” he sobbed over mid over again. “Tell me why I did it. Why?”
+Frankie Benson came out with his hands raised, crying. “Why did I do it?” he sobbed over mid over again. “Tell me why I did it. Why?”
 
-Lieutenant Hunt examined the piano crate; said, “Hey, AJ, he really had this thing rigged up—a Pullman bunk, three pistols, water bottles. cans of food—and straps -to hold everything in place. You ought to get a photographer down here. It will make a swell picture. You’ve got a great story—the story of the year.”
+Lieutenant Hunt examined the piano crate; said, “Hey, AJ, he really had this thing rigged up—a Pullman bunk, three pistols, water bottles, cans of food — and straps to hold everything in place. You ought to get a photographer down here. It will make a swell picture. You’ve got a great story—the story of the year.”
 
 But Al Aronson was staring at the sniveling kid in front of him, still sobbing, “Why did I do it? Why? Why? Why?” The sneering, ruthless killer who had coldly murdered four men without the slightest compunction was now just a scared, pimply-faced 16-year-old boy, all mixed up.
 

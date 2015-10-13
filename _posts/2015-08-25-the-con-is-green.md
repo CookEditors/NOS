@@ -12,8 +12,8 @@ image: /assets/img/con-is-green.svg
 genre: Amateur Sleuth
 wordcount: 4910
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Con_Is_Green.mobi
+epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Con_Is_Green.epub
 --- 
 
 <section id="toc" class="toc">
@@ -26,11 +26,14 @@ epub: LINK TO EPUB
 </div>
 </section> <!-- table-of-contents -->
 
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
 ###Chapter 1
 {: .chapternumber .no_toc}
 
 ###Bosco The Blimp
-{: .chaptertitle }
+{: .chaptertitle}
 
 For many moons, the Boston cops have wondered why Snooty Piper finds out about murders the same time they do. If you know the crackpot, there is nothing mysterious about it. It seems that Snooty has something on most newspaper reporters—little things like two-timing the little woman or playing poker when they should have been to a lodge. So it is not surprising to me that Snooty gets the news that a character named Bosco the Blimp gets knocked off hardly before the remains begin to cool.
 
@@ -58,11 +61,15 @@ Iron Jaw whips off his derby and bangs Snooty just over the right eye.
 
 “Then who would lick my stamps?” the halfwit counters. I ignore him and go back to looking at what is left of Bosco the Blimp. The cops do not find any pieces of crystal from a broken watch and no footprints. It looks like the killer-diller had planned the rubout with much mental toil.
 
-“Nothin’ to go on,” Iron Jaw gripes. “I wish for oncet I could have a murder like in the movies. Piper, have you spotted anythin’, huh? Yon tell me, or I will tear off your arm and wrap it around your tonsils.”
+“Nothin’ to go on,” Iron Jaw gripes. “I wish for oncet I could have a murder like in the movies. Piper, have you spotted anythin’, huh? You tell me, or I will tear off your arm and wrap it around your tonsils.”
 
 “If I give you the murderer’s fingerprint, you would find that there was another character in the world with the same Bertillon smudges, you are that far back of the eight ball,” Snooty opines.
 
-“Leave him alone, Snooty,” I says. “You would torment a moose caught in a cranberry bog. I do not see as we can be of much help here. Bosco goes to the city icebox. The John Laws will promise an arrest within twenty-four hours, and Iron Jaw will pinch somebody who was eighty miles away at the time. This is like a movie where I came in.” Even Snooty Piper does not pick up a clue, so the M.D. orders Bosco to be filed away in the stiff warehouse. “Let’s go to the Greek’s,” Snooty says.
+“Leave him alone, Snooty,” I says. “You would torment a moose caught in a cranberry bog. I do not see as we can be of much help here. Bosco goes to the city icebox. The John Laws will promise an arrest within twenty-four hours, and Iron Jaw will pinch somebody who was eighty miles away at the time. This is like a movie where I came in.”
+
+Even Snooty Piper does not pick up a clue, so the M.D. orders Bosco to be filed away in the stiff warehouse.
+
+“Let’s go to the Greek’s,” Snooty says.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
@@ -71,7 +78,7 @@ Iron Jaw whips off his derby and bangs Snooty just over the right eye.
 {: .chapternumber .no_toc}
 
 ###Sniggy Welp
-{: .chaptertitle }
+{: .chaptertitle}
 
 When we get to our favorite tavern and order two beers. Snooty shows me a slip of paper. “I been learn in’ sleight-of-hand out of a book, nights, Scoop,” he explains, blinking like an owl caught suddenly in a night-club spotlight.
 
@@ -95,7 +102,7 @@ I do. It is a piece of paper torn out of a ruled notebook. It says Bosco the Bli
 
 We are still in the Greek’s listening to a corny radio comic, when a fellow-traveler, who works on the Boston Morning Call, arrives. This legman says Iron Jaw has arrested a citizen known as Sniggy Welp for the unlawful extermination of Bosco the Blimp and has a witness to help send Sniggy off to the state rotisserie.
 
-“Well, you guys will have to admit the big slob had a break cornin’,” the legman says, thanking us for a beer we didn’t order for him. “It seems O’Shaughnessy found this character, Dinsmore Smooch, sitting on the steps of the precinct house on Columbus not more than an hour ago. He tells the gland case that he was sleeping off a nifty hangover in that alley, when he wakes up and sees Sniggy conk Bosco with a tire iron. He gets a gander at the character just as he passes by a lighted window in the alley. He takes a look at the cadaver, gets scared and runs home. Then he comes back to tell the police.”
+“Well, you guys will have to admit the big slob had a break comin’,” the legman says, thanking us for a beer we didn’t order for him. “It seems O’Shaughnessy found this character, Dinsmore Smooch, sitting on the steps of the precinct house on Columbus not more than an hour ago. He tells the gland case that he was sleeping off a nifty hangover in that alley, when he wakes up and sees Sniggy conk Bosco with a tire iron. He gets a gander at the character just as he passes by a lighted window in the alley. He takes a look at the cadaver, gets scared and runs home. Then he comes back to tell the police.”
 
 “It is amazing detecting on the big beast’s part, isn’t it, Scoop?” Snooty snorts. “I have an idea Sniggy has pals. Iron Jaw better call out some veterans of Saipan and Okinawa to escort this Smooch person about the Hub.”
 
@@ -128,7 +135,7 @@ Sure enough, she identifies herself as Mamie Slognecker, alias Maggie the Claw. 
 {: .chapternumber .no_toc}
 
 ###Dinsmore Smooch
-{: .chaptertitle }
+{: .chaptertitle}
 
 It is all in the papers the next day about Iron Jaw producing a star witness for the state. Snooty is very nettled, and not just in the eyes. He washes his peepers out with some sort of pale green liquid he bought in a drugstore. It is a safe bet that if he ever wore a diamond, it would be green. I am very startled, to say the least, when he suddenly takes out a pair of cheaters and adjusts them. They are a dirty yellow color.
 
@@ -180,7 +187,7 @@ We find out later how they got to Dinsmore Smooch. It seems that Sniggy has some
 
 Well, it is like lightning striking in the same place twice, as what happens? There is also a witness to the rubout of Dinsmore Smooch. This citizen immediately gets in touch with the cops.
 
-“Yeah.” the witness says at headquarters with me and Snooty Piper taking notes. “I didn’t git a look at the baby who picked him up, but he was drivin’ a green sedan, the dirtiest lookin’ green I ever saw. I bet it was a hot car and was sprayed. No auto painter ever thought up such a color. I saw Smooch git in an’ then draw back like he wasn’t sure. The guy yanked him in and belted him over the pate. I run to help, but it was too late. I ain’t geared up to a six-cylinder job.”
+“Yeah,” the witness says at headquarters with me and Snooty Piper taking notes. “I didn’t git a look at the baby who picked him up, but he was drivin’ a green sedan, the dirtiest lookin’ green I ever saw. I bet it was a hot car and was sprayed. No auto painter ever thought up such a color. I saw Smooch git in an’ then draw back like he wasn’t sure. The guy yanked him in and belted him over the pate. I run to help, but it was too late. I ain’t geared up to a six-cylinder job.”
 
 “Ahh nuts!” Iron Jaw says and slams down his derby so the windows rattle. “I have a conviction in my pocket, and that lemonhead, Gratz, loses the works. Is it no wonder I can’t git to amount to nothin’?”
 
@@ -199,7 +206,7 @@ Iron Jaw pulls his punch. Snooty is quite pleased. “I think I’ll wear them a
 {: .chapternumber .no_toc}
 
 ###Humbert Prawn
-{: .chaptertitle }
+{: .chaptertitle}
 
 Quite early the next A.M., I am walking along Washington Street and pick up a copy of the Morning Post Mail. It carries a story on the third page, about five sticks, about an arrest made by Iron Jaw O’Shaughnessy.
 
@@ -243,7 +250,7 @@ Again Iron Jaw emerges. He is chewing his derby. “He had a nose bleed,” he s
 
 “If Iron Jaw arrested Prawn, Prawn didn’t do it. That is logic. But I must rush and see my optimist, Scoop. I think my cheaters are doin’ the trick all right. I wish I could git a lead on one or more of these slayings.
 
-“All we know is Bosco was selling black market latex at quite a profit, a very disgraceful practice that Mr. Guppy would give his upper plate to know about.
+“All we know is Bosco was selling black market latex at quite a profit, a very disgraceful practice that Mr. Guppy would give his upper plate to know about.”
 
 “It is our only way to get employed again, Scoop, to apprise him of the facts in the case.”
 
@@ -254,7 +261,7 @@ Again Iron Jaw emerges. He is chewing his derby. “He had a nose bleed,” he s
 {: .chapternumber .no_toc}
 
 ###Snooty Piper
-{: .chaptertitle }
+{: .chaptertitle}
 
 It is a rare feeling walking along the streets of Boston later with Snooty and not having somebody throw a shiv or a bullet where it will do a body the most good.
 
@@ -262,7 +269,7 @@ It is a rare feeling walking along the streets of Boston later with Snooty and n
 
 “Scoop! Look!” Snooty grabs me by the arm and points. I see only a jalopy pulling away from in front of a hotel. It is a very ducky shade of blue bordering on violet.
 
-“So what?” I query. “I have heard that a few heaps are still in running order despite the war an’—what ails you?”
+“So what?” I query. “I have heard that a few heaps are still in running order despite the war an’ — what ails you?”
 
 “Come on, Scoop!”
 
@@ -270,9 +277,9 @@ Before I can stop the crackpot and have a chance to make up my own mind, he is l
 
 Snooty yelps, “What a break, Scoop! The owner left the keys in it. I’ll drive.”
 
-“Look, flathead, this is not your car. I will not sit here an’ let you commit—”
+“Look, flathead, this is not your car. I will not sit here an’ let you commit — ”
 
-“What did you say, Scoop?” Snooty yips as we turn a corner with shoes squealing like banshees with impacted wisdom teeth. “Somethin’ about not sit- tin’ there? You are at liberty to leave anytime you—”
+“What did you say, Scoop?” Snooty yips as we turn a corner with shoes squealing like banshees with impacted wisdom teeth. “Somethin’ about not sit-tin’ there? You are at liberty to leave anytime you—”
 
 “I can change my mind, huh?” I screech. “What are you chasin’ that boiler for? It is not green!”
 
@@ -313,7 +320,7 @@ Bang! Zi-i-ing!
 {: .chapternumber .no_toc}
 
 ###Half Ton Tripeski
-{: .chaptertitle }
+{: .chaptertitle}
 
 There are more shots. A slug burns my right ear. Then we are abreast of the blue boiler. Snooty Piper swings the wheel to the right.
 
@@ -325,7 +332,7 @@ By a miracle nobody is hurt bad enough not to start a fight. I see a very compac
 
 “Give me time,’’ I says, my noggin spinning from quite an argument with the dashboard. “First, I must find a weapon.”
 
-I pick up a headlight and heave it, but miss. The rough boy climbs Snooty. He is quite a Judo expert and is making progress in breaking Snooty’s neck just as I tickle him in the shortribs. The ugly boy yelps and laughs like a hyena and begs me to stop. I make a mistake and do so, then the three of us are locked in mortal combat. When it is over. Snooty has a different coat on. The criminal person has his head in the swamp like an ostrich ducking a process server.
+I pick up a headlight and heave it, but miss. The rough boy climbs Snooty. He is quite a Judo expert and is making progress in breaking Snooty’s neck just as I tickle him in the shortribs. The ugly boy yelps and laughs like a hyena and begs me to stop. I make a mistake and do so, then the three of us are locked in mortal combat. When it is over, Snooty has a different coat on. The criminal person has his head in the swamp like an ostrich ducking a process server.
 
 I look at the wreck of the rough character’s car and yelp, “I must apologize, Snooty. It is a green car!”
 
@@ -353,7 +360,7 @@ Half Ton is still wearing Gumshoe Grate’s duds. Of course, there is nothing le
 
 Half Ton gives the crackpot fifty, as he says what good is a bankroll where he is going. Snooty explains. Iron Jaw O’Shaughnessy gets up and walks out like he has poured three quarts of Six Roses into his big fat stomach. Half Ton is mumbling like a hermit. The D.A. says he thinks he will lock up early and go on home as he feels a stroke coming on.
 
-“Let’s go to the Greek’s,” I sigh. “Then we will call at the *Evening Star*."
+“Let’s go to the Greek’s,” I sigh. “Then we will call at the *Evening Star*.”
 
 <p id="theend">~ The End ~
 <h6 class="btt"><a href="#top">Back to Top</a></h6>

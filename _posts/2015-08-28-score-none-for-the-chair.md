@@ -11,8 +11,8 @@ image: /assets/img/score-none-for-the-chair.svg
 genre: Professional Sleuth
 wordcount: 1878
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Score_None_for_the_Chair.mobi
+epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Score_None_for_the_Chair.epub
 --- 
 
 <section id="toc" class="toc">
@@ -25,11 +25,14 @@ epub: LINK TO EPUB
 </div>
 </section> <!-- table-of-contents -->
 
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
 ###Chapter 1
 {: .chapternumber .no_toc}
 
 ###Circumstantial Evidence
-{: .chaptertitle }
+{: .chaptertitle}
 
 If any one around Headquarters was making a book on a Murder Handicap, I’d lay 100-to-l that Joe Gillen was guilty. A vicious and premeditated homicide, at that. But Howard—that is, Det. Chief Gwynn Howard—never said a word until the morning of the second day.
 
@@ -39,7 +42,7 @@ But the records will show that most murder cases are cracked via circumstantial 
 
 But no matter from which angle you viewed Joe Gillen, he looked like the Murder of the Month Club selection for the sizzle seat. And the evidence was more than circumstantial: it was also self-confessional, or practically so. If Gillen wasn’t guilty, then Adolf Hitler had nothing to do with World War 2, as I saw it.
 
-I found Howard alone in his office, adjacent to the temporary detention cell. It was 8 A.M. Howard never said much, and gave strangers the impression that the most important thing in his life was filing his fingernails. His left foot was usually draped over a corner of the battered desk, while a cigarette dangled from the right corner of his mouth. He smoked from mere habit, not because he liked it.
+I found Howard alone in his office, adjacent to the temporary detention cell. It was 8 a.m. Howard never said much, and gave strangers the impression that the most important thing in his life was filing his fingernails. His left foot was usually draped over a corner of the battered desk, while a cigarette dangled from the right corner of his mouth. He smoked from mere habit, not because he liked it.
 
 “Gillen talk yet?” I asked.
 
@@ -55,7 +58,7 @@ Howard smiled lightly and examined his nail file like he had just discovered a c
 
 “Now that,” I said, “is very nice of him to admit. He’s just telling us what we already know. Did he have any more fairy tales?”
 
-Howard took three sheets of typed paper from his desk. “Here’s the official statement from the gentleman,” he said. “He was able to talk about 4 A.M.”
+Howard took three sheets of typed paper from his desk. “Here’s the official statement from the gentleman,” he said. “He was able to talk about 4 a.m.”
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
@@ -64,7 +67,7 @@ Howard took three sheets of typed paper from his desk. “Here’s the official 
 {: .chapternumber .no_toc}
 
 ###The Appearance of Innocence
-{: .chaptertitle }
+{: .chaptertitle}
 
 I read the confession. Briefly, Gillen stated that he and his wife, Mary, had been drinking in their small frame cottage.
 
@@ -72,9 +75,9 @@ It was one of the rare cool days when the Miami temperature went down to 40 degr
 
 In the small kitchen was a little potbelly iron stove. He put in some paper and charcoal and lit a fire. Then he went to a divan in the front room and fell asleep, his wife sitting in the rocker near the fire. This was about 4 p.m., as near as Gillen could remember.
 
-He awoke about 11 p.m. His head was splitting and he was altogether groggy. He went to the kitchen, lit the light, and found his wife still sitting in the rocking chair.He called her a vile name; she did not answer. He shook her by the shoulders and she fell to the floor, motionless. He leaned over her and listened to her heart. There was no beat; he then knew she was dead.
+He awoke about 11 p.m. His head was splitting and he was altogether groggy. He went to the kitchen, lit the light, and found his wife still sitting in the rocking chair. He called her a vile name; she did not answer. He shook her by the shoulders and she fell to the floor, motionless. He leaned over her and listened to her heart. There was no beat; he then knew she was dead.
 
-“I became scared,” he stated. “I knew the neighbors had heard as fighting and they would all accuse me of killing her. I don’t think I touched her, but I can’t remember very much. I knew the police would accuse me of murder. I just lost say head, and—well, you know the rest.”
+“I became scared,” he stated. “I knew the neighbors had heard as fighting and they would all accuse me of killing her. I don’t think I touched her, but I can’t remember very much. I knew the police would accuse me of murder. I just lost my head, and—well, you know the rest.”
 
 I passed the confession back to Howard. “A very touching tale,” I said. “He could write some of that detective goo I hear on the radio. I still say he killed her, whether he knew it or not.”
 
@@ -82,15 +85,15 @@ I passed the confession back to Howard. “A very touching tale,” I said. “H
 
 “What do you mean, no knife stabs? He carved her up, didn’t he?”
 
-“True, Bub, but there was no signs of one-shot knife stabs. It was all good, clean carving. At one time, the guy must have been a butcher, be was handy with a knife.”
+“True, Bub, but there was no signs of one-shot knife stabs. It was all good, clean carving. At one time, the guy must have been a butcher, he was handy with a knife.”
 
 “If he didn’t kill her, it was two other fellows with the same name. He had to admit he carved her up because he was caught with part of the torso in the bag. Right now he’s just playing the old game of Chair-Ducking, hoping to win life instead of the Big Jolt.”
 
 Howard examined the file very carefully. “Look, Bub,” he said, “when you’ve been in this crime-chipping game as long as I have you’ll learn that a criminal investigator has two duties. One is to prove guilt and the other is to prove innocence.
 
-Personally, I’m not wholly positive that Gillen killed his wife before dismembering her body. Years ago, before the creation of modern criminal laboratories, Gillen would have been railroaded to his death.
+“Personally, I’m not wholly positive that Gillen killed his wife before dismembering her body. Years ago, before the creation of modern criminal laboratories, Gillen would have been railroaded to his death.
 
-No one really knows how many innocent persons, men and women, have paid the extreme, official penalty for crimes they never committed. But times have changed, Bub; when a person wins a rope around his neck or seat in the One-Way Chair, you can make book that he is guilty.”
+“No one really knows how many innocent persons, men and women, have paid the extreme, official penalty for crimes they never committed. But times have changed, Bub; when a person wins a rope around his neck or seat in the One-Way Chair, you can make book that he is guilty.”
 
 I scratched my head and said, “Well, what are you waiting for now?”
 
@@ -127,7 +130,7 @@ I started for the door, stopped halfway and asked, “Do you mind if I call on B
 {: .chapternumber .no_toc}
 
 ###Maybe I Killed Her
-{: .chaptertitle }
+{: .chaptertitle}
 
 Gillen sat on the edge of his cot, with his head in his hands. He was a stupid looking guy, with a half-moon head of hair—half hair, half bald. He told me he was 42 and worked, when he worked, as a carpenter’s helper.
 
@@ -143,9 +146,9 @@ Gillen sat on the edge of his cot, with his head in his hands. He was a stupid l
 
 Next morning Howard called me into his office.
 
-“Your odds on murder hare flopped,” he said. “Horses and murders are usually bad bets.”
+“Your odds on murder have flopped,” he said. “Horses and murders are usually bad bets.”
 
-He tossed the nail file in the air and caught it with his left hand. He was in excellent humor. The forehead wrinkles, which always crease his when he was working on a case, had vanished. “Doc Vollmer says Gillen never killed his wife, whether he thinks he did or not- And Doc knows his stuff.”
+He tossed the nail file in the air and caught it with his left hand. He was in excellent humor. The forehead wrinkles, which always crease his when he was working on a case, had vanished. “Doc Vollmer says Gillen never killed his wife, whether he thinks he did or not. And Doc knows his stuff.”
 
 “You mean Doc proved something that Gillen couldn’t prove himself?”
 
@@ -166,8 +169,6 @@ He tossed the nail file in the air and caught it with his left hand. He was in e
 “Which is better than the Chair.”
 
 “Much better,” said Howard.
-
-THE END
 
 <p id="theend">~ The End ~
 <h6 class="btt"><a href="#top">Back to Top</a></h6>

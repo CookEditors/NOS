@@ -11,8 +11,8 @@ image: /assets/img/hate-calls-the-tune.svg
 genre: Professional Sleuth
 wordcount: 4355
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Hate_Calls_the_Tune.mobi
+epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Hate_Calls_the_Tune.epub
 --- 
 
 <section id="toc" class="toc">
@@ -25,11 +25,14 @@ epub: LINK TO EPUB
 </div>
 </section> <!-- table-of-contents -->
 
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
 ###Chapter 1
 {: .chapternumber .no_toc}
 
 ###Pop’s D-Dead
-{: .chaptertitle }
+{: .chaptertitle}
 
 Footsteps slapped the sidewalk behind me, pounding, running hard. A voice piped shrilly: “Pat—Pat, wait!”
 
@@ -43,7 +46,9 @@ He didn’t look tough now, though. He grabbed at my arm, and I thought I saw pa
 
 “Pat!” he gulped. “Pat—” He gulped again.
 
-I wasn’t interested in his panic. I wasn’t interested in anybody named Harcourt, period. He should have known that. There are some things you just don’t get over, and what his sister had done to me was one of them. “Scram, punk,” I said.
+I wasn’t interested in his panic. I wasn’t interested in anybody named Harcourt, period. He should have known that. There are some things you just don’t get over, and what his sister had done to me was one of them.
+
+“Scram, punk,” I said.
 
 He wouldn’t let go of my sleeve. “Pat, gee, listen!”
 
@@ -62,7 +67,7 @@ He wouldn’t let go of my sleeve. “Pat, gee, listen!”
 {: .chapternumber .no_toc}
 
 ###The Kid Had Really Told The Truth
-{: .chaptertitle }
+{: .chaptertitle}
 
 That stopped me cold. I’d never had anything against old Aaron Harcourt. He was a nice enough guy, as music teachers go. A little impractical, maybe. But he’d managed to bring up his two motherless kids on what he earned giving violin lessons. You had to respect him for that.
 
@@ -105,7 +110,7 @@ I walked into the bungalow’s living room and saw Aaron Harcourt’s body spraw
 {: .chapternumber .no_toc}
 
 ###A Terrific Struggle
-{: .chaptertitle }
+{: .chaptertitle}
 
 I went through the motions of putting my finger on the artery in his neck. I knew there’d be no pulse-beats. He was still warm, though. He hadn’t been dead too long. I crossed the room, picked up the phone, and called headquarters. “Pat Whitney talking,” I said. I reported the kill, gave the address, and was told to sit tight; the homicide boys would be right over with a tech squad. I rang off. Then I looked around.
 
@@ -126,7 +131,7 @@ So now I was back again. And Barbara’s father was dead in a room that had been
 {: .chapternumber .no_toc}
 
 ###A Genuine Enamieri
-{: .chaptertitle }
+{: .chaptertitle}
 
 I picked up a double cabinet photoholder in a hinged leather frame. The girl was Barbara in her white graduation gown, her first formal. The tall, studious-looking kid with the glasses was Al Carlin. The wiry, swarthy one was Ferranti. The big hulking guy with the lantern jaw and stupid expression was me.
 
@@ -152,7 +157,7 @@ He would look at you, waiting for you to say that this fiddle of his must be mig
 
 “Some time in its career it must have had an accident. The original back, with the signature on the inner surface, must have been splintered. It was replaced with this strip of lighter-colored wood. An excellent repair job, you understand. The tone is unimpaired.
 
-“ But that Enamieri signature would have made the difference between a violin worth perhaps a hundred thousand dollars and a concert fiddle you could buy for a thousand. If I were willing to sell for that price. Which I am not.”
+“But that Enamieri signature would have made the difference between a violin worth perhaps a hundred thousand dollars and a concert fiddle you could buy for a thousand. If I were willing to sell for that price. Which I am not.”
 
 Lester blinked at me. “Pat, you think somebody murdered pop for that fiddle?”
 
@@ -177,7 +182,7 @@ The kid’s lower lip trembled. “Pat, I got to tell you this. I don’t want y
 {: .chapternumber .no_toc}
 
 ###Out Of Its Case
-{: .chaptertitle }
+{: .chaptertitle}
 
 He knew better, of course. He knew I was lying when I said I wasn’t sore. Kids are smarter than you give them credit for. He knew it was eating my heart out because Barbara had married Ferranti. He just didn’t know how to put his sympathy into words.
 
@@ -236,7 +241,7 @@ His eyes still reminded me of his sister’s. I went out of the house and didn�
 {: .chapternumber .no_toc}
 
 ###Where’d You Get The Fiddle?
-{: .chaptertitle }
+{: .chaptertitle}
 
 Moon Garden was on the edge of town, just inside the city limits but a good mile beyond where the subdivision housing developments stopped. It was a rambling, ramshackle eyesore that masked its shabbiness with neon signs, including a big pale neon moon over the flat roof. The only thing that put it a cut above a juke joint was Al Carlin’s eight-piece orchestra.
 
@@ -277,7 +282,7 @@ He frowned a little. He didn’t seem to like my tone of voice. “Is that you t
 {: .chapternumber .no_toc}
 
 ###I Believe You
-{: .chaptertitle }
+{: .chaptertitle}
 
 He lifted a shoulder. “I bought it. From Rudy. He finally talked old man Harcourt into selling it.”
 
@@ -348,7 +353,7 @@ The denial seemed to choke him. He scuttled to Barbara.
 {: .chapternumber .no_toc}
 
 ###To Pinch Rudy
-{: .chaptertitle }
+{: .chaptertitle}
 
 So she believed him. But that wouldn’t keep him out of the electric chair.
 
@@ -417,6 +422,5 @@ After they took Al away he said: “But, Pat, I ... I thought you were going to 
 “Skip it, Butch.” He got it. I’d called him Butch.
 
 I put my arm around his shoulder. “Come on, Butch. I’ll take you home.”
-
 <p id="theend">~ The End ~
 <h6 class="btt"><a href="#top">Back to Top</a></h6>

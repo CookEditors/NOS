@@ -6,13 +6,13 @@ title: "The Brand of Cain"
 author: Ward Sterling
 date: 2015-08-26
 category: short-stories
-excerpt: A gypsy who can see into the minds of men and see the darkness of their deeds—fortune telling, mind reading and all of that sort of stuff— if it’s results you want, then Lipki is your man.
+excerpt: A gypsy who can see into the minds of men and see the darkness of their deeds—fortune telling, mind reading and all of that sort of stuff—if it’s results you want, then Lipki is your man.
 image: /assets/img/brand-of-cain.svg
 genre: Professional Sleuth
 wordcount: 3256
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Brand_of_Cain.mobi
+epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Brand_of_Cain.epub
 --- 
 
 <section id="toc" class="toc">
@@ -25,29 +25,32 @@ epub: LINK TO EPUB
 </div>
 </section> <!-- table-of-contents -->
 
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
 ###Chapter 1
 {: .chapternumber .no_toc}
 
 ###Waldo Fellows Had Met Death
-{: .chaptertitle }
+{: .chaptertitle}
 
 Doctor Andrews, the physician who had been called in by the coroner, gave as his opinion that Waldo Fellows had met death shortly after midnight. The condition of the body, he said, proved his contention. Then, too, the fact that the blood with which the sheets were smeared had dried and hardened caused him to stick to his statement.
 
 Yet Orville Hitchens, Fellows’ secretary, swore that his employer had been alive and well at two o’clock in the morning.
 
-Hitchens stated that he had been summoned by Fellows at one o’clock and requested to drive to Amboy, two miles away, for some bromide. Mr. Fellows had been extremely nervous of late and found himself unable to sleep. Finding that he had no bromide—a drug that he was accustomed to taking—he had, awakened the secretary. Hitchens asserted that he had taken the light car, made the trip and returned just before the clock struck two. Fellows had taken a dose of the drug and Hitchens had again retired.
+Hitchens stated that he had been summoned by Fellows at one o’clock and requested to drive to Amboy, two miles away, for some bromide. Mr. Fellows had been extremely nervous of late and found himself unable to sleep. Finding that he had no bromide—a drug that he was accustomed to taking—he had awakened the secretary. Hitchens asserted that he had taken the light car, made the trip and returned just before the clock struck two. Fellows had taken a dose of the drug and Hitchens had again retired.
 
 Henry Phelps, the drug clerk, verified Hitchens’ statement as to the purchase of the bromide, while Landes, the chauffeur, told of getting out the light car for the secretary, who had driven it himself.
 
 In spite of this Doctor Andrews stuck to his statement that the murdered man had been dead at least ten hours when he made his examination. Swenson, the valet, had discovered the murder when he went to awaken his master at eight o’clock.
 
-It was nearly ten o’clock when Coroner Stevenson arrived, accompanied by Doctor Andrews and Bram Dwyer, the New York detective, who, with myself. was* spending a few days’ vacation in the little village. The prominence of the murdered man, coupled with the fact that the detective and Stevenson were old friends, caused the New Yorker to interest himself in the case at the latter’s request.
+It was nearly ten o’clock when Coroner Stevenson arrived, accompanied by Doctor Andrews and Bram Dwyer, the New York detective, who, with myself was spending a few days’ vacation in the little village. The prominence of the murdered man, coupled with the fact that the detective and Stevenson were old friends, caused the New Yorker to interest himself in the case at the latter’s request.
 
 Fellows was a gentleman farmer—a man worth several millions of dollars made in Wall Street; who, tired of life in the city, had purchased Samoset Farm just at the edge of Amboy township and, after stocking it with the finest blooded cattle and horses that money could buy, had settled down to a life of rustic-bliss. As time passed he had added to his acreage by purchasing adjoining farms until half the township was his.
 
 He had erected a mansion around which he had built smaller homes for his employees. These with the great barns, sheds for the machinery, dairy and offices made Samoset Farm almost a small town.
 
-Such a man as Waldo Fellows set down in (he midst of a rural community is bound to be sought out by his fellow-men. Twice he had reluctantly allowed himself to represent his district in the State Legislature. The Governor’s chair could have been his for the asking. His fellow-townsmen loved him for the nobility of his character. Yet he had enemies by the score—many of them the small landowners whose farms surrounded his. For the man who does things on a big scale is certain sooner or later to tramp on the toes of others. But who among those he had offended hated him to the extent of taking his life?
+Such a man as Waldo Fellows set down in the midst of a rural community is bound to be sought out by his fellow-men. Twice he had reluctantly allowed himself to represent his district in the State Legislature. The Governor’s chair could have been his for the asking. His fellow-townsmen loved him for the nobility of his character. Yet he had enemies by the score—many of them the small landowners whose farms surrounded his. For the man who does things on a big scale is certain sooner or later to tramp on the toes of others. But who among those he had offended hated him to the extent of taking his life?
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
@@ -56,17 +59,17 @@ Such a man as Waldo Fellows set down in (he midst of a rural community is bound 
 {: .chapternumber .no_toc}
 
 ###A Bottle of Bromide
-{: .chaptertitle }
+{: .chaptertitle}
 
 Fellows was murdered in bed, apparently in cold blood, for there was no evidence of a struggle of any kind. Nothing in the room had been disturbed. So far as could be ascertained nothing of value had been taken. The fact that the bedding was not mussed led to the belief that the murderer had struck while his victim was asleep.
 
 None of the servants nor Mrs. Fellows—who slept just across the hall—had heard any noise save when Hitchens returned from the drug store with the drug which Fellows had requested. Mrs. Fellows had called over the transom to Hitchens to ask what was the matter and he had told her of his employer’s sleeplessness.
 
-The bottle of bromide with a small quantity gone was found on the table beside the bed. Bromide seldom acts inside of half to three-quarters of an hour. Hence, assuming that Hitchens had told the truth—and everything pointed to his having done so—Fellows must, if he was killed in his sleep, .have met death not earlier than three o’clock.
+The bottle of bromide with a small quantity gone was found on the table beside the bed. Bromide seldom acts inside of half to three-quarters of an hour. Hence, assuming that Hitchens had told the truth—and everything pointed to his having done so—Fellows must, if he was killed in his sleep, have met death not earlier than three o’clock.
 
 Yet the blood which had flowed from the wound, the condition of the body— everything—led a cool, conservative medical man to declare that death had struck at least three hours earlier. Nor could his testimony be shaken.
 
-There were twelve servants who slept in the house, all occupying the tipper floor, with, the exception of Hitchens, Marie, Mrs. Fellows’ maid, and Swenson, the valet.
+There were twelve servants who slept in the house, all occupying the upper floor, with the exception of Hitchens, Marie, Mrs. Fellows’ maid, and Swenson, the valet.
 
 Watson, the butler and general man about the house, was the last person to bed and, according to his own statement, the first up in the morning. He had personally locked all the doors and windows on the first floor. They were all locked when he made his rounds in the morning.
 
@@ -78,9 +81,9 @@ Of course the windows of the sleeping rooms on the second floor were open. A man
 
 And there was always to be considered the lack of motive. Aside from the farmers who were jealous of the big landowner there was no one known to hold a grudge against him.
 
-My friend Dwyer declined to assist the officials in their hunt for footprints, contenting himself with dawdling about the house as if greatly bored with the whole affair. Conversant as I am with his methods, I admit that this surprised me, for he is usually energy personified when there is some perplexing problem to be untangled. Eventually, however, the officials, nonplussed, were forced to turn to him for advice. lie answered with a shrug of his shoulders, absolutely refusing to be drawn into a discussion of the case.
+My friend Dwyer declined to assist the officials in their hunt for footprints, contenting himself with dawdling about the house as if greatly bored with the whole affair. Conversant as I am with his methods, I admit that this surprised me, for he is usually energy personified when there is some perplexing problem to be untangled. Eventually, however, the officials, nonplussed, were forced to turn to him for advice. He answered with a shrug of his shoulders, absolutely refusing to be drawn into a discussion of the case.
 
-Following the time-worn methods, the sheriff called all of the servants together and examined them, eliciting no more information than had already been i gained. It was at this point that Dwyer, who had listened to the questioning without comment, offered a suggestion:
+Following the time-worn methods, the sheriff called all of the servants together and examined them, eliciting no more information than had already been gained. It was at this point that Dwyer, who had listened to the questioning without comment, offered a suggestion:
 
 “There’s a band of gypsies camped a few miles the other side of town,” he remarked quietly. “Their chief is old Father Lipki, a friend of mine. The old fellow knows his business from the ground up—fortune telling, mind reading and all of that sort of stuff. In fact, he’s assisted me on more than one occasion. I know that you’ll laugh at me for the suggestion, but let me bring him here. I’ll guarantee that he’ll have the murderer by the heels inside of half an hour. How he does it I don’t pretend to know. It’s positively uncanny, the way he pulls off his stunts. But if it’s results you want, then Lipki is your man.”
 
@@ -99,7 +102,7 @@ My friend shrugged his shoulders again.
 {: .chapternumber .no_toc}
 
 ###Father Lipki
-{: .chaptertitle }
+{: .chaptertitle}
 
 Darkness had fallen when Dwyer and the coroner again drove up to the Fellows home accompanied by Father Lipki, the gypsy.
 
@@ -125,7 +128,7 @@ Keeping carefully inside the mark, he made the rounds, touching each of us light
 
 Reseating himself on the floor, he again bowed his head and once more his lips moved as if in prayer. Suddenly he fell over and for several minutes writhed about as if in terrific pain. I leaped to my feet to assist him, but the strong hand of Bram Dwyer held me back.
 
-“Remember!” he shouted. “The old man commanded us, regardless of what happened, not to cross the line 1”
+“Remember!” he shouted. “The old man commanded us, regardless of what happened, not to cross the line!”
 
 After three or four minutes the spasms ceased and the gypsy seemingly none the worse for his experience arose and addressed us:
 
@@ -133,11 +136,9 @@ After three or four minutes the spasms ceased and the gypsy seemingly none the w
 
 “Yet He who created all things will not allow the crime of murder to pass unnoticed. Therefore I say unto you this:
 
-“If he who committed this crime is in this room there will appear upon his forehead the sign of the cross— the mark that God placed upon Cain!
+“If he who committed this crime is in this room there will appear upon his forehead the sign of the cross — the mark that God placed upon Cain! This alone can I do. More than that I am not allowed, for my powers are limited.”
 
-“This alone can I do. More than that I am not allowed, for my powers are limited.”
-
-He signaled for Dwyer to turn on the lights. An instant later we were blinking at the unaccustomed brightness. The old man seized the brazier and held it close to the face of each of us, gazing into our eyes as if seeking to read there the secret he was bent upon-obtaining.
+He signaled for Dwyer to turn on the lights. An instant later we were blinking at the unaccustomed brightness. The old man seized the brazier and held it close to the face of each of us, gazing into our eyes as if seeking to read there the secret he was bent upon obtaining.
 
 Then came a shriek! A gasp of astonishment—of horror! A cry! I turned my head, my eyes following the gaze of the others.
 
@@ -158,23 +159,23 @@ Then, without warning, he dropped to his knees, his arms outstretched towards th
 {: .chapternumber .no_toc}
 
 ###Ammonium Chloride
-{: .chaptertitle }
+{: .chaptertitle}
 
 “No, I never met Lipki until yesterday,” Dwyer chuckled to us as, two hours later, Hitchens safely lodged in jail, he sat with the coroner, the sheriff and myself in the former’s parlor and went over the various phases of the case.
 
-“I’m a fairly good judge of character and when I noticed him begging on Main Street yesterday I immediately placed the old fellow as being far above the average of his class mentally and [capable of playing almost any part he might be called upon to take. 1 realized far better than the rest of you that the murderer was too clever to be captured unless some subterfuge was used and when you appealed to me, Stevenson, my thoughts reverted at once to the old man. A falsehood or two in the interests of justice is, in my opinion, perfectly allowable. And that I was correct in my estimate is proved by what happened.
+“I’m a fairly good judge of character and when I noticed him begging on Main Street yesterday I immediately placed the old fellow as being far above the average of his class mentally and capable of playing almost any part he might be called upon to take. 1 realized far better than the rest of you that the murderer was too clever to be captured unless some subterfuge was used and when you appealed to me, Stevenson, my thoughts reverted at once to the old man. A falsehood or two in the interests of justice is, in my opinion, perfectly allowable. And that I was correct in my estimate is proved by what happened.
 
-“What appealed to me from the very start was the apparent lack of motive. Had we been able to supply a motive we might have been able to have laid our hands on the man who struck the blow. But in the absence of one, it became necessary to take some radical step. To imagine that one of the farmers hereabouts would become jealous enough to strike Fellows down was absurd. And. granting that some of them might have the nerve, they lacked the imagination to pull off so mysterious a crime.
+“What appealed to me from the very start was the apparent lack of motive. Had we been able to supply a motive we might have been able to have laid our hands on the man who struck the blow. But in the absence of one, it became necessary to take some radical step. To imagine that one of the farmers hereabouts would become jealous enough to strike Fellows down was absurd. And, granting that some of them might have the nerve, they lacked the imagination to pull off so mysterious a crime.
 
 “I was confident in my own mind that Hitchens was the guilty party. Why? Because he was the only man who had an opportunity to kill Fellows. But, on the other hand, his frank statements apparently eliminated him from the suspects.
 
-“Let us analyze the affair a trifle deeper: Doctor Andrews swears that Fellows was killed shortly after midnight. We now know that he was correct. But Hitchens bobs up with the story of being in conversation with the murdered man at two o’clock. He was able to prove his statements shy two reputable and disinterested witnesses—Landes, the chauffeur, and Phelps, the drug clerk. Therefore my conclusion was that either Hitchens was lying or that the physician was wrong. But my experience has taught me that medical men are, as a general pule, cold-blooded —that is, they figure things out with mathematical accuracy and by the law of averages, they are right ninety-nine times out of a hundred. Therefore Hitchens was lying. But so far as we knew there was no motive.
+“Let us analyze the affair a trifle deeper: Doctor Andrews swears that Fellows was killed shortly after midnight. We now know that he was correct. But Hitchens bobs up with the story of being in conversation with the murdered man at two o’clock. He was able to prove his statements why two reputable and disinterested witnesses—Landes, the chauffeur, and Phelps, the drug clerk. Therefore my conclusion was that either Hitchens was lying or that the physician was wrong. But my experience has taught me that medical men are, as a general pule, cold-blooded —that is, they figure things out with mathematical accuracy and by the law of averages, they are right ninety-nine times out of a hundred. Therefore Hitchens was lying. But so far as we knew there was no motive.
 
 “Now, the average man has deep within him a streak of superstition and a fear of whatever he does not understand. Therefore I took the indolent attitude before the servants, finally working things up to a climax so that they expected wonderful things from the gypsy whom I had touted so highly. As soon as you gave your permission I hunted up the old man, whose name, by the way, is not Lipki, but Rodereigo. For ten dollars he agreed to play the part the way I told him to—and that he sustained my estimate of him I believe you will all agree. I spent the afternoon in coaching him.
 
 “I felt that, in case Hitchens did not confess, we would have lost nothing. But I was betting on the superstitious streak in his makeup and won out.
 
-“We all know now what his motive was. He had been systematically robbing his employer for years. Fellows had become suspicious and last night notified the secretary that they would go over the hooks together today. Hitchens waited until his employer was sleeping, then entered the room by means of a key that he had secured possession of, struck the fatal blow, then went through the mummery of going to the village after the bromide, thus providing himself with an almost perfect alibi. With Fellows dead, he figured that, as confidential man, he would be retained for a year or two to come, finally reaching a point where he could get his hands on a large sum of money and make his escape before his defalcations were discovered.”
+“We all know now what his motive was. He had been systematically robbing his employer for years. Fellows had become suspicious and last night notified the secretary that they would go over the books together today. Hitchens waited until his employer was sleeping, then entered the room by means of a key that he had secured possession of, struck the fatal blow, then went through the mummery of going to the village after the bromide, thus providing himself with an almost perfect alibi. With Fellows dead, he figured that, as confidential man, he would be retained for a year or two to come, finally reaching a point where he could get his hands on a large sum of money and make his escape before his defalcations were discovered.”
 
 “But,” rumbled the sheriff, “I’m still in the dark as to how the gypsy caused that black cross to appear on his forehead just by mumbling a few prayers. Those people know a lot of black art that we more civilized people will never be able to understand.”
 

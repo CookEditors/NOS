@@ -11,8 +11,8 @@ image: /assets/img/gems-glow-with-blood.svg
 genre: Hardboiled PI
 wordcount: 4576
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Gems_Glow_With_Blood.mobi
+epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Gems_Glow_With_Blood.epub
 --- 
 
 <section id="toc" class="toc">
@@ -25,11 +25,14 @@ epub: LINK TO EPUB
 </div>
 </section> <!-- table-of-contents -->
 
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
 ###Chapter 1
 {: .chapternumber .no_toc}
 
 ###Renny Jordahl’s Private Secretary
-{: .chaptertitle }
+{: .chaptertitle}
 
 The babe was going to soak her feet and ruin her shoes if she kept running through puddles. I followed her through the rain from the Greyhound Bus Terminal.
 
@@ -69,7 +72,7 @@ I had to drag her on the sidewalk as a car, turning the corner, washed past. “
 
 “I do mind. But what can I do about it?”
 
-I’ve never bragged about my dump in the West Thirties and I’m not going to begin now. When I unlocked the door in the sunken vestibule I said, “Third floor.
+I’ve never bragged about my dump in the West Thirties and I’m not going to begin now. When I unlocked the door in the sunken vestibule I said, “Third floor.”
 
 I let her go up the stairs ahead of me. I watched her legs. Her nylons were all wet around the ankles and rain-blotched at the calves, but they were still the nicest legs I’d seen in a long time.
 
@@ -99,7 +102,7 @@ Her eyes hit me with the impact of two stones. “So you were there! Why didn’
 
 “The kind of report that Kinsey gives you in a bottle,” she said brassily. I tried to picture her as Renny Jordahl’s private secretary, but at the moment I couldn’t.
 
-I said from the kitchen, “I knew you were scared. You didn’t exactly show it. But I’ve seen people, in my business, and I can tell.”
+I said from the kitchen, “I knew you were scared. You didn’t exactly show it. But I’ve seen people in my business, and I can tell.”
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
@@ -108,13 +111,13 @@ I said from the kitchen, “I knew you were scared. You didn’t exactly show it
 {: .chapternumber .no_toc}
 
 ###The Czech
-{: .chaptertitle }
+{: .chaptertitle}
 
 I came back again with two whiskey-and-waters. By now she’d even taken off her shoes and stockings. She was the type who needed very little urging to make herself at home. Her nasturtium-shade suit was wrinkled.
 
 But on her I could stand a mouth painted on crooked or lipstick on her teeth. She sat down, held the drink in her hand and rubbed her bare feet together to warm them by friction. “It’s good to relax. I haven’t had a moment’s peace for a week. Dodging all the time. I feel absolutely safe with you.”
 
-“That’s my trouble with women. They feel too safe with me.”
+“That’s my trouble with women. They feel too safe with me.”ß
 
 She said, “Renny won’t think this is nice, your changing his plans by taking me here.”
 
@@ -159,13 +162,13 @@ I said, “Brief me on the Czech who was murdered.”
 {: .chapternumber .no_toc}
 
 ###He’s Got Something On Me
-{: .chaptertitle }
+{: .chaptertitle}
 
 She started slowly. “What do you want to know? Jan Bardijov got out of Czechoslovakia one jump ahead of the Communist grab. He was quite a smuggler. He got out with a sack of harlequin opals.”
 
 “Quite a smuggler,” I agreed. “Where’d the opals change into rubies?”
 
-In Burma. Bardijov traveled east. Because opals are rarer in Burma than rubies, Bardijov managed to meet some potentate and make a swap—to his own advantage. He came on to the United States, smuggling in a quarter of a million in the best pigeon’s blood.”
+“In Burma. Bardijov traveled east. Because opals are rarer in Burma than rubies, Bardijov managed to meet some potentate and make a swap—to his own advantage. He came on to the United States, smuggling in a quarter of a million in the best pigeon’s blood.”
 
 “Then he got in touch with Jordahl and Company,” I said, “expecting to make a sale. He didn’t know that it was worth his life.”
 
@@ -218,7 +221,7 @@ She looked at me as if I’d suddenly grown twice as tall. “Renny must have an
 {: .chapternumber .no_toc}
 
 ###The Old Kick-Back
-{: .chaptertitle }
+{: .chaptertitle}
 
 But I was keeping it to myself. I wasn’t going to tell her that Jordahl knew me because I had links of my own with the jewelry business—on the shady side. I wasn’t what the police would call an absolutely scrupulous private operator.
 
@@ -255,7 +258,7 @@ I was close enough now to take it out of her hand. Her eyes were looking into mi
 {: .chapternumber .no_toc}
 
 ###What A Stupe
-{: .chaptertitle }
+{: .chaptertitle}
 
 She closed her eyes as if ashamed at how weak she was and her arm dropped limply. I snapped back the automatic’s slide. A shiny copper-colored cartridge was bedded there in the barrel, winking brazenly up at me.
 
@@ -288,7 +291,7 @@ She sat down again with a tired flop. She picked up the highball glass and stare
 {: .chapternumber .no_toc}
 
 ###What’s The Matter, Sluefoot?
-{: .chaptertitle }
+{: .chaptertitle}
 
 Renny Jordahl was in his office on the twenty-first floor of the Harrow Tower on Fortieth Street. He was going to wait there most of the night, expecting a report from me.
 
@@ -345,7 +348,7 @@ I could see four fists. “Why, you punk!” snarled Cougar.
 {: .chapternumber .no_toc}
 
 ###No Hard Feelings
-{: .chaptertitle }
+{: .chaptertitle}
 
 Cougar hit me. I tried to ride the punch and topple over backwards toward the emergency stairway. I rolled over into the dark at the foot of the stairs. Both of them came in after me.
 
@@ -388,7 +391,7 @@ I turned the doorknob. It made only a cobweb of sound. I swung the door wider.
 {: .chapternumber .no_toc}
 
 ###Watery Graves
-{: .chaptertitle }
+{: .chaptertitle}
 
 Gertie was at the open wall-safe. She was stuffing handfuls of currency into her handbag. I looked around. Where was Jordahl? No one else was in the office. The window was wide open and the grey monk’s-cloth drapes were billowing inward on the wind and they were speckled dark with the driving rain.
 
@@ -429,7 +432,7 @@ I lurched toward her. “You won’t shoot, Gertie. I took that gat away from yo
 {: .chapternumber .no_toc}
 
 ###Red As My Blood
-{: .chaptertitle }
+{: .chaptertitle}
 
 I started to reach out. She pulled the trigger. A sledge-hammer hit me in the right shoulder and I spun halfway around from the impact. I didn’t feel any pain. Just the punch.
 
