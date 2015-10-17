@@ -9,8 +9,8 @@ image: /assets/img/rf-cover.png
 wordcount: 
 genre: The Red File
 timetoread: EST TIME TO READ
-kindle: LINK TO KINDLE
-epub: LINK TO EPUB
+kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/THE-RED-FILE-v1n1.mobi
+epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/THE-RED-FILE-v1n1.epub
 --- 
 
 ##Contents
