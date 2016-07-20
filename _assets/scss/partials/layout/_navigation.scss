@@ -2,6 +2,10 @@
    NAVIGATION..MENUS
    ========================================================================== */
 
+.nav__primary {
+	margin: 5rem 0 1rem 0;
+}
+
 .nav__basic {
 	// border: 1px dotted blue;
 	margin: -1rem auto 1rem auto;
@@ -23,7 +27,7 @@
 		// border: 1px dotted #fff;
 		font-size: 1.25rem;
 		color: $paper;
-		text-align: center;
+		text-align: right;
 		// margin: 1rem auto 1rem auto;
 		// padding: 0.75rem;
 		// padding: 1.5625rem;
@@ -133,7 +137,7 @@
 //      //  color: $acolor;
 //      //  padding: 0 1px;
 //      //  text-decoration: underline;
-//      //  } 
+//      //  }
 //      &:hover, &:active {
 //        background-color: $acolor;
 //        color: #fff;

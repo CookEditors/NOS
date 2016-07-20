@@ -3,7 +3,7 @@ layout: post_combo
 layoutTag: post
 casefileNumber: 55ccf75fb3901011515aefc2
 title: "The Case of the Duelling Pistols"
-author: 
+author:
 series: A Dixon Hawke Mystery
 date: 2015-09-14
 category: short-stories
@@ -14,7 +14,7 @@ wordcount: 3414
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE
 epub: LINK TO EPUB
---- 
+---
 
 <section id="toc" class="toc">
   <header>
@@ -79,10 +79,10 @@ The warder came to take Foxy away. Dixon Hawke and the inspector left the jail. 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 1
+### Chapter 1
 {: .chapternumber .no_toc}
 
-###The Bullet in the Wall
+### The Bullet in the Wall
 {: .chaptertitle }
 
 The house was midway between Hampstead and Golders Green, standing at the edge of the wide heath. Inspector Meadow’s unlocked the doors and showed the way to the room where Martin had been killed.
@@ -146,10 +146,10 @@ Hurrying across the room he put a chair against the wall and climbed on to it. C
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 2
+### Chapter 2
 {: .chapternumber .no_toc}
 
-###A Visitor from Moravia
+### A Visitor from Moravia
 {: .chaptertitle }
 
 The second bullet was a valuable clue, but at that the new line of investigation was halted. It had already been established that nobody had hoard the firing of the shots. The house stood alone at the edge of the heath and it was easy to enter or leave the place without being seen.
@@ -213,10 +213,10 @@ Then the detective hesitated a moment. Meadows called his name several times bef
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 3
+### Chapter 3
 {: .chapternumber .no_toc}
 
-###At the Hotel du Roi
+### At the Hotel du Roi
 {: .chaptertitle }
 
 To Dixon Hawke, the French capital was as familiar as London. When the bus from Le Bourget dropped him at the air terminus on the Rue George V’., he strolled slowly along the boulevard to the great Place du Concorde. Under his arm was a small package which he had passed unopened through the Customs with the aid of his Scotland Yard credentials.
@@ -242,10 +242,10 @@ Several minutes passed and then the clerk called him. He was requested to go up 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 4
+### Chapter 4
 {: .chapternumber .no_toc}
 
-###A Full Confession
+### A Full Confession
 {: .chaptertitle }
 
 It was a fine room, lighted by the bright evening sky. In a chair near the windows sat a tall and dignified man. He wore a dressing-gown over his pyjamas, and the detective noticed that his left arm was in a sling. As Hawke entered, lie gazed at him intently.
@@ -287,10 +287,10 @@ But taking the law into one’s hands was a crime in England. General Pablo woul
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 5
+### Chapter 5
 {: .chapternumber .no_toc}
 
-###A Present from Foxy
+### A Present from Foxy
 {: .chaptertitle }
 
 I will come with you to England if you wish,” the General said.

@@ -44,7 +44,7 @@ NOTE: moved to HEAD -->
   function MoveTo() {
     var prpos = document.getElementById('prpos');
     prpos.style.width = document.getElementById('moveTo').value + "%";
-  } 
+  }
 </script>
 
 <!--call jPushMenu, required-->
@@ -99,7 +99,7 @@ NOTE: moved to HEAD -->
 </script>
 
 
-<script> 
+<script>
   $(document).ready(function(){
     $("#register__button").click(function(){
       $("#panel").slideDown("5000", "easeOutBounce");
@@ -121,7 +121,7 @@ NOTE: moved to HEAD -->
 
 <!-- this is the simple working version to set localStore attributes ... not used in lieu of callback at the end of ajaxMailChimp (below) -->
 <!-- <script>
-	
+
 	$(document).ready(function() {
 
 		init()
@@ -145,12 +145,12 @@ NOTE: moved to HEAD -->
 
 <!-- CHECK LOCAL STORAGE -->
 <!-- can I name this function/script?? -->
-<script> 
-	
+<script>
+
 	$(document).ready(function() {
 		if ($("#thepost").hasClass("premium_post")) {
 			console.log("Premium Post")
-			
+
 			if (!store.get('registered')) {
 				console.log('UNREGISTERED User');
 				$(".pc-tease").removeClass("hidden");
@@ -165,10 +165,10 @@ NOTE: moved to HEAD -->
                 // console.log(email)
             }
             }
-      else { 
+      else {
              console.log("Post")
            }
-         }) 
+         })
 </script>
 
 
@@ -278,10 +278,10 @@ function submitSubscribeForm($form, $resultElement) {
         }
 
         $resultElement.html(message);
-        
+
         var email = $("#mce-EMAIL").val();
         store.set('registered', true);
-        store.set('emailaddress', email); 
+        store.set('emailaddress', email);
 
       } // end of else statement
     }
@@ -296,13 +296,13 @@ return module;
 
 <!-- sets story data (title, author, etc.) to localStorage/sessionStorage for use on download page -->
 <script>
-  
+
 $(document).ready(function() {
 
   $("#button__postdownload").click(function() {
     // console.log("button__postdownload clicked");
     var url; // should be available throughout click function
-    
+
     init()
     function init() {
       if (!store.enabled) {
@@ -311,7 +311,7 @@ $(document).ready(function() {
       return
       } // end of if !store.enabled
 
-      var url = "/downloads/short-stories/index2.html";         
+      var url = "/downloads/short-stories/index2.html";
       var metaArray = ["{{ page.title }}", "{{ page.author }}", "{{ page.genre }}", "{{ page.image }}", "{{ page.excerpt }}", "{{ page.kindle }}", "{{ page.epub }}", "{{ page.pdf }}"];
 
       // ARRAY KEY
@@ -322,7 +322,7 @@ $(document).ready(function() {
       // [4] = excerpt
       // [5] = kindle url
       // [6] = epub url
-      // [7] = pdf url   
+      // [7] = pdf url
 
       store.set('storyMeta', JSON.stringify(metaArray));
 
@@ -337,7 +337,7 @@ $(document).ready(function() {
       console.log(emailaddress);
       $('#mce-EMAIL').val(emailaddress);
       // $(location).attr('href', url);  sends past modal to download page .. not currently working due to val = url issue!
-    } // end if 
+    } // end if
 
   }); // end of click function
 });
@@ -347,7 +347,7 @@ $(document).ready(function() {
 <!-- retrieve localStorage arrage & dump into page elements -->
 <script>
   var retrievedMetaString = store.get("storyMeta");
-  
+
   if (retrievedMetaString) {
     var retrievedMetaArray = JSON.parse(retrievedMetaString);
     document.getElementById("title").innerHTML = retrievedMetaArray[0];
@@ -366,7 +366,7 @@ $(document).ready(function() {
 
 <!-- WG reveal -->
 <script>
-  
+
   $(document).ready(function(){
     $(".reveal__button").click(function(){
       $("#revealer").hide();
@@ -389,7 +389,7 @@ $(document).ready(function() {
 
 
 <!-- Packery/Masonry -->
-<script> 
+<script>
   $(window).on('load', function(){
     $('ul.cards').isotope({
       columnWidth: 'li.card',
@@ -404,7 +404,7 @@ $(document).ready(function() {
 
 <!-- Isotope Filter -->
 <script>
-  
+
   $(window).load(function(){
 
     var $container = $('.cards');
@@ -438,35 +438,35 @@ $(document).ready(function() {
 
 <!-- Font Resizer -->
 <!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>   -->
-<script type="text/javascript">  
-  $(document).ready(function () {  
-    $('#linkIncrease').click(function () {  
-      modifyFontSize('increase');  
-    });  
+<script type="text/javascript">
+  $(document).ready(function () {
+    $('#linkIncrease').click(function () {
+      modifyFontSize('increase');
+    });
 
-    $('#linkDecrease').click(function () {  
-      modifyFontSize('decrease');  
-    });  
+    $('#linkDecrease').click(function () {
+      modifyFontSize('decrease');
+    });
 
-    $('#linkReset').click(function () {  
-      modifyFontSize('reset');  
-    })  
+    $('#linkReset').click(function () {
+      modifyFontSize('reset');
+    })
 
-    function modifyFontSize(flag) {  
-      var divElement = $('#story-main');  
-      var currentFontSize = parseInt(divElement.css('font-size'));  
+    function modifyFontSize(flag) {
+      var divElement = $('#story-main');
+      var currentFontSize = parseInt(divElement.css('font-size'));
 
-      if (flag == 'increase')  
-        currentFontSize += 2;  
-      else if (flag == 'decrease')  
-        currentFontSize -= 2;  
-      else  
-        currentFontSize = 16;  
+      if (flag == 'increase')
+        currentFontSize += 2;
+      else if (flag == 'decrease')
+        currentFontSize -= 2;
+      else
+        currentFontSize = 16;
 
-      divElement.css('font-size', currentFontSize);  
-    }  
-  });  
-</script>  
+      divElement.css('font-size', currentFontSize);
+    }
+  });
+</script>
 
 
 <!-- bourbon.refills.fadin -->
@@ -496,7 +496,12 @@ $(document).ready(function() {
 });
 </script>
 
-
+<!-- bourbon.refills.fadin -->
+<script>
+  $("#deblur-button").click(function() {
+  $('.transform').toggleClass('deblur');
+});
+</script>
 
 
 

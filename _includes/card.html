@@ -1,5 +1,5 @@
 <ul class="cards">
-	{% for post in paginator.posts %}
+	{% for post in site.posts %}
 
 		<!-- README IF STATEMENT -->
 	  {% if site.readtime %}
@@ -9,7 +9,7 @@
 	    	{% assign readtime = post.wordcount | divided_by:180 %}
 	  	{% endif %}
 		{% endif %}
-	
+
 
 	{% if post.category == 'short-stories' %}
 	<a href="{{ post.url }}">
@@ -18,7 +18,7 @@
 			<div class="card__header" style="background-image: url('{{ post.image }}'); width: 100%;">
 
 			<!-- NOTE: style in div tag (above) MUST be included for class="card__header" to allow the individual post's image to be dropped into as a background-image. Can't (don't know how!) to do it in the CSS stylesheet, so I put it in the HTML style. -->
-			
+
 				<p class="card__genre">{{ post.genre }}</p>
 
 				{% if post.layoutTag == 'premium_post' %}
@@ -28,9 +28,9 @@
 				{% endif %}
 
 				<h2 class="card__meta">{{ post.title }} <span>{{ post.author }}</span></h2>
-				
+
 			</div> <!-- end div card__header -->
-			
+
 
 			<p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ post.url }}" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
 

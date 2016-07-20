@@ -6,14 +6,14 @@ title: "Planned by the Stars"
 author: C. S. Montanye
 date: 2015-09-10
 category: short-stories
-excerpt: “Murder!” She said quietly. “At midnight you come upon this earth and at midnight the stars plan that you shall be removed from it.
+excerpt: “Murder!” She said quietly. “At midnight you come upon this earth and at midnight the stars plan that you shall be removed from it."
 image: /assets/img/planned-by-the-stars.svg
 genre: Crook
 wordcount: 3551
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE
 epub: LINK TO EPUB
---- 
+---
 
 <section id="toc" class="toc">
   <header>
@@ -25,10 +25,10 @@ epub: LINK TO EPUB
 </div>
 </section> <!-- table-of-contents -->
 
-###Chapter 1
+### Chapter 1
 {: .chapternumber .no_toc}
 
-###The Day Is Ill-Omened
+### The Day Is Ill-Omened
 {: .chaptertitle }
 
 The sanctum of Madame Sovio was drab and tawdry. The room was small and done in faded blue draperies upon which were tinsel stars and moons.
@@ -168,10 +168,10 @@ Joe Carney reflectively rubbed his beard-rusty chin.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 2
+### Chapter 2
 {: .chapternumber .no_toc}
 
-###The Right Dope
+### The Right Dope
 {: .chaptertitle }
 
 The night was hot and unstirring. A full moon rode high in a cloudless sky. The dank smell of the river grew more pronounced. The streets were lined with coatless loungers sprawling at ease in doorway or on stoop.

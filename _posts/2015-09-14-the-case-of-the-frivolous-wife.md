@@ -14,7 +14,7 @@ wordcount: 3843
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE
 epub: LINK TO EPUB
---- 
+---
 
 <section id="toc" class="toc">
   <header>
@@ -26,7 +26,7 @@ epub: LINK TO EPUB
 </div>
 </section> <!-- table-of-contents -->
 
-###Introduction
+### Introduction
 {: .chaptertitle }
 
 “Have one, Janie?”
@@ -69,7 +69,7 @@ Ten minutes later she was dead!
 ##Chapter 1
 {: .chapternumber .no_toc}
 
-###The Poisoned Chocolates
+### The Poisoned Chocolates
 {: .chaptertitle}
 
 Dr. Hollis, the Priestlys’ medical attendant, was at the house within half an hour.
@@ -154,7 +154,7 @@ Tommy Burke followed him to the foot of the staircase.
 ##Chapter 2
 {: .chapternumber .no_toc}
 
-###The Invalid
+### The Invalid
 {: .chaptertitle}
 
 Upstairs in the invalid’s bedroom Hawke was distressed to see the feeble physical condition of the man whom he had once considered to be the fittest and most alert director in the City. But he soon realised that John Priestly had lost none of his old mental qualities.
@@ -191,7 +191,7 @@ The nurse nodded coldly, as if already accusing Hawke of disturbing her patient.
 ##Chapter 3
 {: .chapternumber .no_toc}
 
-###Tracing the Parcel
+### Tracing the Parcel
 {: .chaptertitle}
 
 Downstairs again the private detective asked Inspector Denver if he could see the box of chocolates.
@@ -292,7 +292,7 @@ The sergeant nodded.
 ##Chapter 4
 {: .chapternumber .no_toc}
 
-###Wanted—A Girl Guide!
+### Wanted—A Girl Guide!
 {: .chaptertitle}
 
 It was past three when they returned to Priestly s house.
@@ -355,7 +355,7 @@ Dixon Hawke went indoors and waited in the lounge while a servant took a message
 ##Chapter 5
 {: .chapternumber .no_toc}
 
-###The Clue of the Cosmetics
+### The Clue of the Cosmetics
 {: .chaptertitle}
 
 A little while later the nurse entered the room.
@@ -408,7 +408,7 @@ Hawke turned to his assistant.
 ##Chapter 6
 {: .chapternumber .no_toc}
 
-###The “Knot” is Untied
+### The “Knot” is Untied
 {: .chaptertitle}
 
 An hour later Inspector Denver was in a very subdued mood.

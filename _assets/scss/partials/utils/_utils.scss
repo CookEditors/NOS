@@ -32,6 +32,10 @@
   font-weight: bold;
 }
 
+mark, .mark {
+  background-color: $smallprint;
+}
+
 .hangingindent {
   padding-left: 1.375rem;
   text-indent: -1.375rem;
@@ -110,12 +114,33 @@
 .grit {
    -webkit-mask-image: url("/assets/img/mytexture6.png");
    mask-image: url("/assets/img/mytexture6.png");
+   -webkit-filter: contrast(50%);
+   // opacity: 0.5;
+   // filter: alpha(opacity=50);
    // -webkit-mask-repeat: repeat-x;
    // mask-repeat: repeat-x;
    // -webkit-mask-clip: border;
    // -webkit-mask-origin: border;
 }
 
+.grit2 {
+  -webkit-mask-image: url("/assets/img/grit2.png");
+  mask-image: url("/assets/img/grit2.png");
+  // opacity: 0.5;
+  // filter: alpha(opacity=50);
+}
+
+.grit3 {
+   -webkit-mask-image: url("/assets/img/mytexture6.png");
+   mask-image: url("/assets/img/mytexture6.png");
+   // -webkit-filter: contrast(50%);
+   opacity: 0.5;
+   filter: alpha(opacity=50);
+   // -webkit-mask-repeat: repeat-x;
+   // mask-repeat: repeat-x;
+   // -webkit-mask-clip: border;
+   // -webkit-mask-origin: border;
+}
 
 
 .progbar {
@@ -127,7 +152,7 @@
   background-color: $acolor;
   color: #fff;
   @include button(flat, $base-accent-color);
-  
+
 }
 
 .underline {
@@ -143,6 +168,49 @@
   font-weight: bold;
 }
 
+.copyright {
+  float: right;
+}
+
 .caps {
   text-transform: uppercase;
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+}
+
+.right {
+  text-align: right;
+}
+
+.left {
+  text-align: left;
+}
+
+.ghost {
+  color: $ghost;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.wrapper_960 {
+  width: 960px;
+  max-width: 95%;
+  margin: 0 auto;
+  text-align: center;
+  @media screen and (min-width: 500px) {
+    // text-align: left;
+  }
+}
+
+.no-border {
+  border: none;
+}
+
+.narrow {
+  width: 300px;
 }

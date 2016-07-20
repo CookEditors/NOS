@@ -1,0 +1,27 @@
+{% include head.html %}
+
+<body {% if page.title %} id="{{ page.title }}"{% endif %} class="">
+
+  <header class="site__header">
+    <h1 class="hidden">Tales of Murder Press, LLC</h1>
+  </header>
+
+  <main class="papertest">
+
+<!--     <div class="topbanner">
+      <p>Read carefully to spot the clue the killer overlooked before clicking to reveal the solution &amp; earn special products reserved <span class="underline">for only the best armchair detectives</span>!</p>
+    </div> -->
+
+    <div class="papertest">
+      {{content}}
+    </div> <!-- end div .wide -->
+
+  </main>
+
+{% include scripts.html %}
+
+  <footer class="site__footer" style="text-align:right;">
+    <p class="right small">Brought to you by<br><span class="italic">Tales of Murder, for readers with time to <span class="underline">kill</span>!</span><br>&copy; 2016 TALES OF MURDER PRESS, LLC</p>
+    <!-- <p class="right small copyright">&copy; 2016 TALES OF MURDER PRESS, LLC</p> -->
+  </footer>
+</body>

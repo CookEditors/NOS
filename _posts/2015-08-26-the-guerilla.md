@@ -13,7 +13,7 @@ wordcount: 2735
 timetoread: EST TIME TO READ
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Guerilla.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Guerilla.epub
---- 
+---
 
 <section id="toc" class="toc">
   <header>
@@ -28,10 +28,10 @@ epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Guerilla.epub
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 1
+### Chapter 1
 {: .chapternumber .no_toc}
 
-###Power House Gang
+### Power House Gang
 {: .chaptertitle}
 
 His name was Joe Cragen. His family was poor but respectable. Old man Cragen was a law-abiding citizen and Mother Cragen a benevolent, white-haired woman whose fondest recollections were of the County Mayo.
@@ -51,10 +51,10 @@ The same night Cragen crept through the meshes of far-flung police nets and “r
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 2
+### Chapter 2
 {: .chapternumber .no_toc}
 
-###Nothing To It
+### Nothing To It
 {: .chaptertitle}
 
 On an August night four years after the bank stick-up, and the flight of Cragen, a lean, gray-haired individual in a rusty blue serge suit, cracked shoes and greasy cap entered Wolger’s West Street hotel, crossed the uncarpeted lobby floor and moved to the desk that Abraham Wolger presided over, where he spoke briefly.
@@ -130,10 +130,10 @@ He fumbled in his pockets until he found a five-cent piece, turned east to the f
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 3
+### Chapter 3
 {: .chapternumber .no_toc}
 
-###The Tenement
+### The Tenement
 {: .chaptertitle}
 
 At the corner of Forty-ninth Street the man alighted and turned toward the river.
@@ -199,10 +199,10 @@ Then wearying of the sport and mindful that time was flying, he used his blackja
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 4
+### Chapter 4
 {: .chapternumber .no_toc}
 
-###Murder In A Fish Store
+### Murder In A Fish Store
 {: .chaptertitle}
 
 The following morning, Abraham Wolger, at the desk in his West Street hotel, looked up from the third morning edition of his favorite paper and addressed a burly youth who was sweeping out the uncarpeted lobby with a worn broom.

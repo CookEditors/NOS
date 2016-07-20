@@ -13,7 +13,7 @@ wordcount: 3202
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE
 epub: LINK TO EPUB
---- 
+---
 
 <section id="toc" class="toc">
   <header>
@@ -25,10 +25,10 @@ epub: LINK TO EPUB
 </div>
 </section> <!-- table-of-contents -->
 
-###Chapter 1
+### Chapter 1
 {: .chapternumber .no_toc}
 
-###A Rude Cabin
+### A Rude Cabin
 {: .chaptertitle }
 
 Somewhere in the gathering gloom of the Adirondack forest a twig snapped sharply. Corporal Hal Robberts, New York state trooper, halted, his whipcord body of his tensing beneath the trim gray and black uniform. For a moment he listened, his gloved hand sliding back to the comforting assurance of the big .45 Colt belted around the sheepskin coat.
@@ -52,10 +52,10 @@ Ten minutes later Robberts was standing before a rude cabin from which light str
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 2
+### Chapter 2
 {: .chapternumber .no_toc}
 
-###Amos Norton
+### Amos Norton
 {: .chaptertitle }
 
 A bulky man, face covered with a heavy growth of beard, arose and peered at the trooper through thick-lensed spectacles.
@@ -109,10 +109,10 @@ A short distance from Dorgan’s cabin Robberts called a halt. “We’ll separa
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 3
+### Chapter 3
 {: .chapternumber .no_toc}
 
-###The Tri-Motor
+### The Tri-Motor
 {: .chaptertitle }
 
 After Dorgan had given detailed directions for finding Norton’s cabin, the two separated. For an hour Robberts followed the course of a small winding river. Suddenly, a small black object near the foot of a spruce caught his attention. Curiously, the trooper strode to the spot and looked down at a fine pine marten, securely imprisoned in a steel trap. The little animal was frozen stiff by the intense cold. Robberts examined the trap staring for a long moment at the initials scratched in the steel. When he straightened a long whistle of satisfaction escaped his lips. Mind busy with a dozen thoughts he resumed his search.
@@ -152,10 +152,10 @@ Hand on holstered Colt ready for instant action, Robberts boldly approached the 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 4
+### Chapter 4
 {: .chapternumber .no_toc}
 
-###Ain’t Seen No Plane
+### Ain’t Seen No Plane
 {: .chaptertitle }
 
 A thorough search of the cabin revealed no trace of the missing currency. Robberts stepped outside and glanced keenly around the cabin walls. A sizable pile of firewood was stacked neatly against one end of the shack. The next moment the trooper began a systematic dismantling of the piled wood.
@@ -199,10 +199,10 @@ Robberts held the packet of money before Norton. “Ever see that before?”
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 5
+### Chapter 5
 {: .chapternumber .no_toc}
 
-###The Pilot Of The Douglas
+### The Pilot Of The Douglas
 {: .chaptertitle }
 
 The look of bewilderment vanished from Norton’s crafty features, to be replaced by fear. Abruptly he shut his traplike mouth and refused to speak again.
@@ -238,10 +238,10 @@ Dorgan, or Amsden; shifted his feet nervously.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 6
+### Chapter 6
 {: .chapternumber .no_toc}
 
-###Silence Like A Bombshell
+### Silence Like A Bombshell
 {: .chaptertitle }
 
 As the words fell upon the silence like a bombshell, the room erupted into violent action. With a lightning swing of his arm Amsden seized the pan of scalding dishwater from the stove and flung it straight at Robberts’ face. As the trooper attempted to duck his foot slipped and he went half to his knees. Half of the contents of the pan splashed agonizingly into his face, blinding him. Instinctively his finger contacted upon the trigger of the Colt.

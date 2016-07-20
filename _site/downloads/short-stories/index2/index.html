@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>short-stories &#124; Tales of Murder</title>
+		<title>download &#124; Tales of Murder</title>
 		
 		
 		
@@ -50,7 +50,7 @@
 
 
 
-<body  id="short-stories" class="ipadBS">
+<body  id="download" class="ipadBS">
 
 	<!-- include facebookshare.html -->
 
@@ -109,521 +109,94 @@
 
   <main class="main"> <!-- removed [style="height:100%;"] to correct ios9 browser height problem ... WHY!? -->
     <div class="content">
-    	<div class="short-stories clearfix">
+    	<!-- One overall download template OR a WG-freebie and general download templates? -->
 
+<div class="download clearfix">
   <section class="herounit">
     <div class="container">
-      <h1 class="h1 herounit__headline"><span class="slabtext">Short Stories</span></h1>
-      <!-- <p class="herounit__subhead">Read something short.</p> -->
-      <!-- <h1 class="herounit__subhead">&lsaquo;&lsaquo;&lsaquo;&nbsp;Read&nbsp;something&nbsp;short&nbsp;&rsaquo;&rsaquo;&rsaquo;</h1> -->
-      <!-- <h1 class="herounit__subhead">professional &amp; amateur sleuths &middot; noir &middot; golden age &middot; adventure &middot; crook &middot; hardboiled&nbsp;pi </h1> -->
 
-
-    
-      <!-- don't show nuthin'! -->
-    
+      <h1 class="h1 herounit__headline"><span class="slabtext">Download</span><span class="slabtext"><script type="text/javascript">formData.display("story_title")</script></span></h1>
 
     </div> <!-- end div container -->
   </section> <!-- end section herounit -->
 
-  <section class="page-intro" id="page-intro"> 
-  	<div class="inner-container">
-    		<!-- <p><span>Everybody loves a good murder.</span></p>
-        <p>Choose your fav type of mystery story, <em>below</em>,<br> and see if you've got the chops to figure out whodunit before the big reveal.</p> -->
-        <p><span class="uppercase">Whatever your desire &hellip;</span><br><span>professional or amateur sleuth &middot; cozy &middot; hardboiled pi &middot; crook &middot; noir &middot; golden age &middot; crime &middot; general mystery</span><br><span class="uppercase">Get your fix, below!</span></p>
-        
-       
-        
-        
+  <section class="page-intro">
+    <div class="container">
+      <p>Step 1&#058; Choose your preferred format<br>(Kindle, ePub 3.0, PDF)</p>
+      <p>Step 2&#058; Click the appropriate button below&nbsp;the&nbsp;description.</p>
+
+      <section class="yamllist">
+        <ul>
+          <li><script type="text/javascript">formData.display("story_title")</script></li>
+          <li><script type="text/javascript">formData.display("story_author")</script></li>
+          <li><script type="text/javascript">formData.display("story_excerpt")</script></li>
+          <li><script type="text/javascript">formData.display("story_image")</script></li>
+          <li><script type="text/javascript">formData.display("story_categories")</script></li>
+          <li><script type="text/javascript">formData.display("story_genre")</script></li>
+          <li><script type="text/javascript">formData.display("story_orig_publication")</script></li>
+          <li><script type="text/javascript">formData.display("story_orig_issue")</script></li>
+          <li><script type="text/javascript">formData.display("story_timetoread")</script></li>
+          <li><script type="text/javascript">formData.display("story_wordcount")</script></li>
+        </ul>
+      </section>
+
+    </div> <!-- end div container -->
+  </section>
+
+  <section class="intro">
+    <div class="container">
+      <div class="px600">
+        <hr>
+      </div>
+      <img class="MB__sample-img" src="<script type="text/javascript">formData.display("story_image")</script>" alt="cover image for <script type="text/javascript">formData.display("story_title")</script>">
+      <h2><script type="text/javascript">formData.display("story_title")</script></h2>
+      <h3><script type="text/javascript">formData.display("story_author")</script></h3>
+      <p class="teaser"><script type="text/javascript">formData.display("story_excerpt")</script></p>
+      <div class="px600">
+        <hr>
+      </div>
+    </div> <!-- end div container -->
+  </section> <!-- end section intro -->
+
+
+  <section class="downloads">
+    <div class="container">
+      <a href="#kindle" class="ssactions__button__link">
+        <button class="ssactions__button" id="Kindle__download" type="button" label="Kindle version">
+          <span class="icon"><i class="fa fa-file-o fa-lg"><strong class="fa-stack-1x kindleicon">a</strong></i></span>
+          <span class="label">Kindle</span>
+        </button>
+      </a>
+
+      <a href="#epub" class="ssactions__button__link">
+        <button class="ssactions__button" id="epub3__download" type="button" label="ePub3 version">
+          <span class="icon"><i class="fa fa-file-o fa-lg"></i><strong class="fa-stack-1x epubicon">e</strong></span>
+          <span class="label">ePub 3.0</span>
+        </button>
+      </a>
+
+      <a href="#pdf" class="ssactions__button__link">
+        <button class="ssactions__button" id="PDF__download" type="button" label="PDF version">
+          <span class="icon"><i class="fa fa-file-pdf-o fa-lg"></i></span>
+          <span class="label">PDF</span>
+        </button>
+      </a>
+    </div> <!-- end div container -->
+  </section> <!-- end of section downloads -->
+
+  <!-- include download-instructions.html -->
 
-<!-- 	  	<h2>whatever your poison</h2>
-	  	<h4>professional sleuth &middot; cozy &middot; hardboiled pi &middot; amateur sleuth &middot; noir &middot; golden age</h4> 
-	  	<h2>we've got the cure!</h2> -->
-
-<!-- INSERT SORTBY & FILTERON HERE -->
-
-	  </div> <!-- end of div .container -->
-  </section> <!-- end of section .page-intro -->
-
-    <!-- README IF STATEMENT -->
-    
-      
-        
-      
-    
-
-	<section class="container card__container">
-
-		<ul class="cards">
-	
-
-		<!-- README IF STATEMENT -->
-	  
-		  
-	  	  
-	  	
-		
-	
-
-	
-	<a href="/short-stories/fear/">
-		<li class="card"  id="crime">
-
-			<div class="card__header" style="background-image: url('/assets/img/fear.svg'); width: 100%;">
-
-			<!-- NOTE: style in div tag (above) MUST be included for class="card__header" to allow the individual post's image to be dropped into as a background-image. Can't (don't know how!) to do it in the CSS stylesheet, so I put it in the HTML style. -->
-			
-				<p class="card__genre">Crime</p>
-
-				
-
-				<h2 class="card__meta">Fear <span>Pettersen Marzoni</span></h2>
-				
-			</div> <!-- end div card__header -->
-			
-
-			<p>John Barnes found the perfect scheme to get rid of his penny-pinching partner. But when a clerk blackmailed him for more and more control of the company, how far would he let the man go before his anger overwhelmed his fear of exposure? <a href="/short-stories/fear/" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
-
-			<p class="meta">7,978 words | 
-				
-					<span class="time">39</span> min 
-				
-			</p>
-
-		</li>
-	</a>
-	
-	
-
-		<!-- README IF STATEMENT -->
-	  
-		  
-	  	  
-	  	
-		
-	
-
-	
-	<a href="/short-stories/double-crosser/">
-		<li class="card"  id="crook">
-
-			<div class="card__header" style="background-image: url('/assets/img/double-crosser.svg'); width: 100%;">
-
-			<!-- NOTE: style in div tag (above) MUST be included for class="card__header" to allow the individual post's image to be dropped into as a background-image. Can't (don't know how!) to do it in the CSS stylesheet, so I put it in the HTML style. -->
-			
-				<p class="card__genre">Crook</p>
-
-				
-
-				<h2 class="card__meta">Double-Crosser <span>Johnston McCultey</span></h2>
-				
-			</div> <!-- end div card__header -->
-			
-
-			<p>If Danny Blure could get out fast, he'd have a small fortune in jewelry. And if Agnew's boys would take the rap for the murder Danny'd unintentionally committed &mdash; he'd covered himself that far when he planted evidence at the scene of what he'd meant to only be a robbery &hellip; <a href="/short-stories/double-crosser/" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
-
-			<p class="meta">4,718 words | 
-				
-					<span class="time">23</span> min 
-				
-			</p>
-
-		</li>
-	</a>
-	
-	
-
-		<!-- README IF STATEMENT -->
-	  
-		  
-	  	  
-	  	
-		
-	
-
-	
-	<a href="/short-stories/dog-biter/">
-		<li class="card"  id="professional sleuth">
-
-			<div class="card__header" style="background-image: url('/assets/img/dog-biter.svg'); width: 100%;">
-
-			<!-- NOTE: style in div tag (above) MUST be included for class="card__header" to allow the individual post's image to be dropped into as a background-image. Can't (don't know how!) to do it in the CSS stylesheet, so I put it in the HTML style. -->
-			
-				<p class="card__genre">Professional Sleuth</p>
-
-				
-
-				<h2 class="card__meta">The Case of the Dog-Biter <span>A Dixon Hawke Mystery</span></h2>
-				
-			</div> <!-- end div card__header -->
-			
-
-			<p>“When a man dies, my dear Hawke,” said Dr. Wilthorpe, lighting a cigar, “he usually gives up playing the fool, but not so Alderman Wickham." <a href="/short-stories/dog-biter/" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
-
-			<p class="meta">3,184 words | 
-				
-					<span class="time">15</span> min 
-				
-			</p>
-
-		</li>
-	</a>
-	
-	
-
-		<!-- README IF STATEMENT -->
-	  
-		  
-	  	  
-	  	
-		
-	
-
-	
-	<a href="/short-stories/deuces-dealt-for-death/">
-		<li class="card"  id="noir">
-
-			<div class="card__header" style="background-image: url('/assets/img/deuces-dealt-for-death.svg'); width: 100%;">
-
-			<!-- NOTE: style in div tag (above) MUST be included for class="card__header" to allow the individual post's image to be dropped into as a background-image. Can't (don't know how!) to do it in the CSS stylesheet, so I put it in the HTML style. -->
-			
-				<p class="card__genre">Noir</p>
-
-				
-
-				<h2 class="card__meta">Deuces Dealt for Death <span>Glenn Low</span></h2>
-				
-			</div> <!-- end div card__header -->
-			
-
-			<p>Slitting the throat of the fourth of Clinsey's quartet quarry should be as easy as falling off a log, that vengeance stayer figured. But Clinsey should have known that when success goes to a kilter's head, it may be even easier for him to fall from a gallows first. <a href="/short-stories/deuces-dealt-for-death/" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
-
-			<p class="meta">4,904 words | 
-				
-					<span class="time">24</span> min 
-				
-			</p>
-
-		</li>
-	</a>
-	
-	
-
-		<!-- README IF STATEMENT -->
-	  
-		  
-	  	  
-	  	
-		
-	
-
-	
-	<a href="/short-stories/brand-of-cain/">
-		<li class="card"  id="professional sleuth">
-
-			<div class="card__header" style="background-image: url('/assets/img/brand-of-cain.svg'); width: 100%;">
-
-			<!-- NOTE: style in div tag (above) MUST be included for class="card__header" to allow the individual post's image to be dropped into as a background-image. Can't (don't know how!) to do it in the CSS stylesheet, so I put it in the HTML style. -->
-			
-				<p class="card__genre">Professional Sleuth</p>
-
-				
-
-				<h2 class="card__meta">The Brand of Cain <span>Ward Sterling</span></h2>
-				
-			</div> <!-- end div card__header -->
-			
-
-			<p>A gypsy who can see into the minds of men and see the darkness of their deeds—fortune telling, mind reading and all of that sort of stuff—if it’s results you want, then Lipki is your man. <a href="/short-stories/brand-of-cain/" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
-
-			<p class="meta">3,256 words | 
-				
-					<span class="time">16</span> min 
-				
-			</p>
-
-		</li>
-	</a>
-	
-	
-
-		<!-- README IF STATEMENT -->
-	  
-		  
-	  	  
-	  	
-		
-	
-
-	
-	<a href="/short-stories/the-con-is-green/">
-		<li class="card"  id="amateur sleuth">
-
-			<div class="card__header" style="background-image: url('/assets/img/con-is-green.svg'); width: 100%;">
-
-			<!-- NOTE: style in div tag (above) MUST be included for class="card__header" to allow the individual post's image to be dropped into as a background-image. Can't (don't know how!) to do it in the CSS stylesheet, so I put it in the HTML style. -->
-			
-				<p class="card__genre">Amateur Sleuth</p>
-
-				
-
-				<h2 class="card__meta">The Con Is Green <span>Joe Archibald</span></h2>
-				
-			</div> <!-- end div card__header -->
-			
-
-			<p>Though Snooty Piper, the Beantown crimehound, usually spots the hot-seat evidence first, this time he's only got spots before his eyes. Yet that wacky reporter can even find a way to line up those visual aberrations to put a killer on the spot. <a href="/short-stories/the-con-is-green/" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
-
-			<p class="meta">4,910 words | 
-				
-					<span class="time">24</span> min 
-				
-			</p>
-
-		</li>
-	</a>
-	
-	
-
-		<!-- README IF STATEMENT -->
-	  
-		  
-	  	  
-	  	
-		
-	
-
-	
-	<a href="/short-stories/daughter-of-the-pigeon/">
-		<li class="card"  id="adventure">
-
-			<div class="card__header" style="background-image: url('/assets/img/daughter-of-the-pigeon.svg'); width: 100%;">
-
-			<!-- NOTE: style in div tag (above) MUST be included for class="card__header" to allow the individual post's image to be dropped into as a background-image. Can't (don't know how!) to do it in the CSS stylesheet, so I put it in the HTML style. -->
-			
-				<p class="card__genre">Adventure</p>
-
-				
-					<div class="card__ribbonwrapper">
-						<div class="card__ribbon">PREMIUM</div> <!-- end of div card__ribbon -->
-					</div> <!-- end of div card__ribbonwrapper -->
-				
-
-				<h2 class="card__meta">Daughter of the Pigeon <span>Harry C. Hervey, Jr.</span></h2>
-				
-			</div> <!-- end div card__header -->
-			
-
-			<p>“The cave!” I shouted, pressing the knife into her hand and pointing to the nearby cavity. <a href="/short-stories/daughter-of-the-pigeon/" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
-
-			<p class="meta">6,316 words | 
-				
-					<span class="time">31</span> min 
-				
-			</p>
-
-		</li>
-	</a>
-	
-	
-
-		<!-- README IF STATEMENT -->
-	  
-		  
-	  	  
-	  	
-		
-	
-
-	
-	<a href="/short-stories/close-to-my-heart/">
-		<li class="card"  id="noir">
-
-			<div class="card__header" style="background-image: url('/assets/img/close-to-my-heart.svg'); width: 100%;">
-
-			<!-- NOTE: style in div tag (above) MUST be included for class="card__header" to allow the individual post's image to be dropped into as a background-image. Can't (don't know how!) to do it in the CSS stylesheet, so I put it in the HTML style. -->
-			
-				<p class="card__genre">Noir</p>
-
-				
-
-				<h2 class="card__meta">Close To My Heart <span>Chester S. Geier</span></h2>
-				
-			</div> <!-- end div card__header -->
-			
-
-			<p>Hatred caused Reece to send his rival a gift to be worn next to the heart. But he forgot to say whose heart … <a href="/short-stories/close-to-my-heart/" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
-
-			<p class="meta">4,859 words | 
-				
-					<span class="time">24</span> min 
-				
-			</p>
-
-		</li>
-	</a>
-	
-	
-
-		<!-- README IF STATEMENT -->
-	  
-		  
-	  	  
-	  	
-		
-	
-
-	
-	<a href="/short-stories/candidate-for-death/">
-		<li class="card"  id="crook">
-
-			<div class="card__header" style="background-image: url('/assets/img/candidate-for-death_right.svg'); width: 100%;">
-
-			<!-- NOTE: style in div tag (above) MUST be included for class="card__header" to allow the individual post's image to be dropped into as a background-image. Can't (don't know how!) to do it in the CSS stylesheet, so I put it in the HTML style. -->
-			
-				<p class="card__genre">Crook</p>
-
-				
-					<div class="card__ribbonwrapper">
-						<div class="card__ribbon">PREMIUM</div> <!-- end of div card__ribbon -->
-					</div> <!-- end of div card__ribbonwrapper -->
-				
-
-				<h2 class="card__meta">Candidate for Death <span>Theodore A. Tinsley</span></h2>
-				
-			</div> <!-- end div card__header -->
-			
-
-			<p>Hired guns gave their wolf cry when the Scarlet Ace passed the word, but they forgot the law of the pack until they paid the price of fear. <a href="/short-stories/candidate-for-death/" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
-
-			<p class="meta">7,622 words | 
-				
-					<span class="time">38</span> min 
-				
-			</p>
-
-		</li>
-	</a>
-	
-	
-
-		<!-- README IF STATEMENT -->
-	  
-		  
-	  	  
-	  	
-		
-	
-
-	
-	<a href="/short-stories/boomerang-bomb/">
-		<li class="card"  id="professional sleuth">
-
-			<div class="card__header" style="background-image: url('/assets/img/boomerang-bomb.svg'); width: 100%;">
-
-			<!-- NOTE: style in div tag (above) MUST be included for class="card__header" to allow the individual post's image to be dropped into as a background-image. Can't (don't know how!) to do it in the CSS stylesheet, so I put it in the HTML style. -->
-			
-				<p class="card__genre">Professional Sleuth</p>
-
-				
-
-				<h2 class="card__meta">The Case of the Boomerang Bomb <span>A Dixon Hawke Mystery</span></h2>
-				
-			</div> <!-- end div card__header -->
-			
-
-			<p> <a href="/short-stories/boomerang-bomb/" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
-
-			<p class="meta">3,360 words | 
-				
-					<span class="time">16</span> min 
-				
-			</p>
-
-		</li>
-	</a>
-	
-	
-
-		<!-- README IF STATEMENT -->
-	  
-		  
-	  	  
-	  	
-		
-	
-
-	
-	<a href="/short-stories/appearances-are-deceiving/">
-		<li class="card"  id="crook">
-
-			<div class="card__header" style="background-image: url('/assets/img/appearances.svg'); width: 100%;">
-
-			<!-- NOTE: style in div tag (above) MUST be included for class="card__header" to allow the individual post's image to be dropped into as a background-image. Can't (don't know how!) to do it in the CSS stylesheet, so I put it in the HTML style. -->
-			
-				<p class="card__genre">Crook</p>
-
-				
-
-				<h2 class="card__meta">Appearances Are Deceiving <span>George B. Jenkins, Jr.</span></h2>
-				
-			</div> <!-- end div card__header -->
-			
-
-			<p>It was the perfect crime, until Garbett took the wrong chance and lost it all. <a href="/short-stories/appearances-are-deceiving/" class="readmore">Read&nbsp;More&nbsp;&rsaquo;&rsaquo;</a> </p>
-
-			<p class="meta">4,348 words | 
-				
-					<span class="time">21</span> min 
-				
-			</p>
-
-		</li>
-	</a>
-	
-	
-
-</ul>
-
-	</section> <!-- end section .container .card__container --> 
-
- <div class="pagination__nav container">
-    
-    <ul>
-      <li>
-        <!-- if previous page -->
-        
-          <span class="previous"><a rel="prev" href="/short-stories/page/2">&laquo; Previous Stories</a></span>
-        
-      </li>
-
-      <li>
-        <!-- if next page -->
-        
-          <span class="next next__none">Last Page</span>
-      
-      </li>
-    </ul>
-
-  </div> <!-- end div .pagination__nav -->
   
-</div> <!-- end div short-stories -->
 
 
-
-
-
-
-
-
-
+</div> <!-- end div download -->
     </div>
 
   </main>
 
   <footer class="site__footer" id="site__footer">
   <div class="container">
-    <small><span class="rwd-line">Copyright 2014 &mdash; 2015 Tales&nbsp;of&nbsp;Murder&nbsp;Press,&nbsp;LLC. </span>All Rights Reserved.</small>
+    <small><span class="rwd-line">Copyright 2014 &mdash; 2016 Tales&nbsp;of&nbsp;Murder&nbsp;Press,&nbsp;LLC. </span>All Rights Reserved.</small>
   </div>
 </footer>
 
@@ -673,7 +246,7 @@ NOTE: moved to HEAD -->
   function MoveTo() {
     var prpos = document.getElementById('prpos');
     prpos.style.width = document.getElementById('moveTo').value + "%";
-  } 
+  }
 </script>
 
 <!--call jPushMenu, required-->
@@ -728,7 +301,7 @@ NOTE: moved to HEAD -->
 </script>
 
 
-<script> 
+<script>
   $(document).ready(function(){
     $("#register__button").click(function(){
       $("#panel").slideDown("5000", "easeOutBounce");
@@ -750,7 +323,7 @@ NOTE: moved to HEAD -->
 
 <!-- this is the simple working version to set localStore attributes ... not used in lieu of callback at the end of ajaxMailChimp (below) -->
 <!-- <script>
-	
+
 	$(document).ready(function() {
 
 		init()
@@ -774,12 +347,12 @@ NOTE: moved to HEAD -->
 
 <!-- CHECK LOCAL STORAGE -->
 <!-- can I name this function/script?? -->
-<script> 
-	
+<script>
+
 	$(document).ready(function() {
 		if ($("#thepost").hasClass("premium_post")) {
 			console.log("Premium Post")
-			
+
 			if (!store.get('registered')) {
 				console.log('UNREGISTERED User');
 				$(".pc-tease").removeClass("hidden");
@@ -794,10 +367,10 @@ NOTE: moved to HEAD -->
                 // console.log(email)
             }
             }
-      else { 
+      else {
              console.log("Post")
            }
-         }) 
+         })
 </script>
 
 
@@ -907,10 +480,10 @@ function submitSubscribeForm($form, $resultElement) {
         }
 
         $resultElement.html(message);
-        
+
         var email = $("#mce-EMAIL").val();
         store.set('registered', true);
-        store.set('emailaddress', email); 
+        store.set('emailaddress', email);
 
       } // end of else statement
     }
@@ -925,13 +498,13 @@ return module;
 
 <!-- sets story data (title, author, etc.) to localStorage/sessionStorage for use on download page -->
 <script>
-  
+
 $(document).ready(function() {
 
   $("#button__postdownload").click(function() {
     // console.log("button__postdownload clicked");
     var url; // should be available throughout click function
-    
+
     init()
     function init() {
       if (!store.enabled) {
@@ -940,8 +513,8 @@ $(document).ready(function() {
       return
       } // end of if !store.enabled
 
-      var url = "/downloads/short-stories/index2.html";         
-      var metaArray = ["short-stories", "", "", "", "", "", "", ""];
+      var url = "/downloads/short-stories/index2.html";
+      var metaArray = ["download", "", "", "", "", "", "", ""];
 
       // ARRAY KEY
       // [0] = title
@@ -951,7 +524,7 @@ $(document).ready(function() {
       // [4] = excerpt
       // [5] = kindle url
       // [6] = epub url
-      // [7] = pdf url   
+      // [7] = pdf url
 
       store.set('storyMeta', JSON.stringify(metaArray));
 
@@ -966,7 +539,7 @@ $(document).ready(function() {
       console.log(emailaddress);
       $('#mce-EMAIL').val(emailaddress);
       // $(location).attr('href', url);  sends past modal to download page .. not currently working due to val = url issue!
-    } // end if 
+    } // end if
 
   }); // end of click function
 });
@@ -976,7 +549,7 @@ $(document).ready(function() {
 <!-- retrieve localStorage arrage & dump into page elements -->
 <script>
   var retrievedMetaString = store.get("storyMeta");
-  
+
   if (retrievedMetaString) {
     var retrievedMetaArray = JSON.parse(retrievedMetaString);
     document.getElementById("title").innerHTML = retrievedMetaArray[0];
@@ -995,7 +568,7 @@ $(document).ready(function() {
 
 <!-- WG reveal -->
 <script>
-  
+
   $(document).ready(function(){
     $(".reveal__button").click(function(){
       $("#revealer").hide();
@@ -1018,7 +591,7 @@ $(document).ready(function() {
 
 
 <!-- Packery/Masonry -->
-<script> 
+<script>
   $(window).on('load', function(){
     $('ul.cards').isotope({
       columnWidth: 'li.card',
@@ -1033,7 +606,7 @@ $(document).ready(function() {
 
 <!-- Isotope Filter -->
 <script>
-  
+
   $(window).load(function(){
 
     var $container = $('.cards');
@@ -1067,35 +640,35 @@ $(document).ready(function() {
 
 <!-- Font Resizer -->
 <!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>   -->
-<script type="text/javascript">  
-  $(document).ready(function () {  
-    $('#linkIncrease').click(function () {  
-      modifyFontSize('increase');  
-    });  
+<script type="text/javascript">
+  $(document).ready(function () {
+    $('#linkIncrease').click(function () {
+      modifyFontSize('increase');
+    });
 
-    $('#linkDecrease').click(function () {  
-      modifyFontSize('decrease');  
-    });  
+    $('#linkDecrease').click(function () {
+      modifyFontSize('decrease');
+    });
 
-    $('#linkReset').click(function () {  
-      modifyFontSize('reset');  
-    })  
+    $('#linkReset').click(function () {
+      modifyFontSize('reset');
+    })
 
-    function modifyFontSize(flag) {  
-      var divElement = $('#story-main');  
-      var currentFontSize = parseInt(divElement.css('font-size'));  
+    function modifyFontSize(flag) {
+      var divElement = $('#story-main');
+      var currentFontSize = parseInt(divElement.css('font-size'));
 
-      if (flag == 'increase')  
-        currentFontSize += 2;  
-      else if (flag == 'decrease')  
-        currentFontSize -= 2;  
-      else  
-        currentFontSize = 16;  
+      if (flag == 'increase')
+        currentFontSize += 2;
+      else if (flag == 'decrease')
+        currentFontSize -= 2;
+      else
+        currentFontSize = 16;
 
-      divElement.css('font-size', currentFontSize);  
-    }  
-  });  
-</script>  
+      divElement.css('font-size', currentFontSize);
+    }
+  });
+</script>
 
 
 <!-- bourbon.refills.fadin -->
@@ -1125,7 +698,12 @@ $(document).ready(function() {
 });
 </script>
 
-
+<!-- bourbon.refills.fadin -->
+<script>
+  $("#deblur-button").click(function() {
+  $('.transform').toggleClass('deblur');
+});
+</script>
 
 
 

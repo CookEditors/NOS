@@ -13,7 +13,7 @@ wordcount: 1878
 timetoread: EST TIME TO READ
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Score_None_for_the_Chair.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Score_None_for_the_Chair.epub
---- 
+---
 
 <section id="toc" class="toc">
   <header>
@@ -28,10 +28,10 @@ epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Score_None_for_the
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 1
+### Chapter 1
 {: .chapternumber .no_toc}
 
-###Circumstantial Evidence
+### Circumstantial Evidence
 {: .chaptertitle}
 
 If any one around Headquarters was making a book on a Murder Handicap, I’d lay 100-to-l that Joe Gillen was guilty. A vicious and premeditated homicide, at that. But Howard—that is, Det. Chief Gwynn Howard—never said a word until the morning of the second day.
@@ -63,10 +63,10 @@ Howard took three sheets of typed paper from his desk. “Here’s the official 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 2
+### Chapter 2
 {: .chapternumber .no_toc}
 
-###The Appearance of Innocence
+### The Appearance of Innocence
 {: .chaptertitle}
 
 I read the confession. Briefly, Gillen stated that he and his wife, Mary, had been drinking in their small frame cottage.
@@ -126,10 +126,10 @@ I started for the door, stopped halfway and asked, “Do you mind if I call on B
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 3
+### Chapter 3
 {: .chapternumber .no_toc}
 
-###Maybe I Killed Her
+### Maybe I Killed Her
 {: .chaptertitle}
 
 Gillen sat on the edge of his cot, with his head in his hands. He was a stupid looking guy, with a half-moon head of hair—half hair, half bald. He told me he was 42 and worked, when he worked, as a carpenter’s helper.

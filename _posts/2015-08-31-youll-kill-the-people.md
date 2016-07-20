@@ -13,7 +13,7 @@ wordcount: 4758
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE
 epub: LINK TO EPUB
---- 
+---
 
 <section id="toc" class="toc">
   <header>
@@ -26,10 +26,10 @@ epub: LINK TO EPUB
 </section> <!-- table-of-contents -->
 
 
-###Chapter 1
+### Chapter 1
 {: .chapternumber .no_toc}
 
-###You Kill Me
+### You Kill Me
 {: .chaptertitle }
 
 The orchestra gave him a couple of bars, for an introduction, and he stood there, still a little uncomfortable under the staring eyes of the TV cameras and a dozen assorted studio technicians, and gave out with his rich baritone on an oldie, something called Careless.
@@ -67,10 +67,10 @@ And she kissed him fondly.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 2
+### Chapter 2
 {: .chapternumber .no_toc}
 
-###A Note
+### A Note
 {: .chaptertitle }
 
 They went up to bed and at eleven-thirty, the phone rang. Joe threw a robe over pajamas and padded downstairs in bare feet to see what it was.
@@ -118,10 +118,10 @@ He frowned at the prospect, but looking at Marie, sensing her fear for his safet
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 3
+### Chapter 3
 {: .chapternumber .no_toc}
 
-###Whaddaya Want Me To Do?
+### Whaddaya Want Me To Do?
 {: .chaptertitle }
 
 “Under the kitchen door, hey?” the Chief of Police said. He bit the end off a stogie and stared hard at Joe across the tip of it, before striking his match.
@@ -167,10 +167,10 @@ He frowned at the prospect, but looking at Marie, sensing her fear for his safet
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 4
+### Chapter 4
 {: .chapternumber .no_toc}
 
-###This Is A Stick-Up
+### This Is A Stick-Up
 {: .chaptertitle }
 
 He drove in Tuesday afternoon to rehearse for that evening’s slow, and Alec Thornbush, the program director, remarked that he seemed nervous.
@@ -214,10 +214,10 @@ The man not only talked mad, he looked mad. The gun again made a cone-shaped bul
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 5
+### Chapter 5
 {: .chapternumber .no_toc}
 
-###Mr. X.
+### Mr. X.
 {: .chaptertitle }
 
 Joe parked at the curb and turned for a better look at his rider.
@@ -267,10 +267,10 @@ Joe Caterisano got a very good look at the man, despite the lowered hat brim, th
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 6
+### Chapter 6
 {: .chapternumber .no_toc}
 
-###I Ain’t Buying
+### I Ain’t Buying
 {: .chaptertitle }
 
 The Chief of Police stared at Joe across the glowing tip of a mangled cigar and said, “I checked that claim of yours, that you put in a couple years as a dogface in the war, kid.”
@@ -314,10 +314,10 @@ The chief sat there, grinning impudently at him, still mangling the fat stogie b
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 7
+### Chapter 7
 {: .chapternumber .no_toc}
 
-###The Show Must Go On
+### The Show Must Go On
 {: .chaptertitle }
 
 He hadn’t told Marie anything, but she noticed. That tension was in him, working away all the time, making its presence felt in small signs that reached the surface.
@@ -373,10 +373,10 @@ Alec Thornbush stood still, not breathing. He appeared to have lost all desire t
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 8
+### Chapter 8
 {: .chapternumber .no_toc}
 
-###Running
+### Running
 {: .chaptertitle }
 
 Joe half-ran from the television stage, brandishing the gun with the air of a man who itched to kill somebody with it. He raced toward the hallway. The receptionist stared at him. She wore glasses.
@@ -422,10 +422,10 @@ The kid took him down. He walked out into the tiled corridor, with the glasses i
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 9
+### Chapter 9
 {: .chapternumber .no_toc}
 
-###A Gun In His Hand
+### A Gun In His Hand
 {: .chaptertitle }
 
 The man came over from the other side of the newsstand and stood nonchalantly beside him. Jimmy had hurriedly closed the door of the elevator behind Joe, taking his important passenger up where he’d intended to go in the first place.
@@ -467,10 +467,10 @@ Joe kicked the gun out of his fingers, dropped his own gun, and the tan coat he 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 10
+### Chapter 10
 {: .chapternumber .no_toc}
 
-###Thanks For The Publicity
+### Thanks For The Publicity
 {: .chaptertitle }
 
 “All right,” the chief said, disgruntled. “I guess I you an apology, kid. That dumb rookie, O’Hara, will live, and it could be he owes his life to you. The corpse could be your twin brother, so that proves you were telling me a straight story.”

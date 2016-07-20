@@ -1,6 +1,6 @@
 ---
 layout: post_combo
-layoutTag: premium_post
+layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef09
 title: "Candidate for Death"
 author: Theodore A. Tinsley
@@ -28,10 +28,10 @@ epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Candidate_for_Deat
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 1
+### Chapter 1
 {: .chapternumber .no_toc}
 
-###The Scarlet Ace
+### The Scarlet Ace
 {: .chaptertitle}
 
 The knocking on the door was softly urgent. An insistent little tattoo of bunched knuckles. Silence followed. Then the sound began again. Rap, rap, rap! There was something restrained and deadly in that furtive signal on the outside of the locked door of Room 708.
@@ -159,10 +159,10 @@ Just plain facts. And accurate.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 2
+### Chapter 2
 {: .chapternumber .no_toc}
 
-###Stalking Shadows
+### Stalking Shadows
 {: .chaptertitle}
 
 In the locked hotel room marked 708, the Scarlet Ace said tonelessly: “Ten grand’s a pretty good day’s pay, eh, Tony?”
@@ -338,10 +338,10 @@ The cab sprang away with a smooth leap and purred round the corner into traffic.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 3
+### Chapter 3
 {: .chapternumber .no_toc}
 
-###The Man In A Mask
+### The Man In A Mask
 {: .chaptertitle}
 
 There was a bus terminal down there and a waiting-room and platform for Gray Goose passengers. Dillon drove through an archway well beyond the platform and halted in the gloomy repair shop of the bus line. At the far side, in a square concrete recess, were the closed doors of a small private garage.
@@ -509,10 +509,10 @@ The chauffeur of the sedan that carried Mr. Tough Tony Farino glanced dutifully 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 4
+### Chapter 4
 {: .chapternumber .no_toc}
 
-###The Last Card
+### The Last Card
 {: .chaptertitle}
 
 He drove, finally, into a dim street that was mostly ware-houses and factories, with here and there a detached and dilapidated dwelling.

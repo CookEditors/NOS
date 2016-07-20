@@ -13,7 +13,7 @@ wordcount: 3256
 timetoread: EST TIME TO READ
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Brand_of_Cain.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Brand_of_Cain.epub
---- 
+---
 
 <section id="toc" class="toc">
   <header>
@@ -28,10 +28,10 @@ epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/The_Brand_of_Cain.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 1
+###  Chapter 1
 {: .chapternumber .no_toc}
 
-###Waldo Fellows Had Met Death
+###  Waldo Fellows Had Met Death
 {: .chaptertitle}
 
 Doctor Andrews, the physician who had been called in by the coroner, gave as his opinion that Waldo Fellows had met death shortly after midnight. The condition of the body, he said, proved his contention. Then, too, the fact that the blood with which the sheets were smeared had dried and hardened caused him to stick to his statement.
@@ -55,10 +55,10 @@ Such a man as Waldo Fellows set down in the midst of a rural community is bound 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 2
+### Chapter 2
 {: .chapternumber .no_toc}
 
-###A Bottle of Bromide
+### A Bottle of Bromide
 {: .chaptertitle}
 
 Fellows was murdered in bed, apparently in cold blood, for there was no evidence of a struggle of any kind. Nothing in the room had been disturbed. So far as could be ascertained nothing of value had been taken. The fact that the bedding was not mussed led to the belief that the murderer had struck while his victim was asleep.
@@ -98,10 +98,10 @@ My friend shrugged his shoulders again.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 3
+### Chapter 3
 {: .chapternumber .no_toc}
 
-###Father Lipki
+### Father Lipki
 {: .chaptertitle}
 
 Darkness had fallen when Dwyer and the coroner again drove up to the Fellows home accompanied by Father Lipki, the gypsy.
@@ -155,10 +155,10 @@ Then, without warning, he dropped to his knees, his arms outstretched towards th
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 4
+### Chapter 4
 {: .chapternumber .no_toc}
 
-###Ammonium Chloride
+### Ammonium Chloride
 {: .chaptertitle}
 
 “No, I never met Lipki until yesterday,” Dwyer chuckled to us as, two hours later, Hitchens safely lodged in jail, he sat with the coroner, the sheriff and myself in the former’s parlor and went over the various phases of the case.

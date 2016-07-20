@@ -8,12 +8,12 @@ date: 2015-08-28
 category: short-stories
 excerpt: The killers had the doc in a tight spot, but the old medico still had a few tricks up his sleeve.
 image: /assets/img/ice-from-a-corpse.svg
-genre: Crook
+genre: Amateur Sleuth
 wordcount: 1752
 timetoread: EST TIME TO READ
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Ice_From_A_Corpse.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Ice_From_A_Corpse.epub
---- 
+---
 
 <section id="toc" class="toc">
   <header>
@@ -28,10 +28,10 @@ epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Ice_From_A_Corpse.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 1
+### Chapter 1
 {: .chapternumber .no_toc}
 
-###I’m No Surgeon
+### I’m No Surgeon
 {: .chaptertitle}
 
 Old Doc Welch thought it was thunder the first time he heard it. He sat up in bed, stiff, tense, listening for it again. And then, suddenly, a cold chill swept over him as he heard again, this time unmistaken, the three knocks at the front door.
@@ -91,10 +91,10 @@ He hesitated, then seeing no choice, moved toward the white-paneled door. He ope
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 2
+### Chapter 2
 {: .chapternumber .no_toc}
 
-###A Fear-Crazed Look
+### A Fear-Crazed Look
 {: .chaptertitle}
 
 He started toward the cabinets at the far end of the room. There was a jug of concentrated ammonia in one cabinet and if he could get his hands on it before the lights went on, throw it in their faces, it would blind them and choke them for a few seconds and a few seconds was all he wanted.
@@ -124,10 +124,10 @@ She moved toward him in short, quick steps. He put his arm around her. Felix and
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 3
+### Chapter 3
 {: .chapternumber .no_toc}
 
-###A Little Stomach Trouble
+### A Little Stomach Trouble
 {: .chaptertitle}
 
 He shot a glance at his wife, saw the tears, the tremor of her lips, patted her gently, then moved reluctantly toward the table. He made a visual examination of the man on the table and in just a few seconds, he knew.
@@ -177,10 +177,10 @@ Doc Welch began.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 4
+### Chapter 4
 {: .chapternumber .no_toc}
 
-###A Load Of Hot Gallstones
+### A Load Of Hot Gallstones
 {: .chaptertitle}
 
 A clock hung next to the linen cabinet. It ticked away five, ten, fifteen minutes … and then, Doc Welch looked up. He couldn’t help feeling a sort of grim, professional satisfaction at a job well done. The incision had been made and he had found what he was looking for.

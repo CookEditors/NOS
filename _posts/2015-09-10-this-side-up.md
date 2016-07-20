@@ -13,7 +13,7 @@ wordcount: 3400
 timetoread: EST TIME TO READ
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/This_Side_Up.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/This_Side_Up.epub
---- 
+---
 
 <section id="toc" class="toc">
   <header>
@@ -28,10 +28,10 @@ epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/This_Side_Up.epub
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 1
+### Chapter 1
 {: .chapternumber .no_toc}
 
-###First Farmers Bank
+### First Farmers Bank
 {: .chaptertitle}
 
 The long, sleek limousine rolled slowly to a halt in front of the First Farmers Bank of New Albany, Indiana. The liveried negro chauffeur started to turn off the ignition when a sharp, thin voice from the rear seat froze his hand.
@@ -91,10 +91,10 @@ Behind him was a shambles: three dead men, panic and the senseless clangor of th
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 2
+### Chapter 2
 {: .chapternumber .no_toc}
 
-###We Gotta Get The Facts, Sister
+### We Gotta Get The Facts, Sister
 {: .chaptertitle}
 
 Al Aronson, ace reporter of the Louisville Courier-Journal, bent over the dying man. It was hard to hear his words. His chest swathed in bandages to hide the gaping wound and keep the ebbing life within a little longer, rose and fell in labored spasms.
@@ -146,10 +146,10 @@ The chauffeur seemed to slump underneath the bedclothes. His eyes were fixed on 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 3
+### Chapter 3
 {: .chapternumber .no_toc}
 
-###Hunches
+### Hunches
 {: .chaptertitle}
 
 Lt. Hunt chewed angrily on his cigar. “Stop trying to ride me, Aronson,” he exploded. “I’m telling you for the last time that killer was no local kid. I know every last hoodlum in town, and this punk doesn’t fit in. He’s an outsider.”
@@ -191,10 +191,10 @@ A mover named Davis said, “A mean kid, dark haired, pimples? A real low-down m
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 4
+### Chapter 4
 {: .chapternumber .no_toc}
 
-###But What Could I Do?
+### But What Could I Do?
 {: .chaptertitle}
 
 Three hours later Al Aronson made his way down a dirty, ramshackle street in Louisville, to the address Davis had given him. He surveyed the paint-peeled, two room structure in the small, littered yard.
@@ -252,10 +252,10 @@ Aronson’s lips tightened. He took the receipt and headed for the door. “I’
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 5
+### Chapter 5
 {: .chapternumber .no_toc}
 
-###I’ll Kill You! I’ll Kill You!
+### I’ll Kill You! I’ll Kill You!
 {: .chaptertitle}
 
 In the quiet of the darkened warehouse, Lt. Hunt flashed his light along the rows of high-piled crates, trunks and boxes.

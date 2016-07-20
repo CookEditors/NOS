@@ -1,0 +1,21 @@
+{% include head.html %}
+
+<body {% if page.title %} id="{{ page.title }}"{% endif %} class="ipadBS">
+
+	<!-- include facebookshare.html -->
+
+	{% include masthead.html %}
+	{% include navigation.html %}
+
+  <main class="main papertest"> <!-- removed [style="height:100%;"] to correct ios9 browser height problem ... WHY!? -->
+    <div class="content papertest">
+    	{{ content }}
+    </div>
+
+  </main>
+
+  {% include footer.html %}
+
+  {% include scripts.html %}
+
+</body>

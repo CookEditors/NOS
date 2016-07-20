@@ -1,6 +1,6 @@
 ---
 layout: post_combo
-layoutTag: premium_post
+layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef34
 title: "The Unbelievable"
 author: J. B. Hawley
@@ -13,7 +13,7 @@ wordcount: 7992
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE
 epub: LINK TO EPUB
---- 
+---
 
 <section id="toc" class="toc">
   <header>
@@ -25,10 +25,10 @@ epub: LINK TO EPUB
 </div>
 </section> <!-- table-of-contents -->
 
-###Chapter 1
+### Chapter 1
 {: .chapternumber .no_toc}
 
-###The Inquest
+### The Inquest
 {: .chaptertitle }
 
 During his world tour, undertaken at the behest and at the expense of the Chinese Government, Song Kee found much to admire.
@@ -168,10 +168,10 @@ Two days later the Grand Jury indicted the unfortunate young man. He was taken t
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 2
+### Chapter 2
 {: .chapternumber .no_toc}
 
-###The Plea
+### The Plea
 {: .chaptertitle }
 
 Song Kee’s participation in the Grenville murder case came about in a singular manner.
@@ -265,10 +265,10 @@ Sylvia Granger sprang to her feet. “Thank you! Thank you!” she cried. “And
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 3
+### Chapter 3
 {: .chapternumber .no_toc}
 
-###The Evidence
+### The Evidence
 {: .chaptertitle }
 
 The man who left his rooms on a side street off Madison Avenue was a far different Song Kee from the quietly dressed, well-poised man of the world who had promised help to Sylvia Granger at the Traveler an hour or so earlier. His clothes, his linen, his hat—a brown derby with an exceedingly curly brim— were of the fashion of Broadway rather than of Fifth Avenue. His shoes were of a gorgeous tan, contrasting gaily with pale lavender socks.
@@ -520,10 +520,10 @@ Leisurely he turned his steps homeward. At a corner drug store he stopped, and s
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 4
+### Chapter 4
 {: .chapternumber .no_toc}
 
-###The Proof
+### The Proof
 {: .chaptertitle }
 
 The next morning at eleven o’clock five people were gathered in Police Commissioner Oglethorpe’s office at headquarters awaiting the coming of Song Kee.

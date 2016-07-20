@@ -13,6 +13,10 @@ $max-width: 40ems;
 $header-font-family: "Josefin Sans",sans-serif;
 $branding-font-family: "nimbus-sans-condensed",sans-serif; /* "ltc-broadway" */
 $base-font-family: "raleway",sans-serif;
+$big-fancy-title: "brim-narrow-combined-1",sans-serif;
+$big-fancy-title1: "brim-narrow-combined-2",sans-serif;
+$big-fancy-title2: "brim-narrow-combined-3";
+$big-fancy-title3: "brim-narrow", sans-serif;
 
 /* FONT WEIGHTS */
 $light: 100;
@@ -36,6 +40,9 @@ $paper: #fffff0;
 $smallprint: darken($paper, 55%);
 $base-button-color: #00a968;
 $hover-button-color: #1ec279;
+$hothighlight: #FFFF33;
+$badblood: lighten($acolor, 2%);
+$ghost: lighten($pcolor, 25%);
 
 
 
@@ -52,7 +59,7 @@ $search-bar-border-color: orange;
 
 
 // $navigation-height: 25px
-// $navigation-padding: 
+// $navigation-padding:
 // $navigation-submenu-padding:
 // $base-border-radius:
 // $navigation-submenu-padding:
@@ -60,9 +67,16 @@ $search-bar-border-color: orange;
 
 
 
+.big-fancy-title {
+  font-family: $big-fancy-title;
+  color: $acolor;
+  text-transform: uppercase;
+}
 
-
-
+.big-fancy-title3 {
+  font-family: $big-fancy-title3;
+  color: #fff;
+}
 
 
 

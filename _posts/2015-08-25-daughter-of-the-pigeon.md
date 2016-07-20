@@ -1,6 +1,6 @@
 ---
 layout: post_combo
-layoutTag: premium_post
+layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef2d
 title: "Daughter of the Pigeon"
 author: Harry C. Hervey, Jr.
@@ -13,7 +13,7 @@ wordcount: 6316
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE
 epub: LINK TO EPUB
---- 
+---
 
 <section id="toc" class="toc">
   <header>
@@ -25,10 +25,10 @@ epub: LINK TO EPUB
 </div>
 </section> <!-- table-of-contents -->
 
-###Chapter 1
+### Chapter 1
 {: .chapternumber .no_toc}
 
-###Bloody Taoha
+### Bloody Taoha
 {: .chaptertitle }
 
 That last night in Marquesan waters, as Cleaves and I sat on the fore-deck of the anchored Jezbel, listening to the talk of Leaping Fire, the Polynesian midshipman, the Bay of Traitors was lit with an eerie glow. Along Taha-uka, from the rockbound shore where the surf hurled its futile rage upon a Bastile of dun-colored stone, to the somnolent lights of Hivaoa dreaming beneath the black thunders of Temetiu, legions of phosphorus battled in green strife.
@@ -154,10 +154,10 @@ In the huge sea-chest, face upturned, was a man.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 2
+### Chapter 2
 {: .chapternumber .no_toc}
 
-###Red Moon
+### Red Moon
 {: .chaptertitle }
 
 I cannot adequately define my emotions. I was filled with a craven desire to run, to shut the lid upon the body, to do anything to escape the horrid cavern. How long I stood there, stiff with fright, I do not know, but it was some time, and the third groan aroused me from the fear-stupor.
@@ -271,10 +271,10 @@ It must have been a rock that sent me out. At any rate the pain was sharp— in 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 3
+### Chapter 3
 {: .chapternumber .no_toc}
 
-###Tahaiupehii
+### Tahaiupehii
 {: .chaptertitle }
 
 The sleep that followed was not calm—nor can I hardly call it sleep, for during the whole period I had a peculiar awareness of things, of movement and a sound like unleashed thunder.
@@ -390,10 +390,10 @@ The last glimpse I had of that sodden, rum-soaked flesh called Habuhamo was as t
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 4
+### Chapter 4
 {: .chapternumber .no_toc}
 
-###The Darkness Of Po
+### The Darkness Of Po
 {: .chaptertitle }
 
 Tahaiupehii was conscious when I knelt beside her on the edge—slim and white as fire, her wet dark hair spread in a tangle about her lovely face. More than ever her features seemed fashioned from blue moonlight.

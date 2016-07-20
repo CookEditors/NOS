@@ -13,7 +13,7 @@ wordcount: 7978
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE
 epub: LINK TO EPUB
---- 
+---
 
 <section id="toc" class="toc">
   <header>
@@ -30,10 +30,10 @@ epub: LINK TO EPUB
 </section> <!-- table-of-contents -->
 
 
-###Chapter 1
+### Chapter 1
 {: .chapternumber .no_toc}
 
-###The Inquest
+### The Inquest
 {: .chaptertitle }
 
 [raw story copy]

@@ -6,14 +6,14 @@ title: "The Case of the Boomerang Bomb"
 author: A Dixon Hawke Mystery
 date: 2015-08-24
 category: short-stories
-excerpt: 
+excerpt: Before he met his frightful but not entirely unfitting death, Maurice Pollitt had had some life infused into him.
 image: /assets/img/boomerang-bomb.svg
 genre: Professional Sleuth
 wordcount: 3360
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE
 epub: LINK TO EPUB
---- 
+---
 
 <section id="toc" class="toc">
   <header>
@@ -25,7 +25,7 @@ epub: LINK TO EPUB
 </div>
 </section> <!-- table-of-contents -->
 
-###Introduction
+### Introduction
 {: .chaptertitle .no_toc }
 
 Before he met his frightful but not entirely unfitting death, Maurice Pollitt had had some life infused into him.
@@ -49,10 +49,10 @@ At first she had been patently contemptuous of young Pollitt, and then, graduall
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 1
+### Chapter 1
 {: .chapternumber .no_toc}
 
-###The Doable Explosion
+### The Doable Explosion
 {: .chaptertitle }
 
 Having told what he knew of the strange trio, Dr. Smith leaned forward and invited Hawke to tell him the rest of the story.
@@ -74,10 +74,10 @@ Dr. Smith nodded.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 2
+### Chapter 2
 {: .chapternumber .no_toc}
 
-###Inspector Gray’s Theory
+### Inspector Gray’s Theory
 {: .chaptertitle }
 
 Hawke considered this information thoughtfully for a moment. He had a regard for apparently trivial detail which his friends the police occasionally found irritating, but which had proved of the greatest value in the solution of many of his most famous cases.
@@ -105,10 +105,10 @@ Hawke nodded.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 3
+### Chapter 3
 {: .chapternumber .no_toc}
 
-###The Time-table Clue
+### The Time-table Clue
 {: .chaptertitle }
 
 Detective-Inspector Gray called later, and informed Hawke a trifle wearily that he had been making inquiries at every restaurant and public-house in Mars- dale.
@@ -148,10 +148,10 @@ It then occurred to me to see if I. could make some use of that mongrel. The bea
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 4
+### Chapter 4
 {: .chapternumber .no_toc}
 
-###A Promising Bite!
+### A Promising Bite!
 {: .chaptertitle }
 
 It was certainly an idea, sir,” approved Tommy, “but the mongrel’s hardly in the bloodhound class, is it?”
@@ -195,10 +195,10 @@ Hawke gripped Tommy’s arm, and, looking through the open doorway of the tavern
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 5
+### Chapter 5
 {: .chapternumber .no_toc}
 
-###Tommy “Steps On It”
+### Tommy “Steps On It”
 {: .chaptertitle }
 
 A few minutes later the small man came out of the Spread Eagle and hurried down a lane by the side of it, carrying the dog under his arm. At the far end of the lane, which did not admit vehicular traffic, was a road.
@@ -252,10 +252,10 @@ Tommy understood the significance of the order as soon as it was uttered.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 6
+### Chapter 6
 {: .chapternumber .no_toc}
 
-###When Murder Misfired
+### When Murder Misfired
 {: .chaptertitle }
 
 The youth had scarcely finished speaking when lie found himself being bundled bodily out of the car.

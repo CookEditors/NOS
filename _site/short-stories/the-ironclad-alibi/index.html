@@ -114,16 +114,12 @@
   <header class="post__header clearfix">
 	<!-- README IF STATEMENT -->
   
-	  
-  	  
-  	
-	
 
 		<div class="clearfix titlebox">
-	  	<div class="titles" id="top">
+	  	<div class="storytitles" id="top">
 				<h2 class="post__title grit">The Ironclad Alibi</h2>
 				<h3 class="post__author">By <strong>Gunnison Steele</strong></h3>
-				<figure class="post__img"> <!-- add class grit to dirty up pic -->				
+				<figure class="post__img"> <!-- add class grit to dirty up pic -->
 						<img src="/assets/img/ironclad-alibi.svg" alt="">
 						<figcaption class="caption"><strong class="casefilenum">CASEFILE NO. 55ccf75fb3901011515aef92:</strong>
 						<figcaption class="post__excerpt">Nick Ryan could prove he wasn't the murderer being sought for—prove it with the finality of the grave.</figcaption>
@@ -147,19 +143,19 @@
 	<!-- show either div.pc-tease OR div.cu-tease:
 	(1) if normal post, then show div.cu-tease,
 	(2) if premium post && localStorage[registered=true], then show div.cu-tease,
-	(3) if premium post && !localStorage[registered=true], then show div.pc-tease && include/show readmore.html 
+	(3) if premium post && !localStorage[registered=true], then show div.pc-tease && include/show readmore.html
 	-->
 
-	<div class="pc-tease grit hidden">
+	<!-- <div class="pc-tease grit hidden">
 		<h4><i class="fa fa-sign-in"></i>&nbsp;PREMIUM CONTENT</h4>
 		<h5>REGISTERED USERS ONLY</h5>
 		<p>Enjoy an online sample of <span>The Ironclad Alibi</span>. To read the full story, just register with a valid email address. You'll also be able to download either a PDF, Kindle or ePub version. Full details below the sample.</p>
-	</div> <!-- end div pc-tease -->
-		
-	<div class="cu-tease grit">
+	</div> end div pc-tease -->
+
+	  <!-- <div class="cu-tease grit">
 		<p><strong>PSST! Hey, buddy &hellip;</strong> did'ya know you can download <a href="#"><strong>The Ironclad Alibi</strong></a> for any ereader device (<em>Kindle, iBooks, etc.</em>) or as PDF &hellip; perfect for reading when you're not online but have time to kill! <strong>Look for the <a href="#ssactions_ID"><span>Download</span></a> buttons at the end of this story.</strong></p>
-	</div>  <!-- end div cu-tease --> <!-- NOTE: DISABLED TEMPORARILY UNTIL PROPER DOWNLOAD CAN BE SET UP ... DAY OR TWO AT MOST!! -->
-	
+	</div> end div cu-tease --> <!-- NOTE: DISABLED TEMPORARILY UNTIL PROPER DOWNLOAD CAN BE SET UP ... DAY OR TWO AT MOST!! -->
+
 		<div class="fontresizer">
 	<h6 class="hidden">Adjust Font Size</h6>
 	<button id="linkDecrease"><i class="fa fa-minus-square fa-2x"></i></button>
@@ -330,273 +326,7 @@
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 </p>
 
-  	<div class="read-more hidden">
-	<div class="box">
-		<!-- <div class="icon__standalone"></div> -->
-		<h3 style="color:$acolor;"><i class="fa fa-sign-in"></i>&nbsp;PREMIUM CONTENT</h3>
-		<h4>REGISTRATION REQUIRED</h4>
-		<p>To read the rest of this story, please register. It's simple and only requires a valid email address! <em>Yep&hellip;that's it!</em></p>
-		<p>When you register, I'll give you&#058;</p>
-		<ul class="fa-ul read-more__list">
-			<li><i class="fa-li fa fa-cog fa-spin"></i>Full access to all <span>premium</span> content across the site!</li>
-			<li><i class="fa-li fa fa-cog fa-spin"></i>Downloadable <span>ereader</span> editions of every story on the site!</li>
-			<li><i class="fa-li fa fa-cog fa-spin"></i><span class="redfile">THE RED FILE</span> weekly email digest!</li>
-		</ul>
-
-		<div class="read-more__buttons">
-				<button class="ssactions__button" id="register__button" type="button">
-					<span class="icon"><i class="fa fa-sign-in"></i></span>
-					<span class="label">Register</span>
-				</button>
-
-				<a href="/short-stories/#page-intro">
-					<button class="ssactions__button" id="no__register" type="button">
-						<span class="icon"><i class="fa fa-exclamation-triangle"></i></span>
-						<span class="label">No, thanks!</span>
-					</button>
-				</a>
-			</div> <!-- end div read-more__buttons -->
-		
-		<div id="panel">
-
-			<!-- Begin MailChimp Signup Form -->
-<!-- For Premium Content Signup -->
-
-<!-- <div class="progress">
-	<div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50%">50%</div>
-</div> -->
-
-<div id="mc_embed_signup subscribe-form" class="premium-signup__form">
-
-	<form action="https://chimpbuddy.com/subscribe/post-json?u=311e39626c77f842128106e92&amp;id=1c26afbfe4&c=?" method="get" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form__premium" target="_blank" novalidate>
-
-		<div id="mc_embed_signup_scroll">
-
-			<!-- email input label & field -->
-			<div class="mc-field-group">
-				<label for="mce-EMAIL" class="form__label">STEP 1&#058; Who's asking for PREMIUM access?</label>
-				<input type="email" value="" name="EMAIL" placeholder="enter your best email address" class="required email" id="mce-EMAIL">
-			</div>
-
-			<!-- START hidden fields -->
-
-				<input type="hidden" value="true" name="RFFREE"> <!-- add to The Red File segment (all subscribers!) -->
-
-				<input type="hidden" value="Crook" name="GENRE"> <!-- genre segment ... shown on story pages ONLY -->
-
-				<input type="hidden" value="The Ironclad Alibi" name="SIGNUPLOC" id="SIGNUPLOC"> <!-- adds location of signup form to MC list -->
-
-			<!-- END hidden fields -->
-
-			<div id="mce-responses" class="clear">
-				<div class="response" id="mce-error-response" style="display:none"></div>
-				<div class="response" id="mce-success-response" style="display:none"></div>
-			</div> <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-
-			<div style="position: absolute; left: -5000px;">
-				<input type="text" name="b_311e39626c77f842128106e92_1c26afbfe4" tabindex="-1" value="">
-			</div>
-
-			<!-- submit button label & field -->
-			<div class="clear">
-				<label for="mc-embedded-subscribe" class="form__label">STEP 2&#058; Verify your application &hellip;</label>
-				<input type="submit" value="Submit &amp; Continue Reading!" name="subscribe" id="mc-embedded-subscribe" class="button">
-			</div>
-
-			<div id="footer-subscribe-result"></div> <!-- add styling to suit preferred look of subscribe result!! -->
-
-		</div> <!-- end div mc_embed_signup_scroll -->
-
-	</form>
-
-</div> <!-- end div mc_embed_signup -->
-
-<script>
-// must have jquery loaded BEFORE this script or it errors out
-
-	$(document).ready(function(){
-		ajaxMailChimp.init($("#mc-embedded-subscribe-form"), $("#footer-subscribe-result"));
-
-		// insert a callback function to the localStorage thing either here or at the end of the ajaxMailChimp script in scripts.html...maybe!
-
-	});
-</script>
-
-<!-- End MailChimp Signup Form -->
-
-
-
-
-
-
-
-
-
-
-			<!-- <form name="regForm" id="regForm" class="registerUser" action="#">
-
-				<input type="hidden" id="storyId" name="storyId" value="">
-				
-				<label for="regEmail">Step 1: Enter you email</label>
-				<input id="regEmail" type="email" name="email">
-				
-				<label for="regSubmit">Step 2: Submit</label>
-				<input id="regSubmit" type="submit" value="Register Me!">
-				
-				<p style="text-align:center;"><em>Yep&hellip;that's it!</em></p>
-
-			</form> -->
-						
-		</div> <!-- end div panel -->
-
-	</div> <!-- end div box -->
-</div> <!-- end div read-more -->
-
-
-
-
-
-
-
-
-
-
-
-
-  	<!-- include s2s-pagination.html -->
   </article>
-
-
-	<div class="ssactions" id="ssactions_ID">
-
-
-<!-- SOCIAL MEDIA SHARE BUTTON & POPUP/TOOLTIP -->
-<!-- NOTE: issues with links ... creating error in console!! -->
-	<!-- <div class="tooltip-item">
-		<button class="ssactions__button" id="share" type="button">
-			<span class="icon"><i class="fa fa-share-alt"></i></span>
-			<span class="label label__share">Share</span>
-			<div class="tooltip smactions">
-				<ul class="smactions__list">
-					<li class="smactions__list__item">
-					<a href="#" rel="nofollow" target="_blank"><i class="fa fa-facebook-square fa-fw"></i>&nbsp; Share on Facebook</a> --> <!-- https://facebook.com/sharer.php?u=/short-stories/the-ironclad-alibi/ -->
-					<!-- </li>
-
-					<li class="smactions__list__item">
-						<a href="#" target="_blank"><i class="fa fa-twitter fa-fw"></i>&nbsp; Share on Twitter</a>  --><!-- https://twitter.com/intent/tweet?url=/short-stories/the-ironclad-alibi/&text=The Ironclad Alibi&hellip;Nick Ryan could prove he wasn't the murderer being sought for—prove it with the finality of the grave.&via=talesofmurder -->
-					<!-- </li>
-					<li class="smactions__list__item">
-						<a href="#"><i class="fa fa-clipboard fa-fw"></i>&nbsp; Embed URL</a>
-					</li>
-				</ul>
-			</div>
-		</button>
-	</div> -->
-
-
-
-<!-- DOWNLOAD THIS SHORT STORY BUTTON -->
-	<a href="#openModal" class="ssactions__button__link" id="button__postdownload">
-		<button class="ssactions__button" id="download" type="button">
-			<span class="icon"><i class="fa fa-cloud-download"></i></span>
-			<span class="label">Download</span>
-		</button>
-	</a>
-
-	<div id="openModal" class="modalDialog">
-    <div class="modal-inner">
-    	<a href="#close" title="Close" class="close">X</a>
-			
-			<h2 class="modalh2">Download your copy of </h2>
-			<h3 class="modalh3">The Ironclad Alibi</h3>
-
-			<div class="emailbox">
-				 <!-- Begin MailChimp Signup Form -->
-
-<link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
-
-<div id="mc_embed_signup">
-
-	<form action="//talesofmurder.us10.list-manage.com/subscribe/post?u=311e39626c77f842128106e92&amp;id=1c26afbfe4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-
-		<div id="mc_embed_signup_scroll">
-
-			<div class="mc-field-group">
-				<label for="mce-EMAIL">Where do you want it sent?</label>
-				<input type="email" value="" placeholder="your best email address" name="EMAIL" class="required email" id="mce-EMAIL">
-			</div> <!-- end div mc-field-group ... Email Address -->
-
-			<!-- START hidden fields -->
-
-				<input type="hidden" value="true" name="RFFREE"> <!-- add to The Red File segment (all subscribers!) -->
-
-				<input type="hidden" value="Crook" name="GENRE"> <!-- genre segment ... shown on story pages ONLY -->
-
-				<input type="hidden" value="The Ironclad Alibi" name="SIGNUPLOC" id="SIGNUPLOC"> <!-- adds location of INTIAL signup form to MC list -->
-
-			<!-- END hidden fields -->
-
-			<!-- <input id="title" type="hidden" value="Crook" name="TITLE"> segment title -->
-
-			<!-- <input type="hidden" value="true" name="RFFREE">  SEGMENT The Red File (Free) -->
-
-			<div id="mce-responses" class="clear">
-				<div class="response" id="mce-error-response" style="display:none"></div>
-				<div class="response" id="mce-success-response" style="display:none"></div>
-			</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-
-			<div style="position: absolute; left: -5000px;"><input type="text" name="b_311e39626c77f842128106e92_1c26afbfe4" tabindex="-1" value=""></div>
-
-			<div class="clear">
-				<!-- <label for="mc-embedded-subscribe">STEP 2&#058; Verify your application &hellip;</label> -->
-				<input type="submit" value="Gimme my story!" name="subscribe" id="mc-embedded-subscribe" class="button">
-			</div>
-			
-		</div> <!-- end div mc_embed_signup_scroll -->
-
-	</form>
-
-</div> <!-- end div mc_embed_signup -->
-
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='TITLE';ftypes[3]='text';fnames[4]='RFFREE';ftypes[4]='text';fnames[5]='NOIR';ftypes[5]='text';fnames[6]='HARDBOILED';ftypes[6]='text';fnames[7]='COZY';ftypes[7]='text';fnames[8]='GLDNAGE';ftypes[8]='text';fnames[9]='AMSLEUTH';ftypes[9]='text';fnames[10]='PROSLEUTH';ftypes[10]='text';fnames[11]='POPROC';ftypes[11]='text';fnames[12]='PARANORMAL';ftypes[12]='text';fnames[13]='MED';ftypes[13]='text';fnames[14]='LEGAL';ftypes[14]='text';fnames[15]='CAPER';ftypes[15]='text';fnames[16]='LOCKEDRM';ftypes[16]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-
-<!-- End mc_embed_signup -->
-				<p class="small"><br><i class="fa fa-lock"></i>&nbsp;Your email is securely locked away from prying eyes.<br>I NEVER sell out your <a href="/about/#policies" style="color:#fff;text-decoration:underline;">privacy</a>.<br><br><em>For entertainment purposes only.</em></p>
-			</div> <!-- end div .emailbox -->
-
-    </div> <!-- end div .moodal-inner -->
-	</div> <!-- end div #openModal -->
-	
-
-
-
-<!-- READ MORE SHORT STORIES BUTTON -->
-	<a href="/short-stories/#page-intro" class="ssactions__button__link">
-		<button class="ssactions__button" id="readmore" type="button" label="Choose Another Short Story">
-			<span class="icon"><i class="fa fa-book"></i></span>
-			<span class="label">Read More</span>
-		</button>
-	</a>
-
-</div> <!-- end div ssactions -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </div> <!-- end of div post -->
 
@@ -606,7 +336,7 @@
 
   <footer class="site__footer" id="site__footer">
   <div class="container">
-    <small><span class="rwd-line">Copyright 2014 &mdash; 2015 Tales&nbsp;of&nbsp;Murder&nbsp;Press,&nbsp;LLC. </span>All Rights Reserved.</small>
+    <small><span class="rwd-line">Copyright 2014 &mdash; 2016 Tales&nbsp;of&nbsp;Murder&nbsp;Press,&nbsp;LLC. </span>All Rights Reserved.</small>
   </div>
 </footer>
 
@@ -656,7 +386,7 @@ NOTE: moved to HEAD -->
   function MoveTo() {
     var prpos = document.getElementById('prpos');
     prpos.style.width = document.getElementById('moveTo').value + "%";
-  } 
+  }
 </script>
 
 <!--call jPushMenu, required-->
@@ -711,7 +441,7 @@ NOTE: moved to HEAD -->
 </script>
 
 
-<script> 
+<script>
   $(document).ready(function(){
     $("#register__button").click(function(){
       $("#panel").slideDown("5000", "easeOutBounce");
@@ -733,7 +463,7 @@ NOTE: moved to HEAD -->
 
 <!-- this is the simple working version to set localStore attributes ... not used in lieu of callback at the end of ajaxMailChimp (below) -->
 <!-- <script>
-	
+
 	$(document).ready(function() {
 
 		init()
@@ -757,12 +487,12 @@ NOTE: moved to HEAD -->
 
 <!-- CHECK LOCAL STORAGE -->
 <!-- can I name this function/script?? -->
-<script> 
-	
+<script>
+
 	$(document).ready(function() {
 		if ($("#thepost").hasClass("premium_post")) {
 			console.log("Premium Post")
-			
+
 			if (!store.get('registered')) {
 				console.log('UNREGISTERED User');
 				$(".pc-tease").removeClass("hidden");
@@ -777,10 +507,10 @@ NOTE: moved to HEAD -->
                 // console.log(email)
             }
             }
-      else { 
+      else {
              console.log("Post")
            }
-         }) 
+         })
 </script>
 
 
@@ -890,10 +620,10 @@ function submitSubscribeForm($form, $resultElement) {
         }
 
         $resultElement.html(message);
-        
+
         var email = $("#mce-EMAIL").val();
         store.set('registered', true);
-        store.set('emailaddress', email); 
+        store.set('emailaddress', email);
 
       } // end of else statement
     }
@@ -908,13 +638,13 @@ return module;
 
 <!-- sets story data (title, author, etc.) to localStorage/sessionStorage for use on download page -->
 <script>
-  
+
 $(document).ready(function() {
 
   $("#button__postdownload").click(function() {
     // console.log("button__postdownload clicked");
     var url; // should be available throughout click function
-    
+
     init()
     function init() {
       if (!store.enabled) {
@@ -923,7 +653,7 @@ $(document).ready(function() {
       return
       } // end of if !store.enabled
 
-      var url = "/downloads/short-stories/index2.html";         
+      var url = "/downloads/short-stories/index2.html";
       var metaArray = ["The Ironclad Alibi", "Gunnison Steele", "Crook", "/assets/img/ironclad-alibi.svg", "Nick Ryan could prove he wasn't the murderer being sought for—prove it with the finality of the grave.", "LINK TO KINDLE", "LINK TO EPUB", ""];
 
       // ARRAY KEY
@@ -934,7 +664,7 @@ $(document).ready(function() {
       // [4] = excerpt
       // [5] = kindle url
       // [6] = epub url
-      // [7] = pdf url   
+      // [7] = pdf url
 
       store.set('storyMeta', JSON.stringify(metaArray));
 
@@ -949,7 +679,7 @@ $(document).ready(function() {
       console.log(emailaddress);
       $('#mce-EMAIL').val(emailaddress);
       // $(location).attr('href', url);  sends past modal to download page .. not currently working due to val = url issue!
-    } // end if 
+    } // end if
 
   }); // end of click function
 });
@@ -959,7 +689,7 @@ $(document).ready(function() {
 <!-- retrieve localStorage arrage & dump into page elements -->
 <script>
   var retrievedMetaString = store.get("storyMeta");
-  
+
   if (retrievedMetaString) {
     var retrievedMetaArray = JSON.parse(retrievedMetaString);
     document.getElementById("title").innerHTML = retrievedMetaArray[0];
@@ -978,7 +708,7 @@ $(document).ready(function() {
 
 <!-- WG reveal -->
 <script>
-  
+
   $(document).ready(function(){
     $(".reveal__button").click(function(){
       $("#revealer").hide();
@@ -1001,7 +731,7 @@ $(document).ready(function() {
 
 
 <!-- Packery/Masonry -->
-<script> 
+<script>
   $(window).on('load', function(){
     $('ul.cards').isotope({
       columnWidth: 'li.card',
@@ -1016,7 +746,7 @@ $(document).ready(function() {
 
 <!-- Isotope Filter -->
 <script>
-  
+
   $(window).load(function(){
 
     var $container = $('.cards');
@@ -1050,35 +780,35 @@ $(document).ready(function() {
 
 <!-- Font Resizer -->
 <!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>   -->
-<script type="text/javascript">  
-  $(document).ready(function () {  
-    $('#linkIncrease').click(function () {  
-      modifyFontSize('increase');  
-    });  
+<script type="text/javascript">
+  $(document).ready(function () {
+    $('#linkIncrease').click(function () {
+      modifyFontSize('increase');
+    });
 
-    $('#linkDecrease').click(function () {  
-      modifyFontSize('decrease');  
-    });  
+    $('#linkDecrease').click(function () {
+      modifyFontSize('decrease');
+    });
 
-    $('#linkReset').click(function () {  
-      modifyFontSize('reset');  
-    })  
+    $('#linkReset').click(function () {
+      modifyFontSize('reset');
+    })
 
-    function modifyFontSize(flag) {  
-      var divElement = $('#story-main');  
-      var currentFontSize = parseInt(divElement.css('font-size'));  
+    function modifyFontSize(flag) {
+      var divElement = $('#story-main');
+      var currentFontSize = parseInt(divElement.css('font-size'));
 
-      if (flag == 'increase')  
-        currentFontSize += 2;  
-      else if (flag == 'decrease')  
-        currentFontSize -= 2;  
-      else  
-        currentFontSize = 16;  
+      if (flag == 'increase')
+        currentFontSize += 2;
+      else if (flag == 'decrease')
+        currentFontSize -= 2;
+      else
+        currentFontSize = 16;
 
-      divElement.css('font-size', currentFontSize);  
-    }  
-  });  
-</script>  
+      divElement.css('font-size', currentFontSize);
+    }
+  });
+</script>
 
 
 <!-- bourbon.refills.fadin -->
@@ -1108,7 +838,12 @@ $(document).ready(function() {
 });
 </script>
 
-
+<!-- bourbon.refills.fadin -->
+<script>
+  $("#deblur-button").click(function() {
+  $('.transform').toggleClass('deblur');
+});
+</script>
 
 
 

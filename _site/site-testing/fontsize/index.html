@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>test &#124; Tales of Murder</title>
+		<title>testing fontsizer &#124; Tales of Murder</title>
 		
 		
 		
@@ -50,53 +50,50 @@
 
 
 
-<body  id="test" class="ipadBS">
+<body  id="testing fontsizer" class="ipadBS">
 
   <main class="main" roll="main" style="height:100%;">
     <div class="content">
-      <header class="flextest__header">
-	
-	<div class="container">
-		
-		<div class="flextest__masthead">
-
-			<div class="flextest__logo">
-				<p>LOGO</p>	
-			</div> <!-- end .flextest__logo -->
-
-			<div class="flextest__branding">
-
-				<div class="flextest__titles">
-					<p>TITLES</p>
-				</div> <!-- end .flextest__titles -->
-
-				<div class="flextest__tagline">
-					<p>TAGLINE</p>
-				</div> <!-- end .flextest__tagline -->	
-
-			</div> <!-- end div.flextest__branding -->
-			
-		</div> <!-- end div .flextest__masthead -->
-
-		<div class="flextest__navicon">
-			<p>NAV</p>
-		</div> <!-- end .flextest__navicon -->
-
-		<!-- <nav></nav> -->
-
-	</div> <!-- end div .container -->
-
-</header> <!-- end header .flextest__header -->
-
-
-
-
-
-
-
-
-
-
+      <head>
+	<title>Font Size Change with jQuery</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/
+	ajax/libs/jquery/1.3/jquery.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function()
+		{
+			$('a').click(function()
+			{
+var content = $("#Text").css("font-size"); //Get size in pixels ex:16px
+var getCurrentSize = parseFloat(content);//Do parsing to convert into number ex:16
+var px = content.slice(-2);
+if ((this).id == "increase")
+{
+	getCurrentSize = getCurrentSize+2;
+}
+else
+{
+	getCurrentSize = getCurrentSize-2;
+};
+$('#Text').css("font-size", getCurrentSize+px);
+return false;
+});
+		});
+	</script>
+</head>
+<body>
+	<div align="center">
+		<div >
+			<h1>Welcome to StudywithDemo ! </h1>
+			<p id="Text" style="padding-top:100px; position:fixed; padding-left:400px">
+				Font Size Increase and Decrease Using jQuery</p>
+			</div>
+			<div style="padding-top:300px" >
+			<a href="#" id="increase">INCREASE</a>
+				<a href="#" id="decrease">DECREASE</a>
+			</div>
+		</div>
+	</body>
+	</html>
     </div>
 
   </main>
@@ -147,7 +144,7 @@ NOTE: moved to HEAD -->
   function MoveTo() {
     var prpos = document.getElementById('prpos');
     prpos.style.width = document.getElementById('moveTo').value + "%";
-  } 
+  }
 </script>
 
 <!--call jPushMenu, required-->
@@ -202,7 +199,7 @@ NOTE: moved to HEAD -->
 </script>
 
 
-<script> 
+<script>
   $(document).ready(function(){
     $("#register__button").click(function(){
       $("#panel").slideDown("5000", "easeOutBounce");
@@ -224,7 +221,7 @@ NOTE: moved to HEAD -->
 
 <!-- this is the simple working version to set localStore attributes ... not used in lieu of callback at the end of ajaxMailChimp (below) -->
 <!-- <script>
-	
+
 	$(document).ready(function() {
 
 		init()
@@ -248,12 +245,12 @@ NOTE: moved to HEAD -->
 
 <!-- CHECK LOCAL STORAGE -->
 <!-- can I name this function/script?? -->
-<script> 
-	
+<script>
+
 	$(document).ready(function() {
 		if ($("#thepost").hasClass("premium_post")) {
 			console.log("Premium Post")
-			
+
 			if (!store.get('registered')) {
 				console.log('UNREGISTERED User');
 				$(".pc-tease").removeClass("hidden");
@@ -268,10 +265,10 @@ NOTE: moved to HEAD -->
                 // console.log(email)
             }
             }
-      else { 
+      else {
              console.log("Post")
            }
-         }) 
+         })
 </script>
 
 
@@ -381,10 +378,10 @@ function submitSubscribeForm($form, $resultElement) {
         }
 
         $resultElement.html(message);
-        
+
         var email = $("#mce-EMAIL").val();
         store.set('registered', true);
-        store.set('emailaddress', email); 
+        store.set('emailaddress', email);
 
       } // end of else statement
     }
@@ -399,13 +396,13 @@ return module;
 
 <!-- sets story data (title, author, etc.) to localStorage/sessionStorage for use on download page -->
 <script>
-  
+
 $(document).ready(function() {
 
   $("#button__postdownload").click(function() {
     // console.log("button__postdownload clicked");
     var url; // should be available throughout click function
-    
+
     init()
     function init() {
       if (!store.enabled) {
@@ -414,8 +411,8 @@ $(document).ready(function() {
       return
       } // end of if !store.enabled
 
-      var url = "/downloads/short-stories/index2.html";         
-      var metaArray = ["test", "", "", "", "", "", "", ""];
+      var url = "/downloads/short-stories/index2.html";
+      var metaArray = ["testing fontsizer", "", "", "", "", "", "", ""];
 
       // ARRAY KEY
       // [0] = title
@@ -425,7 +422,7 @@ $(document).ready(function() {
       // [4] = excerpt
       // [5] = kindle url
       // [6] = epub url
-      // [7] = pdf url   
+      // [7] = pdf url
 
       store.set('storyMeta', JSON.stringify(metaArray));
 
@@ -440,7 +437,7 @@ $(document).ready(function() {
       console.log(emailaddress);
       $('#mce-EMAIL').val(emailaddress);
       // $(location).attr('href', url);  sends past modal to download page .. not currently working due to val = url issue!
-    } // end if 
+    } // end if
 
   }); // end of click function
 });
@@ -450,7 +447,7 @@ $(document).ready(function() {
 <!-- retrieve localStorage arrage & dump into page elements -->
 <script>
   var retrievedMetaString = store.get("storyMeta");
-  
+
   if (retrievedMetaString) {
     var retrievedMetaArray = JSON.parse(retrievedMetaString);
     document.getElementById("title").innerHTML = retrievedMetaArray[0];
@@ -469,7 +466,7 @@ $(document).ready(function() {
 
 <!-- WG reveal -->
 <script>
-  
+
   $(document).ready(function(){
     $(".reveal__button").click(function(){
       $("#revealer").hide();
@@ -492,7 +489,7 @@ $(document).ready(function() {
 
 
 <!-- Packery/Masonry -->
-<script> 
+<script>
   $(window).on('load', function(){
     $('ul.cards').isotope({
       columnWidth: 'li.card',
@@ -507,7 +504,7 @@ $(document).ready(function() {
 
 <!-- Isotope Filter -->
 <script>
-  
+
   $(window).load(function(){
 
     var $container = $('.cards');
@@ -541,35 +538,35 @@ $(document).ready(function() {
 
 <!-- Font Resizer -->
 <!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>   -->
-<script type="text/javascript">  
-  $(document).ready(function () {  
-    $('#linkIncrease').click(function () {  
-      modifyFontSize('increase');  
-    });  
+<script type="text/javascript">
+  $(document).ready(function () {
+    $('#linkIncrease').click(function () {
+      modifyFontSize('increase');
+    });
 
-    $('#linkDecrease').click(function () {  
-      modifyFontSize('decrease');  
-    });  
+    $('#linkDecrease').click(function () {
+      modifyFontSize('decrease');
+    });
 
-    $('#linkReset').click(function () {  
-      modifyFontSize('reset');  
-    })  
+    $('#linkReset').click(function () {
+      modifyFontSize('reset');
+    })
 
-    function modifyFontSize(flag) {  
-      var divElement = $('#story-main');  
-      var currentFontSize = parseInt(divElement.css('font-size'));  
+    function modifyFontSize(flag) {
+      var divElement = $('#story-main');
+      var currentFontSize = parseInt(divElement.css('font-size'));
 
-      if (flag == 'increase')  
-        currentFontSize += 2;  
-      else if (flag == 'decrease')  
-        currentFontSize -= 2;  
-      else  
-        currentFontSize = 16;  
+      if (flag == 'increase')
+        currentFontSize += 2;
+      else if (flag == 'decrease')
+        currentFontSize -= 2;
+      else
+        currentFontSize = 16;
 
-      divElement.css('font-size', currentFontSize);  
-    }  
-  });  
-</script>  
+      divElement.css('font-size', currentFontSize);
+    }
+  });
+</script>
 
 
 <!-- bourbon.refills.fadin -->
@@ -599,7 +596,12 @@ $(document).ready(function() {
 });
 </script>
 
-
+<!-- bourbon.refills.fadin -->
+<script>
+  $("#deblur-button").click(function() {
+  $('.transform').toggleClass('deblur');
+});
+</script>
 
 
 

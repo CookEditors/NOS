@@ -13,7 +13,7 @@ wordcount: 3724
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE
 epub: LINK TO EPUB
---- 
+---
 
 <section id="toc" class="toc">
   <header>
@@ -25,10 +25,10 @@ epub: LINK TO EPUB
 </div>
 </section> <!-- table-of-contents -->
 
-###Chapter 1
+### Chapter 1
 {: .chapternumber .no_toc}
 
-###Luck’s A Fickle Jade
+### Luck’s A Fickle Jade
 {: .chaptertitle }
 
 Corcoran threw snake-eyes. An audible gasp went up from the well-dressed crowd around the crap-table. They had seen Corcoran make six straight passes; watched him run a ten-spot up to six hundred and forty bucks.
@@ -54,10 +54,10 @@ Luck’s a fickle jade; when a man wants to lose, he almost invariably wins. It 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 2
+### Chapter 2
 {: .chapternumber .no_toc}
 
-###A Teller At My Bank
+### A Teller At My Bank
 {: .chaptertitle }
 
 The tuxedoed croupier said: “Still your dice if you want them, Mister.”
@@ -105,10 +105,10 @@ Shelton spoke into a house-phone.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 3
+### Chapter 3
 {: .chapternumber .no_toc}
 
-###You Might Call It A Stick-Up
+### You Might Call It A Stick-Up
 {: .chaptertitle }
 
 In a moment the door opened. A tall, nervous young man came in, the one who had flicked his eyebrow at Corcoran a while ago.
@@ -164,10 +164,10 @@ He said: “Okay. He won’t get loose for a while.”
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 4
+### Chapter 4
 {: .chapternumber .no_toc}
 
-###Could I Kiss The Bride?
+### Could I Kiss The Bride?
 {: .chaptertitle }
 
 The door opened. A feminine voice said: “That’s what you think.”
@@ -211,10 +211,10 @@ She gave him her lips in gratitude.
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 5
+### Chapter 5
 {: .chapternumber .no_toc}
 
-###And Finally, Silence
+### And Finally, Silence
 {: .chaptertitle }
 
 The cab stopped in front of her apartment building.
@@ -248,10 +248,10 @@ Corcoran hit the door. It bruisingly rebuffed him. He backed away and smashed at
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 6
+### Chapter 6
 {: .chapternumber .no_toc}
 
-###Pinched For Murder
+### Pinched For Murder
 {: .chaptertitle }
 
 An open window framed the iron fire-ladder just outside. In the room’s center lay Harry Greer, breathing heavily, with his eyes closed. Thick clotted blood wept from a raw hole in his left shoulder. A thin drift of gunpowder-smoke eddied in the dull light from a table-lamp.
@@ -301,10 +301,10 @@ It was preposterous, of course. Corcoran knew that. But he wanted to throw a sca
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 7
+### Chapter 7
 {: .chapternumber .no_toc}
 
-###To Save A Guy’s Life
+### To Save A Guy’s Life
 {: .chaptertitle }
 
 All the color drained from her cheeks.
@@ -398,10 +398,10 @@ Greer gulped noisily. “You’re all wrong — ”
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 8
+### Chapter 8
 {: .chapternumber .no_toc}
 
-###Turn ’Em Loose
+### Turn ’Em Loose
 {: .chaptertitle }
 
 Greer snarled: “You’ll never take me, Corcoran!” and swatted at the revolver in the private dick’s fist. Corcoran shot him through the other shoulder.

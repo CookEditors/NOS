@@ -5,9 +5,9 @@
     <description>A murder mystery short story &amp;amp; novel site.</description>
     <link>localhost:3000/</link>
     <atom:link href="localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Oct 2015 08:51:19 -0500</pubDate>
-    <lastBuildDate>Sun, 18 Oct 2015 08:51:19 -0500</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Wed, 20 Jul 2016 15:38:54 -0500</pubDate>
+    <lastBuildDate>Wed, 20 Jul 2016 15:38:54 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>You Remember Jeanie</title>
@@ -707,7 +707,7 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h2 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-1&quot;&gt;Chapter 1&lt;/h2&gt;
+&lt;p class=&quot;chapternumber no_toc&quot;&gt;##Chapter 1&lt;/p&gt;
 
 &lt;h3 class=&quot;chaptertitle&quot; id=&quot;the-poisoned-chocolates&quot;&gt;The Poisoned Chocolates&lt;/h3&gt;
 
@@ -790,7 +790,7 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h2 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-2&quot;&gt;Chapter 2&lt;/h2&gt;
+&lt;p class=&quot;chapternumber no_toc&quot;&gt;##Chapter 2&lt;/p&gt;
 
 &lt;h3 class=&quot;chaptertitle&quot; id=&quot;the-invalid&quot;&gt;The Invalid&lt;/h3&gt;
 
@@ -825,7 +825,7 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h2 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h2&gt;
+&lt;p class=&quot;chapternumber no_toc&quot;&gt;##Chapter 3&lt;/p&gt;
 
 &lt;h3 class=&quot;chaptertitle&quot; id=&quot;tracing-the-parcel&quot;&gt;Tracing the Parcel&lt;/h3&gt;
 
@@ -924,7 +924,7 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h2 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-4&quot;&gt;Chapter 4&lt;/h2&gt;
+&lt;p class=&quot;chapternumber no_toc&quot;&gt;##Chapter 4&lt;/p&gt;
 
 &lt;h3 class=&quot;chaptertitle&quot; id=&quot;wanteda-girl-guide&quot;&gt;Wanted—A Girl Guide!&lt;/h3&gt;
 
@@ -985,7 +985,7 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h2 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-5&quot;&gt;Chapter 5&lt;/h2&gt;
+&lt;p class=&quot;chapternumber no_toc&quot;&gt;##Chapter 5&lt;/p&gt;
 
 &lt;h3 class=&quot;chaptertitle&quot; id=&quot;the-clue-of-the-cosmetics&quot;&gt;The Clue of the Cosmetics&lt;/h3&gt;
 
@@ -1036,7 +1036,7 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 &lt;hr /&gt;
 
-&lt;h2 class=&quot;chapternumber no_toc&quot; id=&quot;chapter-6&quot;&gt;Chapter 6&lt;/h2&gt;
+&lt;p class=&quot;chapternumber no_toc&quot;&gt;##Chapter 6&lt;/p&gt;
 
 &lt;h3 class=&quot;chaptertitle&quot; id=&quot;the-knot-is-untied&quot;&gt;The “Knot” is Untied&lt;/h3&gt;
 

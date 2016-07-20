@@ -4,16 +4,19 @@ layoutTag: post
 casefileNumber: 55ccf75fb3901011515aef81
 title: "Parting Gift"
 author: Frank Ward
+o_pub: Crime Fiction Stories
+o_pubDate: 1950-12
+volnum: Vol. 1, No. 1
 date: 2015-09-10
 category: short-stories
 excerpt: The jealous husband had a perfect plan to get rid of his wife and her boy friend—until Fate took a hand.
 image: /assets/img/parting-gift.svg
-genre: Murder
+genre: Noir
 wordcount: 1703
 timetoread: EST TIME TO READ
 kindle: https://s3.amazonaws.com/talesofmurder.com/shortstories/Parting_Gift.mobi
 epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Parting_Gift.epub
---- 
+---
 
 <section id="toc" class="toc">
   <header>
@@ -28,10 +31,10 @@ epub: https://s3.amazonaws.com/talesofmurder.com/shortstories/Parting_Gift.epub
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 1
+### Chapter 1
 {: .chapternumber .no_toc}
 
-###It’s Me, Honey
+### It’s Me, Honey
 {: .chaptertitle}
 
 Pomfret walked slowly up the path to his front door, clicked his key in the lock and stepped into the warmth of his own hallway. For a moment he stood there in the semi-darkness, breathing hard, tilting his head, smelling the old familiar smells and wondering at himself for the thing he was about to do.
@@ -65,10 +68,10 @@ He closed his eyes and thought about Harvey’s handsome face. Then he went out 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 2
+### Chapter 2
 {: .chapternumber .no_toc}
 
-###Harvey’s Cigarette Case
+### Harvey’s Cigarette Case
 {: .chaptertitle}
 
 Eva came down the stairs, and Pomfret paused by the door, watching her, taking her in, gauging the full fluid motion of her body and the slow swing of her long tawny hair and the full rich beauty of her face, feeling again the desire for her and the need of her.
@@ -114,10 +117,10 @@ He put the car into high gear and went down the street and turned the corner, ou
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 3
+### Chapter 3
 {: .chapternumber .no_toc}
 
-###They’ll Never Suspect A Thing
+### They’ll Never Suspect A Thing
 {: .chaptertitle}
 
 Harvey grinned. He had a good-natured, boyish grin that worked well with some types of women. He stood in the middle of Joe Pomfret’s living room, staring at Joe Pomfret’s wife. There was sweat on his face.

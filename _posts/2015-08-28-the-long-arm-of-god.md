@@ -13,7 +13,7 @@ wordcount: 3712
 timetoread: EST TIME TO READ
 kindle: LINK TO KINDLE
 epub: LINK TO EPUB
---- 
+---
 
 <section id="toc" class="toc">
   <header>
@@ -25,7 +25,7 @@ epub: LINK TO EPUB
 </div>
 </section> <!-- table-of-contents -->
 
-###Introduction
+### Introduction
 {: .chapternumber .no_toc}
 
 In a rock-bound gulch, half-buried under the sands of summer, covered beneath ten feet of snow in winter, six skeletons lie, grinning mockingly.
@@ -41,10 +41,10 @@ He mocked God and spit upon His Commandments. And the long arm of God reached ou
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 1
+### Chapter 1
 {: .chapternumber .no_toc}
 
-###The Ever-Mysterious North
+### The Ever-Mysterious North
 {: .chaptertitle }
 
 Lee was the first to die.
@@ -74,10 +74,10 @@ There is no stronger test of friendship than the placing of strong, vigorous men
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 2
+### Chapter 2
 {: .chapternumber .no_toc}
 
-###The Visitation Of God
+### The Visitation Of God
 {: .chaptertitle }
 
 When they found the grisly horror that was Lee, lying stark and stiff in his bunk, gazing, glassy-eyed, toward the ceiling, there was no thought of foul play. It was Halligan who, in straightening out the cold, clinched fingers, discovered the tiny thread of gray wool in the doubled-up fist and called the attention of the others to it.
@@ -115,10 +115,10 @@ It was late when they retired that night. All but Wentworth. He refused to eat a
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 3
+### Chapter 3
 {: .chapternumber .no_toc}
 
-###A Pall Of Acrid Smoke
+### A Pall Of Acrid Smoke
 {: .chaptertitle }
 
 They slept fitfully. It was nearly morning when they were awakened by the sharp explosion of a gun.
@@ -156,10 +156,10 @@ For Drew lay dead in his bunk. Between his ribs, buried to the hilt, was a hunti
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 4
+### Chapter 4
 {: .chapternumber .no_toc}
 
-###The Girl And The Money
+### The Girl And The Money
 {: .chaptertitle }
 
 Kelly carefully drew the knife from the wound and looked at the initials carved on the handle.
@@ -245,10 +245,10 @@ Halligan smiled. “God? Bah! If I’d believed in such foolishness I’d never 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-###Chapter 5
+### Chapter 5
 {: .chapternumber .no_toc}
 
-###Beginning Of The End
+### Beginning Of The End
 {: .chaptertitle }
 
 He arose and stretched himself. Then, seizing the dead man, he dragged his victim out of doors and buried him alongside of the others.
