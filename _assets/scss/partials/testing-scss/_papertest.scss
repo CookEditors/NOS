@@ -52,13 +52,16 @@
 
 .signup-box {
   width: 600px;
+  height: 375px;
   max-width: 95%;
   margin: 2rem auto;
   border: 3px dashed #333;
   background: darken(#EDDDB8, 90%) url('/assets/img/5b.jpg');
   box-shadow: 0 0 3px #333;
   transform: rotate(0.5deg);
-  // color: #6e7b7a;
+  @media screen and (min-width: 500px) {
+    height: auto;
+  }
 }
 
 .ctabox {
