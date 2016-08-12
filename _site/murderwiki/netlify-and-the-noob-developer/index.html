@@ -4,8 +4,8 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>Vol. 1 No. 1 &#124; Tales of Murder</title>
-		<meta name="description" content="##Contents
+		<title>Netlify and the Noob Developer &#124; Tales of Murder</title>
+		<meta name="description" content="With words or phrases like command line, git, versioning, static site, continuous development, Grunt, Gulp, SSL/HTTPS, redirects, basic auth, OAuth and so many others, web development for the non-developer is intimidating at best. The simple fact is, with so many new and growing technologies, web development is simply more than a little HTML and CSS.
 
 ">
 		<meta name="keywords" content="">
@@ -52,7 +52,7 @@
 
 
 
-<body  id="Vol. 1 No. 1" class="ipadBS">
+<body  id="Netlify and the Noob Developer" class="ipadBS">
 
 	<!-- include facebookshare.html -->
 
@@ -111,133 +111,141 @@
 
   <main class="main"> <!-- removed [style="height:100%;"] to correct ios9 browser height problem ... WHY!? -->
     <div class="content">
-    	<div id="theredfile" class="container trf-issue">
+    	<div id="thepost" class="post">
 
   <header class="post__header clearfix">
+	<!-- README IF STATEMENT -->
+  
 
 		<div class="clearfix titlebox">
-	  	<div class="trf__titles" id="top">
+	  	<div class="storytitles" id="top">
+				<h1 class="post__title">Netlify and the Noob Developer</h1>
+				<h2 class="post__title" style="margin-bottom:2rem;font-size:2rem;">How I set up this site and deployed it with Netlify; so simple, even I figured it out!</h2>
+				<h3 class="post__author">By <strong>Rich Cook</strong>, publisher and noob web dev at www.TalesofMurder.com</h3>
+				<!-- <figure class="post__img"> add class grit to dirty up pic
+						<img src="" alt="">
+						<figcaption class="caption"><strong class="casefilenum">CASEFILE NO. :</strong>
+						<figcaption class="post__excerpt"><p class="first bold">With words or phrases like command line, git, versioning, static site, continuous development, Grunt, Gulp, SSL/HTTPS, redirects, basic auth, OAuth and so many others, web development for the non-developer is intimidating at best. The simple fact is, with so many new and growing technologies, web development is simply more than a little HTML and CSS.</p>
 
-				<h2 class="trf__title">THE RED FILE</h2>
-				<h3 class="trf__date">Vol. 1 No. 1 | 11 Oct 2015 </h3>
+</figcaption>
+				</figure> <!-- end div post__image -->
+				<!-- <h2 class="post__excerpt"><p class="first bold">With words or phrases like command line, git, versioning, static site, continuous development, Grunt, Gulp, SSL/HTTPS, redirects, basic auth, OAuth and so many others, web development for the non-developer is intimidating at best. The simple fact is, with so many new and growing technologies, web development is simply more than a little HTML and CSS.</p>
 
-				
+</h4> -->
 			</div> <!-- end div titles -->
 		</div> <!-- end div clearfix -->
 
+		<div class="post__meta">
+			<p>word count: 1,260</p>
+			<p>time to read:
+				
+				
+					<span class="time">6</span> min 
+				
+			</p>
+		</div> <!-- end div post__meta -->
 
   </header>
 
-	
+	<!-- show either div.pc-tease OR div.cu-tease:
+	(1) if normal post, then show div.cu-tease,
+	(2) if premium post && localStorage[registered=true], then show div.cu-tease,
+	(3) if premium post && !localStorage[registered=true], then show div.pc-tease && include/show readmore.html
+	-->
 
-	<article class="trf__content" id="story-main" style="margin-bottom: 2rem;">
-		<figure>
-			<img class="shadowed" src="/assets/img/rf-cover.png" alt="">
-			<figcaption>Vol. 1 No. 1 | 11 Oct 2015</figcaption>
-			<figcaption>
+	<!-- <div class="pc-tease grit hidden">
+		<h4><i class="fa fa-sign-in"></i>&nbsp;PREMIUM CONTENT</h4>
+		<h5>REGISTERED USERS ONLY</h5>
+		<p>Enjoy an online sample of <span>Netlify and the Noob Developer</span>. To read the full story, just register with a valid email address. You'll also be able to download either a PDF, Kindle or ePub version. Full details below the sample.</p>
+	</div> end div pc-tease -->
 
-				<h3>DOWNLOAD ISSUE</h3>
+	  <!-- <div class="cu-tease grit">
+		<p><strong>PSST! Hey, buddy &hellip;</strong> did'ya know you can download <a href="#"><strong>Netlify and the Noob Developer</strong></a> for any ereader device (<em>Kindle, iBooks, etc.</em>) or as PDF &hellip; perfect for reading when you're not online but have time to kill! <strong>Look for the <a href="#ssactions_ID"><span>Download</span></a> buttons at the end of this story.</strong></p>
+	</div> end div cu-tease --> <!-- NOTE: DISABLED TEMPORARILY UNTIL PROPER DOWNLOAD CAN BE SET UP ... DAY OR TWO AT MOST!! -->
 
-				<a href="https://s3.amazonaws.com/talesofmurder.com/shortstories/THE-RED-FILE-v1n1.mobi" class="ssactions__button__link">
-	        <button class="ssactions__button" id="Kindle__download" type="button" label="Kindle version">
-	          <span class="icon"><i class="fa fa-file-o fa-lg"><strong class="fa-stack-1x kindleicon">a</strong></i></span>
-	          <span class="label">Kindle</span>
-	        </button>
-	      </a>
+		<div class="fontresizer">
+	<h6 class="hidden">Adjust Font Size</h6>
+	<button id="linkDecrease"><i class="fa fa-minus-square fa-2x"></i></button>
+	<i class="fontresizer__icon fa fa-font"></i><i class="fontresizer__icon fa fa-font fa-2x"></i>
+	<button id="linkIncrease"><i class="fa fa-plus-square fa-2x"></i></button>   
 
-	      <a href="https://s3.amazonaws.com/talesofmurder.com/shortstories/THE-RED-FILE-v1n1.epub" class="ssactions__button__link">
-	        <button class="ssactions__button" id="epub3__download" type="button" label="ePub3 version">
-	          <span class="icon"><i class="fa fa-file-o fa-lg"></i><strong class="fa-stack-1x epubicon">e</strong></span>
-	          <span class="label">ePub 3.0</span>
-	        </button>
-	      </a>
+</div> <!-- end div fontresizer -->
 
-			</figcaption>
-		</figure>
-  	<p>##Contents</p>
+	<article class="post__content" id="story-main">
+  	<p class="first bold">With words or phrases like command line, git, versioning, static site, continuous development, Grunt, Gulp, SSL/HTTPS, redirects, basic auth, OAuth and so many others, web development for the non-developer is intimidating at best. The simple fact is, with so many new and growing technologies, web development is simply more than a little HTML and CSS.</p>
 
-<p>###Two Bells (PREMIUM)</p>
+<p>In 2013, I began development of a website for my little publishing business, Tales of Murder Press. I started with WordPress but quickly (and thanks to Josh Kaufman's book <em>The First 20 Hours</em>) discovered Jekyll and the wonders of static website development. That, of course, drew me down a rabbit hole of technology that required more and more books and web tutorials to learn.</p>
 
-<p>####By Harry C. Hervey, Jr.</p>
+<p>Then I hit a wall. How to serve my beautiful (yes, I'm biased, and no, its not really!) Jekyll creation so that the world would beat a path to my virtual door and buy my books? I'm a writer, not a web developer. I know basic HTML and CSS. I can copy JavaScript but can't write my own. Add in the numerous JS variation and libraries and I'm lost.</p>
 
-<p>It all came back to him — the lamp-lit Australian water-front, the slinking shadows along the quay, the sickening emotions following the blow and the return to consciousness in the hold of the trading brig bound for eleven degrees south of the equator.</p>
+<p>Finally, after reading I-don't-know-how-many blogs, articles and books, I saw a little post about integrating Jekyll with a neat system called Netlify. Besides the nifty name, the concept of simple, straightforward hosting and deployment of my site caught my attention. Soon, I was knee-deep in the article and reading everything I could find in their extensive (albeit sometimes over my head) documentation.</p>
 
-<p>###The Brand of Cain</p>
+<p>And then suddenly, there it was. My little site, pushed from my simple _site folder on my Mac to the live web. It had a funny domain name (something like governor-cow-some.random.number). But it was live and so simple.</p>
 
-<p>####By Ward Sterling</p>
+<h2 id="for-the-noob-web-developer">For the Noob Web Developer</h2>
 
-<p>A gypsy who can see into the minds of men and see the darkness of their deeds—fortune telling, mind reading and all of that sort of stuff— if it’s results you want, then Lipki is your man.</p>
+<p>So, if you're a noob web developer like me but steeped in the idea of best-practice, cutting-edge web dev technology, you won't go wrong with Netlify. It's just too easy to get started and as you grow in your knowledge of web dev tech and fully grok all those weird terms I mentioned at the top of this article, you'll find the depths of Netlify are more than enough to satisfy your every need.</p>
 
-<p>###Parting Gift</p>
+<p>Let me walk you through how I set myself up with Netlify and, if you follow my steps, read the excellent documentation on the site (just Google anything you don't understand or ask them for help…their tech support has been more than generous with helping me with some very dumb questions), you'll look up after just a few minutes and find your static site blasted out across the World Wide Web, ready for masses of visitors.</p>
 
-<p>####By Frank Ward</p>
+<h2 id="step-1">Step 1</h2>
 
-<p>The jealous husband had a perfect plan to get rid of his wife and her boyfriend—until Fate took a hand.</p>
+<p>My favorite aspect of Netlify, at least in the beginning since I've now upgraded, is the free level of their service. You don't even have to pay to play! Just create an account and you're ready to go.</p>
 
-<p>###Candidate for Death (PREMIUM)</p>
+<h2 id="step-2">Step 2</h2>
 
-<p>####By Theodore A. Tinsley</p>
+<p>Navigate to SITES (you'll see it at the top of the Netlify page once you've logged in). There you'll see a nifty box with a big ole plus sign in it and "NEW SITE". Just click that and you're off to the races.</p>
 
-<p>A SCARLET ACE NOVELLET — Hired guns have their wolf cry when the Scarlet Ace passed the word, but they forgot the law of the pack until they paid the price of fear.”</p>
+<p>It'll ask you if you'd like to do Continuous Deployment and that is a fantastic feature if you're set up in GitHub, GitLab, or Bitbucket. For now, just look to the right-hand side of the screen to the big box that says "Or Do a Quick Manual Deploy".</p>
 
-<p>###Hate Calls the Tune</p>
+<h2 id="step-3">Step 3</h2>
 
-<p>####By Clive Criswell</p>
+<p>This is where it gets stupid simple. Go to your Finder on your computer. Find your generated _site folder or wherever your particular brand of static site generator outputs the fully generated HTML, CSS, JS, etc.</p>
 
-<p>“I had the louse I hated in the palm of my hand, but could I really pin this hot murder rap on him?””</p>
+<p>Do the old click-to-select-and-drag that fold (the _site or whatever) from your Finder window to the Manuel Deploy box. Release the mouse button and then watch the magic happen.</p>
 
-<p>###Gems Glow with Blood</p>
+<p>Netlify works behind the scenes to examine your site files and determine if there are any issues with them. If not, it creates a new site on Netlify with some goofy name like upholster-alice or monkey-canisters, or whatev (really a fun part, I think).</p>
 
-<p>####By Joseph Cummings</p>
+<h2 id="step-4">Step 4</h2>
 
-<p>I’m not too honest a private dick, but I draw the line when MURDER lines up on the wrong side.</p>
+<p>Click on that box and you'll see a large thumbnail type image of your main page along with the name (the goofy one), domain (probably says, "No custom domain" and the Privacy settings. Below that are links to your Git repo, if you've set it up for Continuous Deploy and other more advanced options (that I don't, as yet, use).</p>
 
-<p>###Ice from a Corpse</p>
+<p>You'll notice a submenu just above all this information with: Settings (this page), Builds, Forms, Access, Notifications, HTTPS, and Upgrade menu options. Click on the Builds item and you'll find details on the build of you site (what happened when you dragged your folder onto the Manual Deploy spot).</p>
 
-<p>####By Ed Barceio</p>
+<p>Here, you'll find all builds and deploy history for this site. Each row has a tiny thumbnail and a Preview link (click this to see the actual live site), Build (whether manual or continuous) and the State (published or in my case at first, an error). If you do see an error, it usually means something is wrong with your static site build and you just need to follow the info provided to sort out any issues. And again, Netlify's tech support is great in helping a noob sort out the obvious!</p>
 
-<p>The killers had doc in a tight spot, but the old medico still had a few tricks up his sleeve.</p>
+<h2 id="step-5">Step 5</h2>
 
-<p>###How dead Can You Get?</p>
+<p>Again, click the Preview link and a new tab in your browser opens, displaying your work of art. Share this link with the world and your work is done.</p>
 
-<p>####By Charles Beckman, Jr.</p>
+<h2 id="optional-step-6">(Optional) Step 6+</h2>
 
-<p>All he could remember was the beautiful dead girl. But who was she — and why had he killed her?</p>
+<p>Or not. You can easily point the goofily-named Netlify build/deploy to a custom domain, like www.MyAwesomelyFantasticWebsiteTheWorldHasToSee.com. Go back to the Settings submenu item and click Edit next to the "Domain: No custom domain". Fill in the URL you wish to use (be sure to follow their documentation details to set your DNS records properly … this was an area I messed up and AGAIN their tech support, or more accurately one of the founders, sorted me out).</p>
 
-<p>###Score None for the Chair</p>
+<p>Once that's set, hit SAVE and very quickly, your beautiful creation will be live at your custom URL. So simple, that even I managed to sort it out and am proud to see my site live.</p>
 
-<p>####By Thomas Thursday</p>
+<h2 id="updating-your-netlify-deployed-site">Updating your Netlify deployed site</h2>
 
-<p>“Look bub, when you’ve been the crime-chipping business as long as I have, you’ll learn that a criminal investigator has two duties. One is to prove guilt; the other is to prove innocence.”</p>
+<p>And updates? Just as simple. Just drag the newly output _site folder onto the big thumbnail image on the Settings page and it'll rebuild and redeploy your changes. Nothing could be simpler.</p>
 
-<p>###The Guerilla</p>
+<p>That's it. If you're a noob like me and just learning about all the wonders and weirdness of web dev, do yourself a favor and tap into Netlify's goodness and simplicity. Easier than the so-called 5 Minute you-know-who set up.</p>
 
-<p>####By Clinton Harcourt</p>
+<h2 id="it-gets-more-but-not-much-complex-from-here">It gets more (but not much) complex from here!</h2>
 
-<p>The man walked past the building, turned, and after a quick glance about, entered the tenement’s hallway.</p>
+<p>One last thing, if you are interested in the more complex matters like SSL/HTTPS (now provided as part of any package) or Continuous Deploy from a Git repo, the documentation is extensive and helpful. I've only dabbled in these areas but was quickly able to add Command Line deploy and connect my GitHub repo to my Netlify deploy. I also took advantage of the free SSL/HTTPS options (so cool!).</p>
 
-<p>###The Con is Green</p>
+<p>There are many more depths to plumb within Netlify and they continue to add new and more robust features (like JAMstack, which I'm just beginning to wrap my head around) to their already bursting collection of features for static website deployment. It'll only get better.</p>
 
-<p>####By Joe Archibald</p>
+<p>For noobs and masters of the web dev environment alike, Netlify provides the technology, security, speed and simplicity to get you on the web faster and better.</p>
 
-<p>A “DIZZY DUO” YARN — Though Snooty Piper, the Beantown crimehound, usually spots the hot-seat evidence first, this time he’s only got spots before his eyes. yet that wacky reporter can even find a way to line up those visual aberrations to put a killer on the spot.</p>
+<p class="bold">So drag yourself and your _site folder to <a href="https://www.netlify.com/">Netlify</a> and get deployed, easy-peasy. Hey, if I can figure it out, so can you.</p>
 
-<p>###This side Up</p>
-
-<p>####By John Ladd</p>
-
-<p>There’s no glamour in crime, particularly when a sixteen-year-old kid turns bank-bandit and killer. A true story of a boy whom no one ever loved …</p>
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
 
   </article>
 
 </div> <!-- end of div post -->
 
-
-<section class="downloads">
-    <div class="container">
-      
-    </div> <!-- end div container -->
-  </section> <!-- end of section downloads -->
     </div>
 
   </main>
@@ -562,9 +570,9 @@ $(document).ready(function() {
       } // end of if !store.enabled
 
       var url = "/downloads/short-stories/index2.html";
-      var metaArray = ["Vol. 1 No. 1", "", "The Red File", "/assets/img/rf-cover.png", "<p>##Contents</p>
+      var metaArray = ["Netlify and the Noob Developer", "Rich Cook", "about", "", "<p class="first bold">With words or phrases like command line, git, versioning, static site, continuous development, Grunt, Gulp, SSL/HTTPS, redirects, basic auth, OAuth and so many others, web development for the non-developer is intimidating at best. The simple fact is, with so many new and growing technologies, web development is simply more than a little HTML and CSS.</p>
 
-", "https://s3.amazonaws.com/talesofmurder.com/shortstories/THE-RED-FILE-v1n1.mobi", "https://s3.amazonaws.com/talesofmurder.com/shortstories/THE-RED-FILE-v1n1.epub", ""];
+", "", "", ""];
 
       // ARRAY KEY
       // [0] = title

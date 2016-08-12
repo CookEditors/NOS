@@ -1,0 +1,70 @@
+---
+layout: default
+---
+<div id="thepost" class="{{ page.layoutTag }}">
+
+  <header class="post__header clearfix">
+	<!-- README IF STATEMENT -->
+  {% if site.readtime %}
+	  {% if site.wpm %}
+  	  {% assign readtime = page.wordcount | divided_by:site.wpm %}
+  	{% else %}
+    	{% assign readtime = page.wordcount | divided_by:180 %}
+  	{% endif %}
+	{% endif %}
+
+		<div class="clearfix titlebox">
+	  	<div class="storytitles" id="top">
+				<h1 class="post__title">{{ page.title }}</h1>
+				<h2 class="post__title" style="margin-bottom:2rem;font-size:2rem;">{{ page.subtitle }}</h2>
+				<h3 class="post__author">By <strong>{{ page.author }}</strong>, {{ page.bio }}</h3>
+				<!-- <figure class="post__img"> add class grit to dirty up pic
+						<img src="{{ page.image }}" alt="{{ post.title }}">
+						<figcaption class="caption"><strong class="casefilenum">CASEFILE NO. {{ page.casefileNumber }}:</strong>
+						<figcaption class="post__excerpt">{{ page.excerpt }}</figcaption>
+				</figure> <!-- end div post__image -->
+				<!-- <h2 class="post__excerpt">{{ page.excerpt }}</h4> -->
+			</div> <!-- end div titles -->
+		</div> <!-- end div clearfix -->
+
+		<div class="post__meta">
+			<p>word count: {{ page.wordcount | thousands_separated }}</p>
+			<p>time to read:
+				{% if site.readtime %}
+				{% if readtime > 60 %}
+				{% assign readtime_hours = readtime | divided_by: 60 %}
+				{% assign readtime_minutes = readtime | modulo:60 %}
+					{% if readtime_hours > 1 and readtime_hours < 2 %}1 hour
+					{% else %}<span class="hour">{{ readtime_hours }}</span> hr
+					{% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} and <span class="time">{{ readtime_minutes }}</span> min{% endif %}
+				{% else %}
+					{% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> min {% endif %}{% endif %}
+				{% endif %}
+			</p>
+		</div> <!-- end div post__meta -->
+
+  </header>
+
+	<!-- show either div.pc-tease OR div.cu-tease:
+	(1) if normal post, then show div.cu-tease,
+	(2) if premium post && localStorage[registered=true], then show div.cu-tease,
+	(3) if premium post && !localStorage[registered=true], then show div.pc-tease && include/show readmore.html
+	-->
+
+	<!-- <div class="pc-tease grit hidden">
+		<h4><i class="fa fa-sign-in"></i>&nbsp;PREMIUM CONTENT</h4>
+		<h5>REGISTERED USERS ONLY</h5>
+		<p>Enjoy an online sample of <span>{{ page.title }}</span>. To read the full story, just register with a valid email address. You'll also be able to download either a PDF, Kindle or ePub version. Full details below the sample.</p>
+	</div> end div pc-tease -->
+
+	  <!-- <div class="cu-tease grit">
+		<p><strong>PSST! Hey, buddy &hellip;</strong> did'ya know you can download <a href="#"><strong>{{ page.title }}</strong></a> for any ereader device (<em>Kindle, iBooks, etc.</em>) or as PDF &hellip; perfect for reading when you're not online but have time to kill! <strong>Look for the <a href="#ssactions_ID"><span>Download</span></a> buttons at the end of this story.</strong></p>
+	</div> end div cu-tease --> <!-- NOTE: DISABLED TEMPORARILY UNTIL PROPER DOWNLOAD CAN BE SET UP ... DAY OR TWO AT MOST!! -->
+
+		{% include fontresizer.html %}
+
+	<article class="post__content" id="story-main">
+  	{{ content }}
+  </article>
+
+</div> <!-- end of div post -->
