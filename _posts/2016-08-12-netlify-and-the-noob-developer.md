@@ -42,7 +42,7 @@ It&#39;ll ask you if you&#39;d like to do Continuous Deployment and that is a fa
 
 This is where it gets stupid simple. Go to your Finder on your computer. Find your generated \_site folder or wherever your particular brand of static site generator outputs the fully generated HTML, CSS, JS, etc.
 
-Do the old click-to-select-and-drag that fold (the \_site or whatever) from your Finder window to the Manuel Deploy box. Release the mouse button and then watch the magic happen.
+Do the old click-to-select-and-drag that folder (the \_site or whatever) from your Finder window to the Manuel Deploy box. Release the mouse button and then watch the magic happen.
 
 Netlify works behind the scenes to examine your site files and determine if there are any issues with them. If not, it creates a new site on Netlify with some goofy name like upholster-alice or monkey-canisters, or whatev (really a fun part, I think).
 
@@ -67,6 +67,9 @@ Once that&#39;s set, hit SAVE and very quickly, your beautiful creation will be 
 ## Updating your Netlify deployed site
 
 And updates? Just as simple. Just drag the newly output \_site folder onto the big thumbnail image on the Settings page and it&#39;ll rebuild and redeploy your changes. Nothing could be simpler.
+
+{:.edit}
+[Edit: I had someone read this post and she found a typo. I'd written "fold" instead of "folder" in this paragraph. I changed it in Sublime Text 3, saved & reran my Jekyll command to reoutput a new _site folder. Then did the old drag-and-drop redeploy and voila! My fixed article is live again!]
 
 That&#39;s it. If you&#39;re a noob like me and just learning about all the wonders and weirdness of web dev, do yourself a favor and tap into Netlify&#39;s goodness and simplicity. Easier than the so-called 5 Minute you-know-who set up.
 

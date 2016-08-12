@@ -2434,6 +2434,11 @@ label {
     opacity: 0.45;
     font-size: 0.75rem; }
 
+.edit {
+  font-size: 0.85rem;
+  width: 85%;
+  margin: 0 auto; }
+
 /*==========  LAYOUT  ==========*/
 /* ==========================================================================
    HEADER .. full width of browser window
