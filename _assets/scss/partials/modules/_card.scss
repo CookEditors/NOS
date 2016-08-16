@@ -53,7 +53,7 @@ $ribbon-size: 85px;
 		border: 1px solid $acolor;
 		box-shadow: -4px 8px 8px transparentize($acolor, .8);
 		.card__meta, .card__genre {
-			// color: $acolor;
+			color: #fff;
 			font-weight: bold;
 			background: $acolor;
 		}
