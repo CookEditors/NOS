@@ -45,3 +45,14 @@ ol.references li {
   color: $acolor;
   text-overflow: ellipsis;
 }
+
+.image__inpostL {
+  float: left;
+  padding: 0.25rem 0.25rem 0 0;
+}
+
+.image__inpostR {
+  float: right;
+  padding: 1rem 0 0 1rem;
+}
+

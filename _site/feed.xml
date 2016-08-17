@@ -5,8 +5,8 @@
     <description>A murder mystery short story &amp;amp; novel site.</description>
     <link>localhost:3000/</link>
     <atom:link href="localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Aug 2016 15:32:24 -0500</pubDate>
-    <lastBuildDate>Tue, 16 Aug 2016 15:32:24 -0500</lastBuildDate>
+    <pubDate>Wed, 17 Aug 2016 12:29:38 -0500</pubDate>
+    <lastBuildDate>Wed, 17 Aug 2016 12:29:38 -0500</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -274,8 +274,8 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 </description>
         <pubDate>Tue, 16 Aug 2016 00:00:00 -0500</pubDate>
-        <link>localhost:3000/murderwiki/16-what-is-a-detective-story/</link>
-        <guid isPermaLink="true">localhost:3000/murderwiki/16-what-is-a-detective-story/</guid>
+        <link>localhost:3000/murderwiki/what-is-a-detective-story/</link>
+        <guid isPermaLink="true">localhost:3000/murderwiki/what-is-a-detective-story/</guid>
         
         
         <category>murderwiki</category>
@@ -748,8 +748,8 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 </description>
         <pubDate>Tue, 16 Aug 2016 00:00:00 -0500</pubDate>
-        <link>localhost:3000/murderwiki/16-the-detective/</link>
-        <guid isPermaLink="true">localhost:3000/murderwiki/16-the-detective/</guid>
+        <link>localhost:3000/murderwiki/the-detective/</link>
+        <guid isPermaLink="true">localhost:3000/murderwiki/the-detective/</guid>
         
         
         <category>murderwiki</category>
@@ -1262,8 +1262,8 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 </description>
         <pubDate>Tue, 16 Aug 2016 00:00:00 -0500</pubDate>
-        <link>localhost:3000/murderwiki/16-taxonomy-of-the-mystery/</link>
-        <guid isPermaLink="true">localhost:3000/murderwiki/16-taxonomy-of-the-mystery/</guid>
+        <link>localhost:3000/murderwiki/taxonomy-of-the-mystery/</link>
+        <guid isPermaLink="true">localhost:3000/murderwiki/taxonomy-of-the-mystery/</guid>
         
         
         <category>murderwiki</category>
@@ -1409,8 +1409,8 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 </description>
         <pubDate>Tue, 16 Aug 2016 00:00:00 -0500</pubDate>
-        <link>localhost:3000/murderwiki/16-history-and-riddle-stories/</link>
-        <guid isPermaLink="true">localhost:3000/murderwiki/16-history-and-riddle-stories/</guid>
+        <link>localhost:3000/murderwiki/history-and-riddle-stories/</link>
+        <guid isPermaLink="true">localhost:3000/murderwiki/history-and-riddle-stories/</guid>
         
         
         <category>murderwiki</category>
@@ -1613,8 +1613,8 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 </description>
         <pubDate>Tue, 16 Aug 2016 00:00:00 -0500</pubDate>
-        <link>localhost:3000/murderwiki/16-ghost-stories/</link>
-        <guid isPermaLink="true">localhost:3000/murderwiki/16-ghost-stories/</guid>
+        <link>localhost:3000/murderwiki/ghost-stories/</link>
+        <guid isPermaLink="true">localhost:3000/murderwiki/ghost-stories/</guid>
         
         
         <category>murderwiki</category>
@@ -1897,8 +1897,8 @@
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
 </description>
         <pubDate>Tue, 16 Aug 2016 00:00:00 -0500</pubDate>
-        <link>localhost:3000/murderwiki/16-eternal-curious-and-the-literature-of-the-mystery/</link>
-        <guid isPermaLink="true">localhost:3000/murderwiki/16-eternal-curious-and-the-literature-of-the-mystery/</guid>
+        <link>localhost:3000/murderwiki/eternal-curious-and-the-literature-of-the-mystery/</link>
+        <guid isPermaLink="true">localhost:3000/murderwiki/eternal-curious-and-the-literature-of-the-mystery/</guid>
         
         
         <category>murderwiki</category>
@@ -2041,6 +2041,11 @@
 
 &lt;h2 id=&quot;did-edgar-allen-poe-create-the-modern-detective-story&quot;&gt;Did Edgar Allen Poe create the modern detective story?&lt;/h2&gt;
 
+&lt;figure class=&quot;image__inpostL&quot;&gt;
+  &lt;img id=&quot;Poe&quot; src=&quot;/assets/img/Poe.png&quot; alt=&quot;Edgar Allen Poe&quot; width=&quot;200&quot; /&gt;
+  &lt;figcaption&gt;Edgar Allen Poe&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;Most experts, or at least most websites, claim that the modern mystery story originated with Edgar Allen Poe. He is called the “Father of the Detective Story”&lt;sup&gt;&lt;a href=&quot;http://www.worlds-best-detective-crime-and-murder-mystery-books.com/1841.html&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and &lt;a href=&quot;http://www.MysteryNet.com&quot;&gt;MysteryNet.com&lt;/a&gt;, a leading site “for online mysteries and mystery games” that also discusses the history and origins of the literary form says that the general mystery story form “… as we know [it] today did not emerge until the mid-nineteenth century when Edgar Allen Poe introduced mystery fiction’s first fictional detective, Auguste C. Dupin, in his 1841 story, ‘The Murders in the Rue Morgue.’”&lt;sup&gt;&lt;a href=&quot;http://www.mysterynet.com/timeline/history-of-mystery/&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;But a deeper look at the works of Poe and the mystery form of fiction shows that while Poe took the form to a new level and may have introduced readers to the concept of a detective, stories revolving around crime and its aftermath have existed almost since time began.&lt;/p&gt;
@@ -2054,6 +2059,11 @@
 
 &lt;p&gt;Taken from the Bible’s first book, originating from the very beginnings of creation itself, this story tells of Cain murdering his brother Abel out of jealousy and God, cast as a sort of detective, seeking out the killer. Generally accepted to have been written by Moses during the Israelite wandering in the wilderness (1450 – 1410 B.C.E.), this short vignette could easily be the first murder mystery put in written form.&lt;/p&gt;
 
+&lt;figure class=&quot;image__inpostR&quot;&gt;
+  &lt;img id=&quot;Poe&quot; src=&quot;/assets/img/Hercules_killing_Cacus_at_his_Cave.jpg&quot; alt=&quot;Hercules killing Cacus at his cave&quot; width=&quot;300&quot; /&gt;
+  &lt;figcaption&gt;Hercules killing Cacus at his cave&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;Many of the plays of Ancient Greece, like those of Sophocles and Euripides, included elements of mystery and certainly murder in their dramas. Roman mythology also included elements of the mystery story. Indeed, Hercules fought Cacus&lt;sup&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Cacus&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, a fire-breathing giant and son of Vulcan, who stole eight of Hercules’ cattle by walking them backwards into a cave, perhaps the first instance of a crook using subterfuge to try to outwit the detective in pursuit.&lt;/p&gt;
 
 &lt;p&gt;Other examples of ancient mysteries include “Oedipus the King” by Sophocles (430 B.C.E.), a story of patricide; “The Three Apples” from the &lt;i&gt;One Thousand and One Arabian Nights&lt;/i&gt; (800-1300), about a dismembered body found in a heavy locked chest and the vizier’s task of solving the murder in three days; and the Gong’an, or crime-case fiction of the Chinese Ming Dynasty (1368-1644) involving government magistrates who solve criminal cases.&lt;sup&gt;&lt;a href=&quot;http://www.thelockedroommystery.com/origins-of-mystery-fiction&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
@@ -2062,6 +2072,11 @@
 &lt;hr /&gt;
 
 &lt;h2 id=&quot;the-ability-to-read-and-the-fascination-with-crime-murder-amp-sensational-executions&quot;&gt;The Ability to Read and the Fascination with Crime, Murder &amp;amp; Sensational Executions&lt;/h2&gt;
+
+&lt;figure class=&quot;image__inpostR&quot;&gt;
+  &lt;img id=&quot;Poe&quot; src=&quot;/assets/img/gutenberg.png&quot; alt=&quot;Gutenberg&#39;s press&quot; width=&quot;350&quot; /&gt;
+  &lt;figcaption&gt;Johannes Gutenberg&#39;s screw-type press&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;A direct result of the Renaissance and Johannes Gutenberg’s (1398 – 1468) creation of the moveable type press, the general populace of England and Europe began to learn to read. With this new found skill came the desire to read more than just the Bible and other official texts. The insatiable human thirst for drama and intrigue drew people to written accounts of executions and murder trials as recorded by local magistrates and shire sheriffs.&lt;/p&gt;
 
@@ -2076,13 +2091,30 @@
 
 &lt;h2 id=&quot;the-first-serialized-mystery-stories-amp-the-advent-of-the-mystery-magazine&quot;&gt;The First Serialized Mystery Stories &amp;amp; the Advent of the Mystery Magazine&lt;/h2&gt;
 
-&lt;p&gt;As the demand for more stories increased from the poor and middle class readers, publishers began to print what became known as the penny dreadfuls, or penny bloods. These cheaply produced periodicals included serialized novels and short stories ranging from Pierce Egan the Elder’s &lt;i&gt;Life in London&lt;/i&gt; (1821 – 1824)&lt;sup&gt;&lt;a href=&quot;http://www.priceonepenny.info/notes.php&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; to Charles Dicken’s many works including &lt;i&gt;The Pickwick Papers&lt;/i&gt; and &lt;i&gt;Oliver Twist&lt;/i&gt;. Typically sold for a shilling, these works were lavishly illustrated and came out as monthly serials&lt;sup&gt;&lt;a href=&quot;http://www.priceonepenny.info/notes.php&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;As the demand for more stories increased from the poor and middle class readers, publishers began to print what became known as the penny dreadfuls, or penny bloods.&lt;/p&gt;
+
+&lt;figure class=&quot;image__inpostR&quot;&gt;
+  &lt;img id=&quot;Poe&quot; src=&quot;/assets/img/Dickens_by_Watkins_1858.png&quot; alt=&quot;Charles Dickens&quot; width=&quot;250&quot; /&gt;
+  &lt;figcaption&gt;Charles Dickens&lt;br /&gt;by Watkins, 1858&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;These cheaply produced periodicals included serialized novels and short stories ranging from Pierce Egan the Elder’s &lt;i&gt;Life in London&lt;/i&gt; (1821 – 1824)&lt;sup&gt;&lt;a href=&quot;http://www.priceonepenny.info/notes.php&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; to Charles Dicken’s many works including &lt;i&gt;The Pickwick Papers&lt;/i&gt; and &lt;i&gt;Oliver Twist&lt;/i&gt;. Typically sold for a shilling, these works were lavishly illustrated and came out as monthly serials&lt;sup&gt;&lt;a href=&quot;http://www.priceonepenny.info/notes.php&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;p&gt;Cheap serialized stories appeared in the late 1820s and were sold in weekly editions for a penny each. Subject matter ranged from Gothic thrillers about vampires and ghouls to sensationalized exploits of detectives and criminals. Innovations during the Victorian Era in Britain such as improvements to mass printing, the increased capacity for travel, and an increasingly literate public created a mass market for cheap, popular literature and were priced to be affordable to the working-class&lt;sup&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Penny_dreadful&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
-&lt;p&gt;In the second half of the nineteenth century, a new form of cheap novel gained a foothold. Called a &lt;b&gt;yellowback&lt;/b&gt; for its distinct yellow cast covers, created using a technique called chromoxylography, which is a color woodblock printing process, these books were designed to compete with the penny dreadfuls, these book length works were often sordid and sensational, sold cheaply to satisfy the working-class tastes for torrid entertainment.&lt;/p&gt;
+&lt;figure class=&quot;image__inpostL&quot;&gt;
+  &lt;img id=&quot;Poe&quot; src=&quot;/assets/img/yellowback.jpg&quot; alt=&quot;a typical yellowback novel&quot; width=&quot;250&quot; /&gt;
+  &lt;figcaption&gt;A typical yellowback novel.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In the second half of the nineteenth century, a new form of cheap novel gained a foothold. Called a yellowback for its distinct yellow cast covers, created using a technique called chromoxylography, which is a color woodblock printing process, these books were designed to compete with the penny dreadfuls, these book length works were often sordid and sensational, sold cheaply to satisfy the working-class tastes for torrid entertainment.&lt;/p&gt;
 
 &lt;p&gt;Not to be outdone by the Brits, the American mystery writers produced their own versions of the yellowback novels, soon called dime novels, story papers, and thick books. These were the early versions of what later became the popular pulp mystery magazines. Like their British cousins, the dime novels were written quickly, with sensationalist plots and lurid detail. The earliest dime novels were not mysteries, per se, but dealt with general life of the time, such as western adventures featuring real-life characters like Wild Bill Hickok.&lt;/p&gt;
+
+&lt;figure class=&quot;image__inpostR&quot;&gt;
+  &lt;img id=&quot;Poe&quot; src=&quot;/assets/img/oldsearch.jpg&quot; alt=&quot;Old Search&quot; width=&quot;350&quot; /&gt;
+  &lt;figcaption&gt;The Old Cap Collier Library&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Popular mystery characters included “Old Sleuth”, “Nick Carter” and a publication called “The New York Detective Library”, created by Frank Tousey. “The New York Detective Library”, like “The Old Cap Collier Library”, featured a single character that carried through numerous adventures and written by numerous authors.&lt;/p&gt;
 
@@ -2107,6 +2139,11 @@
 
 &lt;p&gt;The story is based on an eighteenth century case of abduction and wrongful imprisonment. The hero, Walter Hartright, was the first to use techniques later popularized by private detective stories. Collins went on to write more than 30 novels, classified today as “sensation novels”, which are seen as the precursor to detective and suspense fiction.&lt;/p&gt;
 
+&lt;figure class=&quot;image__inpostL&quot;&gt;
+  &lt;img id=&quot;Poe&quot; src=&quot;/assets/img/Charles_Frohman_presents_William_Gillette_in_Sherlock_Holmes.jpg&quot; alt=&quot;Sherlock Holmes&quot; width=&quot;350&quot; /&gt;
+  &lt;figcaption&gt;William Gillette as Sherlock Holmes&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;In 1887, Irish-Scots physician Sir Arthur Ignatius Conan Doyle (1859 – 1930) published the first in a series of short stories in “The Strand” magazine called “A Study in Scarlet”, featuring the consulting detective Sherlock Holmes. Eventually appearing in four novels, 56 short stories, and countless films and television series—even called by the Guinness World Records “the most portrayed movie character” in history—Holmes perhaps exemplifies best the image of a literary detective.&lt;/p&gt;
 
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
@@ -2117,6 +2154,11 @@
 &lt;p&gt;The first woman to write detective and mystery fiction, American Anna Katherine Green, published &lt;i&gt;The Leavenworth Case&lt;/i&gt; in 1878, and sold a quarter of a million copies. It earned her the title of “The Mother of the Detective Novel” because of the skilled detective work of uncovering hidden fact, often historical, that led to the resolution of the crime. Her techniques are still in use today.&lt;/p&gt;
 
 &lt;p&gt;Green’s success spawned a number of other successful and significant female mystery authors including Mary Roberts Rinehart (known as the American Agatha Christie, although she preceeded the famous British author by 14 years) and Dorothy Cameron Disney.&lt;/p&gt;
+
+&lt;figure class=&quot;image__inpostL&quot;&gt;
+  &lt;img id=&quot;Poe&quot; src=&quot;/assets/img/rinehart.jpg&quot; alt=&quot;Mary Roberts Rinehart&quot; width=&quot;200&quot; /&gt;
+  &lt;figcaption&gt;Mary Roberts Rinehart:&lt;br /&gt;creator of the phrase,&lt;br /&gt;&quot;The butler did it!&quot;&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Rinehart’s style is said to have a lot in common with the later hardboiled school of detective fiction, and is part of the American school of scientific detection. She is credited with the phrase, “The butler did it.”, which appeared in her novel &lt;i&gt;The Door&lt;/i&gt; (1930) and invented the “Had-I-But-Known” school of mystery writing with &lt;i&gt;The Circular Staircase&lt;/i&gt; (1908). She, herself, was influential on other mystery writers including Helen Reilly and Theodora Du Bois.&lt;/p&gt;
 
@@ -2135,6 +2177,11 @@
 
 &lt;p&gt;Specifically, Knox said that a detective story, “must have as its main interest the unravelling of a mystery; a mystery whose elements are clearly presented to the reader at an early stage in the proceedings, and whose nature is such as to arouse curiosity, a curiosity which is gratified at the end.”&lt;sup&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Golden_age_of_detective_fiction&quot;&gt;13&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
+&lt;figure class=&quot;image__inpostR&quot;&gt;
+  &lt;img id=&quot;Poe&quot; src=&quot;/assets/img/Agatha3.jpg&quot; alt=&quot;Agatha Christie&quot; width=&quot;225&quot; /&gt;
+  &lt;figcaption&gt;Agatha Christie&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;The Golden Age of mystery and detective fiction ran from the earliest examples in about 1913 through the beginning of World War II. Some of the best known British mystery writers today were of this style, including Agatha Christie (1890 – 1976), Dorothy L. Sayers (1893 – 1957), Margery Allingham (1904 – 1966) and Philip MacDonald (1900 – 1980). Not to be outdone, American writers also tackled this popular form and significant contributors include John Dickson Carr (1906 - 1977), Ellery Queen (pseudonym of cousins Frederik Dannay (1905 - 1982) and Manfred Bennington Lee (1905 – 1971)), and S. S. Van Dine (1888 – 1939).&lt;/p&gt;
 
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
@@ -2143,6 +2190,11 @@
 &lt;h2 id=&quot;pulps-hardboiled-pis-amp-noir--the-gritty-realism-of-america-1920-to-wwii&quot;&gt;Pulps, Hardboiled PIs &amp;amp; Noir – the Gritty, Realism of America: 1920 to WWII&lt;/h2&gt;
 
 &lt;p&gt;While the British authors were creating gentile murders, the American authors of the 1920s began to write in a more “realistic” style. When Black Mask magazine was launched in April 1920&lt;sup&gt;&lt;a href=&quot;http://www.blackmaskmagazine.com/history.html&quot;&gt;14&lt;/a&gt;&lt;/sup&gt; by literary journalist H. L. Mencken and drama critic George Jean Nathan, it launched a new style of mystery short story and took off where the yellowbacks and dime magazines of the nineteenth century left off. Although best known for its mystery short stories, “Black Mask” was presented “the best stories available of adventure, the best mystery and detective stories, the best romances, the best love stories, and the best stories of the occult.”&lt;/p&gt;
+
+&lt;figure class=&quot;image__inpostL&quot;&gt;
+  &lt;img id=&quot;Poe&quot; src=&quot;/assets/img/BM.jpg&quot; alt=&quot;The Black Mask magazine&quot; width=&quot;325&quot; /&gt;
+  &lt;figcaption&gt;The Black Mask magazine, Sept. 1920&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;The first pulp detective magazine ushered in the era of the hardboiled detective, an anti-hero type who was often hard drinking, hard womanizing, and often at odds with the law himself. Dashiell Hammett, known for &lt;i&gt;The Maltese Falcon&lt;/i&gt; (1930); Raymond Chandler, author of &lt;i&gt;The Big Sleep&lt;/i&gt; (1939); Erle Stanley Gardner, creator of Perry Mason, and other pulp masters got their start writing for “Black Mask”. Other significant writers of the hardboiled style include George Harmon Coxe (1901 – 1984), W. R. Burnett (1899 – 1982), and Ellery Queen.&lt;/p&gt;
 
@@ -2153,6 +2205,11 @@
 &lt;p&gt;A similar genre, one often confused with hardboiled, that rose during this era is the noir story. Taken from the French word for ‘black’, the term referenced the dark, harsh realities of life. But unlike a hardboiled mystery that centered around a private eye or other crime solver, the noir story focused on the average man or woman caught up in some dark situation. Often framed for murder, running for his life, the noir protagonist must evade the cops, the bad guys trying to kill or frame him and find the clues that will prove his innocence.&lt;/p&gt;
 
 &lt;p&gt;Or not. A major convention of the noir plot was that the innocent do not always win. Justice does not always prevail.&lt;/p&gt;
+
+&lt;figure class=&quot;image__inpostL&quot;&gt;
+  &lt;img id=&quot;Poe&quot; src=&quot;/assets/img/deuces-dealt-for-death.svg&quot; alt=&quot;Deuces Dealt for Death&quot; width=&quot;325&quot; /&gt;
+  &lt;figcaption&gt;from &lt;i&gt;Deuces Dealt for Death&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Significant contributors to the noir style include Hammett, as well as James M. Cain’s &lt;i&gt;The Postman Always Rings Twice&lt;/i&gt; (1934) and Horace McCoy’s &lt;i&gt;They Shoot Horses, Don’t They&lt;/i&gt; (1935)&lt;sup&gt;&lt;a href=&quot;http://noirfiction.info/what2.htm&quot;&gt;15&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
@@ -2166,6 +2223,11 @@
 &lt;p&gt;World War II saw a shift in the attitude of the American people towards authority figures and a similar shift in what the public wanted in their mystery fiction. As patriotism, in both America and Britain, grew out of the effects of the war, a new form of detective fiction took shape. Instead of featuring a loner private eye, it featured the intelligent, crafty and honest police detective.&lt;/p&gt;
 
 &lt;p&gt;Most of the police detectives portrayed in mystery fiction up until this point in history were either comic relief or mere window dressing for the crafty private detective. Ranging from Conan Doyle’s Inspector Lestrade who frequently sought Sherlock Holmes’ help in anything but the simplest cases to the corrupt officials often portrayed in the pulp stories, police detectives were shown little respect by mystery writers, reflecting the public’s opinion of the authorities as less than helpful at best, corrupt and incompetent at worst.&lt;/p&gt;
+
+&lt;figure class=&quot;image__inpostR&quot;&gt;
+  &lt;img id=&quot;Poe&quot; src=&quot;/assets/img/EvanHunter.jpg&quot; alt=&quot;Ed McBain, aka Evan Hunter&quot; width=&quot;200&quot; /&gt;
+  &lt;figcaption&gt;Ed McBain, pseudonym of&lt;br /&gt;author Evan Hunter&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;With the rise in patriotism came a new found respect for government forces and authority, and along with it, the desire in the public and by the writers themselves to show the police detectives in a better light. Many of the stories centered around single police detectives like Inspector Morse of Colin Dextor’s (b. 1930) imagination to Ed McBain’s (1926 – 2005) Detective Steve Carella, featured in the &lt;i&gt;87th Precinct&lt;/i&gt; stories.&lt;/p&gt;
 

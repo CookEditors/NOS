@@ -1194,8 +1194,8 @@ body {
   background-color: #fffff0; }
 
 /**
-* .frame creates a max-width 960px/100% (mobile) area 
-* to center content on page while allowing background 
+* .frame creates a max-width 960px/100% (mobile) area
+* to center content on page while allowing background
 * images/colors to be full width.
 **/
 .frame {
@@ -1260,6 +1260,14 @@ a {
   filter: url(#drop-shadow);
   -webkit-filter: drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.5));
   filter: drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.5)); }
+
+figure {
+  margin: 0 1rem; }
+
+figcaption {
+  font-variant: small-caps;
+  font-weight: bold;
+  color: #8B0000; }
 
 ul {
   margin: 0;
@@ -2473,6 +2481,14 @@ ol.references li {
   font-size: 0.75rem;
   color: #8B0000;
   text-overflow: ellipsis; }
+
+.image__inpostL {
+  float: left;
+  padding: 0.25rem 0.25rem 0 0; }
+
+.image__inpostR {
+  float: right;
+  padding: 1rem 0 0 1rem; }
 
 /*==========  LAYOUT  ==========*/
 /* ==========================================================================

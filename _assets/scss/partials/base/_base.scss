@@ -1,6 +1,6 @@
 * {
 	margin: 0;
-	padding: 0; 
+	padding: 0;
 	outline: 0;
 	box-sizing: border-box !important;
 }
@@ -39,8 +39,8 @@ body {
 }
 
 /**
-* .frame creates a max-width 960px/100% (mobile) area 
-* to center content on page while allowing background 
+* .frame creates a max-width 960px/100% (mobile) area
+* to center content on page while allowing background
 * images/colors to be full width.
 **/
 .frame {
@@ -121,7 +121,16 @@ Color='#444')";
 	filter: drop-shadow(12px 12px 7px rgba(0,0,0,0.5));
 }
 
-
+figure {
+	margin: 0 1rem;
+  // display: inline-block;
+}
+figcaption {
+  // margin: 10px 0 0 0;
+  font-variant: small-caps;
+  font-weight: bold;
+  color: $acolor;
+}
 
 
 

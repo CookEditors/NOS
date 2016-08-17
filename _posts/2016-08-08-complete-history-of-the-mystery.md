@@ -50,6 +50,11 @@ And while many purists might not include capers or crook-centered stories, yarns
 
 ## Did Edgar Allen Poe create the modern detective story?
 
+<figure class="image__inpostL">
+  <img id="Poe" src="/assets/img/Poe.png" alt="Edgar Allen Poe" width="200">
+  <figcaption>Edgar Allen Poe</figcaption>
+</figure>
+
 Most experts, or at least most websites, claim that the modern mystery story originated with Edgar Allen Poe. He is called the “Father of the Detective Story”<sup>[1]</sup> and [MysteryNet.com](http://www.MysteryNet.com), a leading site “for online mysteries and mystery games” that also discusses the history and origins of the literary form says that the general mystery story form “… as we know [it] today did not emerge until the mid-nineteenth century when Edgar Allen Poe introduced mystery fiction’s first fictional detective, Auguste C. Dupin, in his 1841 story, ‘The Murders in the Rue Morgue.’”<sup>[2]</sup>
 
 But a deeper look at the works of Poe and the mystery form of fiction shows that while Poe took the form to a new level and may have introduced readers to the concept of a detective, stories revolving around crime and its aftermath have existed almost since time began.
@@ -64,6 +69,11 @@ But a deeper look at the works of Poe and the mystery form of fiction shows that
 
 Taken from the Bible’s first book, originating from the very beginnings of creation itself, this story tells of Cain murdering his brother Abel out of jealousy and God, cast as a sort of detective, seeking out the killer. Generally accepted to have been written by Moses during the Israelite wandering in the wilderness (1450 – 1410 B.C.E.), this short vignette could easily be the first murder mystery put in written form.
 
+<figure class="image__inpostR">
+  <img id="Poe" src="/assets/img/Hercules_killing_Cacus_at_his_Cave.jpg" alt="Hercules killing Cacus at his cave" width="300">
+  <figcaption>Hercules killing Cacus at his cave</figcaption>
+</figure>
+
 Many of the plays of Ancient Greece, like those of Sophocles and Euripides, included elements of mystery and certainly murder in their dramas. Roman mythology also included elements of the mystery story. Indeed, Hercules fought Cacus<sup>[3]</sup>, a fire-breathing giant and son of Vulcan, who stole eight of Hercules’ cattle by walking them backwards into a cave, perhaps the first instance of a crook using subterfuge to try to outwit the detective in pursuit.
 
 Other examples of ancient mysteries include "Oedipus the King" by Sophocles (430 B.C.E.), a story of patricide; “The Three Apples” from the <i>One Thousand and One Arabian Nights</i> (800-1300), about a dismembered body found in a heavy locked chest and the vizier’s task of solving the murder in three days; and the Gong’an, or crime-case fiction of the Chinese Ming Dynasty (1368-1644) involving government magistrates who solve criminal cases.<sup>[4]</sup>
@@ -72,6 +82,11 @@ Other examples of ancient mysteries include "Oedipus the King" by Sophocles (430
 <hr>
 
 ## The Ability to Read and the Fascination with Crime, Murder &amp; Sensational Executions
+
+<figure class="image__inpostR">
+  <img id="Poe" src="/assets/img/gutenberg.png" alt="Gutenberg's press" width="350">
+  <figcaption>Johannes Gutenberg's screw-type press</figcaption>
+</figure>
 
 A direct result of the Renaissance and Johannes Gutenberg’s (1398 – 1468) creation of the moveable type press, the general populace of England and Europe began to learn to read. With this new found skill came the desire to read more than just the Bible and other official texts. The insatiable human thirst for drama and intrigue drew people to written accounts of executions and murder trials as recorded by local magistrates and shire sheriffs.
 
@@ -86,13 +101,30 @@ Thomas De Quincy published a seminal work called “On Murder Considered as One 
 
 ## The First Serialized Mystery Stories &amp; the Advent of the Mystery Magazine
 
-As the demand for more stories increased from the poor and middle class readers, publishers began to print what became known as the penny dreadfuls, or penny bloods. These cheaply produced periodicals included serialized novels and short stories ranging from Pierce Egan the Elder’s <i>Life in London</i> (1821 – 1824)<sup>[7]</sup> to Charles Dicken’s many works including <i>The Pickwick Papers</i> and <i>Oliver Twist</i>. Typically sold for a shilling, these works were lavishly illustrated and came out as monthly serials<sup>[8]</sup>.
+As the demand for more stories increased from the poor and middle class readers, publishers began to print what became known as the penny dreadfuls, or penny bloods.
+
+<figure class="image__inpostR">
+  <img id="Poe" src="/assets/img/Dickens_by_Watkins_1858.png" alt="Charles Dickens" width="250">
+  <figcaption>Charles Dickens<br>by Watkins, 1858</figcaption>
+</figure>
+
+These cheaply produced periodicals included serialized novels and short stories ranging from Pierce Egan the Elder’s <i>Life in London</i> (1821 – 1824)<sup>[7]</sup> to Charles Dicken’s many works including <i>The Pickwick Papers</i> and <i>Oliver Twist</i>. Typically sold for a shilling, these works were lavishly illustrated and came out as monthly serials<sup>[8]</sup>.
 
 Cheap serialized stories appeared in the late 1820s and were sold in weekly editions for a penny each. Subject matter ranged from Gothic thrillers about vampires and ghouls to sensationalized exploits of detectives and criminals. Innovations during the Victorian Era in Britain such as improvements to mass printing, the increased capacity for travel, and an increasingly literate public created a mass market for cheap, popular literature and were priced to be affordable to the working-class<sup>[9]</sup>.
 
-In the second half of the nineteenth century, a new form of cheap novel gained a foothold. Called a <b>yellowback</b> for its distinct yellow cast covers, created using a technique called chromoxylography, which is a color woodblock printing process, these books were designed to compete with the penny dreadfuls, these book length works were often sordid and sensational, sold cheaply to satisfy the working-class tastes for torrid entertainment.
+<figure class="image__inpostL">
+  <img id="Poe" src="/assets/img/yellowback.jpg" alt="a typical yellowback novel" width="250">
+  <figcaption>A typical yellowback novel.</figcaption>
+</figure>
+
+In the second half of the nineteenth century, a new form of cheap novel gained a foothold. Called a yellowback for its distinct yellow cast covers, created using a technique called chromoxylography, which is a color woodblock printing process, these books were designed to compete with the penny dreadfuls, these book length works were often sordid and sensational, sold cheaply to satisfy the working-class tastes for torrid entertainment.
 
 Not to be outdone by the Brits, the American mystery writers produced their own versions of the yellowback novels, soon called dime novels, story papers, and thick books. These were the early versions of what later became the popular pulp mystery magazines. Like their British cousins, the dime novels were written quickly, with sensationalist plots and lurid detail. The earliest dime novels were not mysteries, per se, but dealt with general life of the time, such as western adventures featuring real-life characters like Wild Bill Hickok.
+
+<figure class="image__inpostR">
+  <img id="Poe" src="/assets/img/oldsearch.jpg" alt="Old Search" width="350">
+  <figcaption>The Old Cap Collier Library</figcaption>
+</figure>
 
 Popular mystery characters included "Old Sleuth", "Nick Carter" and a publication called "The New York Detective Library", created by Frank Tousey. "The New York Detective Library", like "The Old Cap Collier Library", featured a single character that carried through numerous adventures and written by numerous authors.
 
@@ -117,6 +149,11 @@ Not long after Poe’s creation of Dupin, Wilke Collins(1824 – 1889) published
 
 The story is based on an eighteenth century case of abduction and wrongful imprisonment. The hero, Walter Hartright, was the first to use techniques later popularized by private detective stories. Collins went on to write more than 30 novels, classified today as “sensation novels”, which are seen as the precursor to detective and suspense fiction.
 
+<figure class="image__inpostL">
+  <img id="Poe" src="/assets/img/Charles_Frohman_presents_William_Gillette_in_Sherlock_Holmes.jpg" alt="Sherlock Holmes" width="350">
+  <figcaption>William Gillette as Sherlock Holmes</figcaption>
+</figure>
+
 In 1887, Irish-Scots physician Sir Arthur Ignatius Conan Doyle (1859 – 1930) published the first in a series of short stories in "The Strand" magazine called "A Study in Scarlet", featuring the consulting detective Sherlock Holmes. Eventually appearing in four novels, 56 short stories, and countless films and television series&mdash;even called by the Guinness World Records “the most portrayed movie character” in history&mdash;Holmes perhaps exemplifies best the image of a literary detective.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
@@ -127,6 +164,11 @@ In 1887, Irish-Scots physician Sir Arthur Ignatius Conan Doyle (1859 – 1930) p
 The first woman to write detective and mystery fiction, American Anna Katherine Green, published <i>The Leavenworth Case</i> in 1878, and sold a quarter of a million copies. It earned her the title of “The Mother of the Detective Novel” because of the skilled detective work of uncovering hidden fact, often historical, that led to the resolution of the crime. Her techniques are still in use today.
 
 Green’s success spawned a number of other successful and significant female mystery authors including Mary Roberts Rinehart (known as the American Agatha Christie, although she preceeded the famous British author by 14 years) and Dorothy Cameron Disney.
+
+<figure class="image__inpostL">
+  <img id="Poe" src="/assets/img/rinehart.jpg" alt="Mary Roberts Rinehart" width="200">
+  <figcaption>Mary Roberts Rinehart:<br>creator of the phrase,<br>"The butler did it!"</figcaption>
+</figure>
 
 Rinehart’s style is said to have a lot in common with the later hardboiled school of detective fiction, and is part of the American school of scientific detection. She is credited with the phrase, “The butler did it.”, which appeared in her novel <i>The Door</i> (1930) and invented the “Had-I-But-Known” school of mystery writing with <i>The Circular Staircase</i> (1908). She, herself, was influential on other mystery writers including Helen Reilly and Theodora Du Bois.
 
@@ -145,6 +187,11 @@ The Golden Age stories is called the “apex of the [mystery] genre, embodying a
 
 Specifically, Knox said that a detective story, “must have as its main interest the unravelling of a mystery; a mystery whose elements are clearly presented to the reader at an early stage in the proceedings, and whose nature is such as to arouse curiosity, a curiosity which is gratified at the end.”<sup>[13]</sup>
 
+<figure class="image__inpostR">
+  <img id="Poe" src="/assets/img/Agatha3.jpg" alt="Agatha Christie" width="225">
+  <figcaption>Agatha Christie</figcaption>
+</figure>
+
 The Golden Age of mystery and detective fiction ran from the earliest examples in about 1913 through the beginning of World War II. Some of the best known British mystery writers today were of this style, including Agatha Christie (1890 – 1976), Dorothy L. Sayers (1893 – 1957), Margery Allingham (1904 – 1966) and Philip MacDonald (1900 – 1980). Not to be outdone, American writers also tackled this popular form and significant contributors include John Dickson Carr (1906 - 1977), Ellery Queen (pseudonym of cousins Frederik Dannay (1905 - 1982) and Manfred Bennington Lee (1905 – 1971)), and S. S. Van Dine (1888 – 1939).
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
@@ -153,6 +200,11 @@ The Golden Age of mystery and detective fiction ran from the earliest examples i
 ## Pulps, Hardboiled PIs &amp; Noir – the Gritty, Realism of America: 1920 to WWII
 
 While the British authors were creating gentile murders, the American authors of the 1920s began to write in a more “realistic” style. When Black Mask magazine was launched in April 1920<sup>[14]</sup> by literary journalist H. L. Mencken and drama critic George Jean Nathan, it launched a new style of mystery short story and took off where the yellowbacks and dime magazines of the nineteenth century left off. Although best known for its mystery short stories, "Black Mask" was presented “the best stories available of adventure, the best mystery and detective stories, the best romances, the best love stories, and the best stories of the occult.”
+
+<figure class="image__inpostL">
+  <img id="Poe" src="/assets/img/BM.jpg" alt="The Black Mask magazine" width="325">
+  <figcaption>The Black Mask magazine, Sept. 1920</figcaption>
+</figure>
 
 The first pulp detective magazine ushered in the era of the hardboiled detective, an anti-hero type who was often hard drinking, hard womanizing, and often at odds with the law himself. Dashiell Hammett, known for <i>The Maltese Falcon</i> (1930); Raymond Chandler, author of <i>The Big Sleep</i> (1939); Erle Stanley Gardner, creator of Perry Mason, and other pulp masters got their start writing for "Black Mask". Other significant writers of the hardboiled style include George Harmon Coxe (1901 – 1984), W. R. Burnett (1899 – 1982), and Ellery Queen.
 
@@ -163,6 +215,11 @@ The hardboiled style grew in popularity as the public trust in the police and th
 A similar genre, one often confused with hardboiled, that rose during this era is the noir story. Taken from the French word for ‘black’, the term referenced the dark, harsh realities of life. But unlike a hardboiled mystery that centered around a private eye or other crime solver, the noir story focused on the average man or woman caught up in some dark situation. Often framed for murder, running for his life, the noir protagonist must evade the cops, the bad guys trying to kill or frame him and find the clues that will prove his innocence.
 
 Or not. A major convention of the noir plot was that the innocent do not always win. Justice does not always prevail.
+
+<figure class="image__inpostL">
+  <img id="Poe" src="/assets/img/deuces-dealt-for-death.svg" alt="Deuces Dealt for Death" width="325">
+  <figcaption>from <i>Deuces Dealt for Death</i></figcaption>
+</figure>
 
 Significant contributors to the noir style include Hammett, as well as James M. Cain’s <i>The Postman Always Rings Twice</i> (1934) and Horace McCoy’s <i>They Shoot Horses, Don’t They</i> (1935)<sup>[15]</sup>.
 
@@ -176,6 +233,11 @@ Both hardboiled and noir styles of mystery fiction dominated the American scene 
 World War II saw a shift in the attitude of the American people towards authority figures and a similar shift in what the public wanted in their mystery fiction. As patriotism, in both America and Britain, grew out of the effects of the war, a new form of detective fiction took shape. Instead of featuring a loner private eye, it featured the intelligent, crafty and honest police detective.
 
 Most of the police detectives portrayed in mystery fiction up until this point in history were either comic relief or mere window dressing for the crafty private detective. Ranging from Conan Doyle’s Inspector Lestrade who frequently sought Sherlock Holmes’ help in anything but the simplest cases to the corrupt officials often portrayed in the pulp stories, police detectives were shown little respect by mystery writers, reflecting the public’s opinion of the authorities as less than helpful at best, corrupt and incompetent at worst.
+
+<figure class="image__inpostR">
+  <img id="Poe" src="/assets/img/EvanHunter.jpg" alt="Ed McBain, aka Evan Hunter" width="200">
+  <figcaption>Ed McBain, pseudonym of<br>author Evan Hunter</figcaption>
+</figure>
 
 With the rise in patriotism came a new found respect for government forces and authority, and along with it, the desire in the public and by the writers themselves to show the police detectives in a better light. Many of the stories centered around single police detectives like Inspector Morse of Colin Dextor’s (b. 1930) imagination to Ed McBain’s (1926 – 2005) Detective Steve Carella, featured in the <i>87th Precinct</i> stories.
 
