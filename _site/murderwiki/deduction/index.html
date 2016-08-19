@@ -1,0 +1,935 @@
+<!doctype html>
+<html lang="en-US">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>Deduction &#124; Tales of Murder</title>
+		<meta name="description" content="Chapter 8 of The Techniques of the Mystery, published 1913.">
+		<meta name="keywords" content="">
+		
+		<!-- include open-graph.html w/ open moustache/percent-->
+
+		<!-- Webmaster Tools Verification -->
+		
+
+		
+
+		<!-- CSS -->
+		<link rel="stylesheet" href="/assets/css/styles.css">
+		
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+	
+		<!--[if lt IE 9]>
+    	<script src="bower_components/html5shiv/dist/html5shiv.js"></script>
+    	<script src="_assets/js/vendor/respond.js"></script>
+		<![endif]-->
+		
+		<!--load jQuery, required-->
+		<script src="/assets/js/vendor/jquery-1.11.2.js"></script>
+
+		<script src="/assets/js/vendor/jquery-ui.min.js"></script>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+
+	</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body  id="Deduction" class="ipadBS murderwiki">
+
+	<!-- include facebookshare.html -->
+
+	<!-- MASTHEAD -->
+
+<header class="site__header"> <!-- contains full width, resizing background image -->
+	<div class="container"> <!-- 960px width, centered content area -->
+
+		<div class="masthead"> <!-- clearfix -->
+
+			<!-- <img src="/assets/img/circle_crow_paper.png" alt="" class="masthead__logo grit"> -->
+
+			<div class="branding">
+				<a href="http://www.talesofmurder.com/">
+					<img class="" src="/assets/img/site_logo4a_f.png" alt="site logo for TalesofMurder.com" width="600">
+				</a> <!-- link (ahref) makes header image a link back to HOME -->
+				<!-- <h2 class="masthead__title grit"><span class="title__sub">Tales of </span><span class="title__main"><span class="m">m</span><span class="urde">urde</span><span class="r">r</span></span></h2>
+
+				<h3 class="masthead__tagline">For readers with time to <span>kill</span> &hellip;</h3> -->
+			</div> <!-- end div .masthead-inner__test -->
+
+			<div class="navicon toggle-menu menu-right">
+      	<!-- <i class="fa fa-navicon"></i> -->
+      	<h6 style="margin-top: 1.25rem;font-size: 1rem;"><i class="fa fa-navicon"></i> MENU</h6>
+    	</div>
+
+		</div> <!-- end div .masthead__test -->
+
+
+	<!-- MAIN NAVIGATION MENU -->
+
+    <!-- <div class="navicon__test toggle-menu menu-right">
+      <i class="fa fa-navicon"></i>
+    </div> -->
+
+    <nav  class="nav__primary cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right"> <!-- if  statement removes menu from home (eventually only WelcomeGate) page -->
+
+      <h1 class="hidden">Main Navigation</h1>
+      <div class="nav__basic">
+        <!-- <h3>Menu</h3> -->
+        <a  href="/index.html">Home</a>
+        <a  href="/about/index.html">About</a>
+        <a  href="/short-stories/index.html">Short&nbsp;Stories</a>
+       <!--  <a  href="/the-red-file/index.html">The&nbsp;Red&nbsp;File</a>
+        <a  href="/book-catalog/index.html">Book&nbsp;Catalog</a> -->
+        <a  href="/murderwiki/index.html">MurderWiki</a>
+      </div>
+    </nav> <!-- nav__primary -->
+
+  </div> <!-- end div frame -->
+</header> <!-- site__header -->
+
+
+
+
+
+  <main class="main"> <!-- removed [style="height:100%;"] to correct ios9 browser height problem ... WHY!? -->
+    <div class="content">
+    	<div id="thepost" class="post">
+
+  <header class="post__header clearfix">
+	<!-- README IF STATEMENT -->
+  
+
+		<div class="clearfix titlebox">
+	  	<div class="storytitles" id="top">
+				<h1 class="post__title" style="margin-bottom:2rem;font-size:3rem;">Deduction</h1>
+				<h2 class="post__title" style="margin-bottom:2rem;font-size:2rem;"></h2>
+				<h3 class="post__author">By <strong>Carolyn Wells</strong></h3>
+
+				<figure class="post__img"> <!-- add class grit to dirty up pic -->
+						<img src="/assets/img/Painting_depicts_Bahram_Gur.jpg" alt="">
+						<figcaption class="post__excerpt">Chapter 8 of <i>The Techniques of the Mystery</i>, published 1913.</figcaption>
+				</figure> <!-- end div post__image
+				<!-- <h2 class="post__excerpt">Chapter 8 of <i>The Techniques of the Mystery</i>, published 1913.</h4> -->
+			</div> <!-- end div titles -->
+		</div> <!-- end div clearfix -->
+
+		<div class="post__meta">
+			<p>word count: 4,417</p>
+			<p>time to read:
+				
+				
+					<span class="time">22</span> min 
+				
+			</p>
+		</div> <!-- end div post__meta -->
+
+  </header>
+
+	<!-- show either div.pc-tease OR div.cu-tease:
+	(1) if normal post, then show div.cu-tease,
+	(2) if premium post && localStorage[registered=true], then show div.cu-tease,
+	(3) if premium post && !localStorage[registered=true], then show div.pc-tease && include/show readmore.html
+	-->
+
+	<!-- <div class="pc-tease grit hidden">
+		<h4><i class="fa fa-sign-in"></i>&nbsp;PREMIUM CONTENT</h4>
+		<h5>REGISTERED USERS ONLY</h5>
+		<p>Enjoy an online sample of <span>Deduction</span>. To read the full story, just register with a valid email address. You'll also be able to download either a PDF, Kindle or ePub version. Full details below the sample.</p>
+	</div> end div pc-tease -->
+
+	  <!-- <div class="cu-tease grit">
+		<p><strong>PSST! Hey, buddy &hellip;</strong> did'ya know you can download <a href="#"><strong>Deduction</strong></a> for any ereader device (<em>Kindle, iBooks, etc.</em>) or as PDF &hellip; perfect for reading when you're not online but have time to kill! <strong>Look for the <a href="#ssactions_ID"><span>Download</span></a> buttons at the end of this story.</strong></p>
+	</div> end div cu-tease --> <!-- NOTE: DISABLED TEMPORARILY UNTIL PROPER DOWNLOAD CAN BE SET UP ... DAY OR TWO AT MOST!! -->
+
+		<div class="fontresizer">
+	<h6 class="hidden">Adjust Font Size</h6>
+	<button id="linkDecrease"><i class="fa fa-minus-square fa-2x"></i></button>
+	<i class="fontresizer__icon fa fa-font"></i><i class="fontresizer__icon fa fa-font fa-2x"></i>
+	<button id="linkIncrease"><i class="fa fa-plus-square fa-2x"></i></button>   
+
+</div> <!-- end div fontresizer -->
+
+	<article class="post__content" id="story-main">
+  	<section id="toc" class="toc">
+  <header>
+    <h6>Table of Contents</h6>
+  </header>
+<div id="drawer">
+<ol id="markdown-toc">
+  <li><a href="#ratiocination-in-early-detective-stories" id="markdown-toc-ratiocination-in-early-detective-stories">Ratiocination in Early Detective Stories</a></li>
+  <li><a href="#deduction-used-in-every-day-life" id="markdown-toc-deduction-used-in-every-day-life">Deduction Used in Every-day Life</a></li>
+  <li><a href="#the-analytical-element-in-the-detective-story" id="markdown-toc-the-analytical-element-in-the-detective-story">The Analytical Element in the Detective Story</a></li>
+  <li><a href="#poe39s-detectivethe-prototype" id="markdown-toc-poe39s-detectivethe-prototype">Poe's Detective—The Prototype</a></li>
+  <li><a href="#the-detective-in-the-novel" id="markdown-toc-the-detective-in-the-novel">The Detective in the Novel</a></li>
+</ol>
+
+  </div>
+</section>
+<p><!-- table-of-contents --></p>
+
+<p>Deduction, in a definite and restricted sense, is the motif of most of the detective stories of to-day. It is an unusually perspicacious analytic deduction from inconspicuous clues that we call ratiocination, or more familiarly, the detective instinct.</p>
+
+<h2 id="ratiocination-in-early-detective-stories">Ratiocination in Early Detective Stories</h2>
+
+<p>A story quoted in one of the earlier chapters, called "The Sultan and his Three Sons," is a very ancient specimen of analytic deduction. Though it is, in turn, doubtless founded on an even older tale.</p>
+
+<p>Centuries later the stories of the Sultan's sons reappeared almost verbatim in a story by the Chevalier de Mailly, entitled "Voyage et Aventure des Trois Princes de Sarendip," which appeared in 1719. De Mailly's version is substantially as follows:</p>
+
+<p>The three princes, starting out on their journey, encounter a camel-driver who has lost one of his herd.</p>
+
+<p>They have noticed the tracks of such an animal though not seen him and when asked by the driver if they know of his whereabouts, the eldest replies: "Was he not blind?" The second: "Did he not have a tooth out?" The third: "Was he not lame?" The camel-driver assents with delight to the questions and continues on his way rejoicing. Not finding his camel, however he returns and accuses them of bantering with him. "To prove that what we say is so," said the eldest, "your camel carried butter on one side and honey on the other." The second: "And a lady rode the camel," etc. In the same manner they are arrested for theft and sentenced. And in the same manner the camel is refound and an explanation is given: "I judged that the camel was blind because I noticed that on one side of the road all the grass was gnawed down, while the other side was untouched. Therefore, I inferred that he had but one eye, else he would not have left the good to eat the poor grass." "I found in the road mouthfuls of half-chewed herbage the size of a tooth of just such an animal," etc.</p>
+
+<p>Nearly thirty years later Voltaire practically repeated the story in his "Zadig," related thus:</p>
+
+<blockquote>
+  <p>Zadig found by experience that the first month of marriage, as it is written in the book of Zend, is the moon of honey, and that the second is the moon of wormwood.</p>
+</blockquote>
+
+<blockquote>
+  <p>He was sometime afterward obliged to repudiate Azora, who became too difficult to be pleased; and he then sought for happiness in the study of nature. "No man,11 said he, "can be happier than a philosopher who reads in this great book which God hath placed before our eyes. The truths he discovers are his own, he nourishes and exalts his soul, he lives in peace; he fears nothing from men; a his tender spouse will not come to cut off his nose."</p>
+</blockquote>
+
+<blockquote>
+  <p>Possessed of these ideas he retired to a country house on the banks of the Euphrates. There he did not employ himself in calculating how many inches of water flow in a second of time under the arches of a bridge, or whether there fell a cube line of rain in the month of the house more than in the month of the Sheep. He never dreamed of making silk of cobwebs, or porcelain of broken bottles; but he chiefly studied the properties of plants and animals and soon acquired a sagacity that made him discover a thousand differences where other men see nothing but uniformity.</p>
+</blockquote>
+
+<blockquote>
+  <p>One day, as he was walking near a little wood, he saw one of the queen's eunuchs running toward him, followed by several officers who appeared to be in great perplexity, and who ran to and fro like men distracted, eagerly searching for something they had lost of great value. "Young man," said the first eunuch, "hast thou seen the queen's dog?" "It is a female," replied Zadig. "Thou art in the right," returned the first eunuch. "It is a very small she spaniel," added Zadig; "she has lately whelped; she limps on the left forefoot, and has very long ears." "Thou hast seen her," said the first eunuch, quite out of breath. "No," replied Zadig, "I have not seen her, nor did I so much as know that the queen had a dog."</p>
+</blockquote>
+
+<blockquote>
+  <p>Exactly at the same time, by one of the common freaks of fortune, the finest horse in the king's stable had escaped from the jockey in the plains of Babylon. The principal huntsman and all the other officers ran after him with as much eagerness and anxiety as the first eunuch had done after the spaniel. The principal huntsman addressed himself to Zadig, and asked him if he had not seen the king's horse passing by. "He is the fleetest horse in the king's stable," replied Zadig; "he is five feet high, with very small hoofs, and a tail three feet and a half in length; the studs on his bit are gold of twenty- three carats, and his shoes are silver of eleven pennyweights." "What way did he take? Where is he?" demanded the chief huntsman. "I have not seen him," replied Zadig, "and never heard talk of him before."</p>
+</blockquote>
+
+<blockquote>
+  <p>The principal huntsman and the first eunuch never doubted but that Zadig had stolen the king's horse and the queen's spaniel. They therefore had him conducted before the assembly of the grand desterham who condemned him to the knout, and to spend the rest of his days in Siberia. Hardly was the sentence passed when the horse and the spaniel were both found. The judges were reduced to the disagreeable necessity of reversing their sentence; but they condemned Zadig to pay four hundred ounces of gold for having said that he had not seen what he had seen. This fine he was obliged to pay; after which he was permitted to plead his cause before the counsel of the grand desterham, when he spoke to the following effect:</p>
+</blockquote>
+
+<blockquote>
+  <p>"Ye stars of justice, abyss of sciences, mirrors of truth, who have the weight of lead, the hardness of iron, the splendor of the diamond, and many properties of gold: Since I am permitted to speak before this august assembly, I swear to you by Oramades that I have never seen the queen's respectable spaniel, nor the sacred horse of the king of kings. The truth of the matter was as follows: I was walking toward the little wood, where I afterwards met the venerable eunuch, and the most illustrious chief huntsman. I observed on the sand the traces of an animal, and could easily perceive them to be those of a little dog. The light and long furrows impressed on little eminences of sand between the marks of the paws plainly discovered that it was a female, whose dugs were hanging down, and that therefore she must have whelped a few days before. Other traces of a different kind, that always appeared to have gently brushed the surface of the sand near the marks of the forefeet, showed me that she had very long ears; and as I remarked that there was always a slighter impression made on the sand by one foot than the other three, I found that the spaniel of our august queen was a little lame, if I may be allowed the expression.</p>
+</blockquote>
+
+<blockquote>
+  <p>"With regard to the horse of the king of kings, you will be pleased to know that, walking in the lanes of this wood, I observed the marks of a horse's shoes, all at equal distances. This must he a horse, said I to myself, that gallops excellently. The dust on the trees in the road that was but seven feet wide was a little brushed off, at the distance of three feet and a half from the middle of the road. This horse, said I, has a tail three feet and a half long, which being whisked to the right and left, has swept away the dust. I observed under the trees that formed an arbor five feet in height, that the leaves of the branches were newly fallen; from whence I inferred that the horse had touched them, and that he must therefore be five feet high. As to his bit, it must be gold of twenty- three carats, for he had rubbed his bosses against a stone which I knew to be a touchstone, and which I have tried. In a word, from the marks made by his shoes on flints of another kind, I concluded that he was shod with silver eleven deniers fine."</p>
+</blockquote>
+
+<p>This is only a single instance of Zadig's ratiocination, but Voltaire gives us many others.</p>
+
+<p>Poe's stories follow precisely this same narrow path, and after him trail Gaboriau, Du Boisgobey, Conan Doyle and the rest of the long procession.</p>
+
+<h2 id="deduction-used-in-every-day-life">Deduction Used in Every-day Life</h2>
+
+<p>But this adaptation from Oriental lore is no disparagement of Poe's talent. He was the first to write a coherent and self-contained story whose interest depends solely on the application of human intelligence to the solution of a mystery. Others have done so since; and this peculiar trait of analytic deduction is by no means confined to detectives or to Detective Story writers. The average human being in every-day life, often without being definitely conscious of it, performs absolute ratiocination. It is only the extreme application of this principle, or an unusual demonstration of it in connection with interesting circumstances, that gives interest to a Detective Story.</p>
+
+<p>As Professor Matthews says:</p>
+
+<blockquote>
+  <p>"Huxley has pointed out that the method of Zadig is the method which has made possible the incessant scientific discovery of the last century. It is the method of Wellington at Assaye, assuming that there must be a ford at a certain place on the river because there was a village on each side. It is the method of Grant at Vicksburg, examining the knapsacks of the Confederate soldiers slain in a sortie to see if these contained rations, which would show that the garrison was seeking to break out because the place was untenable."</p>
+</blockquote>
+
+<p>Also it was the method of the North American Indian following a trail. It is the method of the housemother in dealing with her servants, her children, and perhaps her husband. In all walks of life it is more or less an available and practiced method, and this is one reason why it is of popular interest in a story, because it mirrors, though with the necessary exaggeration of art, the possibilities of every-day life and the working results of every-day philosophy.</p>
+
+<p>For much philosophy goes to the make-up of a Detective Story. And it is to a great extent the truth and worth of this philosophy that determines the value of the story.</p>
+
+<p>In Mr. Chesterton's opinion:</p>
+
+<blockquote>
+  <p>"The idea that you cannot put good philosophy into certain art-forms is as absurd and mischievous as the idea that you cannot put good workmanship into them. Mr. Shaw, for example, has put his philosophy into the form of ordinary melodrama in 'The Devil's Disciple.' Ibsen has put his into the form of pantomimic extravaganza in 'Peer Gynt.1 There is no earthly reason why a man with a specific talent for the work should not put ideas as profound into the form of the detective story. For after all the essence of the detective story is the presence of visible phenomena with a hidden explanation. And that, when one comes to think of it, is the essence of all the philosophies."</p>
+</blockquote>
+
+<h2 id="the-analytical-element-in-the-detective-story">The Analytical Element in the Detective Story</h2>
+
+<p>It is the invention and construction of the story, setting forth the puzzle in an attractive way, and continuing with sound reasoning and philosophy to a logical and satisfactory end, that arrests and holds the reader's attention. And the skilled author devises every circumstance of his tale with the one intent, to whet the reader's desire to arrive at the author's solution simultaneously with, if not ahead of the author's detective.</p>
+
+<p>To quote Poe himself:</p>
+
+<blockquote>
+  <p>"The mental features discoursed of as the analytical are, in themselves, but little susceptible of analysis. We appreciate them only in their effects. We know of them, among other things, that they are always to their possessor, when inordinately possessed, a source of the liveliest enjoyment. As the strong man exults in his physical ability, delighting in such exercises as call his muscles into action, so glories the analyst in that moral activity which disentangles. He derives pleasure from even the most trivial occupations bringing his talent into play. He is fond of enigmas, of conundrums, of hieroglyphics; exhibiting in his solution of each a degree of acumen which appears to the ordinary apprehension preternatural. His results, brought about by the very soul and essence of method, have, in truth, the whole air of intuition."</p>
+</blockquote>
+
+<p>It is this air of intuition, even though we know it is absolutely not intuition, that we seek in Detective Stories. We wish to be amazed by the mysteries, sure that in due time they will be explained. We enjoy being confronted by absolute paradox.</p>
+
+<p>As Maupassant says, "How weak our head is, and how quickly it is terrified and goes astray, as soon as we are struck by a small incomprehensible fact. Instead of concluding with these simple words: 'I do not understand because the cause escapes me,' we immediately imagine terrible mysteries as supernatural powers."</p>
+
+<p>A very fine yet clear distinction is made by Poe which is not always carefully observed by his imitators or successors.</p>
+
+<blockquote>
+  <p>"The analytical power should not be confounded with simple ingenuity; for while the analyst is necessarily ingenious, the ingenious man is often remarkably incapable of analysis. The constructive or combining power, by which ingenuity is usually manifested, and to which the phrenologists (I believe erroneously) have assigned a separate organ, supposing it a primitive faculty, has been so frequently seen in those whose intellect bordered otherwise upon idiocy, as to have attracted general observation among writers on morals. Between ingenuity and the analytic ability there exists a difference far greater, indeed, than that between the fancy and the imagination, but of a character very strictly analogous. It will be found, in fact, that the ingenious are always fanciful, and the truly imaginative never otherwise than analytic."</p>
+</blockquote>
+
+<h2 id="poe39s-detectivethe-prototype">Poe's Detective—The Prototype</h2>
+
+<p>These principles, more or less clearly understood and adhered to, make up the conventional Fiction Detectives.</p>
+
+<p>Stripped of their distinguishing characteristics, their morphine, knotted string, eccentric habits, or scientific appliances, they all depend for their right to exist, on their application of Poe's principles.</p>
+
+<p>But notwithstanding that the later authors have followed so closely in the narrow path trodden by Poe, it is by no means sure that had Poe, Gaboriau and Conan Doyle never lived, others might not have been pioneers in this field of fiction, and even those who had never heard of Zadig and who knew no Oriental tales. For the detective instinct is not uncommon, and given its presence in combination with Nature's gift of a gray goose quill, a resulting Detective Story is inevitable.</p>
+
+<p>It is Poe's assertion that analytic reasoning is oftenest the identification of the reasoner's intellect with that of his opponent, and he illustrates it thus, in "The Purloined Letter."</p>
+
+<blockquote>
+  <p>"I knew a schoolboy about eight years of age, whose success at guessing in the game of 'even and odd' attracted universal admiration. This game is simple, and is played with marbles. One player holds in his hand a number of these toys, and demands of another whether that number is even or odd. If the guess is right, the guesser wins one; if wrong, he loses one. The boy to whom I allude won all the marbles of the school. Of course he had some principle of guessing; and this lay in mere observation and admeasurement of the astuteness of his opponents.</p>
+</blockquote>
+
+<blockquote>
+  <p>For example, an arrant simpleton is his opponent, and, holding up his closed hand, asks, 'are they even or odd?'</p>
+</blockquote>
+
+<blockquote>
+  <p>Our schoolboy replies, 'odd,' and loses; but upon the second trial he wins, for he then says to himself, 'the simpleton had them even upon the first trial, and his amount of cunning is just sufficient to make him have them odd upon the second; I will therefore guess odd;'—he guesses odd, and wins. Now, with a simpleton a degree above the first, he would have reasoned thus:</p>
+</blockquote>
+
+<blockquote>
+  <p>'This fellow finds that in the first instance I guessed odd, and, in the second, he will propose to himself, upon the first impulse, a simple variation from even to odd, as did the first simpleton; but then a second thought will suggest that this is too simple a variation, and finally he will decide upon putting it even as before. I will therefore guess even;—he guesses even, and wins. Now this mode of reasoning in the schoolboy, whom his fellows termed 'lucky,1—what in its last analysis, is it?"</p>
+</blockquote>
+
+<blockquote>
+  <p>"It is merely," I said, "an identification of the reasoner's intellect with that of his opponent."</p>
+</blockquote>
+
+<blockquote>
+  <p>"It is," said Dupin, "and, upon inquiring of the boy by what means he effected the thorough identification in which his success consisted, I received answer as follows: 'When I wish to find out how wise, or how stupid, or how good, or how wicked is any one, or what are his thoughts at the moment, I fashion the expression of my face, as accurately as possible, in accordance with the expression of his, and then wait to see what sentiments or thoughts arise in my mind or heart, as if to match or correspond with the expression.' This response of the schoolboy lies at the bottom of all the spurious profundity which has been attributed to Rochefoucauld, to LaBruyere, to Machiavelli, and to Campanella."</p>
+</blockquote>
+
+<blockquote>
+  <p>Perhaps spurious profundity is too harsh a term, for the profundity after all is only in the eye of the observer.</p>
+</blockquote>
+
+<blockquote>
+  <p>In similar case was the country boy who found a lost horse. After the owner of the horse and his friends had failed to find the animal that had strayed away, the bumpkin started off by himself, and soon returned bringing the horse with him. "How did you find him?" was the query. "Why," returned the rustic, "I thought if I was a horse, where would I go. And I went there, and he had."</p>
+</blockquote>
+
+<p>This embodies much of the seemingly magical wisdom of the fiction detective.</p>
+
+<h2 id="the-detective-in-the-novel">The Detective in the Novel</h2>
+
+<p>Some thirty years after Poe's Dupin, Gaboriau invented his Le- coq. As Gaboriau's stories are all novels, while Poe's are short- stories or novelettes, there is, of course, more setting, with more characters and more complex plot, in the French stories. But as a personality Gaboriau's detective stands out quite as clearly as Poe's.</p>
+
+<p>An able critic thus compares Lecoq and Sherlock Holmes. He says:</p>
+
+<blockquote>
+  <p>"The fact is that Sherlock Holmes was too perfect a detective for the stories of which he is the hero to be perfect detective stories. The conception of the ideal reasoner, the man in whom the powers of observation and deduction had become so acute that he saw instantly the remote causes and the remote consequences of every fact, was a fine one. Poe had conceived it before, but Sir Arthur amplified and popularized it. In one of his conversations with Watson, Holmes is, I remember, very severe on Lecoq, whom he pronounces 'a bungler. Certainly Lecoq had no presence to the faultless insight of his critic.</p>
+</blockquote>
+
+<blockquote>
+  <p>He was a clever and energetic detective, but no miracle worker. He made mistakes, he followed false scents, he led the reader astray. And so he made the story. In a word, Lecoq was a bungler because Gaboriau was an expert."</p>
+</blockquote>
+
+<p>But is there not another and a better explanation why Holmes was forced to jump at his conclusions immediately, while Lecoq could blunder and retrieve his blunders? Is it not because all the Sherlock Holmes stories are short-stories, and all the Gaboriau stories are full-sized novels? To fill three hundred or more pages necessitates bungling, false leads, mistaken clues and fresh starts. While a Sherlock Holmes story, being told in a few thousand words, necessitates quick action.</p>
+
+<p>But Lecoq's bungles are as interesting as his successful work. When need arises for the expanding of the story, Lecoq converses thus:</p>
+
+<blockquote>
+  <p>"But here I hesitate. I thought myself sure of the character of these murderers; but now        11 He paused; and his contracted features clearly showed that he was engaged in a mental effort.</p>
+</blockquote>
+
+<blockquote>
+  <p>"But now?" asked M. Plantat.</p>
+</blockquote>
+
+<blockquote>
+  <p>M. Lecoq seemed to wake up. "I beg your pardon/1 said he. "I forget myself. I've a bad habit of reflecting aloud. That's why I almost always insist on working alone. My uncertainty and hesitation, the waywardness of my suspicions, compromise my reputation as an astute detective, for whom there's no such thing as a mystery."</p>
+</blockquote>
+
+<blockquote>
+  <p>Worthy M. Plantat smiled indulgently. "I don't usually open my mouth," continued M. Lecoq, "until my mind is satisfied; then I speak in a peremptory tone, and say this is so or so. To-day, however, I am working openly with a man who realizes that such a problem as this cannot be solved at the first attempt. This is why I allow you to see how I grope along. One can't always reach the truth at a bound; to realize it at times various calculations and deductions are necessary. Well, just now my logic is at fault."</p>
+</blockquote>
+
+<p>And again in "File No. 113," Lecoq says:</p>
+
+<blockquote>
+  <p>"Our enemies are on the alert, and we must crush them instantly. I have made a mistake. I have been on the wrong track; it is an accident liable to happen to any man, no matter how intelligent he may be. I took the effect for the cause. The day I was convinced that culpable relations existed between Raoul and Madame Fauvel, I thought I held the end of the thread that would lead us to the truth. I ought to have been more mistrustful; this solution was too simple, too natural."</p>
+</blockquote>
+
+<p>This is indeed proof that Lecoq is a bungler because Gaboriau is an expert.</p>
+
+<p>In his own words Lecoq thus gives an account of his methods.</p>
+
+<blockquote>
+  <p>"A crime is committed—that is the prologue; I reach the scene; the first act begins. At a glance I note the scenery. Then I try to divine the motive of the crime; I group the various characters together, and link the different episodes to the central fact. The action soon reaches a crisis; the thread of my inductions enables me to name the guilty person; I search for him, arrest him, and deliver him up. Then comes the great scene; he struggles, resorts to every device in hopes of cheating justice; but the examining magistrate, armed with the weapons I have forged for him, overwhelms the scoundrel; he does not confess, but he is confounded. And then round the principal personage all kinds of secondary characters are grouped—accomplices, perhaps friends, enemies, witnesses of every description. Some of them may excite alarm, others claim respect, and others again are simply grotesque. The horrible always has its ludicrous side. My last scene is the assize court. The public prosecutor speaks, but his ideas are mine. His oratory is so much embroidery set round the canvas of my report. At last the presiding judge submits his questions to the jury; the fate of my drama is to be decided. Perhaps the jury answers, 'Not guilty,1 and that means my piece was bad, and I must allow myself to be hissed; but if the verdict's 'Guilty,' then the piece was good, I am victorious, and receive my meed of applause. The next day I can go and see my hero, slap him on the shoulder, and say, 'You have lost, old fellow; I was one too much for you!"'</p>
+</blockquote>
+
+<p>And yet this is not extraneous matter, it is an inherent part of the story of "The Mystery of Orcival." If this detective's tricks and manners are more dilatory, or described at greater length than those of Sherlock Holmes, it is entirely because he is a character in a book instead of in a short-story. Gaboriau had his faults, but they were in other respects than the art of his detective.</p>
+
+<p>Reversing the more usual plan of having an amateur detective as a foil for the hero detective, Lecoq has Father Tabaret to whom he defers, as the secondary character.</p>
+
+<p>Instead of Sherlock Holmes' assumption of superiority over his secondary character, we have Father Tabaret laying down the law to the humble hero detective. It is thus the picturesque old Frenchman admonishes Lecoq:</p>
+
+<blockquote>
+  <p>"Wait a little," said he, "before you disdain my praises. I said you had conducted the affair well, but you might have done it infinitely better. You have great gifts, I avow, you have the true detective's instincts, and a keen glance, you know how to sift the known from the unknown; only you are lacking in experience, and are too full of enthusiasm, and are apt to grow discouraged at a slight check. You hover round a fixed idea like a moth flutters; round the flame of a candle; but you are young, and will get over this; however, as I said before, you have made some successes."</p>
+</blockquote>
+
+<blockquote>
+  <p>Lecoq bent his head like a pupil receiving a reproof from his professor. Was not this old man the master, and he a mere scholar?</p>
+</blockquote>
+
+<blockquote>
+  <p>"I will point out all your faults to you," continued the old man, "and will show you how on three occasions, at least, you permitted a good chance to slip through your fingers, and so failed to clear up an affair which to outward appearances was so deeply bathed in obscurity, but which in reality was as transparent as crystal."</p>
+</blockquote>
+
+<blockquote>
+  <p>"And yet, sir        "</p>
+</blockquote>
+
+<blockquote>
+  <p>"Hush, hush, my boy, permit me to speak. On what principle did you start at the first going off? On this one—to mistrust all appearances, and to believe precisely the contrary to what appeared to be the truth or even the probability."</p>
+</blockquote>
+
+<blockquote>
+  <p>"Yes, that is just what I said to myself."</p>
+</blockquote>
+
+<blockquote>
+  <p>"And you did right in saying so. Taking this idea as lantern to light you on your way, you ought to have gone straight to the truth. But as I said before, you are young, and the first likely circumstances that you met with, made you entirely neglect your rule of action."</p>
+</blockquote>
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+  </article>
+
+</div> <!-- end of div post -->
+
+    </div>
+
+  </main>
+
+  <footer class="site__footer" id="site__footer">
+  <div class="container">
+    <small><span class="rwd-line">Copyright 2014 &mdash; 2016 Tales&nbsp;of&nbsp;Murder&nbsp;Press,&nbsp;LLC. </span>All Rights Reserved.</small>
+  </div>
+</footer>
+
+  <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/assets/js/scripts.min.js"></script> -->
+
+<script src="/assets/js/vendor/modernizr.custom.34164.js"></script>
+
+<!--load jQuery, required-->
+<script src="/assets/js/vendor/jquery-1.11.2.js"></script>
+
+<script src="/assets/js/vendor/jquery-ui.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+
+<!-- TYPEKIT -->
+<script src="//use.typekit.net/gwl0zuj.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+
+<script src="/assets/js/vendor/store.js"></script>
+
+<!--load jPushMenu, required-->
+<script src="/assets/js/vendor/jPushMenu.js"></script>
+
+<script src="/assets/js/vendor/slabtext.js"></script>
+
+<script src="/assets/js/vendor/scroll-on-page.js"></script>
+
+<!-- <script src="/assets/js/vendor/store.js"></script>
+NOTE: moved to HEAD -->
+<script src="/assets/js/vendor/flipclock.min.js"></script>
+
+<!-- <script src="/assets/js/vendor/expandable-section.js"></script> -->
+
+<!-- velocity.js -->
+<script src="/assets/js/vendor/velocity.min.js"></script>
+
+<!-- masonry.js -->
+<script src="/assets/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/assets/js/vendor/isotope.pkgd.min.js"></script>
+<script src="/assets/js/vendor/packery-mode.pkgd.min.js"></script>
+
+
+<!-- animated progbar -->
+<script>
+  function MoveTo() {
+    var prpos = document.getElementById('prpos');
+    prpos.style.width = document.getElementById('moveTo').value + "%";
+  }
+</script>
+
+<!--call jPushMenu, required-->
+<script>
+  jQuery(document).ready(function($) {
+   $('.toggle-menu').jPushMenu();
+ });
+</script>
+
+<!-- <script src="/assets/js/vendor/rwd.js"></script> -->
+
+<script>
+	$("h1").slabText({});
+</script>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+    var expanderTrigger = document.getElementById("js-expander-trigger");
+    var expanderContent = document.getElementById("js-expander-content");
+
+    $('#js-expander-trigger').click(function(){
+      $(this).toggleClass("expander-hidden");
+    });
+  });
+</script>
+
+<script>
+
+  (function() {
+
+   var co = $('article').find('span.co').each(function() {
+    var $this = $(this);
+
+    $('<blockquote></blockquote>', {
+     class: 'co',
+     text: $this.text()
+   }).prependTo( $this.closest('p') );
+
+  });
+
+ })();
+
+</script>
+
+
+
+
+<script>
+  function regExpand() {
+    console.log("button works!")
+  }
+</script>
+
+
+<script>
+  $(document).ready(function(){
+    $("#register__button").click(function(){
+      $("#panel").slideDown("5000", "easeOutBounce");
+    });
+  });
+</script>
+
+
+<script type='text/javascript'>
+  $(document).ready(function() {
+    $(".time").text(function (index, value) {
+      return Math.round(parseFloat(value));
+    });
+    $(".hour").text(function (index, value) {
+      return Math.floor(parseFloat(value));
+    });
+  });
+</script>
+
+<!-- this is the simple working version to set localStore attributes ... not used in lieu of callback at the end of ajaxMailChimp (below) -->
+<!-- <script>
+
+	$(document).ready(function() {
+
+		init()
+
+		function init() {
+			if (!store.enabled) {
+				alert('Local storage is not supported by your browser. Please disable "Private Mode" to continue, or upgrade your browser.')
+				return
+			}
+			$("#regSubmit").click(function() {
+        store.set('registered', true);
+
+        var email = $("#regEmail").val();
+        store.set('email', email)
+
+      })
+		};
+	})
+
+</script> -->
+
+<!-- CHECK LOCAL STORAGE -->
+<!-- can I name this function/script?? -->
+<script>
+
+	$(document).ready(function() {
+		if ($("#thepost").hasClass("premium_post")) {
+			console.log("Premium Post")
+
+			if (!store.get('registered')) {
+				console.log('UNREGISTERED User');
+				$(".pc-tease").removeClass("hidden");
+				$(".cu-tease").hide();
+				$(".ssactions").hide();
+
+				$(".read-more").removeClass("hidden");
+				$("#thepost").addClass("notreg")
+			}
+			else {
+				console.log('REGISTERED User');
+                // console.log(email)
+            }
+            }
+      else {
+             console.log("Post")
+           }
+         })
+</script>
+
+
+
+
+<!-- MAILCHIMP FORM STUFF -->
+
+<!-- mailchimp-ajax.js -->
+<script>
+ var ajaxMailChimp = (function(){
+ var module = {};
+
+// Turn the given MailChimp form into an ajax version.
+// If resultElement is given, the subscribe result is set as html to
+// that element.
+module.init = function ajaxMailChimpForm($form, $resultElement){
+
+    // Hijack the submission. We'll submit the form manually.
+    $form.submit(function(e) {
+      e.preventDefault();
+
+      if (!isValidEmail($form)) {
+        var error =  "A valid email address must be provided."
+        $resultElement.html(error);
+        $resultElement.css("color", "red");
+      } else {
+        $resultElement.css({
+         "background-color": "#fff",
+         "color": "#8B0000",
+         "margin-top": "1rem",
+         "padding": "0.5rem"
+       });
+        $resultElement.html("Registering your download request &hellip;");
+        $("#progress-bar").css("width", "75%").text("75%");
+        submitSubscribeForm($form, $resultElement);
+      }
+    });
+  };
+
+// Validate the email address in the form
+function isValidEmail($form) {
+    // If email is empty, show error message.
+    // contains just one @
+    var email = $form.find("input[type='email']").val();
+    if (!email || !email.length) {
+      return false;
+    } else if (email.indexOf("@") == -1) {
+      return false;
+    }
+
+    return true;
+  }
+
+// Submit the form with an ajax/jsonp request.
+// Based on http://stackoverflow.com/a/15120409/215821
+function submitSubscribeForm($form, $resultElement) {
+  $.ajax({
+    type: "GET",
+    url: $form.attr("action"),
+    data: $form.serialize(),
+    cache: false,
+    dataType: "jsonp",
+    jsonp: "c", // trigger MailChimp to return a JSONP response
+    contentType: "application/json; charset=utf-8",
+
+    error: function(error){
+    // According to jquery docs, this is never called for cross-domain JSONP requests
+  },
+
+    success: function(data){
+      if (data.result != "success") {
+        var message = data.msg || "Sorry. Unable to subscribe. Please try again later."
+        $resultElement.css("color", "red");
+
+        // This won't happen if using "smart subscribe"
+        if (data.msg && data.msg.indexOf("already subscribed") >= 0) {
+          message = "You're already subscribed. Thank you."
+          $resultElement.css("color", "white");
+        }
+
+        $resultElement.html(message);
+
+        }
+
+      else {
+        if ($("#mc-embedded-subscribe-form").hasClass("form__premium")) {
+          console.log("premium form");
+          var message = "Thank you!! Please continue reading &hellip;";
+          location.reload(); //reloads the premium post page at same location
+        }
+        else if ($("#mc-embedded-subscribe-form").hasClass("form__postdownload")) {
+          console.log("post download form");
+          var message = "Thank you!!<br>You are subscribed &amp; you can download your story next &hellip;";
+          var url = "/downloads/short-stories/index.html"; // needs to be dynamically created for *each* story ... will use localStorage cookie (maybe!)
+
+          $(location).attr('href', url);
+        }
+        else if ($("#mc-embedded-subscribe-form").hasClass("form__wg")) {
+          console.log("wg form");
+
+          var url = "/thanks/theredfile/";
+
+          $(location).attr('href', url);
+        }
+        else {
+          console.log("no class whatsoever!");
+        }
+
+        $resultElement.html(message);
+
+        var email = $("#mce-EMAIL").val();
+        store.set('registered', true);
+        store.set('emailaddress', email);
+
+      } // end of else statement
+    }
+  });
+}
+
+return module;
+
+})();
+</script>
+
+
+<!-- sets story data (title, author, etc.) to localStorage/sessionStorage for use on download page -->
+<script>
+
+$(document).ready(function() {
+
+  $("#button__postdownload").click(function() {
+    // console.log("button__postdownload clicked");
+    var url; // should be available throughout click function
+
+    init()
+    function init() {
+      if (!store.enabled) {
+        var url = "/downloads/short-stories/index-other.html"; //GENERIC DOWNLOAD PAGE
+        alert('Local storage is not supported by your browswer. Please disable "Private Mode", or upgrade your browser.')
+      return
+      } // end of if !store.enabled
+
+      var url = "/downloads/short-stories/index2.html";
+      var metaArray = ["Deduction", "Carolyn Wells", "History", "/assets/img/Painting_depicts_Bahram_Gur.jpg", "Chapter 8 of <i>The Techniques of the Mystery</i>, published 1913.", "", "", ""];
+
+      // ARRAY KEY
+      // [0] = title
+      // [1] = author
+      // [2] = genre
+      // [3] = image
+      // [4] = excerpt
+      // [5] = kindle url
+      // [6] = epub url
+      // [7] = pdf url
+
+      store.set('storyMeta', JSON.stringify(metaArray));
+
+      console.log(metaArray);
+    } // end of function init()
+
+    if (store.get('registered')) {
+      console.log("registered user!");
+      console.log(url);
+
+      var emailaddress = store.get('emailaddress');
+      console.log(emailaddress);
+      $('#mce-EMAIL').val(emailaddress);
+      // $(location).attr('href', url);  sends past modal to download page .. not currently working due to val = url issue!
+    } // end if
+
+  }); // end of click function
+});
+</script>
+
+
+<!-- retrieve localStorage arrage & dump into page elements -->
+<script>
+  var retrievedMetaString = store.get("storyMeta");
+
+  if (retrievedMetaString) {
+    var retrievedMetaArray = JSON.parse(retrievedMetaString);
+    document.getElementById("title").innerHTML = retrievedMetaArray[0];
+    document.getElementById("author").innerHTML = retrievedMetaArray[1];
+    document.getElementById("genre").innerHTML = retrievedMetaArray[2];
+    document.getElementById("image").src = retrievedMetaArray[3];
+    document.getElementById("excerpt").innerHTML = retrievedMetaArray[4];
+    document.getElementById("kindle").href = retrievedMetaArray[5];
+    document.getElementById("epub").href = retrievedMetaArray[6];
+    document.getElementById("pdf").href = retrievedMetaArray[7];
+
+    $(".download-title").html(retrievedMetaArray[0]);
+}
+</script>
+
+
+<!-- WG reveal -->
+<script>
+
+  $(document).ready(function(){
+    $(".reveal__button").click(function(){
+      $("#revealer").hide();
+      $(".reveal__answer p").removeClass("answer__hidden");
+      $("#top-p").css({
+        "font-weight": "bold"
+      });
+      $("#last-p").css({
+        'color' : 'darkred',
+        'fontWeight' : 'bold',
+        'fontSize' : '1rem'
+      });
+      $(".reveal__answer").css({
+        'border-color' : 'darkred',
+        'border-size' : '2px'
+      });
+    })
+  });
+</script>
+
+
+<!-- Packery/Masonry -->
+<script>
+  $(window).on('load', function(){
+    $('ul.cards').isotope({
+      columnWidth: 'li.card',
+      itemSelector: 'li.card',
+      layoutMode: 'masonry',
+      masonry: {
+        gutter: 20
+      }
+    });
+  });
+</script>
+
+<!-- Isotope Filter -->
+<script>
+
+  $(window).load(function(){
+
+    var $container = $('.cards');
+    $container.isotope({
+      filter: '*',
+      animationOptions: {
+        duration: 750,
+        easing: 'linear',
+        queue: false
+      }
+    });
+
+    $('nav.iso-filter ul a').click(function(){
+
+      var selector = $(this).attr('data-filter');
+      $container.isotope({
+        filter: selector,
+        animationOptions: {
+          duration: 750,
+          easing: 'linear',
+          queue: false,
+        }
+      });
+      return false;
+    });
+
+  });
+
+</script>
+
+
+<!-- Font Resizer -->
+<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>   -->
+<script type="text/javascript">
+  $(document).ready(function () {
+    $('#linkIncrease').click(function () {
+      modifyFontSize('increase');
+    });
+
+    $('#linkDecrease').click(function () {
+      modifyFontSize('decrease');
+    });
+
+    $('#linkReset').click(function () {
+      modifyFontSize('reset');
+    })
+
+    function modifyFontSize(flag) {
+      var divElement = $('#story-main');
+      var currentFontSize = parseInt(divElement.css('font-size'));
+
+      if (flag == 'increase')
+        currentFontSize += 2;
+      else if (flag == 'decrease')
+        currentFontSize -= 2;
+      else
+        currentFontSize = 16;
+
+      divElement.css('font-size', currentFontSize);
+    }
+  });
+</script>
+
+
+<!-- bourbon.refills.fadin -->
+<script>
+  $(document).ready(function() {
+  var element = document.getElementById("js-fadeInElement");
+  $(element).addClass('js-fade-element-hide');
+
+  $(window).scroll(function() {
+    if( $("#js-fadeInElement").length > 0 ) {
+      var elementTopToPageTop = $(element).offset().top;
+      var windowTopToPageTop = $(window).scrollTop();
+      var windowInnerHeight = window.innerHeight;
+      var elementTopToWindowTop = elementTopToPageTop - windowTopToPageTop;
+      var elementTopToWindowBottom = windowInnerHeight - elementTopToWindowTop;
+      var distanceFromBottomToAppear = 300;
+
+      if(elementTopToWindowBottom > distanceFromBottomToAppear) {
+        $(element).addClass('js-fade-element-show');
+      }
+      else if(elementTopToWindowBottom < 0) {
+        $(element).removeClass('js-fade-element-show');
+        $(element).addClass('js-fade-element-hide');
+      }
+    }
+  });
+});
+</script>
+
+<!-- bourbon.refills.fadin -->
+<script>
+  $("#deblur-button").click(function() {
+  $('.transform').toggleClass('deblur');
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>

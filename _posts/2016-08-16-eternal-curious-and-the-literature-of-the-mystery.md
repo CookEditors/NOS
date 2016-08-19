@@ -6,7 +6,7 @@ author: Carolyn Wells
 date: 2016-08-16-16
 category: murderwiki
 excerpt: Chapters 1 & 2 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+image: /assets/img/Dore-SamsonSlayingTheLion.jpg
 genre: History
 wordcount: 5135
 ---

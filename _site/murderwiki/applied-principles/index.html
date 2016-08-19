@@ -1,0 +1,924 @@
+<!doctype html>
+<html lang="en-US">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>Applied Principles &#124; Tales of Murder</title>
+		<meta name="description" content="Chapter 9 of The Techniques of the Mystery, published 1913.">
+		<meta name="keywords" content="">
+		
+		<!-- include open-graph.html w/ open moustache/percent-->
+
+		<!-- Webmaster Tools Verification -->
+		
+
+		
+
+		<!-- CSS -->
+		<link rel="stylesheet" href="/assets/css/styles.css">
+		
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+	
+		<!--[if lt IE 9]>
+    	<script src="bower_components/html5shiv/dist/html5shiv.js"></script>
+    	<script src="_assets/js/vendor/respond.js"></script>
+		<![endif]-->
+		
+		<!--load jQuery, required-->
+		<script src="/assets/js/vendor/jquery-1.11.2.js"></script>
+
+		<script src="/assets/js/vendor/jquery-ui.min.js"></script>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+
+	</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body  id="Applied Principles" class="ipadBS murderwiki">
+
+	<!-- include facebookshare.html -->
+
+	<!-- MASTHEAD -->
+
+<header class="site__header"> <!-- contains full width, resizing background image -->
+	<div class="container"> <!-- 960px width, centered content area -->
+
+		<div class="masthead"> <!-- clearfix -->
+
+			<!-- <img src="/assets/img/circle_crow_paper.png" alt="" class="masthead__logo grit"> -->
+
+			<div class="branding">
+				<a href="http://www.talesofmurder.com/">
+					<img class="" src="/assets/img/site_logo4a_f.png" alt="site logo for TalesofMurder.com" width="600">
+				</a> <!-- link (ahref) makes header image a link back to HOME -->
+				<!-- <h2 class="masthead__title grit"><span class="title__sub">Tales of </span><span class="title__main"><span class="m">m</span><span class="urde">urde</span><span class="r">r</span></span></h2>
+
+				<h3 class="masthead__tagline">For readers with time to <span>kill</span> &hellip;</h3> -->
+			</div> <!-- end div .masthead-inner__test -->
+
+			<div class="navicon toggle-menu menu-right">
+      	<!-- <i class="fa fa-navicon"></i> -->
+      	<h6 style="margin-top: 1.25rem;font-size: 1rem;"><i class="fa fa-navicon"></i> MENU</h6>
+    	</div>
+
+		</div> <!-- end div .masthead__test -->
+
+
+	<!-- MAIN NAVIGATION MENU -->
+
+    <!-- <div class="navicon__test toggle-menu menu-right">
+      <i class="fa fa-navicon"></i>
+    </div> -->
+
+    <nav  class="nav__primary cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right"> <!-- if  statement removes menu from home (eventually only WelcomeGate) page -->
+
+      <h1 class="hidden">Main Navigation</h1>
+      <div class="nav__basic">
+        <!-- <h3>Menu</h3> -->
+        <a  href="/index.html">Home</a>
+        <a  href="/about/index.html">About</a>
+        <a  href="/short-stories/index.html">Short&nbsp;Stories</a>
+       <!--  <a  href="/the-red-file/index.html">The&nbsp;Red&nbsp;File</a>
+        <a  href="/book-catalog/index.html">Book&nbsp;Catalog</a> -->
+        <a  href="/murderwiki/index.html">MurderWiki</a>
+      </div>
+    </nav> <!-- nav__primary -->
+
+  </div> <!-- end div frame -->
+</header> <!-- site__header -->
+
+
+
+
+
+  <main class="main"> <!-- removed [style="height:100%;"] to correct ios9 browser height problem ... WHY!? -->
+    <div class="content">
+    	<div id="thepost" class="post">
+
+  <header class="post__header clearfix">
+	<!-- README IF STATEMENT -->
+  
+
+		<div class="clearfix titlebox">
+	  	<div class="storytitles" id="top">
+				<h1 class="post__title" style="margin-bottom:2rem;font-size:3rem;">Applied Principles</h1>
+				<h2 class="post__title" style="margin-bottom:2rem;font-size:2rem;"></h2>
+				<h3 class="post__author">By <strong>Carolyn Wells</strong></h3>
+
+				<figure class="post__img"> <!-- add class grit to dirty up pic -->
+						<img src="/assets/img/Joseph_Bell.jpg" alt="">
+						<figcaption class="post__excerpt">Chapter 9 of <i>The Techniques of the Mystery</i>, published 1913.</figcaption>
+				</figure> <!-- end div post__image
+				<!-- <h2 class="post__excerpt">Chapter 9 of <i>The Techniques of the Mystery</i>, published 1913.</h4> -->
+			</div> <!-- end div titles -->
+		</div> <!-- end div clearfix -->
+
+		<div class="post__meta">
+			<p>word count: 4,417</p>
+			<p>time to read:
+				
+				
+					<span class="time">22</span> min 
+				
+			</p>
+		</div> <!-- end div post__meta -->
+
+  </header>
+
+	<!-- show either div.pc-tease OR div.cu-tease:
+	(1) if normal post, then show div.cu-tease,
+	(2) if premium post && localStorage[registered=true], then show div.cu-tease,
+	(3) if premium post && !localStorage[registered=true], then show div.pc-tease && include/show readmore.html
+	-->
+
+	<!-- <div class="pc-tease grit hidden">
+		<h4><i class="fa fa-sign-in"></i>&nbsp;PREMIUM CONTENT</h4>
+		<h5>REGISTERED USERS ONLY</h5>
+		<p>Enjoy an online sample of <span>Applied Principles</span>. To read the full story, just register with a valid email address. You'll also be able to download either a PDF, Kindle or ePub version. Full details below the sample.</p>
+	</div> end div pc-tease -->
+
+	  <!-- <div class="cu-tease grit">
+		<p><strong>PSST! Hey, buddy &hellip;</strong> did'ya know you can download <a href="#"><strong>Applied Principles</strong></a> for any ereader device (<em>Kindle, iBooks, etc.</em>) or as PDF &hellip; perfect for reading when you're not online but have time to kill! <strong>Look for the <a href="#ssactions_ID"><span>Download</span></a> buttons at the end of this story.</strong></p>
+	</div> end div cu-tease --> <!-- NOTE: DISABLED TEMPORARILY UNTIL PROPER DOWNLOAD CAN BE SET UP ... DAY OR TWO AT MOST!! -->
+
+		<div class="fontresizer">
+	<h6 class="hidden">Adjust Font Size</h6>
+	<button id="linkDecrease"><i class="fa fa-minus-square fa-2x"></i></button>
+	<i class="fontresizer__icon fa fa-font"></i><i class="fontresizer__icon fa fa-font fa-2x"></i>
+	<button id="linkIncrease"><i class="fa fa-plus-square fa-2x"></i></button>   
+
+</div> <!-- end div fontresizer -->
+
+	<article class="post__content" id="story-main">
+  	<section id="toc" class="toc">
+  <header>
+    <h6>Table of Contents</h6>
+  </header>
+<div id="drawer">
+<ol id="markdown-toc">
+  <li><a href="#the-detectives-of-poe-doyle-and-gaboriau" id="markdown-toc-the-detectives-of-poe-doyle-and-gaboriau">The Detectives of Poe, Doyle, and Gaboriau</a></li>
+  <li><a href="#individuality-of-these-detectives" id="markdown-toc-individuality-of-these-detectives">Individuality of these Detectives</a></li>
+  <li><a href="#the-real-sherlock-holmes" id="markdown-toc-the-real-sherlock-holmes">The Real Sherlock Holmes</a></li>
+</ol>
+
+  </div>
+</section>
+<p><!-- table-of-contents --></p>
+
+<h2 id="the-detectives-of-poe-doyle-and-gaboriau">The Detectives of Poe, Doyle, and Gaboriau</h2>
+
+<p>Conan Doyle's Detective Stories, being short-stories, more closely resemble Poe's tales than Gaboriau's novels do. Perhaps this is due more to a certain analogy of structure than to the actual working mentality of the detective. Dupin and his historian have rooms together, just as Holmes and Watson do. In each case the curiosity of the historian is first aroused by noticing the unconventional habits and studies of his companion. Dupin has his detractors among the official police, just as Holmes has his Greyson and his Lestrade, and Lecoq his Gevrol.</p>
+
+<p>Perhaps the fatuous Watson chronicles his friend's exploits with even franker admiration than the nameless companion of Dupin, but they are equally earnest in their graphic and detailed recitals. It is to be regretted that so definite a character as Dupin's historian had no name for his better identification, that like Doctor Watson he might have "passed into the language."</p>
+
+<p>Professor Brander Matthews gives this interesting dissertation upon the Teller of Poe's tales:</p>
+
+<blockquote>
+  <p>"Upon the preternaturally acute observer who was to control the machinery of the tale, the American poet be stowed a companion of only an average alertness and keen ness; and to this commonplace companion the romance: confided the telling of the story. By this seemingly simple device Poe doubled the effectiveness of his work, because this unobservant and unimaginative narrator of the unraveling of a tangled skein by an observant and imaginative analyst naturally recorded his own admiration and astonishment as the wonder was wrought before his eyes, so that the admiration and astonishment were transmitted directly and suggestively, to the readers of the narrative.</p>
+</blockquote>
+
+<blockquote>
+  <p>"In the 'Gold-Bug' the wonder-worker is Legrand, and in both the 'Murders in the Rue Morgue' and the 'Purloined Letter1 he is M. Dupin; and in all three tales the telling of the story is entrusted to an anonymous narrator, serving not only as a sort of Greek chorus to hint to the spectators the emotions they ought to feel, but also as the describer of the personality and peculiarities of Legrand and Dupin, who are thus individualized, humanized, and related to the real world. If they had not been accepted by the narrator as actual beings of flesh and blood, they might otherwise retain the thinness and the dryness of disembodied intelligences working in a vacuum.</p>
+</blockquote>
+
+<blockquote>
+  <p>"This device of the transmitting narrator is indisputably valuable; and, properly enough, it reappears in the one series of detective tales which may be thought by some to rival Poe's. The alluring record of the investigations of Mr. Sherlock Holmes is the work of a certain Dr. Watson, a human being but little more clearly characterized than the anonymous narrators who have preserved for us the memory of Legrand and Dupin. But Poe here again exhibited a more artistic reserve than any of his imitators, in so far as he refrained from the undue laudation of the strange intellectual feats which are the central interest of these three tales.</p>
+</blockquote>
+
+<blockquote>
+  <p>"In the 'Gold Bug' he even heightens his suspense by allowing the narrator to suggest that Legrand might be of unsound mind; and in the 'Murders in the Rue Morgue' the narrator, although lost in astonishment at the acuteness of Dupin, never permits his admiration to become fulsome; he holds himself in, as though fearing that overpraise might provoke a denial. Moreover, Poe refrained from all exhibitions of Dupin's skill merely for its own sake exhibitions only dazzling the spectators and not furthering his immediate purpose."</p>
+</blockquote>
+
+<p>Watson is doubtless fulsome, but like begets like, and the Reading Public, quick to take the cue, are also fulsome in praise of Sherlock Holmes.</p>
+
+<p>According to Mr. Arthur Bartlett Maurice, Sherlock Holmes possesses the attributes of both Poe's and Gaboriau's heroes. Mr. Maurice asserts that, "If in one line we can trace the ancestry of Sherlock Holmes to Edgar Allan Poe's Dupin, in another we can work back to Gaboriau, not, however, to the great Lecoq, but to old Tabaret, better known to the official police who are introduced into the tales as Pere Tirauclair. From Dupin, Holmes derived his intellectual acumen, his faculty of mentally placing himself in the position of another, and thereby divining the other's motives and plans, his raising of the observation of minute outward details to the dignity of an exact science. Pere Tirauclair inspired him to that wide knowledge of criminal and contemporary history which enabled him to throw a light on the most puzzling problem and to find some analogy to the most outre case. With Lecoq, Holmes has absolutely nothing in common."</p>
+
+<p>We object to this last clause. If nothing more, Sherlock Holmes certainly has methods of procedure in common with Gaboriau's detectives. Tirauclair, Lecoq's master and teacher, conducts his investigations after this manner:</p>
+
+<blockquote>
+  <p>As the old fellow spoke, his little gray eyes dilated and became brilliant as carbuncles. His face reflected an internal satisfaction even his wrinkles seemed to laugh.</p>
+</blockquote>
+
+<blockquote>
+  <p>His figure became erect, and his step was almost elastic, as he darted into the inner chamber. He remained there about half an hour; then came out running, then reentered and then again came out; once more he reappeared and disappeared again almost immediately.</p>
+</blockquote>
+
+<blockquote>
+  <p>The magistrate could not help comparing him to a pointer on the scent, his turned up nose even moved about as if to discover some subtle odor left by the assassin. All the while he talked loudly and with much gesticulation, apostrophizing himself, scolding himself, uttering little cries of triumph or self-encouragement. He did not allow Lecoq to have a moment's rest. He wanted this or that or the other thing. He demanded paper and a pencil. Then he wanted a spade; and finally he cried out for plaster of Paris, some water and a bottle of oil. When more than an hour had elapsed, the investigating magistrate began to grow impatient, and asked what had become of the amateur detective. "He is on the road," replied the corporal, "lying flat in the mud, and mixing some plaster in a plate. He says he has nearly finished, and that he is coming back presently."</p>
+</blockquote>
+
+<p>Sherlock Holmes when setting forth on a similar investigation conducts himself not dissimilarly. We quote from "A Study in Scarlet:"</p>
+
+<blockquote>
+  <p>He whipped a tape measure and a large, round magnifying-glass from his pocket. With these two implements he trotted noiselessly about the room, sometimes stopping, occasionally kneeling, and once lying flat upon his face. So engrossed was he with his occupation that he appeared to have forgotten our presence, for he chattered away to himself under his breath the whole time, keeping up a running fire of exclamations, groans, whistles, and little cries suggestive of encouragement and of hope. As I watched him I was irresistibly reminded of a pure blooded, well trained fox-hound as it dashes backward and forward through the covert, whining in its eagerness, until it comes across the lost scent.</p>
+</blockquote>
+
+<blockquote>
+  <p>For twenty minutes or more he continued his researches, measuring with the most exact care the distance between marks which were entirely invisible to me, and occasionally applying his tape to the walls in an equally incomprehensible manner. In one place he gathered very carefully a little pile of gray dust from the floor, and packed it away in an envelope. Finally he examined with his glass the word upon the wall, going over every letter of it with the most minute exactness. This done, he appeared to be satisfied, for he replaced his tape and his glass in his pocket.</p>
+</blockquote>
+
+<p>The result by Gaboriau's man is announced in these words:</p>
+
+<blockquote>
+  <p>"The assassin then gained admission without difficulty.</p>
+</blockquote>
+
+<blockquote>
+  <p>He is a young man, a little above the middle height, elegantly dressed. He wore on that evening a high hat. He carried an umbrella, and smoked a trabucos cigar in a holder."</p>
+</blockquote>
+
+<p>While Sherlock Holmes triumphantly asserts:</p>
+
+<blockquote>
+  <p>"There has been murder done, and the murderer was a man. He was more than six feet high, was in the prime of life, had small feet for his height, wore coarse, square- toed boots, and smoked a Trichinopoly cigar. He came here with his victim in a four-wheeled cab, which was drawn by a horse with three old shoes and one new one on his off fore-leg. In all probability the murderer had a florid face, and the finger-nails of his right hand were remarkably long."</p>
+</blockquote>
+
+<p>In "The Widow Lerouge," from which the above Gaboriau extracts are quoted, the discomfited Inspector, Gevrol, exclaims, "Ridiculous! this is too much!"</p>
+
+<p>While in the other case, Lestrade and Gregson content themselves with glancing at each other with an incredulous smile.</p>
+
+<p>Mr. Maurice further observes: "The deductions of Dupin and of Sherlock Holmes we are ready to accept, because we feel that it is romance, and in romance we care to refute only what seriously jars our sense of what is logical; we take those of Le- coq, because they convince beyond all question, because when one has been forced upon us, we are ready defiantly to maintain that no other is possible."</p>
+
+<p>However, Dupin himself refers to his own work thus:</p>
+
+<blockquote>
+  <p>"I said 'legitimate deductions;1 but my meaning is not thus fully expressed. I designed to imply that the deductions are the sole proper ones, and that the suspicion arises inevitably from them as the single result."</p>
+</blockquote>
+
+<h2 id="individuality-of-these-detectives">Individuality of these Detectives</h2>
+
+<p>The attitude of the Transcendent Detective toward other detectives with whom he comes in contact is—doubtless because of the fierce light that beats upon his throne—one of complacent superiority.</p>
+
+<p>Lecoq expresses himself thus, and Sherlock Holmes and his heirs and successors forever, voice similar sentiments:</p>
+
+<blockquote>
+  <p>"That will do," interrupted M Lecoq. "If I choose to lend you a helping hand, it is because it suits my fancy to do so. It pleases me to be the head, and to let you be the hand. Unassisted, with your preconceived ideas, you never would have found the culprit; if we two together don't find him, my name is not Lecoq."</p>
+</blockquote>
+
+<p>And again:</p>
+
+<blockquote>
+  <p>"M. Lecoq shrugged his shoulders. 'You are an ass!' exclaimed he. 'Why, don't you know that on the very day you were sent for with the commissary to verify the fact of the robbery, you held—I do not say certainly, but very probably held—in your great stupid hands the means of knowing which key had been used when the money was stolen.'</p>
+</blockquote>
+
+<blockquote>
+  <p>"How is that?"</p>
+</blockquote>
+
+<blockquote>
+  <p>"You want to know, do you? I will tell you. Do you remember the scratch you discovered on the safe? You were so struck by it, that you could not refrain from calling out directly you saw it. You carefully examined it, and were convinced that it was a fresh scratch, only a few hours old. You thought too, and rightly too, that this scratch was made at the time of the theft. Now, with what was it made? Evidently with a key. That being the case, you should have asked for the keys both of the banker and the cashier. One of them would have probably had some particles of the hard green paint sticking to it."</p>
+</blockquote>
+
+<blockquote>
+  <p>Fanferlot listened with open mouth to this explanation.</p>
+</blockquote>
+
+<blockquote>
+  <p>At the last words, he violently slapped his forehead with his hand and cried out: "Idiot! Idiot!"</p>
+</blockquote>
+
+<blockquote>
+  <p>"You have correctly named yourself," said M. Lecoq. "Idiot! This proof stares you right in the face, and you don't see it! This scratch is the only clue there is to follow, and you must like a fool neglect it. If I find the guilty party, it will be by means of this scratch; and I am determined that I will find him."</p>
+</blockquote>
+
+<p>Sherlock Holmes thus delivers himself:</p>
+
+<blockquote>
+  <p>"What do you think of it, sir?" they both asked.</p>
+</blockquote>
+
+<blockquote>
+  <p>"It would be robbing you of the credit of the case if I was to presume to help you," remarked my friend. "You are doing so well now that it would be a pity for any one to interfere." There was a world of sarcasm in his voice, as he spoke.</p>
+</blockquote>
+
+<p>And again:</p>
+
+<blockquote>
+  <p>"I am afraid, my dear Watson, that most of your conclusions were erroneous. When I said that you stimulated me I meant, to be frank, that in noting your fallacies I was occasionally guided towards the truth. Not that you are entirely wrong in this instance. The man is certainly a country practitioner. And he walks a good deal."</p>
+</blockquote>
+
+<p>In "The Moonstone" the superiority of Sergeant Cuff to the Police officer is thus cleverly remarked:</p>
+
+<blockquote>
+  <p>Why Superintendent Seegrave should have appeared to be several sizes smaller than life, on being presented to Sergeant Cuff, I can't undertake to explain. I can only state the fact. They retired together; and remained a weary long time shut up from all mortal intrusion. When they came out Mr. Superintendent was excited and Mr. Sergeant was yawning.</p>
+</blockquote>
+
+<blockquote>
+  <p>"The Sergeant wishes to see Miss Verinder's sitting room," says Mr. Seegrave, addressing me with great pomp and eagerness. "The Sergeant may have some questions to ask. Attend the Sergeant, if you please!"</p>
+</blockquote>
+
+<blockquote>
+  <p>While I was being ordered about in this way, I looked at the great Cuff. The great Cuff, on his side, looked at Superintendent Seegrave in that quietly expecting way which I have already noticed. I can't affirm that he was on the watch for his brother officer's speedy appearance in the character of an ass—I can only say that I strongly suspected it.</p>
+</blockquote>
+
+<p>Mr. Edmund Clarence Stedman tells us that, "Poe could teach Continental writers very little in the art of perfecting their own romance. His analytic tales made a great impression. Their ratiocination, applied to the solution of criminal mysteries, captured the Parisian fancy more readily than the quality of his other prose writings. Since then, detective stories of high and low degree have been written in France, England, and America; but no amateur, with a genius approximating to that of 'Monsieur C. Auguste Dupin,' has appeared, and had his exploits recounted, in our own or foreign literature."</p>
+
+<h2 id="the-real-sherlock-holmes">The Real Sherlock Holmes</h2>
+
+<p>Conan Doyle himself, or rather a friend of his, one Doctor Harold Emery Jones, denies Sherlock Holmes' dependence on any fictional detective. Thus Doctor Jones on the subject:</p>
+
+<blockquote>
+  <p>"The writer was a fellow-student of Conan Doyle. Together they attended the surgical demonstrations of Joseph Bell, at the Edinburgh Royal Infirmary. This man exhibited incredibly acute and sure deductive powers in diagnosis and in guessing the vocation of patients from external signs. Sir Henry Littlejohn, another medical lecturer, heard by the two students, was remarkable for his sagacious expert testimony, leading to the conviction of many a criminal. Thus is the character of Sherlock Holmes easily and naturally accounted for, and the absurd fiction that Conan Doyle drew upon Poe for his ideas is silenced forever."</p>
+</blockquote>
+
+<p>In further account of Joseph Bell, Doctor Jones continues:</p>
+
+<blockquote>
+  <p>"He is the original Sherlock Holmes—the Edinburgh medical students' ideal—who could tell patients their habits, their occupations, nationality, and often their names, and who rarely, if ever, made a mistake. Oftentimes he would call upon one of the students to diagnose the cases for him. Telling the House Surgeon to usher in a new patient, he delighted in putting the deductive powers of the student to the test, with results generally amusing, except to the poor student victim himself."</p>
+</blockquote>
+
+<p>Bell was as full of dry humor and satire, and he was as jealous of his reputation, as the detective Sherlock Holmes ever thought of being.</p>
+
+<p>One day, in the lecture theatre, he gave the students a long talk on the necessity for the members of the medical profession cultivating their senses—sight, smell, taste, and hearing. Before him on a table stood a large tumbler filled with a dark, amber-colored liquid.</p>
+
+<blockquote>
+  <p>"This, gentlemen," announced the Professor, "contains a very potent drug. To the taste it is intensely bitter. It is most offensive to the sense of smell. Yet, as far as the sense of sight is concerned—that is, in color—it is no different from dozens of other liquids.</p>
+</blockquote>
+
+<blockquote>
+  <p>"Now I want to see how many of you gentlemen have educated your powers of perception. Of course, we might easily analyze this chemically, and find out what it is. But I want you to test it by smell and taste; and, as I don't ask anything of my students which I wouldn't be willing to do myself, I will taste it before passing it round."</p>
+</blockquote>
+
+<p>Here he dipped his finger in the liquid, and placed it in his mouth. The tumbler was passed round. With wry and sour faces the students followed the Professor's lead. One after another tasted the vile decoction; varied and amusing were the grimaces made. The tumbler, having gone the round, was returned to the Professor.</p>
+
+<blockquote>
+  <p>"Gentlemen," said he, with a laugh, "I am deeply grieved to find that not one of you has developed this power of perception, which I so often speak about; for if you had watched me closely, you would have found that while I placed my forefinger in the medicine, it was the middle finger which found its way into my mouth."</p>
+</blockquote>
+
+<p>These methods of Bell impressed Doyle greatly at the time. The impression made was a lasting one.</p>
+
+<p>Regarding this matter Conan Doyle thus writes:</p>
+
+<blockquote>
+  <p>"Sherlock Holmes is the literary embodiment, if I may so express it, of my memory of a professor of medicine at Edinburgh University, who would sit in the patients' waiting-room with a face like a red Indian, and diagnose the people as they came in before even they had opened their mouths. He would tell them their symptoms, he would give them details of their lives, and he would hardly ever make a mistake." This professor was Dr.</p>
+</blockquote>
+
+<blockquote>
+  <p>Joseph Bell, and that the resemblance to Sherlock Holmes was not merely intellectual, but strikingly physical as well, may be seen from the accompanying portrait. There are the same sharp, piercing eyes, the eagle nose, and the hawk-like features. Like Sherlock Holmes, Dr. Bell was in the habit of sitting in his chair with his fingers pressed together when engaged in solving a problem. Twenty-seven years ago Conan Doyle came in contact with him when he was finishing his medical studies.</p>
+</blockquote>
+
+<blockquote>
+  <p>"Gentlemen," Professor Bell would say to the students standing around, "I am not quite sure whether this man is a cork-cutter or a slater. I observe a slight callous, or hardening, on one side of his forefinger, and a little thickening on the outside of his thumb, and that is a sure sign he is either one or the other."</p>
+</blockquote>
+
+<blockquote>
+  <p>Dr. Bell, as well as Sherlock Holmes, was often inclined to be highly dramatic in the exposition of his singular faculties. A patient would enter his consulting-room.</p>
+</blockquote>
+
+<blockquote>
+  <p>"Ah," the Professor would say, "I perceive that you are a soldier, a non-commissioned officer, and that you have served in Bermuda." The man would acknowledge the correctness of the indictment, and the students would express their surprise. "How did I know that, gentlemen? The matter is simplicity itself. He came into the room without taking his hat off, as he would go into an orderly's room. He was a soldier. A slight authoritative air, combined with his age, shows that he was a noncommissioned officer. A slight rash on the forehead tells me that he was in Bermuda, and subject to a certain rash known only there."</p>
+</blockquote>
+
+<p>Then Conan Doyle began building up a scientific system by which everything might be logically reasoned out. Along purely intellectual lines Poe had done that before with M. Dupin. Sherlock Holmes was practical and systematic, and where he differed from Dupin was that in consequence of his previous scientific education he possessed a vast fund of exact knowledge from which to draw.</p>
+
+<p>When he had written twenty-six stories about Sherlock Holmes, Conan Doyle determined that it would be bad policy to continue and decided to put an end to his hero. He feared that Holmes was becoming tiresome to others as well as to himself. Above all, he was afraid that the public would come to think that he had only one idea and could write only one kind of story. Dr. Doyle was in Switzerland at the time. One day, while on a walking tour through the country, he came to a waterfall, and immediately saw in it a romantic spot for anyone who wished to meet a spectacular death. Then and there he mentally mapped out "The Final Problem," in which Holmes and Moriarty settled accounts. But Holmes's death, instead of being welcomed, roused indignant protest. One lady wrote a letter to the author which began "You beast."</p>
+
+  </article>
+
+</div> <!-- end of div post -->
+
+    </div>
+
+  </main>
+
+  <footer class="site__footer" id="site__footer">
+  <div class="container">
+    <small><span class="rwd-line">Copyright 2014 &mdash; 2016 Tales&nbsp;of&nbsp;Murder&nbsp;Press,&nbsp;LLC. </span>All Rights Reserved.</small>
+  </div>
+</footer>
+
+  <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/assets/js/scripts.min.js"></script> -->
+
+<script src="/assets/js/vendor/modernizr.custom.34164.js"></script>
+
+<!--load jQuery, required-->
+<script src="/assets/js/vendor/jquery-1.11.2.js"></script>
+
+<script src="/assets/js/vendor/jquery-ui.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+
+<!-- TYPEKIT -->
+<script src="//use.typekit.net/gwl0zuj.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+
+<script src="/assets/js/vendor/store.js"></script>
+
+<!--load jPushMenu, required-->
+<script src="/assets/js/vendor/jPushMenu.js"></script>
+
+<script src="/assets/js/vendor/slabtext.js"></script>
+
+<script src="/assets/js/vendor/scroll-on-page.js"></script>
+
+<!-- <script src="/assets/js/vendor/store.js"></script>
+NOTE: moved to HEAD -->
+<script src="/assets/js/vendor/flipclock.min.js"></script>
+
+<!-- <script src="/assets/js/vendor/expandable-section.js"></script> -->
+
+<!-- velocity.js -->
+<script src="/assets/js/vendor/velocity.min.js"></script>
+
+<!-- masonry.js -->
+<script src="/assets/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/assets/js/vendor/isotope.pkgd.min.js"></script>
+<script src="/assets/js/vendor/packery-mode.pkgd.min.js"></script>
+
+
+<!-- animated progbar -->
+<script>
+  function MoveTo() {
+    var prpos = document.getElementById('prpos');
+    prpos.style.width = document.getElementById('moveTo').value + "%";
+  }
+</script>
+
+<!--call jPushMenu, required-->
+<script>
+  jQuery(document).ready(function($) {
+   $('.toggle-menu').jPushMenu();
+ });
+</script>
+
+<!-- <script src="/assets/js/vendor/rwd.js"></script> -->
+
+<script>
+	$("h1").slabText({});
+</script>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+    var expanderTrigger = document.getElementById("js-expander-trigger");
+    var expanderContent = document.getElementById("js-expander-content");
+
+    $('#js-expander-trigger').click(function(){
+      $(this).toggleClass("expander-hidden");
+    });
+  });
+</script>
+
+<script>
+
+  (function() {
+
+   var co = $('article').find('span.co').each(function() {
+    var $this = $(this);
+
+    $('<blockquote></blockquote>', {
+     class: 'co',
+     text: $this.text()
+   }).prependTo( $this.closest('p') );
+
+  });
+
+ })();
+
+</script>
+
+
+
+
+<script>
+  function regExpand() {
+    console.log("button works!")
+  }
+</script>
+
+
+<script>
+  $(document).ready(function(){
+    $("#register__button").click(function(){
+      $("#panel").slideDown("5000", "easeOutBounce");
+    });
+  });
+</script>
+
+
+<script type='text/javascript'>
+  $(document).ready(function() {
+    $(".time").text(function (index, value) {
+      return Math.round(parseFloat(value));
+    });
+    $(".hour").text(function (index, value) {
+      return Math.floor(parseFloat(value));
+    });
+  });
+</script>
+
+<!-- this is the simple working version to set localStore attributes ... not used in lieu of callback at the end of ajaxMailChimp (below) -->
+<!-- <script>
+
+	$(document).ready(function() {
+
+		init()
+
+		function init() {
+			if (!store.enabled) {
+				alert('Local storage is not supported by your browser. Please disable "Private Mode" to continue, or upgrade your browser.')
+				return
+			}
+			$("#regSubmit").click(function() {
+        store.set('registered', true);
+
+        var email = $("#regEmail").val();
+        store.set('email', email)
+
+      })
+		};
+	})
+
+</script> -->
+
+<!-- CHECK LOCAL STORAGE -->
+<!-- can I name this function/script?? -->
+<script>
+
+	$(document).ready(function() {
+		if ($("#thepost").hasClass("premium_post")) {
+			console.log("Premium Post")
+
+			if (!store.get('registered')) {
+				console.log('UNREGISTERED User');
+				$(".pc-tease").removeClass("hidden");
+				$(".cu-tease").hide();
+				$(".ssactions").hide();
+
+				$(".read-more").removeClass("hidden");
+				$("#thepost").addClass("notreg")
+			}
+			else {
+				console.log('REGISTERED User');
+                // console.log(email)
+            }
+            }
+      else {
+             console.log("Post")
+           }
+         })
+</script>
+
+
+
+
+<!-- MAILCHIMP FORM STUFF -->
+
+<!-- mailchimp-ajax.js -->
+<script>
+ var ajaxMailChimp = (function(){
+ var module = {};
+
+// Turn the given MailChimp form into an ajax version.
+// If resultElement is given, the subscribe result is set as html to
+// that element.
+module.init = function ajaxMailChimpForm($form, $resultElement){
+
+    // Hijack the submission. We'll submit the form manually.
+    $form.submit(function(e) {
+      e.preventDefault();
+
+      if (!isValidEmail($form)) {
+        var error =  "A valid email address must be provided."
+        $resultElement.html(error);
+        $resultElement.css("color", "red");
+      } else {
+        $resultElement.css({
+         "background-color": "#fff",
+         "color": "#8B0000",
+         "margin-top": "1rem",
+         "padding": "0.5rem"
+       });
+        $resultElement.html("Registering your download request &hellip;");
+        $("#progress-bar").css("width", "75%").text("75%");
+        submitSubscribeForm($form, $resultElement);
+      }
+    });
+  };
+
+// Validate the email address in the form
+function isValidEmail($form) {
+    // If email is empty, show error message.
+    // contains just one @
+    var email = $form.find("input[type='email']").val();
+    if (!email || !email.length) {
+      return false;
+    } else if (email.indexOf("@") == -1) {
+      return false;
+    }
+
+    return true;
+  }
+
+// Submit the form with an ajax/jsonp request.
+// Based on http://stackoverflow.com/a/15120409/215821
+function submitSubscribeForm($form, $resultElement) {
+  $.ajax({
+    type: "GET",
+    url: $form.attr("action"),
+    data: $form.serialize(),
+    cache: false,
+    dataType: "jsonp",
+    jsonp: "c", // trigger MailChimp to return a JSONP response
+    contentType: "application/json; charset=utf-8",
+
+    error: function(error){
+    // According to jquery docs, this is never called for cross-domain JSONP requests
+  },
+
+    success: function(data){
+      if (data.result != "success") {
+        var message = data.msg || "Sorry. Unable to subscribe. Please try again later."
+        $resultElement.css("color", "red");
+
+        // This won't happen if using "smart subscribe"
+        if (data.msg && data.msg.indexOf("already subscribed") >= 0) {
+          message = "You're already subscribed. Thank you."
+          $resultElement.css("color", "white");
+        }
+
+        $resultElement.html(message);
+
+        }
+
+      else {
+        if ($("#mc-embedded-subscribe-form").hasClass("form__premium")) {
+          console.log("premium form");
+          var message = "Thank you!! Please continue reading &hellip;";
+          location.reload(); //reloads the premium post page at same location
+        }
+        else if ($("#mc-embedded-subscribe-form").hasClass("form__postdownload")) {
+          console.log("post download form");
+          var message = "Thank you!!<br>You are subscribed &amp; you can download your story next &hellip;";
+          var url = "/downloads/short-stories/index.html"; // needs to be dynamically created for *each* story ... will use localStorage cookie (maybe!)
+
+          $(location).attr('href', url);
+        }
+        else if ($("#mc-embedded-subscribe-form").hasClass("form__wg")) {
+          console.log("wg form");
+
+          var url = "/thanks/theredfile/";
+
+          $(location).attr('href', url);
+        }
+        else {
+          console.log("no class whatsoever!");
+        }
+
+        $resultElement.html(message);
+
+        var email = $("#mce-EMAIL").val();
+        store.set('registered', true);
+        store.set('emailaddress', email);
+
+      } // end of else statement
+    }
+  });
+}
+
+return module;
+
+})();
+</script>
+
+
+<!-- sets story data (title, author, etc.) to localStorage/sessionStorage for use on download page -->
+<script>
+
+$(document).ready(function() {
+
+  $("#button__postdownload").click(function() {
+    // console.log("button__postdownload clicked");
+    var url; // should be available throughout click function
+
+    init()
+    function init() {
+      if (!store.enabled) {
+        var url = "/downloads/short-stories/index-other.html"; //GENERIC DOWNLOAD PAGE
+        alert('Local storage is not supported by your browswer. Please disable "Private Mode", or upgrade your browser.')
+      return
+      } // end of if !store.enabled
+
+      var url = "/downloads/short-stories/index2.html";
+      var metaArray = ["Applied Principles", "Carolyn Wells", "History", "/assets/img/Joseph_Bell.jpg", "Chapter 9 of <i>The Techniques of the Mystery</i>, published 1913.", "", "", ""];
+
+      // ARRAY KEY
+      // [0] = title
+      // [1] = author
+      // [2] = genre
+      // [3] = image
+      // [4] = excerpt
+      // [5] = kindle url
+      // [6] = epub url
+      // [7] = pdf url
+
+      store.set('storyMeta', JSON.stringify(metaArray));
+
+      console.log(metaArray);
+    } // end of function init()
+
+    if (store.get('registered')) {
+      console.log("registered user!");
+      console.log(url);
+
+      var emailaddress = store.get('emailaddress');
+      console.log(emailaddress);
+      $('#mce-EMAIL').val(emailaddress);
+      // $(location).attr('href', url);  sends past modal to download page .. not currently working due to val = url issue!
+    } // end if
+
+  }); // end of click function
+});
+</script>
+
+
+<!-- retrieve localStorage arrage & dump into page elements -->
+<script>
+  var retrievedMetaString = store.get("storyMeta");
+
+  if (retrievedMetaString) {
+    var retrievedMetaArray = JSON.parse(retrievedMetaString);
+    document.getElementById("title").innerHTML = retrievedMetaArray[0];
+    document.getElementById("author").innerHTML = retrievedMetaArray[1];
+    document.getElementById("genre").innerHTML = retrievedMetaArray[2];
+    document.getElementById("image").src = retrievedMetaArray[3];
+    document.getElementById("excerpt").innerHTML = retrievedMetaArray[4];
+    document.getElementById("kindle").href = retrievedMetaArray[5];
+    document.getElementById("epub").href = retrievedMetaArray[6];
+    document.getElementById("pdf").href = retrievedMetaArray[7];
+
+    $(".download-title").html(retrievedMetaArray[0]);
+}
+</script>
+
+
+<!-- WG reveal -->
+<script>
+
+  $(document).ready(function(){
+    $(".reveal__button").click(function(){
+      $("#revealer").hide();
+      $(".reveal__answer p").removeClass("answer__hidden");
+      $("#top-p").css({
+        "font-weight": "bold"
+      });
+      $("#last-p").css({
+        'color' : 'darkred',
+        'fontWeight' : 'bold',
+        'fontSize' : '1rem'
+      });
+      $(".reveal__answer").css({
+        'border-color' : 'darkred',
+        'border-size' : '2px'
+      });
+    })
+  });
+</script>
+
+
+<!-- Packery/Masonry -->
+<script>
+  $(window).on('load', function(){
+    $('ul.cards').isotope({
+      columnWidth: 'li.card',
+      itemSelector: 'li.card',
+      layoutMode: 'masonry',
+      masonry: {
+        gutter: 20
+      }
+    });
+  });
+</script>
+
+<!-- Isotope Filter -->
+<script>
+
+  $(window).load(function(){
+
+    var $container = $('.cards');
+    $container.isotope({
+      filter: '*',
+      animationOptions: {
+        duration: 750,
+        easing: 'linear',
+        queue: false
+      }
+    });
+
+    $('nav.iso-filter ul a').click(function(){
+
+      var selector = $(this).attr('data-filter');
+      $container.isotope({
+        filter: selector,
+        animationOptions: {
+          duration: 750,
+          easing: 'linear',
+          queue: false,
+        }
+      });
+      return false;
+    });
+
+  });
+
+</script>
+
+
+<!-- Font Resizer -->
+<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>   -->
+<script type="text/javascript">
+  $(document).ready(function () {
+    $('#linkIncrease').click(function () {
+      modifyFontSize('increase');
+    });
+
+    $('#linkDecrease').click(function () {
+      modifyFontSize('decrease');
+    });
+
+    $('#linkReset').click(function () {
+      modifyFontSize('reset');
+    })
+
+    function modifyFontSize(flag) {
+      var divElement = $('#story-main');
+      var currentFontSize = parseInt(divElement.css('font-size'));
+
+      if (flag == 'increase')
+        currentFontSize += 2;
+      else if (flag == 'decrease')
+        currentFontSize -= 2;
+      else
+        currentFontSize = 16;
+
+      divElement.css('font-size', currentFontSize);
+    }
+  });
+</script>
+
+
+<!-- bourbon.refills.fadin -->
+<script>
+  $(document).ready(function() {
+  var element = document.getElementById("js-fadeInElement");
+  $(element).addClass('js-fade-element-hide');
+
+  $(window).scroll(function() {
+    if( $("#js-fadeInElement").length > 0 ) {
+      var elementTopToPageTop = $(element).offset().top;
+      var windowTopToPageTop = $(window).scrollTop();
+      var windowInnerHeight = window.innerHeight;
+      var elementTopToWindowTop = elementTopToPageTop - windowTopToPageTop;
+      var elementTopToWindowBottom = windowInnerHeight - elementTopToWindowTop;
+      var distanceFromBottomToAppear = 300;
+
+      if(elementTopToWindowBottom > distanceFromBottomToAppear) {
+        $(element).addClass('js-fade-element-show');
+      }
+      else if(elementTopToWindowBottom < 0) {
+        $(element).removeClass('js-fade-element-show');
+        $(element).addClass('js-fade-element-hide');
+      }
+    }
+  });
+});
+</script>
+
+<!-- bourbon.refills.fadin -->
+<script>
+  $("#deblur-button").click(function() {
+  $('.transform').toggleClass('deblur');
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>

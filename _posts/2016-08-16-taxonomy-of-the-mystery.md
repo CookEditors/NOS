@@ -2,12 +2,12 @@
 layout: post_mw
 layoutTag: post
 title: "Taxonomy of the Mystery"
-subtitle: "The Semi-Scientific Schema of Classification of the Types, Styles & Subgenres of Mystery Fiction"
+subtitle: "36 Semi-Scientific Schema of Classification of the Types, Styles & Subgenres of Mystery Fiction"
 author: R. Cook
 date: 2016-08-16-16
 category: short-stories
 excerpt: Amateur or professional sleuth, cozy, Golden Age, noir, hardboiled ... these are more than just terms booksellers use to figure out where to house a particular title. The taxonomy, or scheme of classification, of mystery stories is a vital part of knowing just what to expect in terms of conventions, styles, level of sex or violence and even the possible outcome of the story.
-image:
+image: /assets/img/Wolfe-Fer-de-Lance-2.jpg
 category: murderwiki
 genre: Taxonomy
 wordcount: 6256
