@@ -3,7 +3,7 @@ title: Tales of Murder
 email: contact@talesofmurder.com
 description: A murder mystery short story &amp; novel site.
 baseurl: "localhost:3000" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site ... change to "/NOS" for gh-pages
+url: "https://www.talesofmurder.com" # the base hostname & protocol for your site ... change to "/NOS" for gh-pages
 twitter_username: talesofmurder
 github_username:  flaturtha
 locale: en_US
