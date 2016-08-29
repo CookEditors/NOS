@@ -1,0 +1,855 @@
+<!doctype html>
+<html lang="en-US">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>Structure &#124; Tales of Murder</title>
+		<meta name="description" content="Chapter 23 of The Techniques of the Mystery, published 1913.">
+		<meta name="keywords" content="">
+		
+		<!-- include open-graph.html w/ open moustache/percent-->
+
+		<!-- Webmaster Tools Verification -->
+		
+
+		
+
+		<!-- CSS -->
+		<link rel="stylesheet" href="/assets/css/styles.css">
+		
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+	
+		<!--[if lt IE 9]>
+    	<script src="bower_components/html5shiv/dist/html5shiv.js"></script>
+    	<script src="_assets/js/vendor/respond.js"></script>
+		<![endif]-->
+		
+		<!--load jQuery, required-->
+		<script src="/assets/js/vendor/jquery-1.11.2.js"></script>
+
+		<script src="/assets/js/vendor/jquery-ui.min.js"></script>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+
+	</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body  id="Structure" class="ipadBS murderwiki">
+
+	<!-- include facebookshare.html -->
+
+	<!-- MASTHEAD -->
+
+<header class="site__header"> <!-- contains full width, resizing background image -->
+	<div class="container"> <!-- 960px width, centered content area -->
+
+		<div class="masthead"> <!-- clearfix -->
+
+			<!-- <img src="/assets/img/circle_crow_paper.png" alt="" class="masthead__logo grit"> -->
+
+			<div class="branding">
+				<a href="http://www.talesofmurder.com/">
+					<img class="" src="/assets/img/site_logo4a_f.png" alt="site logo for TalesofMurder.com" width="600">
+				</a> <!-- link (ahref) makes header image a link back to HOME -->
+				<!-- <h2 class="masthead__title grit"><span class="title__sub">Tales of </span><span class="title__main"><span class="m">m</span><span class="urde">urde</span><span class="r">r</span></span></h2>
+
+				<h3 class="masthead__tagline">For readers with time to <span>kill</span> &hellip;</h3> -->
+			</div> <!-- end div .masthead-inner__test -->
+
+			<div class="navicon toggle-menu menu-right">
+      	<!-- <i class="fa fa-navicon"></i> -->
+      	<h6 style="margin-top: 1.25rem;font-size: 1rem;"><i class="fa fa-navicon"></i> MENU</h6>
+    	</div>
+
+		</div> <!-- end div .masthead__test -->
+
+
+	<!-- MAIN NAVIGATION MENU -->
+
+    <!-- <div class="navicon__test toggle-menu menu-right">
+      <i class="fa fa-navicon"></i>
+    </div> -->
+
+    <nav  class="nav__primary cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right"> <!-- if  statement removes menu from home (eventually only WelcomeGate) page -->
+
+      <h1 class="hidden">Main Navigation</h1>
+      <div class="nav__basic">
+        <!-- <h3>Menu</h3> -->
+        <a  href="/index.html">Home</a>
+        <a  href="/about/index.html">About</a>
+        <a  href="/short-stories/index.html">Short&nbsp;Stories</a>
+       <!--  <a  href="/the-red-file/index.html">The&nbsp;Red&nbsp;File</a>
+        <a  href="/book-catalog/index.html">Book&nbsp;Catalog</a> -->
+        <a  href="/murderwiki/index.html">MurderWiki</a>
+      </div>
+    </nav> <!-- nav__primary -->
+
+  </div> <!-- end div frame -->
+</header> <!-- site__header -->
+
+
+
+
+
+  <main class="main"> <!-- removed [style="height:100%;"] to correct ios9 browser height problem ... WHY!? -->
+    <div class="content">
+    	<div id="thepost" class="post">
+
+  <header class="post__header clearfix">
+	<!-- README IF STATEMENT -->
+  
+
+		<div class="clearfix titlebox">
+	  	<div class="storytitles" id="top">
+				<h1 class="post__title" style="margin-bottom:2rem;font-size:3rem;">Structure</h1>
+				<h2 class="post__title" style="margin-bottom:2rem;font-size:2rem;"></h2>
+				<h3 class="post__author">By <strong>Carolyn Wells</strong></h3>
+
+				<figure class="post__img"> <!-- add class grit to dirty up pic -->
+						<img src="" alt="">
+						<figcaption class="post__excerpt">Chapter 23 of <i>The Techniques of the Mystery</i>, published 1913.</figcaption>
+				</figure> <!-- end div post__image
+				<!-- <h2 class="post__excerpt">Chapter 23 of <i>The Techniques of the Mystery</i>, published 1913.</h4> -->
+			</div> <!-- end div titles -->
+		</div> <!-- end div clearfix -->
+
+		<div class="post__meta">
+			<p>word count: 3,421</p>
+			<p>time to read:
+				
+				
+					<span class="time">17</span> min 
+				
+			</p>
+		</div> <!-- end div post__meta -->
+
+  </header>
+
+	<!-- show either div.pc-tease OR div.cu-tease:
+	(1) if normal post, then show div.cu-tease,
+	(2) if premium post && localStorage[registered=true], then show div.cu-tease,
+	(3) if premium post && !localStorage[registered=true], then show div.pc-tease && include/show readmore.html
+	-->
+
+	<!-- <div class="pc-tease grit hidden">
+		<h4><i class="fa fa-sign-in"></i>&nbsp;PREMIUM CONTENT</h4>
+		<h5>REGISTERED USERS ONLY</h5>
+		<p>Enjoy an online sample of <span>Structure</span>. To read the full story, just register with a valid email address. You'll also be able to download either a PDF, Kindle or ePub version. Full details below the sample.</p>
+	</div> end div pc-tease -->
+
+	  <!-- <div class="cu-tease grit">
+		<p><strong>PSST! Hey, buddy &hellip;</strong> did'ya know you can download <a href="#"><strong>Structure</strong></a> for any ereader device (<em>Kindle, iBooks, etc.</em>) or as PDF &hellip; perfect for reading when you're not online but have time to kill! <strong>Look for the <a href="#ssactions_ID"><span>Download</span></a> buttons at the end of this story.</strong></p>
+	</div> end div cu-tease --> <!-- NOTE: DISABLED TEMPORARILY UNTIL PROPER DOWNLOAD CAN BE SET UP ... DAY OR TWO AT MOST!! -->
+
+		<div class="fontresizer">
+	<h6 class="hidden">Adjust Font Size</h6>
+	<button id="linkDecrease"><i class="fa fa-minus-square fa-2x"></i></button>
+	<i class="fontresizer__icon fa fa-font"></i><i class="fontresizer__icon fa fa-font fa-2x"></i>
+	<button id="linkIncrease"><i class="fa fa-plus-square fa-2x"></i></button>   
+
+</div> <!-- end div fontresizer -->
+
+	<article class="post__content" id="story-main">
+  	<section id="toc" class="toc">
+  <header>
+    <h6>Table of Contents</h6>
+  </header>
+<div id="drawer">
+<ol id="markdown-toc">
+  <li><a href="#length" id="markdown-toc-length">Length</a></li>
+  <li><a href="#the-short-story-and-the-novel" id="markdown-toc-the-short-story-and-the-novel">The Short-Story and the Novel</a></li>
+  <li><a href="#singleness-of-plot-in-the-detective-story" id="markdown-toc-singleness-of-plot-in-the-detective-story">Singleness of Plot in the Detective Story</a></li>
+  <li><a href="#the-question-of-length" id="markdown-toc-the-question-of-length">The Question of Length</a></li>
+  <li><a href="#the-narrator-in-the-detective-story" id="markdown-toc-the-narrator-in-the-detective-story">The Narrator in the Detective Story</a></li>
+  <li><a href="#the-setting" id="markdown-toc-the-setting">The Setting</a></li>
+</ol>
+
+  </div>
+</section>
+<p><!-- table-of-contents --></p>
+
+<p>In the construction of our story we must consider the question of length.</p>
+
+<h2 id="length">Length</h2>
+
+<p>First, and in the opinion of many authorities best there is the short-story. With exceptions, the best mystery stories are short-stories. A short-story lends itself peculiarly to a mystery plot, principally because it is not easy to keep wonder and curiosity alive through a long story.</p>
+
+<p>Again, many detective stories fall naturally into the length of a novelette—say 30,000 words.</p>
+
+<p>Then there is a two-or three-part story, which differs from the novelette in construction, even when of the same length.</p>
+
+<p>Another form is the serial, in which each installment must have its own climax, all leading to the final surprise.</p>
+
+<p>And last of all, there is the full-sized book, where the interest may or may not be broken before the denouement and solution.</p>
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+<h2 id="the-short-story-and-the-novel">The Short-Story and the Novel</h2>
+
+<p>Of making many books concerning and dissecting the short- story there is no end. As many probably there are regarding the construction of the novel; and between these two forms they tell us there is a great gulf fixed. But the fixing of this gulf is largely a matter of opinion, and the opinions are somewhat diversified.</p>
+
+<p>One writer explains the intrinsic difference between a short- story and a story that is merely short. He holds that a short- story is by no means a condensed novel, but is different in kind from a novel. The novelette, however, he contends is a brief novel.</p>
+
+<p>Another writer, following this distinction, goes so far as to say that were the novelette condensed to one half or less of its usually accepted length it would still be a novel and not a short-story.</p>
+
+<p>Conversely, were a short-story expanded indefinitely it could never become a novel.</p>
+
+<p>The foundation of this distinction lies in the principle that a short-story is founded on a unity of impression. It relates, more or less definitely, a single episode; while a novel is a series of correlated episodes, bearing on a single motive. The number of words in a piece of fiction has absolutely no part in determining its nomenclature.</p>
+
+<p>Poe's distinction that a novel cannot be read at a sitting and a short-story can, is not entirely valid. For "a sitting" is surely a most uncertain division of time. To the busy man a sitting may be a half an hour; to the idle woman it may be half a day; while to the "shut-in" it is continuous and interminable. Moreover, in the case of a thrilling Mystery Story, a reader's sitting would be prolonged, even in spite of imperative duty calls, because of the desire to reach the solution of the mystery.</p>
+
+<p>Again, as a distinction, we are told that the novel is expansive and the short-story intensive. Perhaps an illustration might be made by likening the novel to a map of the United States, and the short-story to a single state on the map viewed under a magnifying glass.</p>
+
+<p>But these differentiations regarding short-stories and novels are fully explained and discussed in books exclusively devoted to such technique. And though the fine distinctions therein drawn are of highest importance to other branches of fiction, they are almost, if not entirely, negligible in the case of Detective Stories. For the inherent difference between a novel and a short-story is one of plot. Whereas, since Detective Stories have but one solitary plot,—"the problem and its solution,11—the difference in the detective short-story or the detective novel is merely that of length.</p>
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+<h2 id="singleness-of-plot-in-the-detective-story">Singleness of Plot in the Detective Story</h2>
+
+<p>The single plot that makes a Detective Story may be likened to an accordion; it may be pulled out to an extraordinary length, or compressed to a minimum. A detective novel may have minor complications, more characterization and more elaborate setting; but the plot must not vary from the plot of a detective short-story, being only the propounding of the riddle and the revealing of its answer. The longer the story the more numerous and bewildering the conditions of the riddle and the windings of the maze, but all tend definitely to the one end,—the answer.</p>
+
+<p>In a short-story the plot rushes on breathlessly, bare and straight to its end. In a novelette there is more room for side- lights, more time for slower development, and more scope for minor issues; while a full-sized book still further amplifies these possibilities. But in these three forms the main thread must go on, without halt, in an ever rising crescendo of interest to the climax.</p>
+
+<p>If the work is to be published in two or three parts, or if it is a longer serial, then the plan is so far changed as to present a definite climax at the end of each installment. But these must be all minor climaxes and all bearing successively and cumulatively on the final revelation.</p>
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+<h2 id="the-question-of-length">The Question of Length</h2>
+
+<p>Now, in writing detective fiction, unlike other kinds, the length of his story is entirely at the option of the author. For the detective plot possesses the characteristics of a piece of string; it differs from its fellows only in length. The story of "The Moonstone" could have been told in a hundred pages, but Wilkie Collins gives it five hundred. "The Murders in the Rue Morgue" could have been a full-sized book as well as "The Leavenworth Case." The inquest scene in the latter fills seventy pages, while Poe's story details the inquest in six pages.</p>
+
+<p>Conan Doyle's stories are short because he uses the single incident of the crime and the single impression of its solution, with an absence of any detail not absolutely necessary. Sherlock Holmes himself, who is often a medium for his author's views, says that he could do in twenty-four hours detective work on which Lecoq occupied six months. This is true enough, but the reason is that, as we have previously pointed out, Lecoq figured in a novel while Sherlock had to do his work expeditiously in the confines of a short-story.</p>
+
+<p>Gaboriau chose to write novels, and so in connection with the problem and its solution he makes use of side issues of all sorts; even including the past history of his characters, subordinate plots, and various byways of conjecture or misleadings.</p>
+
+<p>So we see the length of a Mystery Story is entirely at the pleasure of the performer, without the hampering rules laid down for the writers of ether types of fiction. Say the plot depends upon a cypher interest. Conan Doyle did the story of the "Dancing Men" in a short-story; Poe's "Gold Bug" is a novelette; while James DeMille's "The Cryptogram" is a very long book.</p>
+
+<p>It may be because Detective Stories are the work of artisans rather than artists that they can be fitted to such a Procrustean bed of literature. But though a sponge may be the size of your head or compressed to the size of your fist, it is the same sponge and comprises and includes the same material and value.</p>
+
+<p>Of course this general principle must be taken with limitations. Some of Conan Doyle's short-stories could not be made into satisfactory books, while others could easily be. As in other fiction, a slight incident is not enough for a novel, but a great incident is. A missing Christmas goose might not be of sufficient interest to fill a book, when a murder mystery is. Perhaps w e may say a simple mystery indicates a short-story length, while a complex riddle, or one made complex by side issues means a novel.</p>
+
+<p>And yet it is here that art steps in. A master hand can make a great interest out of a simple mystery, where a tyro could not succeed. Generally speaking, the short-story must differ from the novel in scope and structure. In detective fiction it differs in scope only; for the main structure is always the same.</p>
+
+<p>Writers of the technique of fiction tell us that another difference between the short-story and the novel lies in the fact that the novel must be a love story, while the short-story need not deal with romance at all. Applied to detective fiction, this may be adapted to mean that a love interest is possible, though not imperative in a novel or a novelette; but a short-story has no reason for romance and no room for it, unless it is a necessary premise to the conditions of the story.</p>
+
+<p>As a matter of absolute measurement, perhaps we may call four thousand words an ideal length for a short-story. A novelette should be thirty or thirty-five thousand words long; while a book may run as near as you wish to one hundred thousand words.</p>
+
+<p>The length of Poe's "Gold Bug," nearly fifteen thousand words, would not be an acceptable size to editors of the present day. And though great writers may be a law unto themselves in this matter, it is wise to arrange a story in accordance with the editors' preferences.</p>
+
+<p>Houdini, the magician, in speaking of his own principles of legerdemain, said: "It is more difficult to support admiration than to excite it," and so it is more difficult to hold an intellectual curiosity than to arouse it.</p>
+
+<p>In his introduction to an excellent collection of mystery stories, Mr. Julian Hawthorne has written so discerningly on this subject that we quote from his article:</p>
+
+<blockquote>
+  <p>"I need hardly point out that there is a distinction and a difference between short riddle stories and long ones—novels. The former require far more technical art for their proper development; the enigma cannot be posed in so many ways, but must be stated once for all; there cannot be false scents, or but a few of them; there can be small opportunity for character drawing, and all kinds of ornament and comment must be reduced to their very lowest terms. Here, indeed, as everywhere, genius will have its way; and while a merely talented writer would deem it impossible to tell the story of 'The Gold Bug1 in less than a volume, Poe could do it in a few thousand words, and yet appear to have said everything worth saying. In the case of the Sherlock Holmes tales, they form a series, and our previous knowledge of the hero enables the writer to dispense with much description and accompaniment that would be necessary had that eminent personage been presented in only a single complication of events. Each special episode of the great analyst's career can therefore be handled with the utmost economy, and yet fill all the requirements of intelligent interest and comprehension. But, as a rule, the riddle novel approaches its theme in a spirit essentially other than that which inspires the short tale. We are given, as it were, a wide landscape instead of a detailed genre picture. The number of the dramatis personae is much larger, and the parts given to many of them may be very small, though each should have his or her necessary function in the general plan. It is much easier to create perplexity on these terms; but on the other hand, the riddle novel demands a power of vivid character portrayal and of telling description which are not indispensable in the briefer narrative.</p>
+</blockquote>
+
+<blockquote>
+  <p>"The fault of all riddle novels is that they inevitably involve two kinds of interest, and can seldom balance these so perfectly that one or the other of them shall not suffer. The mind of the reader becomes weary in its frequent journeys between human characters on one side and the mysterious events on the other, and would prefer the more single-eyed treatment of the short tale. Wonder too is a very tender and short-lived emotion, and sometimes perishes after a few pages. Curiosity is tougher; but that, too, may be baffled too long, and end by tiring of the pursuit while it is yet in its early stages.</p>
+</blockquote>
+
+<blockquote>
+  <p>Many excellent plots, admirable from the constructive point of view, have been wasted by stringing them out too far; the reader recognizes their merit, but loses his enthusiasm on account of a sort of monotony of strain; he wickedly turns to the concluding chapter, and the game is up.</p>
+</blockquote>
+
+<blockquote>
+  <p>"'The Woman in White,' by Wilkie Collins, was published about 1860, I think, in weekly installments, and certainly they were devoured with insatiable appetite by many thousands of readers. But I doubt whether a book of similar merit could command such a following to-day; and I will even confess that I have myself never read the concluding parts, and do not know to this day who the woman was or what were the wrongs from which she so poignantly suffered."</p>
+</blockquote>
+
+<p>Stories which ought to be shorter are sometimes made into novels by long and often tedious interpolations.</p>
+
+<p>"A Study in Scarlet," one of Conan Doyle's best stories, is unduly spun out by an interpolation which lasts from page 110 to 184. Likewise Gaboriau's "The Mystery of Orcival" has an interpolation from page 104 to 188. These extraneous narratives usually go back and tell of an episode that happened years before the scene of the story, and they are both uninteresting and inartistic.</p>
+
+<p>As a rule, an author of detective fiction writes either short- stories or novels, but rarely both. Conan Doyle's only mystery novel is "The Hound of the Baskervilles;" while Gaboriau and Anna Katharine Green invariably write novels.</p>
+
+<p>So we conclude that length is a matter of taste, and the detective fiction writer may use his own judgment as to the length of his works.</p>
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+<h2 id="the-narrator-in-the-detective-story">The Narrator in the Detective Story</h2>
+
+<p>The Teller of the Detective Story is an important factor in its technique. Many a good plot is spoiled because it is narrated by the wrong person.</p>
+
+<p>Poe, with his quick sense of fitness, chose the narrator best calculated for the exploitation of his clever Dupin. This was a stroke of real genius, for the reader becomes acquainted with the principal through the subordinate. He is taught to look upon the work of a detective intelligently; taught to appreciate and understand it. He knows when it is time to applaud, because the narrator tells him. It is a pity that this narrator is nameless, for as Mrs. Harris, with even less personality, is a household word, so his name would have been. It is this narrator who rouses our interest, tantalizes our impatience, and piques our curiosity, in harmony with his own halting almost unbelieving observance of the marvels revealed to him. He teaches us to be amazed at the proper time and then at the proper time he explains what so amazed us.</p>
+
+<p>Dr. Watson, narrator of the Sherlock Holmes stories, is a parallel character, though in no sense an imitation or plagiarism. The conditions of the revelations to be made require just such a person to make them; and without a doubt, Sherlock Holmes would have had his Dr. Watson even if Dupin had never had his.</p>
+
+<p>Aside from the glory and honor cast upon the hero by this humble but adoring satellite, this means of narration has another decided advantage. Since the detective confides in his friend or not, as he chooses, the author can reveal or conceal facts as he chooses, and so mislead the reader at will. What the subordinate does not know he can not tell, and thus is the secret preserved. Again, the subordinate being but fallible, may surmise mistakenly. So then does the reader, and again the author's ends are served.</p>
+
+<p>Sometimes the author prefers that the tale be told in the third person, but even so, the character of "Harris" is still usually in evidence. Often he is a reporter, for this gives him opportunity to go uninvited, yet free from the stigma of idle curiosity into the scenes of interest. A reporter eager for a "scoop" for his paper, sets a fine example of alert interest and close scrutiny for the reader to profit by.</p>
+
+<p>In the foreword to "The Silent Bullet" the hero detective picks out his reporter and tells him how useful he will be to him in his work. "The Thinking Machine" has the reporter "Hutchinson Hatch," while "Rouletabille" has a clever reporter named "Sainclair."</p>
+
+<p>Of course the story may be told directly from the mouth of the author. But the proportion of this manner of telling is not so large in Detective Story work as in other fiction; because there are secrets to be preserved. Not only the main secret of the mystery, but also the secrets of what the strange proceedings of the detective may mean. And if the author is telling the tale, it is manifestly difficult for him to preserve an ingenuous and veracious manner, though this may be done if the author maintains a certain aloofness and an arbitrary standard of what to tell and what not.</p>
+
+<p>Gaboriau's stories are all told in the third person; so are DuBoisgobey's and many of Anna Katharine Green's. Gaston Leroux uses this form and so does Mr. Webster in "The Whispering Man."</p>
+
+<p>"The Moonstone" is a conglomeration of forms. The narrator is changed to suit the needs of the author, and the book is made up of the stories of the diaries of several people interested; "The Woman in White" follows the same narrative method. "The Leavenworth Case" is also told by various people, and sometimes in diary form.</p>
+
+<p>While not always effective in other fiction, the diary is a most useful form for Detective Stories. For secrets can be confided to a diary, and though thus revealed to the reader, they are not disclosed to the other characters in the book; which is frequently a necessary condition. While never used for the whole book, the diary form often appears on certain pages of the story. "The Mystery of the Yellow Room," "The Hound of the Baskervilles," and many of our best authors' works show more or less of the useful and often necessary diary form.</p>
+
+<p>But whatever narrator is chosen, let the choice be made after careful consideration of the conditions of the story. If there is a great surprise which must be concealed until the end, the narrator must be kept in ignorance of it until the end. If the story hinges on the marvelous brain work of a transcendent detective, give him a Dr. Watson to expatiate on it and to be awed by it. If a scientific or other straightforward recital of procedure, it may be told by the author. These points can best be learned and understood by reading the works of the best authors and noting what kind of narrator they choose and why.</p>
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+<h2 id="the-setting">The Setting</h2>
+
+<p>The setting of the story will of course depend on the plot; but, other things being equal, do not choose too low life for your scenes. The facts of a murder are in themselves sufficiently unattractive to make it unnecessary to add to the distastefulness of the story by unpleasant surroundings. Let the people in your story be at least fairly well to do, of at least moderately good position and of a decent education. Unless absolutely necessary to have it otherwise, let the house or the scene of the crime be attractive or interesting, and let even the subordinate characters be of refined and intelligent type. For one reader who enjoys tales of slum life there are a dozen who prefer ladies and gentlemen, if not lords and ladies.</p>
+
+<p>It may be argued that murders or other crimes do not occur in high life as frequently as among the lower classes. This point may be open to discussion; but it would make no difference what the decision might be. Detective Stories are not realistic, and if the author choose to have his murder committed in a community of gentle-folk, he is entirely at liberty to do so.</p>
+
+<p>It goes without saying that the locality and social customs of the story must be those with which the author is familiar. A Detective Story depends so much on the logic and plausibility of its conditions, that a vague or uncertain touch on the practical or material details greatly mars the effect.</p>
+
+<p>Let us see to it, then, that our setting and our atmosphere are free from mistake or anachronism. Economy of attention demands that we keep the reader's mind wholly intent on the solution of the problem; and this may not be done if we allow questionable or contradictory work on the minor interests.</p>
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+  </article>
+
+</div> <!-- end of div post -->
+
+    </div>
+
+  </main>
+
+  <footer class="site__footer" id="site__footer">
+  <div class="container">
+    <small><span class="rwd-line">Copyright 2014 &mdash; 2016 Tales&nbsp;of&nbsp;Murder&nbsp;Press,&nbsp;LLC. </span>All Rights Reserved.</small>
+  </div>
+</footer>
+
+  <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/assets/js/scripts.min.js"></script> -->
+
+<script src="/assets/js/vendor/modernizr.custom.34164.js"></script>
+
+<!--load jQuery, required-->
+<script src="/assets/js/vendor/jquery-1.11.2.js"></script>
+
+<script src="/assets/js/vendor/jquery-ui.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+
+<!-- TYPEKIT -->
+<script src="//use.typekit.net/gwl0zuj.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+
+<script src="/assets/js/vendor/store.js"></script>
+
+<!--load jPushMenu, required-->
+<script src="/assets/js/vendor/jPushMenu.js"></script>
+
+<script src="/assets/js/vendor/slabtext.js"></script>
+
+<script src="/assets/js/vendor/scroll-on-page.js"></script>
+
+<!-- <script src="/assets/js/vendor/store.js"></script>
+NOTE: moved to HEAD -->
+<script src="/assets/js/vendor/flipclock.min.js"></script>
+
+<!-- <script src="/assets/js/vendor/expandable-section.js"></script> -->
+
+<!-- velocity.js -->
+<script src="/assets/js/vendor/velocity.min.js"></script>
+
+<!-- masonry.js -->
+<script src="/assets/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/assets/js/vendor/isotope.pkgd.min.js"></script>
+<script src="/assets/js/vendor/packery-mode.pkgd.min.js"></script>
+
+
+<!-- animated progbar -->
+<script>
+  function MoveTo() {
+    var prpos = document.getElementById('prpos');
+    prpos.style.width = document.getElementById('moveTo').value + "%";
+  }
+</script>
+
+<!--call jPushMenu, required-->
+<script>
+  jQuery(document).ready(function($) {
+   $('.toggle-menu').jPushMenu();
+ });
+</script>
+
+<!-- <script src="/assets/js/vendor/rwd.js"></script> -->
+
+<script>
+	$("h1").slabText({});
+</script>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+    var expanderTrigger = document.getElementById("js-expander-trigger");
+    var expanderContent = document.getElementById("js-expander-content");
+
+    $('#js-expander-trigger').click(function(){
+      $(this).toggleClass("expander-hidden");
+    });
+  });
+</script>
+
+<script>
+
+  (function() {
+
+   var co = $('article').find('span.co').each(function() {
+    var $this = $(this);
+
+    $('<blockquote></blockquote>', {
+     class: 'co',
+     text: $this.text()
+   }).prependTo( $this.closest('p') );
+
+  });
+
+ })();
+
+</script>
+
+
+
+
+<script>
+  function regExpand() {
+    console.log("button works!")
+  }
+</script>
+
+
+<script>
+  $(document).ready(function(){
+    $("#register__button").click(function(){
+      $("#panel").slideDown("5000", "easeOutBounce");
+    });
+  });
+</script>
+
+
+<script type='text/javascript'>
+  $(document).ready(function() {
+    $(".time").text(function (index, value) {
+      return Math.round(parseFloat(value));
+    });
+    $(".hour").text(function (index, value) {
+      return Math.floor(parseFloat(value));
+    });
+  });
+</script>
+
+<!-- this is the simple working version to set localStore attributes ... not used in lieu of callback at the end of ajaxMailChimp (below) -->
+<!-- <script>
+
+	$(document).ready(function() {
+
+		init()
+
+		function init() {
+			if (!store.enabled) {
+				alert('Local storage is not supported by your browser. Please disable "Private Mode" to continue, or upgrade your browser.')
+				return
+			}
+			$("#regSubmit").click(function() {
+        store.set('registered', true);
+
+        var email = $("#regEmail").val();
+        store.set('email', email)
+
+      })
+		};
+	})
+
+</script> -->
+
+<!-- CHECK LOCAL STORAGE -->
+<!-- can I name this function/script?? -->
+<script>
+
+	$(document).ready(function() {
+		if ($("#thepost").hasClass("premium_post")) {
+			console.log("Premium Post")
+
+			if (!store.get('registered')) {
+				console.log('UNREGISTERED User');
+				$(".pc-tease").removeClass("hidden");
+				$(".cu-tease").hide();
+				$(".ssactions").hide();
+
+				$(".read-more").removeClass("hidden");
+				$("#thepost").addClass("notreg")
+			}
+			else {
+				console.log('REGISTERED User');
+                // console.log(email)
+            }
+            }
+      else {
+             console.log("Post")
+           }
+         })
+</script>
+
+
+
+
+<!-- MAILCHIMP FORM STUFF -->
+
+<!-- mailchimp-ajax.js -->
+<script>
+ var ajaxMailChimp = (function(){
+ var module = {};
+
+// Turn the given MailChimp form into an ajax version.
+// If resultElement is given, the subscribe result is set as html to
+// that element.
+module.init = function ajaxMailChimpForm($form, $resultElement){
+
+    // Hijack the submission. We'll submit the form manually.
+    $form.submit(function(e) {
+      e.preventDefault();
+
+      if (!isValidEmail($form)) {
+        var error =  "A valid email address must be provided."
+        $resultElement.html(error);
+        $resultElement.css("color", "red");
+      } else {
+        $resultElement.css({
+         "background-color": "#fff",
+         "color": "#8B0000",
+         "margin-top": "1rem",
+         "padding": "0.5rem"
+       });
+        $resultElement.html("Registering your download request &hellip;");
+        $("#progress-bar").css("width", "75%").text("75%");
+        submitSubscribeForm($form, $resultElement);
+      }
+    });
+  };
+
+// Validate the email address in the form
+function isValidEmail($form) {
+    // If email is empty, show error message.
+    // contains just one @
+    var email = $form.find("input[type='email']").val();
+    if (!email || !email.length) {
+      return false;
+    } else if (email.indexOf("@") == -1) {
+      return false;
+    }
+
+    return true;
+  }
+
+// Submit the form with an ajax/jsonp request.
+// Based on http://stackoverflow.com/a/15120409/215821
+function submitSubscribeForm($form, $resultElement) {
+  $.ajax({
+    type: "GET",
+    url: $form.attr("action"),
+    data: $form.serialize(),
+    cache: false,
+    dataType: "jsonp",
+    jsonp: "c", // trigger MailChimp to return a JSONP response
+    contentType: "application/json; charset=utf-8",
+
+    error: function(error){
+    // According to jquery docs, this is never called for cross-domain JSONP requests
+  },
+
+    success: function(data){
+      if (data.result != "success") {
+        var message = data.msg || "Sorry. Unable to subscribe. Please try again later."
+        $resultElement.css("color", "red");
+
+        // This won't happen if using "smart subscribe"
+        if (data.msg && data.msg.indexOf("already subscribed") >= 0) {
+          message = "You're already subscribed. Thank you."
+          $resultElement.css("color", "white");
+        }
+
+        $resultElement.html(message);
+
+        }
+
+      else {
+        if ($("#mc-embedded-subscribe-form").hasClass("form__premium")) {
+          console.log("premium form");
+          var message = "Thank you!! Please continue reading &hellip;";
+          location.reload(); //reloads the premium post page at same location
+        }
+        else if ($("#mc-embedded-subscribe-form").hasClass("form__postdownload")) {
+          console.log("post download form");
+          var message = "Thank you!!<br>You are subscribed &amp; you can download your story next &hellip;";
+          var url = "/downloads/short-stories/index.html"; // needs to be dynamically created for *each* story ... will use localStorage cookie (maybe!)
+
+          $(location).attr('href', url);
+        }
+        else if ($("#mc-embedded-subscribe-form").hasClass("form__wg")) {
+          console.log("wg form");
+
+          var url = "/thanks/theredfile/";
+
+          $(location).attr('href', url);
+        }
+        else {
+          console.log("no class whatsoever!");
+        }
+
+        $resultElement.html(message);
+
+        var email = $("#mce-EMAIL").val();
+        store.set('registered', true);
+        store.set('emailaddress', email);
+
+      } // end of else statement
+    }
+  });
+}
+
+return module;
+
+})();
+</script>
+
+
+<!-- sets story data (title, author, etc.) to localStorage/sessionStorage for use on download page -->
+<script>
+
+$(document).ready(function() {
+
+  $("#button__postdownload").click(function() {
+    // console.log("button__postdownload clicked");
+    var url; // should be available throughout click function
+
+    init()
+    function init() {
+      if (!store.enabled) {
+        var url = "/downloads/short-stories/index-other.html"; //GENERIC DOWNLOAD PAGE
+        alert('Local storage is not supported by your browswer. Please disable "Private Mode", or upgrade your browser.')
+      return
+      } // end of if !store.enabled
+
+      var url = "/downloads/short-stories/index2.html";
+      var metaArray = ["Structure", "Carolyn Wells", "History", "", "Chapter 23 of <i>The Techniques of the Mystery</i>, published 1913.", "", "", ""];
+
+      // ARRAY KEY
+      // [0] = title
+      // [1] = author
+      // [2] = genre
+      // [3] = image
+      // [4] = excerpt
+      // [5] = kindle url
+      // [6] = epub url
+      // [7] = pdf url
+
+      store.set('storyMeta', JSON.stringify(metaArray));
+
+      console.log(metaArray);
+    } // end of function init()
+
+    if (store.get('registered')) {
+      console.log("registered user!");
+      console.log(url);
+
+      var emailaddress = store.get('emailaddress');
+      console.log(emailaddress);
+      $('#mce-EMAIL').val(emailaddress);
+      // $(location).attr('href', url);  sends past modal to download page .. not currently working due to val = url issue!
+    } // end if
+
+  }); // end of click function
+});
+</script>
+
+
+<!-- retrieve localStorage arrage & dump into page elements -->
+<script>
+  var retrievedMetaString = store.get("storyMeta");
+
+  if (retrievedMetaString) {
+    var retrievedMetaArray = JSON.parse(retrievedMetaString);
+    document.getElementById("title").innerHTML = retrievedMetaArray[0];
+    document.getElementById("author").innerHTML = retrievedMetaArray[1];
+    document.getElementById("genre").innerHTML = retrievedMetaArray[2];
+    document.getElementById("image").src = retrievedMetaArray[3];
+    document.getElementById("excerpt").innerHTML = retrievedMetaArray[4];
+    document.getElementById("kindle").href = retrievedMetaArray[5];
+    document.getElementById("epub").href = retrievedMetaArray[6];
+    document.getElementById("pdf").href = retrievedMetaArray[7];
+
+    $(".download-title").html(retrievedMetaArray[0]);
+}
+</script>
+
+
+<!-- WG reveal -->
+<script>
+
+  $(document).ready(function(){
+    $(".reveal__button").click(function(){
+      $("#revealer").hide();
+      $(".reveal__answer p").removeClass("answer__hidden");
+      $("#top-p").css({
+        "font-weight": "bold"
+      });
+      $("#last-p").css({
+        'color' : 'darkred',
+        'fontWeight' : 'bold',
+        'fontSize' : '1rem'
+      });
+      $(".reveal__answer").css({
+        'border-color' : 'darkred',
+        'border-size' : '2px'
+      });
+    })
+  });
+</script>
+
+
+<!-- Packery/Masonry -->
+<script>
+  $(window).on('load', function(){
+    $('ul.cards').isotope({
+      columnWidth: 'li.card',
+      itemSelector: 'li.card',
+      layoutMode: 'masonry',
+      masonry: {
+        gutter: 20
+      }
+    });
+  });
+</script>
+
+<!-- Isotope Filter -->
+<script>
+
+  $(window).load(function(){
+
+    var $container = $('.cards');
+    $container.isotope({
+      filter: '*',
+      animationOptions: {
+        duration: 750,
+        easing: 'linear',
+        queue: false
+      }
+    });
+
+    $('nav.iso-filter ul a').click(function(){
+
+      var selector = $(this).attr('data-filter');
+      $container.isotope({
+        filter: selector,
+        animationOptions: {
+          duration: 750,
+          easing: 'linear',
+          queue: false,
+        }
+      });
+      return false;
+    });
+
+  });
+
+</script>
+
+
+<!-- Font Resizer -->
+<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>   -->
+<script type="text/javascript">
+  $(document).ready(function () {
+    $('#linkIncrease').click(function () {
+      modifyFontSize('increase');
+    });
+
+    $('#linkDecrease').click(function () {
+      modifyFontSize('decrease');
+    });
+
+    $('#linkReset').click(function () {
+      modifyFontSize('reset');
+    })
+
+    function modifyFontSize(flag) {
+      var divElement = $('#story-main');
+      var currentFontSize = parseInt(divElement.css('font-size'));
+
+      if (flag == 'increase')
+        currentFontSize += 2;
+      else if (flag == 'decrease')
+        currentFontSize -= 2;
+      else
+        currentFontSize = 16;
+
+      divElement.css('font-size', currentFontSize);
+    }
+  });
+</script>
+
+
+<!-- bourbon.refills.fadin -->
+<script>
+  $(document).ready(function() {
+  var element = document.getElementById("js-fadeInElement");
+  $(element).addClass('js-fade-element-hide');
+
+  $(window).scroll(function() {
+    if( $("#js-fadeInElement").length > 0 ) {
+      var elementTopToPageTop = $(element).offset().top;
+      var windowTopToPageTop = $(window).scrollTop();
+      var windowInnerHeight = window.innerHeight;
+      var elementTopToWindowTop = elementTopToPageTop - windowTopToPageTop;
+      var elementTopToWindowBottom = windowInnerHeight - elementTopToWindowTop;
+      var distanceFromBottomToAppear = 300;
+
+      if(elementTopToWindowBottom > distanceFromBottomToAppear) {
+        $(element).addClass('js-fade-element-show');
+      }
+      else if(elementTopToWindowBottom < 0) {
+        $(element).removeClass('js-fade-element-show');
+        $(element).addClass('js-fade-element-hide');
+      }
+    }
+  });
+});
+</script>
+
+<!-- bourbon.refills.fadin -->
+<script>
+  $("#deblur-button").click(function() {
+  $('.transform').toggleClass('deblur');
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>

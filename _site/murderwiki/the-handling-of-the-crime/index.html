@@ -1,0 +1,767 @@
+<!doctype html>
+<html lang="en-US">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>The Handling of the Crime &#124; Tales of Murder</title>
+		<meta name="description" content="Chapter 19 of The Techniques of the Mystery, published 1913.">
+		<meta name="keywords" content="">
+		
+		<!-- include open-graph.html w/ open moustache/percent-->
+
+		<!-- Webmaster Tools Verification -->
+		
+
+		
+
+		<!-- CSS -->
+		<link rel="stylesheet" href="/assets/css/styles.css">
+		
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+	
+		<!--[if lt IE 9]>
+    	<script src="bower_components/html5shiv/dist/html5shiv.js"></script>
+    	<script src="_assets/js/vendor/respond.js"></script>
+		<![endif]-->
+		
+		<!--load jQuery, required-->
+		<script src="/assets/js/vendor/jquery-1.11.2.js"></script>
+
+		<script src="/assets/js/vendor/jquery-ui.min.js"></script>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+
+	</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body  id="The Handling of the Crime" class="ipadBS murderwiki">
+
+	<!-- include facebookshare.html -->
+
+	<!-- MASTHEAD -->
+
+<header class="site__header"> <!-- contains full width, resizing background image -->
+	<div class="container"> <!-- 960px width, centered content area -->
+
+		<div class="masthead"> <!-- clearfix -->
+
+			<!-- <img src="/assets/img/circle_crow_paper.png" alt="" class="masthead__logo grit"> -->
+
+			<div class="branding">
+				<a href="http://www.talesofmurder.com/">
+					<img class="" src="/assets/img/site_logo4a_f.png" alt="site logo for TalesofMurder.com" width="600">
+				</a> <!-- link (ahref) makes header image a link back to HOME -->
+				<!-- <h2 class="masthead__title grit"><span class="title__sub">Tales of </span><span class="title__main"><span class="m">m</span><span class="urde">urde</span><span class="r">r</span></span></h2>
+
+				<h3 class="masthead__tagline">For readers with time to <span>kill</span> &hellip;</h3> -->
+			</div> <!-- end div .masthead-inner__test -->
+
+			<div class="navicon toggle-menu menu-right">
+      	<!-- <i class="fa fa-navicon"></i> -->
+      	<h6 style="margin-top: 1.25rem;font-size: 1rem;"><i class="fa fa-navicon"></i> MENU</h6>
+    	</div>
+
+		</div> <!-- end div .masthead__test -->
+
+
+	<!-- MAIN NAVIGATION MENU -->
+
+    <!-- <div class="navicon__test toggle-menu menu-right">
+      <i class="fa fa-navicon"></i>
+    </div> -->
+
+    <nav  class="nav__primary cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right"> <!-- if  statement removes menu from home (eventually only WelcomeGate) page -->
+
+      <h1 class="hidden">Main Navigation</h1>
+      <div class="nav__basic">
+        <!-- <h3>Menu</h3> -->
+        <a  href="/index.html">Home</a>
+        <a  href="/about/index.html">About</a>
+        <a  href="/short-stories/index.html">Short&nbsp;Stories</a>
+       <!--  <a  href="/the-red-file/index.html">The&nbsp;Red&nbsp;File</a>
+        <a  href="/book-catalog/index.html">Book&nbsp;Catalog</a> -->
+        <a  href="/murderwiki/index.html">MurderWiki</a>
+      </div>
+    </nav> <!-- nav__primary -->
+
+  </div> <!-- end div frame -->
+</header> <!-- site__header -->
+
+
+
+
+
+  <main class="main"> <!-- removed [style="height:100%;"] to correct ios9 browser height problem ... WHY!? -->
+    <div class="content">
+    	<div id="thepost" class="post">
+
+  <header class="post__header clearfix">
+	<!-- README IF STATEMENT -->
+  
+
+		<div class="clearfix titlebox">
+	  	<div class="storytitles" id="top">
+				<h1 class="post__title" style="margin-bottom:2rem;font-size:3rem;">The Handling of the Crime</h1>
+				<h2 class="post__title" style="margin-bottom:2rem;font-size:2rem;"></h2>
+				<h3 class="post__author">By <strong>Carolyn Wells</strong></h3>
+
+				<figure class="post__img"> <!-- add class grit to dirty up pic -->
+						<img src="" alt="">
+						<figcaption class="post__excerpt">Chapter 19 of <i>The Techniques of the Mystery</i>, published 1913.</figcaption>
+				</figure> <!-- end div post__image
+				<!-- <h2 class="post__excerpt">Chapter 19 of <i>The Techniques of the Mystery</i>, published 1913.</h4> -->
+			</div> <!-- end div titles -->
+		</div> <!-- end div clearfix -->
+
+		<div class="post__meta">
+			<p>word count: 1,480</p>
+			<p>time to read:
+				
+				
+					<span class="time">7</span> min 
+				
+			</p>
+		</div> <!-- end div post__meta -->
+
+  </header>
+
+	<!-- show either div.pc-tease OR div.cu-tease:
+	(1) if normal post, then show div.cu-tease,
+	(2) if premium post && localStorage[registered=true], then show div.cu-tease,
+	(3) if premium post && !localStorage[registered=true], then show div.pc-tease && include/show readmore.html
+	-->
+
+	<!-- <div class="pc-tease grit hidden">
+		<h4><i class="fa fa-sign-in"></i>&nbsp;PREMIUM CONTENT</h4>
+		<h5>REGISTERED USERS ONLY</h5>
+		<p>Enjoy an online sample of <span>The Handling of the Crime</span>. To read the full story, just register with a valid email address. You'll also be able to download either a PDF, Kindle or ePub version. Full details below the sample.</p>
+	</div> end div pc-tease -->
+
+	  <!-- <div class="cu-tease grit">
+		<p><strong>PSST! Hey, buddy &hellip;</strong> did'ya know you can download <a href="#"><strong>The Handling of the Crime</strong></a> for any ereader device (<em>Kindle, iBooks, etc.</em>) or as PDF &hellip; perfect for reading when you're not online but have time to kill! <strong>Look for the <a href="#ssactions_ID"><span>Download</span></a> buttons at the end of this story.</strong></p>
+	</div> end div cu-tease --> <!-- NOTE: DISABLED TEMPORARILY UNTIL PROPER DOWNLOAD CAN BE SET UP ... DAY OR TWO AT MOST!! -->
+
+		<div class="fontresizer">
+	<h6 class="hidden">Adjust Font Size</h6>
+	<button id="linkDecrease"><i class="fa fa-minus-square fa-2x"></i></button>
+	<i class="fontresizer__icon fa fa-font"></i><i class="fontresizer__icon fa fa-font fa-2x"></i>
+	<button id="linkIncrease"><i class="fa fa-plus-square fa-2x"></i></button>   
+
+</div> <!-- end div fontresizer -->
+
+	<article class="post__content" id="story-main">
+  	<section id="toc" class="toc">
+  <header>
+    <h6>Table of Contents</h6>
+  </header>
+<div id="drawer">
+
+  </div>
+</section>
+<p><!-- table-of-contents --></p>
+
+<p>The method of the murder is a point to be carefully chosen and this consideration of course includes the weapon.</p>
+
+<p>Shooting is perhaps the means most often used, with stabbing as a close second. If a shooting, the weapon is usually a revolver, or occasionally a rifle. In this case, care must be taken that the scene is out of doors; or, if indoors, in an isolated apartment or so placed that the report shall be out of hearing of the other characters, unless immediate discovery is intended.</p>
+
+<p>Various devices are used to keep the innocent characters from hearing the shooting. In one case only a half-charge of powder was put into a gun. In another, of recent date, a silent bullet was used.</p>
+
+<p>A strong point is always made of the evidence of the weapon, if it be found. But, as we have before hinted, do not persist in having the revolver marked with the initials of a perfectly innocent person, for this has come to be looked upon as a tacit acquittal. It is hackneyed, also, to have the pistol one of a pair, and trace it by means of its duplicate still reposing in its case in the criminal's library. Learn to avoid these over-worked devices, as there are surely plenty of others. If a pistol is your chosen weapon, treat it either inconspicuously, or in some novel and original fashion that will interest the reader.</p>
+
+<p>The advantage of a stabbing is principally that the weapon may be picked up at the moment, in a sudden impulse to kill; while a pistol usually implies a premeditated murder.</p>
+
+<p>A weapon picked up on the spot has the advantage of not necessitating its concealment after use, for it incriminates no one in particular. Oftenest this weapon is a dagger used as a paper cutter, and so lying at hand on a table. Or a dagger or sword which is one of a decorative group on the wall of the room. Another weapon which has crept into use of late y ears is the hatpin. This, though popular among writers, is implausible and in many cases impossible; for the average hatpin bends but does not break. Yet one author after another kills his victim by stabbing him with a hatpin which breaks off and disappears in the wound.</p>
+
+<p>One would-be clever author caused his victim to fall violently forward (with his mouth conveniently open), and allow a hatpin held by a near-by lady to strike through the roof of his mouth and pierce his brain. The obliging hatpin broke off at just the right place, and as the lady concealed the head end, the point end of the fatal weapon was never discovered. This related incident is practically impossible and should not have been used.</p>
+
+<p>A Spanish story called "The Nail," by Pedro de Alargon, practically reverses this method. A large nail was driven into the victim's skull and accomplished its purpose immediately. The head of the nail was concealed by the man's thick hair, and all unsuspecting of villainy, three medical experts declared the man's death due to apoplexy. Nor were they entirely to blame, as the physical effects brought about by the nail were precisely the same as the conditions of death by apoplexy.</p>
+
+<p>The nail is a horrible suggestion, but whatever weapon brings about violent death is necessarily horrible. It is wise to dwell on the physical details as little as possible. Granted a murder, there must be a method, and if the exigencies of the story demand a horrible method, so be it; but remember Poe's injunction, and when painting the decayed cheeses make them look as little like decayed cheeses as possible.</p>
+
+<p>Poison is a method giving the author a wider scope and necessitating somewhat legs gruesome conditions. It is easier to administer poison than to shoot or stab. Poison may be given in food or drink, or introduced into medicine or administered in more ingenious and original ways.</p>
+
+<p>If this method is used, the author should study up on poisons and their effects, and not run the risk of making absurd mistakes in his text. Abstruse scientific information is not necessary; enough can be learned from an encyclopaedia or a medical dictionary; but the plausibilities must be maintained.</p>
+
+<p>A favorite poison with writers who know little of the subject, is "a curious Indian or Persian drug, which acts instantaneously and leaves no trace." This drug, with its various and unintelligible names, has been somewhat over-worked; but it is acceptable because of its mystery and it is useful because its description is so vague as to need no real knowledge of it on the part of the author.</p>
+
+<p>The plot of a poison murder implies more complexities than a death by shooting or stabbing. The poisoner is a person of more ingenuity and is more anxious to escape discovery; and it also gives scope for treachery and deceit. Then, too, it has the advantage of allowing the detail of bloodshed to be omitted, thus making the scene less ghastly to sensitive minds.</p>
+
+<p>Drowning and strangling and chloroforming eliminate also the necessity for bloodshed, and have the added advantage of requiring no especial weapon; though the presence of the weapon, or the absence of one known to have been used, is a valuable asset to the mystery writer.</p>
+
+<p>Though the principal means of murder are enumerated above, the various manifestations of these means are innumerable.</p>
+
+<p>The ambitious writer often strives to find some new and original way of committing a hackneyed crime. So far has this been carried, that the latest detective stories employ the use of cultures of typhoid or diphtheria to bring about the necessary demise.</p>
+
+<p>Such means are perfectly legitimate in detective fiction, and if detailed with accurate and correct scientific knowledge are convincing, though not picturesque. Sherlock Holmes, with his fancy for the bizarre, rarely is satisfied with a plain shooting or stabbing. He uses such means as a blunt weapon, pushing into the water, a venomous snake, a harpoon, a poker, charcoal fumes, and a fall from a steep precipice.</p>
+
+<p>One of Anna Katharine Green's best stories, "Hand and Ring," employs the homely weapon of a billet of fire-wood. We are told at the outset that:</p>
+
+<blockquote>
+  <p>Half the criminals are caught because they do make tracks and then resort to such extraordinary means to cover them up. The true secret of success in this line lies in striking your blow with a weapon picked up on the spot, and in choosing for the scene of your tragedy a thoroughfare where, in the natural course of events, other men will come and go and unconsciously tread out your traces, provided you have made any. This dissipates suspicion, or starts it in so many directions that justice is at once confused, if not ultimately baffled.</p>
+</blockquote>
+
+<p>This is a sound principle of construction, and is the starting point of many of the best detective stories.</p>
+
+<p>In "The Mystery of the Yellow Room," the author goes back to the primitive weapon of a mutton bone, and in the skillful hands of both author and criminal this weapon is truly dramatic.</p>
+
+<p>An author's first plot almost invariably centers around a shooting or a stabbing affair. It is in his later efforts that he feels moved to vary his methods.</p>
+
+<p>Regarding crimes other than murder, we find that more depends on the setting. A robbery, however great the booty, must be made interesting by unusual characters or conditions, and must implicate the hero or other important characters to the danger point. The discovery of the wrong-doer must mean disgrace and disaster of the strongest sort. For your detective story fancier is an extremist; and, owing to the predominance of murder stories and capital punishment, a short imprisonment for a robbery seems tame by contrast.</p>
+
+<p>"The Moonstone" is a robbery story, but it combines all the elements that make for a dramatic setting, and though not the main motive, it includes a murder, and also a suicide, incidentally in the plot. It is one of the very few full-sized novels built upon a robbery, and it required the peculiar genius of a Wilkie Collins to hold the reader's attention through its five hundred pages.</p>
+
+<p>Other crimes than those we have considered, such as forgery, arson, blackmail, etc., are used only by authors in search of a novelty. They fancy that these crimes will interest because they are not so hackneyed as murder and robbery. But unless worked up with great care as to atmosphere and technique, stories of these crimes often prove dull reading.</p>
+
+<p>Some authors incline to such subjects as Nihilism and the workings of secret societies. These are not of such general interest as the ones we have been discussing, but they offer picturesque possibilities and scope for melodrama.</p>
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+
+  </article>
+
+</div> <!-- end of div post -->
+
+    </div>
+
+  </main>
+
+  <footer class="site__footer" id="site__footer">
+  <div class="container">
+    <small><span class="rwd-line">Copyright 2014 &mdash; 2016 Tales&nbsp;of&nbsp;Murder&nbsp;Press,&nbsp;LLC. </span>All Rights Reserved.</small>
+  </div>
+</footer>
+
+  <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/assets/js/scripts.min.js"></script> -->
+
+<script src="/assets/js/vendor/modernizr.custom.34164.js"></script>
+
+<!--load jQuery, required-->
+<script src="/assets/js/vendor/jquery-1.11.2.js"></script>
+
+<script src="/assets/js/vendor/jquery-ui.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+
+<!-- TYPEKIT -->
+<script src="//use.typekit.net/gwl0zuj.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+
+<script src="/assets/js/vendor/store.js"></script>
+
+<!--load jPushMenu, required-->
+<script src="/assets/js/vendor/jPushMenu.js"></script>
+
+<script src="/assets/js/vendor/slabtext.js"></script>
+
+<script src="/assets/js/vendor/scroll-on-page.js"></script>
+
+<!-- <script src="/assets/js/vendor/store.js"></script>
+NOTE: moved to HEAD -->
+<script src="/assets/js/vendor/flipclock.min.js"></script>
+
+<!-- <script src="/assets/js/vendor/expandable-section.js"></script> -->
+
+<!-- velocity.js -->
+<script src="/assets/js/vendor/velocity.min.js"></script>
+
+<!-- masonry.js -->
+<script src="/assets/js/vendor/masonry.pkgd.min.js"></script>
+<script src="/assets/js/vendor/isotope.pkgd.min.js"></script>
+<script src="/assets/js/vendor/packery-mode.pkgd.min.js"></script>
+
+
+<!-- animated progbar -->
+<script>
+  function MoveTo() {
+    var prpos = document.getElementById('prpos');
+    prpos.style.width = document.getElementById('moveTo').value + "%";
+  }
+</script>
+
+<!--call jPushMenu, required-->
+<script>
+  jQuery(document).ready(function($) {
+   $('.toggle-menu').jPushMenu();
+ });
+</script>
+
+<!-- <script src="/assets/js/vendor/rwd.js"></script> -->
+
+<script>
+	$("h1").slabText({});
+</script>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+    var expanderTrigger = document.getElementById("js-expander-trigger");
+    var expanderContent = document.getElementById("js-expander-content");
+
+    $('#js-expander-trigger').click(function(){
+      $(this).toggleClass("expander-hidden");
+    });
+  });
+</script>
+
+<script>
+
+  (function() {
+
+   var co = $('article').find('span.co').each(function() {
+    var $this = $(this);
+
+    $('<blockquote></blockquote>', {
+     class: 'co',
+     text: $this.text()
+   }).prependTo( $this.closest('p') );
+
+  });
+
+ })();
+
+</script>
+
+
+
+
+<script>
+  function regExpand() {
+    console.log("button works!")
+  }
+</script>
+
+
+<script>
+  $(document).ready(function(){
+    $("#register__button").click(function(){
+      $("#panel").slideDown("5000", "easeOutBounce");
+    });
+  });
+</script>
+
+
+<script type='text/javascript'>
+  $(document).ready(function() {
+    $(".time").text(function (index, value) {
+      return Math.round(parseFloat(value));
+    });
+    $(".hour").text(function (index, value) {
+      return Math.floor(parseFloat(value));
+    });
+  });
+</script>
+
+<!-- this is the simple working version to set localStore attributes ... not used in lieu of callback at the end of ajaxMailChimp (below) -->
+<!-- <script>
+
+	$(document).ready(function() {
+
+		init()
+
+		function init() {
+			if (!store.enabled) {
+				alert('Local storage is not supported by your browser. Please disable "Private Mode" to continue, or upgrade your browser.')
+				return
+			}
+			$("#regSubmit").click(function() {
+        store.set('registered', true);
+
+        var email = $("#regEmail").val();
+        store.set('email', email)
+
+      })
+		};
+	})
+
+</script> -->
+
+<!-- CHECK LOCAL STORAGE -->
+<!-- can I name this function/script?? -->
+<script>
+
+	$(document).ready(function() {
+		if ($("#thepost").hasClass("premium_post")) {
+			console.log("Premium Post")
+
+			if (!store.get('registered')) {
+				console.log('UNREGISTERED User');
+				$(".pc-tease").removeClass("hidden");
+				$(".cu-tease").hide();
+				$(".ssactions").hide();
+
+				$(".read-more").removeClass("hidden");
+				$("#thepost").addClass("notreg")
+			}
+			else {
+				console.log('REGISTERED User');
+                // console.log(email)
+            }
+            }
+      else {
+             console.log("Post")
+           }
+         })
+</script>
+
+
+
+
+<!-- MAILCHIMP FORM STUFF -->
+
+<!-- mailchimp-ajax.js -->
+<script>
+ var ajaxMailChimp = (function(){
+ var module = {};
+
+// Turn the given MailChimp form into an ajax version.
+// If resultElement is given, the subscribe result is set as html to
+// that element.
+module.init = function ajaxMailChimpForm($form, $resultElement){
+
+    // Hijack the submission. We'll submit the form manually.
+    $form.submit(function(e) {
+      e.preventDefault();
+
+      if (!isValidEmail($form)) {
+        var error =  "A valid email address must be provided."
+        $resultElement.html(error);
+        $resultElement.css("color", "red");
+      } else {
+        $resultElement.css({
+         "background-color": "#fff",
+         "color": "#8B0000",
+         "margin-top": "1rem",
+         "padding": "0.5rem"
+       });
+        $resultElement.html("Registering your download request &hellip;");
+        $("#progress-bar").css("width", "75%").text("75%");
+        submitSubscribeForm($form, $resultElement);
+      }
+    });
+  };
+
+// Validate the email address in the form
+function isValidEmail($form) {
+    // If email is empty, show error message.
+    // contains just one @
+    var email = $form.find("input[type='email']").val();
+    if (!email || !email.length) {
+      return false;
+    } else if (email.indexOf("@") == -1) {
+      return false;
+    }
+
+    return true;
+  }
+
+// Submit the form with an ajax/jsonp request.
+// Based on http://stackoverflow.com/a/15120409/215821
+function submitSubscribeForm($form, $resultElement) {
+  $.ajax({
+    type: "GET",
+    url: $form.attr("action"),
+    data: $form.serialize(),
+    cache: false,
+    dataType: "jsonp",
+    jsonp: "c", // trigger MailChimp to return a JSONP response
+    contentType: "application/json; charset=utf-8",
+
+    error: function(error){
+    // According to jquery docs, this is never called for cross-domain JSONP requests
+  },
+
+    success: function(data){
+      if (data.result != "success") {
+        var message = data.msg || "Sorry. Unable to subscribe. Please try again later."
+        $resultElement.css("color", "red");
+
+        // This won't happen if using "smart subscribe"
+        if (data.msg && data.msg.indexOf("already subscribed") >= 0) {
+          message = "You're already subscribed. Thank you."
+          $resultElement.css("color", "white");
+        }
+
+        $resultElement.html(message);
+
+        }
+
+      else {
+        if ($("#mc-embedded-subscribe-form").hasClass("form__premium")) {
+          console.log("premium form");
+          var message = "Thank you!! Please continue reading &hellip;";
+          location.reload(); //reloads the premium post page at same location
+        }
+        else if ($("#mc-embedded-subscribe-form").hasClass("form__postdownload")) {
+          console.log("post download form");
+          var message = "Thank you!!<br>You are subscribed &amp; you can download your story next &hellip;";
+          var url = "/downloads/short-stories/index.html"; // needs to be dynamically created for *each* story ... will use localStorage cookie (maybe!)
+
+          $(location).attr('href', url);
+        }
+        else if ($("#mc-embedded-subscribe-form").hasClass("form__wg")) {
+          console.log("wg form");
+
+          var url = "/thanks/theredfile/";
+
+          $(location).attr('href', url);
+        }
+        else {
+          console.log("no class whatsoever!");
+        }
+
+        $resultElement.html(message);
+
+        var email = $("#mce-EMAIL").val();
+        store.set('registered', true);
+        store.set('emailaddress', email);
+
+      } // end of else statement
+    }
+  });
+}
+
+return module;
+
+})();
+</script>
+
+
+<!-- sets story data (title, author, etc.) to localStorage/sessionStorage for use on download page -->
+<script>
+
+$(document).ready(function() {
+
+  $("#button__postdownload").click(function() {
+    // console.log("button__postdownload clicked");
+    var url; // should be available throughout click function
+
+    init()
+    function init() {
+      if (!store.enabled) {
+        var url = "/downloads/short-stories/index-other.html"; //GENERIC DOWNLOAD PAGE
+        alert('Local storage is not supported by your browswer. Please disable "Private Mode", or upgrade your browser.')
+      return
+      } // end of if !store.enabled
+
+      var url = "/downloads/short-stories/index2.html";
+      var metaArray = ["The Handling of the Crime", "Carolyn Wells", "History", "", "Chapter 19 of <i>The Techniques of the Mystery</i>, published 1913.", "", "", ""];
+
+      // ARRAY KEY
+      // [0] = title
+      // [1] = author
+      // [2] = genre
+      // [3] = image
+      // [4] = excerpt
+      // [5] = kindle url
+      // [6] = epub url
+      // [7] = pdf url
+
+      store.set('storyMeta', JSON.stringify(metaArray));
+
+      console.log(metaArray);
+    } // end of function init()
+
+    if (store.get('registered')) {
+      console.log("registered user!");
+      console.log(url);
+
+      var emailaddress = store.get('emailaddress');
+      console.log(emailaddress);
+      $('#mce-EMAIL').val(emailaddress);
+      // $(location).attr('href', url);  sends past modal to download page .. not currently working due to val = url issue!
+    } // end if
+
+  }); // end of click function
+});
+</script>
+
+
+<!-- retrieve localStorage arrage & dump into page elements -->
+<script>
+  var retrievedMetaString = store.get("storyMeta");
+
+  if (retrievedMetaString) {
+    var retrievedMetaArray = JSON.parse(retrievedMetaString);
+    document.getElementById("title").innerHTML = retrievedMetaArray[0];
+    document.getElementById("author").innerHTML = retrievedMetaArray[1];
+    document.getElementById("genre").innerHTML = retrievedMetaArray[2];
+    document.getElementById("image").src = retrievedMetaArray[3];
+    document.getElementById("excerpt").innerHTML = retrievedMetaArray[4];
+    document.getElementById("kindle").href = retrievedMetaArray[5];
+    document.getElementById("epub").href = retrievedMetaArray[6];
+    document.getElementById("pdf").href = retrievedMetaArray[7];
+
+    $(".download-title").html(retrievedMetaArray[0]);
+}
+</script>
+
+
+<!-- WG reveal -->
+<script>
+
+  $(document).ready(function(){
+    $(".reveal__button").click(function(){
+      $("#revealer").hide();
+      $(".reveal__answer p").removeClass("answer__hidden");
+      $("#top-p").css({
+        "font-weight": "bold"
+      });
+      $("#last-p").css({
+        'color' : 'darkred',
+        'fontWeight' : 'bold',
+        'fontSize' : '1rem'
+      });
+      $(".reveal__answer").css({
+        'border-color' : 'darkred',
+        'border-size' : '2px'
+      });
+    })
+  });
+</script>
+
+
+<!-- Packery/Masonry -->
+<script>
+  $(window).on('load', function(){
+    $('ul.cards').isotope({
+      columnWidth: 'li.card',
+      itemSelector: 'li.card',
+      layoutMode: 'masonry',
+      masonry: {
+        gutter: 20
+      }
+    });
+  });
+</script>
+
+<!-- Isotope Filter -->
+<script>
+
+  $(window).load(function(){
+
+    var $container = $('.cards');
+    $container.isotope({
+      filter: '*',
+      animationOptions: {
+        duration: 750,
+        easing: 'linear',
+        queue: false
+      }
+    });
+
+    $('nav.iso-filter ul a').click(function(){
+
+      var selector = $(this).attr('data-filter');
+      $container.isotope({
+        filter: selector,
+        animationOptions: {
+          duration: 750,
+          easing: 'linear',
+          queue: false,
+        }
+      });
+      return false;
+    });
+
+  });
+
+</script>
+
+
+<!-- Font Resizer -->
+<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>   -->
+<script type="text/javascript">
+  $(document).ready(function () {
+    $('#linkIncrease').click(function () {
+      modifyFontSize('increase');
+    });
+
+    $('#linkDecrease').click(function () {
+      modifyFontSize('decrease');
+    });
+
+    $('#linkReset').click(function () {
+      modifyFontSize('reset');
+    })
+
+    function modifyFontSize(flag) {
+      var divElement = $('#story-main');
+      var currentFontSize = parseInt(divElement.css('font-size'));
+
+      if (flag == 'increase')
+        currentFontSize += 2;
+      else if (flag == 'decrease')
+        currentFontSize -= 2;
+      else
+        currentFontSize = 16;
+
+      divElement.css('font-size', currentFontSize);
+    }
+  });
+</script>
+
+
+<!-- bourbon.refills.fadin -->
+<script>
+  $(document).ready(function() {
+  var element = document.getElementById("js-fadeInElement");
+  $(element).addClass('js-fade-element-hide');
+
+  $(window).scroll(function() {
+    if( $("#js-fadeInElement").length > 0 ) {
+      var elementTopToPageTop = $(element).offset().top;
+      var windowTopToPageTop = $(window).scrollTop();
+      var windowInnerHeight = window.innerHeight;
+      var elementTopToWindowTop = elementTopToPageTop - windowTopToPageTop;
+      var elementTopToWindowBottom = windowInnerHeight - elementTopToWindowTop;
+      var distanceFromBottomToAppear = 300;
+
+      if(elementTopToWindowBottom > distanceFromBottomToAppear) {
+        $(element).addClass('js-fade-element-show');
+      }
+      else if(elementTopToWindowBottom < 0) {
+        $(element).removeClass('js-fade-element-show');
+        $(element).addClass('js-fade-element-hide');
+      }
+    }
+  });
+});
+</script>
+
+<!-- bourbon.refills.fadin -->
+<script>
+  $("#deblur-button").click(function() {
+  $('.transform').toggleClass('deblur');
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
