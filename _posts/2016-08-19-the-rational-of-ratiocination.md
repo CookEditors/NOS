@@ -2,12 +2,16 @@
 layout: post_mw
 layoutTag: post
 title: "The Rational of Ratiocination"
+subtitle: "Detectives & Their Methods For Solving Crime"
+chapter: "Chapter 10"
+book: The Techniques of the Mystery
 author: Carolyn Wells
+pubdate: 1913
 date: 2016-08-19
 category: murderwiki
-excerpt: Chapter 10 of <i>The Techniques of the Mystery</i>, published 1913.
+excerpt:
 image: /assets/img/Sherlock6.jpg
-genre: History
+genre: The Techniques of the Mystery
 wordcount: 4417
 ---
 

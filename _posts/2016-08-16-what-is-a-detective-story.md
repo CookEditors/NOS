@@ -7,7 +7,7 @@ date: 2016-08-16-16
 category: murderwiki
 excerpt: Chapter 6 of <i>The Techniques of the Mystery</i>, published 1913.
 image: /assets/img/true-stories-of-celebrated-crimes.jpg
-genre: History
+genre: The Techniques of the Mystery
 wordcount: 5924
 ---
 

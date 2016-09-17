@@ -7,7 +7,7 @@ date: 2016-08-29-16
 category: murderwiki
 excerpt: Chapter 23 of <i>The Techniques of the Mystery</i>, published 1913.
 image:
-genre: History
+genre: The Techniques of the Mystery
 wordcount: 3421
 ---
 
@@ -147,4 +147,5 @@ It goes without saying that the locality and social customs of the story must be
 
 Let us see to it, then, that our setting and our atmosphere are free from mistake or anachronism. Economy of attention demands that we keep the reader&#39;s mind wholly intent on the solution of the problem; and this may not be done if we allow questionable or contradictory work on the minor interests.
 
+<p id="theend">~ The End ~
 <h6 class="btt"><a href="#top">Back to Top</a></h6>

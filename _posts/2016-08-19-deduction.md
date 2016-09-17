@@ -7,7 +7,7 @@ date: 2016-08-19
 category: murderwiki
 excerpt: Chapter 8 of <i>The Techniques of the Mystery</i>, published 1913.
 image: /assets/img/Painting_depicts_Bahram_Gur.jpg
-genre: History
+genre: The Techniques of the Mystery
 wordcount: 4417
 ---
 

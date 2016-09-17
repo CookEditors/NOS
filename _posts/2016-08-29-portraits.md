@@ -7,7 +7,7 @@ date: 2016-08-29-16
 category: murderwiki
 excerpt: Chapter 13 of <i>The Techniques of the Mystery</i>, published 1913.
 image:
-genre: History
+genre: The Techniques of the Mystery
 wordcount: 5882
 ---
 

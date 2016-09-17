@@ -15,15 +15,21 @@ layout: default
 
 		<div class="clearfix titlebox">
 	  	<div class="storytitles" id="top">
-				<h1 class="post__title" style="margin-bottom:2rem;font-size:3rem;">{{ page.title }}</h1>
-				<h2 class="post__title" style="margin-bottom:2rem;font-size:2rem;">{{ page.subtitle }}</h2>
-				<h3 class="post__author">By <strong>{{ page.author }}</strong></h3>
+        <figure class="post__img">
+            <img src="{{ page.image }}" alt="{{ post.title }}">
+            <figcaption class="caption">{{ page.caption }}</figcaption>
+        </figure> <!-- end div post__image -->
+        <h1 class="post__title">{{ page.title }}</h1>
+        <h2 class="post__subtitle">{{ page.subtitle }}</h2>
+        {% if page.chapter %}
+          <h3 class="post__chapter">From {{ page.chapter }} of <i>{{ page.book }}</i> by {{ page.author }}, first published in {{ page.pubdate }}.</h3>
+        {% endif %}
+        <h3 class="post__author">By <strong>{{ page.author }}</strong></h3>
 
-				<figure class="post__img"> <!-- add class grit to dirty up pic -->
-						<img src="{{ page.image }}" alt="{{ post.title }}">
-						<figcaption class="post__excerpt">{{ page.excerpt }}</figcaption>
-				</figure> <!-- end div post__image
-				<!-- <h2 class="post__excerpt">{{ page.excerpt }}</h4> -->
+        <p class="post__excerpt">{{ page.excerpt }}</p>
+
+
+
 			</div> <!-- end div titles -->
 		</div> <!-- end div clearfix -->
 
@@ -44,22 +50,6 @@ layout: default
 		</div> <!-- end div post__meta -->
 
   </header>
-
-	<!-- show either div.pc-tease OR div.cu-tease:
-	(1) if normal post, then show div.cu-tease,
-	(2) if premium post && localStorage[registered=true], then show div.cu-tease,
-	(3) if premium post && !localStorage[registered=true], then show div.pc-tease && include/show readmore.html
-	-->
-
-	<!-- <div class="pc-tease grit hidden">
-		<h4><i class="fa fa-sign-in"></i>&nbsp;PREMIUM CONTENT</h4>
-		<h5>REGISTERED USERS ONLY</h5>
-		<p>Enjoy an online sample of <span>{{ page.title }}</span>. To read the full story, just register with a valid email address. You'll also be able to download either a PDF, Kindle or ePub version. Full details below the sample.</p>
-	</div> end div pc-tease -->
-
-	  <!-- <div class="cu-tease grit">
-		<p><strong>PSST! Hey, buddy &hellip;</strong> did'ya know you can download <a href="#"><strong>{{ page.title }}</strong></a> for any ereader device (<em>Kindle, iBooks, etc.</em>) or as PDF &hellip; perfect for reading when you're not online but have time to kill! <strong>Look for the <a href="#ssactions_ID"><span>Download</span></a> buttons at the end of this story.</strong></p>
-	</div> end div cu-tease --> <!-- NOTE: DISABLED TEMPORARILY UNTIL PROPER DOWNLOAD CAN BE SET UP ... DAY OR TWO AT MOST!! -->
 
 		{% include fontresizer.html %}
 

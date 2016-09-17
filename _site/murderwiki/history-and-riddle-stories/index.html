@@ -65,7 +65,7 @@
 
 			<div class="branding">
 				<a href="http://www.talesofmurder.com/">
-					<img class="" src="/assets/img/site_logo4a_f.png" alt="site logo for TalesofMurder.com" width="600">
+					<img class="" src="/assets/img/site_logo4a_f2.png" alt="site logo for TalesofMurder.com" width="600">
 				</a> <!-- link (ahref) makes header image a link back to HOME -->
 				<!-- <h2 class="masthead__title grit"><span class="title__sub">Tales of </span><span class="title__main"><span class="m">m</span><span class="urde">urde</span><span class="r">r</span></span></h2>
 
@@ -117,15 +117,19 @@
 
 		<div class="clearfix titlebox">
 	  	<div class="storytitles" id="top">
-				<h1 class="post__title" style="margin-bottom:2rem;font-size:3rem;">History of the Mystery & Riddle Stories</h1>
-				<h2 class="post__title" style="margin-bottom:2rem;font-size:2rem;"></h2>
-				<h3 class="post__author">By <strong>Carolyn Wells</strong></h3>
+        <figure class="post__img">
+            <img src="/assets/img/In_Black_and_White_cover_by_Rudyard_Kipling_1888.jpg" alt="">
+            <figcaption class="caption"></figcaption>
+        </figure> <!-- end div post__image -->
+        <h1 class="post__title">History of the Mystery & Riddle Stories</h1>
+        <h2 class="post__subtitle"></h2>
+        
+        <h3 class="post__author">By <strong>Carolyn Wells</strong></h3>
 
-				<figure class="post__img"> <!-- add class grit to dirty up pic -->
-						<img src="/assets/img/In_Black_and_White_cover_by_Rudyard_Kipling_1888.jpg" alt="">
-						<figcaption class="post__excerpt">Chapters 3 & 5 of <i>The Techniques of the Mystery</i>, published 1913.</figcaption>
-				</figure> <!-- end div post__image
-				<!-- <h2 class="post__excerpt">Chapters 3 & 5 of <i>The Techniques of the Mystery</i>, published 1913.</h4> -->
+        <p class="post__excerpt">Chapters 3 & 5 of <i>The Techniques of the Mystery</i>, published 1913.</p>
+
+
+
 			</div> <!-- end div titles -->
 		</div> <!-- end div clearfix -->
 
@@ -140,22 +144,6 @@
 		</div> <!-- end div post__meta -->
 
   </header>
-
-	<!-- show either div.pc-tease OR div.cu-tease:
-	(1) if normal post, then show div.cu-tease,
-	(2) if premium post && localStorage[registered=true], then show div.cu-tease,
-	(3) if premium post && !localStorage[registered=true], then show div.pc-tease && include/show readmore.html
-	-->
-
-	<!-- <div class="pc-tease grit hidden">
-		<h4><i class="fa fa-sign-in"></i>&nbsp;PREMIUM CONTENT</h4>
-		<h5>REGISTERED USERS ONLY</h5>
-		<p>Enjoy an online sample of <span>History of the Mystery & Riddle Stories</span>. To read the full story, just register with a valid email address. You'll also be able to download either a PDF, Kindle or ePub version. Full details below the sample.</p>
-	</div> end div pc-tease -->
-
-	  <!-- <div class="cu-tease grit">
-		<p><strong>PSST! Hey, buddy &hellip;</strong> did'ya know you can download <a href="#"><strong>History of the Mystery & Riddle Stories</strong></a> for any ereader device (<em>Kindle, iBooks, etc.</em>) or as PDF &hellip; perfect for reading when you're not online but have time to kill! <strong>Look for the <a href="#ssactions_ID"><span>Download</span></a> buttons at the end of this story.</strong></p>
-	</div> end div cu-tease --> <!-- NOTE: DISABLED TEMPORARILY UNTIL PROPER DOWNLOAD CAN BE SET UP ... DAY OR TWO AT MOST!! -->
 
 		<div class="fontresizer">
 	<h6 class="hidden">Adjust Font Size</h6>
@@ -337,8 +325,8 @@
 
 <!--load jPushMenu, required-->
 <script src="/assets/js/vendor/jPushMenu.js"></script>
-
-<script src="/assets/js/vendor/slabtext.js"></script>
+<!--
+<script src="/assets/js/vendor/slabtext.js"></script> -->
 
 <script src="/assets/js/vendor/scroll-on-page.js"></script>
 
@@ -630,7 +618,7 @@ $(document).ready(function() {
       } // end of if !store.enabled
 
       var url = "/downloads/short-stories/index2.html";
-      var metaArray = ["History of the Mystery & Riddle Stories", "Carolyn Wells", "History", "/assets/img/In_Black_and_White_cover_by_Rudyard_Kipling_1888.jpg", "Chapters 3 & 5 of <i>The Techniques of the Mystery</i>, published 1913.", "", "", ""];
+      var metaArray = ["History of the Mystery & Riddle Stories", "Carolyn Wells", "The Techniques of the Mystery", "/assets/img/In_Black_and_White_cover_by_Rudyard_Kipling_1888.jpg", "Chapters 3 & 5 of <i>The Techniques of the Mystery</i>, published 1913.", "", "", ""];
 
       // ARRAY KEY
       // [0] = title

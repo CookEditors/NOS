@@ -7,7 +7,7 @@ date: 2016-08-19
 category: murderwiki
 excerpt: Chapter 9 of <i>The Techniques of the Mystery</i>, published 1913.
 image: /assets/img/Joseph_Bell.jpg
-genre: History
+genre: The Techniques of the Mystery
 wordcount: 4417
 ---
 

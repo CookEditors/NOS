@@ -7,7 +7,7 @@ date: 2016-08-16-16
 category: murderwiki
 excerpt: Chapter 7 of <i>The Techniques of the Mystery</i>, published 1913.
 image: /assets/img/Friston-holmes.png
-genre: History
+genre: The Techniques of the Mystery
 wordcount: 6699
 ---
 

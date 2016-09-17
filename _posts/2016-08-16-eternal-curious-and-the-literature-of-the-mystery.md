@@ -7,7 +7,7 @@ date: 2016-08-16-16
 category: murderwiki
 excerpt: Chapters 1 & 2 of <i>The Techniques of the Mystery</i>, published 1913.
 image: /assets/img/Dore-SamsonSlayingTheLion.jpg
-genre: History
+genre: The Techniques of the Mystery
 wordcount: 5135
 ---
 

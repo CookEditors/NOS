@@ -7,7 +7,7 @@ date: 2016-08-16-16
 category: murderwiki
 excerpt: Chapters 3 & 5 of <i>The Techniques of the Mystery</i>, published 1913.
 image: /assets/img/In_Black_and_White_cover_by_Rudyard_Kipling_1888.jpg
-genre: History
+genre: The Techniques of the Mystery
 wordcount: 3118
 ---
 
