@@ -5,9 +5,415 @@
     <description>A murder mystery short story &amp;amp; novel site.</description>
     <link>https://www.talesofmurder.comlocalhost:3000/</link>
     <atom:link href="https://www.talesofmurder.comlocalhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Sep 2016 14:05:14 -0500</pubDate>
-    <lastBuildDate>Sat, 17 Sep 2016 14:05:14 -0500</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2016 16:09:11 -0500</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2016 16:09:11 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;section id=&quot;toc&quot; class=&quot;toc&quot;&gt;
+  &lt;header&gt;
+    &lt;h6&gt;Table of Contents&lt;/h6&gt;
+  &lt;/header&gt;
+&lt;div id=&quot;drawer&quot;&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#length&quot; id=&quot;markdown-toc-length&quot;&gt;Length&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-short-story-and-the-novel&quot; id=&quot;markdown-toc-the-short-story-and-the-novel&quot;&gt;The Short-Story and the Novel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#singleness-of-plot-in-the-detective-story&quot; id=&quot;markdown-toc-singleness-of-plot-in-the-detective-story&quot;&gt;Singleness of Plot in the Detective Story&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-question-of-length-of-the-detective-story&quot; id=&quot;markdown-toc-the-question-of-length-of-the-detective-story&quot;&gt;The Question of Length of the Detective Story&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-narrator-in-the-detective-story&quot; id=&quot;markdown-toc-the-narrator-in-the-detective-story&quot;&gt;The Narrator in the Detective Story&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-setting&quot; id=&quot;markdown-toc-the-setting&quot;&gt;The Setting&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;p&gt;&lt;!-- table-of-contents --&gt;&lt;/p&gt;
+
+&lt;p&gt;In the construction of our story we must consider the question of length.&lt;/p&gt;
+
+&lt;h2 id=&quot;length&quot;&gt;Length&lt;/h2&gt;
+
+&lt;p&gt;First, and in the opinion of many authorities best, there is the short-story. With exceptions, the best mystery stories are short-stories. A short-story lends itself peculiarly to a mystery plot, principally because it is not easy to keep wonder and curiosity alive through a long story.&lt;/p&gt;
+
+&lt;p&gt;Again, many detective stories fall naturally into the length of a novelette—say 30,000 words.&lt;/p&gt;
+
+&lt;p&gt;Then there is a two-or three-part story, which differs from the novelette in construction, even when of the same length.&lt;/p&gt;
+
+&lt;p&gt;Another form is the serial, in which each installment must have its own climax, all leading to the final surprise.&lt;/p&gt;
+
+&lt;p&gt;And last of all, there is the full-sized book, where the interest may or may not be broken before the denouement and solution.&lt;/p&gt;
+
+&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+
+&lt;h2 id=&quot;the-short-story-and-the-novel&quot;&gt;The Short-Story and the Novel&lt;/h2&gt;
+
+&lt;p&gt;Of making many books concerning and dissecting the short-story there is no end. As many probably there are regarding the construction of the novel; and between these two forms they tell us there is a great gulf fixed. But the fixing of this gulf is largely a matter of opinion, and the opinions are somewhat diversified.&lt;/p&gt;
+
+&lt;p&gt;One writer explains the intrinsic difference between a short-story and a story that is merely short. He holds that a short-story is by no means a condensed novel, but is different in kind from a novel. The novelette, however, he contends is a brief novel.&lt;/p&gt;
+
+&lt;p&gt;Another writer, following this distinction, goes so far as to say that were the novelette condensed to one half or less of its usually accepted length it would still be a novel and not a short-story.&lt;/p&gt;
+
+&lt;p&gt;Conversely, were a short-story expanded indefinitely it could never become a novel.&lt;/p&gt;
+
+&lt;p&gt;The foundation of this distinction lies in the principle that a short-story is founded on a unity of impression. It relates, more or less definitely, a single episode; while a novel is a series of correlated episodes, bearing on a single motive. The number of words in a piece of fiction has absolutely no part in determining its nomenclature.&lt;/p&gt;
+
+&lt;p&gt;Poe's distinction that a novel cannot be read at a sitting and a short-story can, is not entirely valid. For &quot;a sitting&quot; is surely a most uncertain division of time. To the busy man a sitting may be a half an hour; to the idle woman it may be half a day; while to the &quot;shut-in&quot; it is continuous and interminable. Moreover, in the case of a thrilling Mystery Story, a reader's sitting would be prolonged, even in spite of imperative duty calls, because of the desire to reach the solution of the mystery.&lt;/p&gt;
+
+&lt;p&gt;Again, as a distinction, we are told that the novel is expansive and the short-story intensive. Perhaps an illustration might be made by likening the novel to a map of the United States, and the short-story to a single state on the map viewed under a magnifying glass.&lt;/p&gt;
+
+&lt;p&gt;But these differentiations regarding short-stories and novels are fully explained and discussed in books exclusively devoted to such technique. And though the fine distinctions therein drawn are of highest importance to other branches of fiction, they are almost, if not entirely, negligible in the case of Detective Stories.&lt;/p&gt;
+
+&lt;p&gt;For the inherent difference between a novel and a short-story is one of plot. Whereas, since Detective Stories have but one solitary plot,—&quot;the problem and its solution,&quot;—the difference in the detective short-story or the detective novel is merely that of length.&lt;/p&gt;
+
+&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+
+&lt;h2 id=&quot;singleness-of-plot-in-the-detective-story&quot;&gt;Singleness of Plot in the Detective Story&lt;/h2&gt;
+
+&lt;p&gt;The single plot that makes a Detective Story may be likened to an accordion; it may be pulled out to an extraordinary length, or compressed to a minimum. A detective novel may have minor complications, more characterization and more elaborate setting; but the plot must not vary from the plot of a detective short-story, being only the propounding of the riddle and the revealing of its answer.&lt;/p&gt;
+
+&lt;p&gt;The longer the story the more numerous and bewildering the conditions of the riddle and the windings of the maze, but all tend definitely to the one end — the answer.&lt;/p&gt;
+
+&lt;p&gt;In a short-story the plot rushes on breathlessly, bare and straight to its end. In a novelette, there is more room for side-lights, more time for slower development, and more scope for minor issues; while a full-sized book still further amplifies these possibilities. But in these three forms the main thread must go on, without halt, in an ever rising crescendo of interest to the climax.&lt;/p&gt;
+
+&lt;p&gt;If the work is to be published in two or three parts, or if it is a longer serial, then the plan is so far changed as to present a definite climax at the end of each installment. But these must be all minor climaxes and all bearing successively and cumulatively on the final revelation.&lt;/p&gt;
+
+&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+
+&lt;h2 id=&quot;the-question-of-length-of-the-detective-story&quot;&gt;The Question of Length of the Detective Story&lt;/h2&gt;
+
+&lt;p&gt;Now, in writing detective fiction, unlike other kinds, the length of his story is entirely at the option of the author. For the detective plot possesses the characteristics of a piece of string; it differs from its fellows only in length.&lt;/p&gt;
+
+&lt;p&gt;The story of &quot;The Moonstone&quot; could have been told in a hundred pages, but Wilkie Collins gives it five hundred.&lt;/p&gt;
+
+&lt;p&gt;&quot;The Murders in the Rue Morgue&quot; could have been a full-sized book as well as &quot;The Leavenworth Case.&quot; The inquest scene in the latter fills seventy pages, while Poe's story details the inquest in six pages.&lt;/p&gt;
+
+&lt;p&gt;Conan Doyle's stories are short because he uses the single incident of the crime and the single impression of its solution, with an absence of any detail not absolutely necessary. Sherlock Holmes himself, who is often a medium for his author's views, says that he could do in twenty-four hours detective work on which Lecoq occupied six months. This is true enough, but the reason is that, as we have previously pointed out, Lecoq figured in a novel while Sherlock had to do his work expeditiously in the confines of a short-story.&lt;/p&gt;
+
+&lt;p&gt;Gaboriau chose to write novels, and so in connection with the problem and its solution he makes use of side issues of all sorts; even including the past history of his characters, subordinate plots, and various byways of conjecture or misleadings.&lt;/p&gt;
+
+&lt;p&gt;So we see the length of a Mystery Story is entirely at the pleasure of the performer, without the hampering rules laid down for the writers of ether types of fiction. Say the plot depends upon a cypher interest. Conan Doyle did the story of the &quot;Dancing Men&quot; in a short-story; Poe's &quot;Gold Bug&quot; is a novelette; while James DeMille's &quot;The Cryptogram&quot; is a very long book.&lt;/p&gt;
+
+&lt;p&gt;It may be because Detective Stories are the work of artisans rather than artists that they can be fitted to such a Procrustean bed of literature. But though a sponge may be the size of your head or compressed to the size of your fist, it is the same sponge and comprises and includes the same material and value.&lt;/p&gt;
+
+&lt;p&gt;Of course this general principle must be taken with limitations. Some of Conan Doyle's short-stories could not be made into satisfactory books, while others could easily be. As in other fiction, a slight incident is not enough for a novel, but a great incident is. A missing Christmas goose might not be of sufficient interest to fill a book, when a murder mystery is.&lt;/p&gt;
+
+&lt;p&gt;Perhaps we may say a simple mystery indicates a short-story length, while a complex riddle, or one made complex by side issues means a novel.&lt;/p&gt;
+
+&lt;p&gt;And yet it is here that art steps in. A master hand can make a great interest out of a simple mystery, where a tyro could not succeed. Generally speaking, the short-story must differ from the novel in scope and structure. In detective fiction it differs in scope only; for the main structure is always the same.&lt;/p&gt;
+
+&lt;p&gt;Writers of the technique of fiction tell us that another difference between the short-story and the novel lies in the fact that the novel must be a love story, while the short-story need not deal with romance at all. Applied to detective fiction, this may be adapted to mean that a love interest is possible, though not imperative in a novel or a novelette; but a short-story has no reason for romance and no room for it, unless it is a necessary premise to the conditions of the story.&lt;/p&gt;
+
+&lt;p&gt;As a matter of absolute measurement, perhaps we may call four thousand words an ideal length for a short-story. A novelette should be thirty or thirty-five thousand words long; while a book may run as near as you wish to one hundred thousand words.&lt;/p&gt;
+
+&lt;p&gt;The length of Poe's &quot;Gold Bug,&quot; nearly fifteen thousand words, would not be an acceptable size to editors of the present day. And though great writers may be a law unto themselves in this matter, it is wise to arrange a story in accordance with the editors' preferences.&lt;/p&gt;
+
+&lt;p&gt;Houdini, the magician, in speaking of his own principles of legerdemain, said: &quot;It is more difficult to support admiration than to excite it,&quot; and so it is more difficult to hold an intellectual curiosity than to arouse it.&lt;/p&gt;
+
+&lt;p&gt;In his introduction to an excellent collection of mystery stories, Mr. Julian Hawthorne has written so discerningly on this subject that we quote from his article:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&quot;I need hardly point out that there is a distinction and a difference between short riddle stories and long ones—novels. The former require far more technical art for their proper development; the enigma cannot be posed in so many ways, but must be stated once for all; there cannot be false scents, or but a few of them; there can be small opportunity for character drawing, and all kinds of ornament and comment must be reduced to their very lowest terms.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Here, indeed, as everywhere, genius will have its way; and while a merely talented writer would deem it impossible to tell the story of ‘The Gold Bug’ in less than a volume, Poe could do it in a few thousand words, and yet appear to have said everything worth saying. In the case of the Sherlock Holmes tales, they form a series, and our previous knowledge of the hero enables the writer to dispense with much description and accompaniment that would be necessary had that eminent personage been presented in only a single complication of events. Each special episode of the great analyst's career can therefore be handled with the utmost economy, and yet fill all the requirements of intelligent interest and comprehension.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;But, as a rule, the riddle novel approaches its theme in a spirit essentially other than that which inspires the short tale. We are given, as it were, a wide landscape instead of a detailed genre picture. The number of the dramatis personae is much larger, and the parts given to many of them may be very small, though each should have his or her necessary function in the general plan.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is much easier to create perplexity on these terms; but on the other hand, the riddle novel demands a power of vivid character portrayal and of telling description which are not indispensable in the briefer narrative.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&quot;The fault of all riddle novels is that they inevitably involve two kinds of interest, and can seldom balance these so perfectly that one or the other of them shall not suffer. The mind of the reader becomes weary in its frequent journeys between human characters on one side and the mysterious events on the other, and would prefer the more single-eyed treatment of the short tale.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Wonder too is a very tender and short-lived emotion, and sometimes perishes after a few pages. Curiosity is tougher; but that, too, may be baffled too long, and end by tiring of the pursuit while it is yet in its early stages.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Many excellent plots, admirable from the constructive point of view, have been wasted by stringing them out too far; the reader recognizes their merit, but loses his enthusiasm on account of a sort of monotony of strain; he wickedly turns to the concluding chapter, and the game is up.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&quot;'The Woman in White,' by Wilkie Collins, was published about 1860, I think, in weekly installments, and certainly they were devoured with insatiable appetite by many thousands of readers. But I doubt whether a book of similar merit could command such a following today; and I will even confess that I have myself never read the concluding parts, and do not know to this day who the woman was or what were the wrongs from which she so poignantly suffered.&quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Stories which ought to be shorter are sometimes made into novels by long and often tedious interpolations.&lt;/p&gt;
+
+&lt;p&gt;&quot;A Study in Scarlet,&quot; one of Conan Doyle's best stories, is unduly spun out by an interpolation which lasts from page 110 to 184. Likewise Gaboriau's &quot;The Mystery of Orcival&quot; has an interpolation from page 104 to 188. These extraneous narratives usually go back and tell of an episode that happened years before the scene of the story, and they are both uninteresting and inartistic.&lt;/p&gt;
+
+&lt;p&gt;As a rule, an author of detective fiction writes either short- stories or novels, but rarely both. Conan Doyle's only mystery novel is &quot;The Hound of the Baskervilles;&quot; while Gaboriau and Anna Katharine Green invariably write novels.&lt;/p&gt;
+
+&lt;p&gt;So we conclude that length is a matter of taste, and the detective fiction writer may use his own judgment as to the length of his works.&lt;/p&gt;
+
+&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+
+&lt;h2 id=&quot;the-narrator-in-the-detective-story&quot;&gt;The Narrator in the Detective Story&lt;/h2&gt;
+
+&lt;p&gt;The Teller of the Detective Story is an important factor in its technique. Many a good plot is spoiled because it is narrated by the wrong person.&lt;/p&gt;
+
+&lt;p&gt;Poe, with his quick sense of fitness, chose the narrator best calculated for the exploitation of his clever Dupin. This was a stroke of real genius, for the reader becomes acquainted with the principal through the subordinate. He is taught to look upon the work of a detective intelligently; taught to appreciate and understand it. He knows when it is time to applaud, because the narrator tells him.&lt;/p&gt;
+
+&lt;p&gt;It is a pity that this narrator is nameless, for as Mrs. Harris, with even less personality, is a household word, so his name would have been. It is this narrator who rouses our interest, tantalizes our impatience, and piques our curiosity, in harmony with his own halting almost unbelieving observance of the marvels revealed to him. He teaches us to be amazed at the proper time and then at the proper time he explains what so amazed us.&lt;/p&gt;
+
+&lt;p&gt;Dr. Watson, narrator of the Sherlock Holmes stories, is a parallel character, though in no sense an imitation or plagiarism. The conditions of the revelations to be made require just such a person to make them; and without a doubt, Sherlock Holmes would have had his Dr. Watson even if Dupin had never had his.&lt;/p&gt;
+
+&lt;p&gt;Aside from the glory and honor cast upon the hero by this humble but adoring satellite, this means of narration has another decided advantage. Since the detective confides in his friend or not, as he chooses, the author can reveal or conceal facts as he chooses, and so mislead the reader at will.&lt;/p&gt;
+
+&lt;p&gt;What the subordinate does not know he can not tell, and thus is the secret preserved. Again, the subordinate being but fallible, may surmise mistakenly. So then does the reader, and again the author's ends are served.&lt;/p&gt;
+
+&lt;p&gt;Sometimes the author prefers that the tale be told in the third person, but even so, the character of &quot;Harris&quot; is still usually in evidence. Often he is a reporter, for this gives him opportunity to go uninvited, yet free from the stigma of idle curiosity into the scenes of interest. A reporter eager for a &quot;scoop&quot; for his paper, sets a fine example of alert interest and close scrutiny for the reader to profit by.&lt;/p&gt;
+
+&lt;p&gt;In the foreword to &quot;The Silent Bullet&quot; the hero detective picks out his reporter and tells him how useful he will be to him in his work. &quot;The Thinking Machine&quot; has the reporter &quot;Hutchinson Hatch,&quot; while &quot;Rouletabille&quot; has a clever reporter named &quot;Sainclair.&quot;&lt;/p&gt;
+
+&lt;p&gt;Of course the story may be told directly from the mouth of the author. But the proportion of this manner of telling is not so large in Detective Story work as in other fiction; because there are secrets to be preserved. Not only the main secret of the mystery, but also the secrets of what the strange proceedings of the detective may mean.&lt;/p&gt;
+
+&lt;p&gt;And if the author is telling the tale, it is manifestly difficult for him to preserve an ingenuous and veracious manner, though this may be done if the author maintains a certain aloofness and an arbitrary standard of what to tell and what not.&lt;/p&gt;
+
+&lt;p&gt;Gaboriau's stories are all told in the third person; so are DuBoisgobey's and many of Anna Katharine Green's. Gaston Leroux uses this form and so does Mr. Webster in &quot;The Whispering Man.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;The Moonstone&quot; is a conglomeration of forms. The narrator is changed to suit the needs of the author, and the book is made up of the stories of the diaries of several people interested; &quot;The Woman in White&quot; follows the same narrative method. &quot;The Leavenworth Case&quot; is also told by various people, and sometimes in diary form.&lt;/p&gt;
+
+&lt;p&gt;While not always effective in other fiction, the diary is a most useful form for Detective Stories. For secrets can be confided to a diary, and though thus revealed to the reader, they are not disclosed to the other characters in the book; which is frequently a necessary condition. While never used for the whole book, the diary form often appears on certain pages of the story. &quot;The Mystery of the Yellow Room,&quot; &quot;The Hound of the Baskervilles,&quot; and many of our best authors' works show more or less of the useful and often necessary diary form.&lt;/p&gt;
+
+&lt;p&gt;But whatever narrator is chosen, let the choice be made after careful consideration of the conditions of the story. If there is a great surprise which must be concealed until the end, the narrator must be kept in ignorance of it until the end.&lt;/p&gt;
+
+&lt;p&gt;If the story hinges on the marvelous brain work of a transcendent detective, give him a Dr. Watson to expatiate on it and to be awed by it.&lt;/p&gt;
+
+&lt;p&gt;If a scientific or other straightforward recital of procedure, it may be told by the author. These points can best be learned and understood by reading the works of the best authors and noting what kind of narrator they choose and why.&lt;/p&gt;
+
+&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+
+&lt;h2 id=&quot;the-setting&quot;&gt;The Setting&lt;/h2&gt;
+
+&lt;p&gt;The setting of the story will of course depend on the plot; but, other things being equal, do not choose too low life for your scenes. The facts of a murder are in themselves sufficiently unattractive to make it unnecessary to add to the distastefulness of the story by unpleasant surroundings.&lt;/p&gt;
+
+&lt;p&gt;Let the people in your story be at least fairly well to do, of at least moderately good position and of a decent education. Unless absolutely necessary to have it otherwise, let the house or the scene of the crime be attractive or interesting, and let even the subordinate characters be of refined and intelligent type. For one reader who enjoys tales of slum life there are a dozen who prefer ladies and gentlemen, if not lords and ladies.&lt;/p&gt;
+
+&lt;p&gt;It may be argued that murders or other crimes do not occur in high life as frequently as among the lower classes. This point may be open to discussion; but it would make no difference what the decision might be. Detective Stories are not realistic, and if the author choose to have his murder committed in a community of gentle-folk, he is entirely at liberty to do so.&lt;/p&gt;
+
+&lt;p&gt;It goes without saying that the locality and social customs of the story must be those with which the author is familiar. A Detective Story depends so much on the logic and plausibility of its conditions, that a vague or uncertain touch on the practical or material details greatly mars the effect.&lt;/p&gt;
+
+&lt;p&gt;Let us see to it, then, that our setting and our atmosphere are free from mistake or anachronism. Economy of attention demands that we keep the reader's mind wholly intent on the solution of the problem; and this may not be done if we allow questionable or contradictory work on the minor interests.&lt;/p&gt;
+
+&lt;p id=&quot;theend&quot;&gt;~ The End ~
+&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Sep 2016 16:09:11 -0500</pubDate>
+        <link>https://www.talesofmurder.comlocalhost:3000/2016-09-19-structure/</link>
+        <guid isPermaLink="true">https://www.talesofmurder.comlocalhost:3000/2016-09-19-structure/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;section id=&quot;toc&quot; class=&quot;toc&quot;&gt;
+  &lt;header&gt;
+    &lt;h6&gt;Table of Contents&lt;/h6&gt;
+  &lt;/header&gt;
+&lt;div id=&quot;drawer&quot;&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#length&quot; id=&quot;markdown-toc-length&quot;&gt;Length&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-short-story-and-the-novel&quot; id=&quot;markdown-toc-the-short-story-and-the-novel&quot;&gt;The Short-Story and the Novel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#singleness-of-plot-in-the-detective-story&quot; id=&quot;markdown-toc-singleness-of-plot-in-the-detective-story&quot;&gt;Singleness of Plot in the Detective Story&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-question-of-length-of-the-detective-story&quot; id=&quot;markdown-toc-the-question-of-length-of-the-detective-story&quot;&gt;The Question of Length of the Detective Story&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-narrator-in-the-detective-story&quot; id=&quot;markdown-toc-the-narrator-in-the-detective-story&quot;&gt;The Narrator in the Detective Story&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-setting&quot; id=&quot;markdown-toc-the-setting&quot;&gt;The Setting&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;p&gt;&lt;!-- table-of-contents --&gt;&lt;/p&gt;
+
+&lt;p&gt;In the construction of our story we must consider the question of length.&lt;/p&gt;
+
+&lt;h2 id=&quot;length&quot;&gt;Length&lt;/h2&gt;
+
+&lt;p&gt;First, and in the opinion of many authorities best, there is the short-story. With exceptions, the best mystery stories are short-stories. A short-story lends itself peculiarly to a mystery plot, principally because it is not easy to keep wonder and curiosity alive through a long story.&lt;/p&gt;
+
+&lt;p&gt;Again, many detective stories fall naturally into the length of a novelette—say 30,000 words.&lt;/p&gt;
+
+&lt;p&gt;Then there is a two-or three-part story, which differs from the novelette in construction, even when of the same length.&lt;/p&gt;
+
+&lt;p&gt;Another form is the serial, in which each installment must have its own climax, all leading to the final surprise.&lt;/p&gt;
+
+&lt;p&gt;And last of all, there is the full-sized book, where the interest may or may not be broken before the denouement and solution.&lt;/p&gt;
+
+&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+
+&lt;h2 id=&quot;the-short-story-and-the-novel&quot;&gt;The Short-Story and the Novel&lt;/h2&gt;
+
+&lt;p&gt;Of making many books concerning and dissecting the short-story there is no end. As many probably there are regarding the construction of the novel; and between these two forms they tell us there is a great gulf fixed. But the fixing of this gulf is largely a matter of opinion, and the opinions are somewhat diversified.&lt;/p&gt;
+
+&lt;p&gt;One writer explains the intrinsic difference between a short-story and a story that is merely short. He holds that a short-story is by no means a condensed novel, but is different in kind from a novel. The novelette, however, he contends is a brief novel.&lt;/p&gt;
+
+&lt;p&gt;Another writer, following this distinction, goes so far as to say that were the novelette condensed to one half or less of its usually accepted length it would still be a novel and not a short-story.&lt;/p&gt;
+
+&lt;p&gt;Conversely, were a short-story expanded indefinitely it could never become a novel.&lt;/p&gt;
+
+&lt;p&gt;The foundation of this distinction lies in the principle that a short-story is founded on a unity of impression. It relates, more or less definitely, a single episode; while a novel is a series of correlated episodes, bearing on a single motive. The number of words in a piece of fiction has absolutely no part in determining its nomenclature.&lt;/p&gt;
+
+&lt;p&gt;Poe's distinction that a novel cannot be read at a sitting and a short-story can, is not entirely valid. For &quot;a sitting&quot; is surely a most uncertain division of time. To the busy man a sitting may be a half an hour; to the idle woman it may be half a day; while to the &quot;shut-in&quot; it is continuous and interminable. Moreover, in the case of a thrilling Mystery Story, a reader's sitting would be prolonged, even in spite of imperative duty calls, because of the desire to reach the solution of the mystery.&lt;/p&gt;
+
+&lt;p&gt;Again, as a distinction, we are told that the novel is expansive and the short-story intensive. Perhaps an illustration might be made by likening the novel to a map of the United States, and the short-story to a single state on the map viewed under a magnifying glass.&lt;/p&gt;
+
+&lt;p&gt;But these differentiations regarding short-stories and novels are fully explained and discussed in books exclusively devoted to such technique. And though the fine distinctions therein drawn are of highest importance to other branches of fiction, they are almost, if not entirely, negligible in the case of Detective Stories.&lt;/p&gt;
+
+&lt;p&gt;For the inherent difference between a novel and a short-story is one of plot. Whereas, since Detective Stories have but one solitary plot,—&quot;the problem and its solution,&quot;—the difference in the detective short-story or the detective novel is merely that of length.&lt;/p&gt;
+
+&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+
+&lt;h2 id=&quot;singleness-of-plot-in-the-detective-story&quot;&gt;Singleness of Plot in the Detective Story&lt;/h2&gt;
+
+&lt;p&gt;The single plot that makes a Detective Story may be likened to an accordion; it may be pulled out to an extraordinary length, or compressed to a minimum. A detective novel may have minor complications, more characterization and more elaborate setting; but the plot must not vary from the plot of a detective short-story, being only the propounding of the riddle and the revealing of its answer.&lt;/p&gt;
+
+&lt;p&gt;The longer the story the more numerous and bewildering the conditions of the riddle and the windings of the maze, but all tend definitely to the one end — the answer.&lt;/p&gt;
+
+&lt;p&gt;In a short-story the plot rushes on breathlessly, bare and straight to its end. In a novelette, there is more room for side-lights, more time for slower development, and more scope for minor issues; while a full-sized book still further amplifies these possibilities. But in these three forms the main thread must go on, without halt, in an ever rising crescendo of interest to the climax.&lt;/p&gt;
+
+&lt;p&gt;If the work is to be published in two or three parts, or if it is a longer serial, then the plan is so far changed as to present a definite climax at the end of each installment. But these must be all minor climaxes and all bearing successively and cumulatively on the final revelation.&lt;/p&gt;
+
+&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+
+&lt;h2 id=&quot;the-question-of-length-of-the-detective-story&quot;&gt;The Question of Length of the Detective Story&lt;/h2&gt;
+
+&lt;p&gt;Now, in writing detective fiction, unlike other kinds, the length of his story is entirely at the option of the author. For the detective plot possesses the characteristics of a piece of string; it differs from its fellows only in length.&lt;/p&gt;
+
+&lt;p&gt;The story of &quot;The Moonstone&quot; could have been told in a hundred pages, but Wilkie Collins gives it five hundred.&lt;/p&gt;
+
+&lt;p&gt;&quot;The Murders in the Rue Morgue&quot; could have been a full-sized book as well as &quot;The Leavenworth Case.&quot; The inquest scene in the latter fills seventy pages, while Poe's story details the inquest in six pages.&lt;/p&gt;
+
+&lt;p&gt;Conan Doyle's stories are short because he uses the single incident of the crime and the single impression of its solution, with an absence of any detail not absolutely necessary. Sherlock Holmes himself, who is often a medium for his author's views, says that he could do in twenty-four hours detective work on which Lecoq occupied six months. This is true enough, but the reason is that, as we have previously pointed out, Lecoq figured in a novel while Sherlock had to do his work expeditiously in the confines of a short-story.&lt;/p&gt;
+
+&lt;p&gt;Gaboriau chose to write novels, and so in connection with the problem and its solution he makes use of side issues of all sorts; even including the past history of his characters, subordinate plots, and various byways of conjecture or misleadings.&lt;/p&gt;
+
+&lt;p&gt;So we see the length of a Mystery Story is entirely at the pleasure of the performer, without the hampering rules laid down for the writers of ether types of fiction. Say the plot depends upon a cypher interest. Conan Doyle did the story of the &quot;Dancing Men&quot; in a short-story; Poe's &quot;Gold Bug&quot; is a novelette; while James DeMille's &quot;The Cryptogram&quot; is a very long book.&lt;/p&gt;
+
+&lt;p&gt;It may be because Detective Stories are the work of artisans rather than artists that they can be fitted to such a Procrustean bed of literature. But though a sponge may be the size of your head or compressed to the size of your fist, it is the same sponge and comprises and includes the same material and value.&lt;/p&gt;
+
+&lt;p&gt;Of course this general principle must be taken with limitations. Some of Conan Doyle's short-stories could not be made into satisfactory books, while others could easily be. As in other fiction, a slight incident is not enough for a novel, but a great incident is. A missing Christmas goose might not be of sufficient interest to fill a book, when a murder mystery is.&lt;/p&gt;
+
+&lt;p&gt;Perhaps we may say a simple mystery indicates a short-story length, while a complex riddle, or one made complex by side issues means a novel.&lt;/p&gt;
+
+&lt;p&gt;And yet it is here that art steps in. A master hand can make a great interest out of a simple mystery, where a tyro could not succeed. Generally speaking, the short-story must differ from the novel in scope and structure. In detective fiction it differs in scope only; for the main structure is always the same.&lt;/p&gt;
+
+&lt;p&gt;Writers of the technique of fiction tell us that another difference between the short-story and the novel lies in the fact that the novel must be a love story, while the short-story need not deal with romance at all. Applied to detective fiction, this may be adapted to mean that a love interest is possible, though not imperative in a novel or a novelette; but a short-story has no reason for romance and no room for it, unless it is a necessary premise to the conditions of the story.&lt;/p&gt;
+
+&lt;p&gt;As a matter of absolute measurement, perhaps we may call four thousand words an ideal length for a short-story. A novelette should be thirty or thirty-five thousand words long; while a book may run as near as you wish to one hundred thousand words.&lt;/p&gt;
+
+&lt;p&gt;The length of Poe's &quot;Gold Bug,&quot; nearly fifteen thousand words, would not be an acceptable size to editors of the present day. And though great writers may be a law unto themselves in this matter, it is wise to arrange a story in accordance with the editors' preferences.&lt;/p&gt;
+
+&lt;p&gt;Houdini, the magician, in speaking of his own principles of legerdemain, said: &quot;It is more difficult to support admiration than to excite it,&quot; and so it is more difficult to hold an intellectual curiosity than to arouse it.&lt;/p&gt;
+
+&lt;p&gt;In his introduction to an excellent collection of mystery stories, Mr. Julian Hawthorne has written so discerningly on this subject that we quote from his article:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&quot;I need hardly point out that there is a distinction and a difference between short riddle stories and long ones—novels. The former require far more technical art for their proper development; the enigma cannot be posed in so many ways, but must be stated once for all; there cannot be false scents, or but a few of them; there can be small opportunity for character drawing, and all kinds of ornament and comment must be reduced to their very lowest terms.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Here, indeed, as everywhere, genius will have its way; and while a merely talented writer would deem it impossible to tell the story of ‘The Gold Bug’ in less than a volume, Poe could do it in a few thousand words, and yet appear to have said everything worth saying. In the case of the Sherlock Holmes tales, they form a series, and our previous knowledge of the hero enables the writer to dispense with much description and accompaniment that would be necessary had that eminent personage been presented in only a single complication of events. Each special episode of the great analyst's career can therefore be handled with the utmost economy, and yet fill all the requirements of intelligent interest and comprehension.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;But, as a rule, the riddle novel approaches its theme in a spirit essentially other than that which inspires the short tale. We are given, as it were, a wide landscape instead of a detailed genre picture. The number of the dramatis personae is much larger, and the parts given to many of them may be very small, though each should have his or her necessary function in the general plan.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is much easier to create perplexity on these terms; but on the other hand, the riddle novel demands a power of vivid character portrayal and of telling description which are not indispensable in the briefer narrative.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&quot;The fault of all riddle novels is that they inevitably involve two kinds of interest, and can seldom balance these so perfectly that one or the other of them shall not suffer. The mind of the reader becomes weary in its frequent journeys between human characters on one side and the mysterious events on the other, and would prefer the more single-eyed treatment of the short tale.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Wonder too is a very tender and short-lived emotion, and sometimes perishes after a few pages. Curiosity is tougher; but that, too, may be baffled too long, and end by tiring of the pursuit while it is yet in its early stages.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Many excellent plots, admirable from the constructive point of view, have been wasted by stringing them out too far; the reader recognizes their merit, but loses his enthusiasm on account of a sort of monotony of strain; he wickedly turns to the concluding chapter, and the game is up.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&quot;'The Woman in White,' by Wilkie Collins, was published about 1860, I think, in weekly installments, and certainly they were devoured with insatiable appetite by many thousands of readers. But I doubt whether a book of similar merit could command such a following today; and I will even confess that I have myself never read the concluding parts, and do not know to this day who the woman was or what were the wrongs from which she so poignantly suffered.&quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Stories which ought to be shorter are sometimes made into novels by long and often tedious interpolations.&lt;/p&gt;
+
+&lt;p&gt;&quot;A Study in Scarlet,&quot; one of Conan Doyle's best stories, is unduly spun out by an interpolation which lasts from page 110 to 184. Likewise Gaboriau's &quot;The Mystery of Orcival&quot; has an interpolation from page 104 to 188. These extraneous narratives usually go back and tell of an episode that happened years before the scene of the story, and they are both uninteresting and inartistic.&lt;/p&gt;
+
+&lt;p&gt;As a rule, an author of detective fiction writes either short- stories or novels, but rarely both. Conan Doyle's only mystery novel is &quot;The Hound of the Baskervilles;&quot; while Gaboriau and Anna Katharine Green invariably write novels.&lt;/p&gt;
+
+&lt;p&gt;So we conclude that length is a matter of taste, and the detective fiction writer may use his own judgment as to the length of his works.&lt;/p&gt;
+
+&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+
+&lt;h2 id=&quot;the-narrator-in-the-detective-story&quot;&gt;The Narrator in the Detective Story&lt;/h2&gt;
+
+&lt;p&gt;The Teller of the Detective Story is an important factor in its technique. Many a good plot is spoiled because it is narrated by the wrong person.&lt;/p&gt;
+
+&lt;p&gt;Poe, with his quick sense of fitness, chose the narrator best calculated for the exploitation of his clever Dupin. This was a stroke of real genius, for the reader becomes acquainted with the principal through the subordinate. He is taught to look upon the work of a detective intelligently; taught to appreciate and understand it. He knows when it is time to applaud, because the narrator tells him.&lt;/p&gt;
+
+&lt;p&gt;It is a pity that this narrator is nameless, for as Mrs. Harris, with even less personality, is a household word, so his name would have been. It is this narrator who rouses our interest, tantalizes our impatience, and piques our curiosity, in harmony with his own halting almost unbelieving observance of the marvels revealed to him. He teaches us to be amazed at the proper time and then at the proper time he explains what so amazed us.&lt;/p&gt;
+
+&lt;p&gt;Dr. Watson, narrator of the Sherlock Holmes stories, is a parallel character, though in no sense an imitation or plagiarism. The conditions of the revelations to be made require just such a person to make them; and without a doubt, Sherlock Holmes would have had his Dr. Watson even if Dupin had never had his.&lt;/p&gt;
+
+&lt;p&gt;Aside from the glory and honor cast upon the hero by this humble but adoring satellite, this means of narration has another decided advantage. Since the detective confides in his friend or not, as he chooses, the author can reveal or conceal facts as he chooses, and so mislead the reader at will.&lt;/p&gt;
+
+&lt;p&gt;What the subordinate does not know he can not tell, and thus is the secret preserved. Again, the subordinate being but fallible, may surmise mistakenly. So then does the reader, and again the author's ends are served.&lt;/p&gt;
+
+&lt;p&gt;Sometimes the author prefers that the tale be told in the third person, but even so, the character of &quot;Harris&quot; is still usually in evidence. Often he is a reporter, for this gives him opportunity to go uninvited, yet free from the stigma of idle curiosity into the scenes of interest. A reporter eager for a &quot;scoop&quot; for his paper, sets a fine example of alert interest and close scrutiny for the reader to profit by.&lt;/p&gt;
+
+&lt;p&gt;In the foreword to &quot;The Silent Bullet&quot; the hero detective picks out his reporter and tells him how useful he will be to him in his work. &quot;The Thinking Machine&quot; has the reporter &quot;Hutchinson Hatch,&quot; while &quot;Rouletabille&quot; has a clever reporter named &quot;Sainclair.&quot;&lt;/p&gt;
+
+&lt;p&gt;Of course the story may be told directly from the mouth of the author. But the proportion of this manner of telling is not so large in Detective Story work as in other fiction; because there are secrets to be preserved. Not only the main secret of the mystery, but also the secrets of what the strange proceedings of the detective may mean.&lt;/p&gt;
+
+&lt;p&gt;And if the author is telling the tale, it is manifestly difficult for him to preserve an ingenuous and veracious manner, though this may be done if the author maintains a certain aloofness and an arbitrary standard of what to tell and what not.&lt;/p&gt;
+
+&lt;p&gt;Gaboriau's stories are all told in the third person; so are DuBoisgobey's and many of Anna Katharine Green's. Gaston Leroux uses this form and so does Mr. Webster in &quot;The Whispering Man.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;The Moonstone&quot; is a conglomeration of forms. The narrator is changed to suit the needs of the author, and the book is made up of the stories of the diaries of several people interested; &quot;The Woman in White&quot; follows the same narrative method. &quot;The Leavenworth Case&quot; is also told by various people, and sometimes in diary form.&lt;/p&gt;
+
+&lt;p&gt;While not always effective in other fiction, the diary is a most useful form for Detective Stories. For secrets can be confided to a diary, and though thus revealed to the reader, they are not disclosed to the other characters in the book; which is frequently a necessary condition. While never used for the whole book, the diary form often appears on certain pages of the story. &quot;The Mystery of the Yellow Room,&quot; &quot;The Hound of the Baskervilles,&quot; and many of our best authors' works show more or less of the useful and often necessary diary form.&lt;/p&gt;
+
+&lt;p&gt;But whatever narrator is chosen, let the choice be made after careful consideration of the conditions of the story. If there is a great surprise which must be concealed until the end, the narrator must be kept in ignorance of it until the end.&lt;/p&gt;
+
+&lt;p&gt;If the story hinges on the marvelous brain work of a transcendent detective, give him a Dr. Watson to expatiate on it and to be awed by it.&lt;/p&gt;
+
+&lt;p&gt;If a scientific or other straightforward recital of procedure, it may be told by the author. These points can best be learned and understood by reading the works of the best authors and noting what kind of narrator they choose and why.&lt;/p&gt;
+
+&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+
+&lt;h2 id=&quot;the-setting&quot;&gt;The Setting&lt;/h2&gt;
+
+&lt;p&gt;The setting of the story will of course depend on the plot; but, other things being equal, do not choose too low life for your scenes. The facts of a murder are in themselves sufficiently unattractive to make it unnecessary to add to the distastefulness of the story by unpleasant surroundings.&lt;/p&gt;
+
+&lt;p&gt;Let the people in your story be at least fairly well to do, of at least moderately good position and of a decent education. Unless absolutely necessary to have it otherwise, let the house or the scene of the crime be attractive or interesting, and let even the subordinate characters be of refined and intelligent type. For one reader who enjoys tales of slum life there are a dozen who prefer ladies and gentlemen, if not lords and ladies.&lt;/p&gt;
+
+&lt;p&gt;It may be argued that murders or other crimes do not occur in high life as frequently as among the lower classes. This point may be open to discussion; but it would make no difference what the decision might be. Detective Stories are not realistic, and if the author choose to have his murder committed in a community of gentle-folk, he is entirely at liberty to do so.&lt;/p&gt;
+
+&lt;p&gt;It goes without saying that the locality and social customs of the story must be those with which the author is familiar. A Detective Story depends so much on the logic and plausibility of its conditions, that a vague or uncertain touch on the practical or material details greatly mars the effect.&lt;/p&gt;
+
+&lt;p&gt;Let us see to it, then, that our setting and our atmosphere are free from mistake or anachronism. Economy of attention demands that we keep the reader's mind wholly intent on the solution of the problem; and this may not be done if we allow questionable or contradictory work on the minor interests.&lt;/p&gt;
+
+&lt;p id=&quot;theend&quot;&gt;~ The End ~
+&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Sep 2016 16:09:11 -0500</pubDate>
+        <link>https://www.talesofmurder.comlocalhost:3000/2016-09-19-ch23-structure/</link>
+        <guid isPermaLink="true">https://www.talesofmurder.comlocalhost:3000/2016-09-19-ch23-structure/</guid>
+        
+        
+      </item>
     
       <item>
         <title>The Art of Fiction</title>
@@ -840,21 +1246,15 @@
     
       <item>
         <title>The Motive</title>
-        <description>&lt;section id=&quot;toc&quot; class=&quot;toc&quot;&gt;
-  &lt;header&gt;
-    &lt;h6&gt;Table of Contents&lt;/h6&gt;
-  &lt;/header&gt;
-&lt;div id=&quot;drawer&quot;&gt;
-
-  &lt;/div&gt;
-&lt;/section&gt;
-&lt;p&gt;&lt;!-- table-of-contents --&gt;&lt;/p&gt;
+        <description>&lt;hr /&gt;
 
 &lt;p&gt;Having decided upon our characters, our crime, and our weapon, let us consider next the motive for the crime. Of course in all crimes except murder, the motive is obvious; for who would commit a robbery except to obtain the booty? Who would commit arson except with the intent of destroying property?&lt;/p&gt;
 
 &lt;p&gt;But in a murder story the motive is one of the principal parts of the mystery. It has been said that there are only three motives for murder: money, love and revenge. While this is true in a general way, there are many other specific motives.&lt;/p&gt;
 
-&lt;p&gt;In Mr. Train's book, &quot;Courts, Criminals and the Camorra,&quot; there is a most interesting chapter devoted to this question of motive. Though it is impossible to quote it all, we will refer to his published record compiled by a man who had been trying murder cases for ten years. Several pages tell the details of the record, but a concise summing up is also given. We are told, &quot;Out of the sixty-two homicides recorded, there were seventeen cold-blooded murders, with deliberation and premeditation; three homicides due to negligence; five committed while perpetrating a felony; thirty-seven manslaughters, due in sixteen cases to quarrels, thirteen to drink, four to disputes over money, three to women, one to race antagonism.&quot;&lt;/p&gt;
+&lt;p&gt;In Mr. Train's book, &quot;Courts, Criminals and the Camorra,&quot; there is a most interesting chapter devoted to this question of motive. Though it is impossible to quote it all, we will refer to his published record compiled by a man who had been trying murder cases for ten years. Several pages tell the details of the record, but a concise summing up is also given.&lt;/p&gt;
+
+&lt;p&gt;We are told, &quot;Out of the sixty-two homicides recorded, there were seventeen cold-blooded murders, with deliberation and premeditation; three homicides due to negligence; five committed while perpetrating a felony; thirty-seven manslaughters, due in sixteen cases to quarrels, thirteen to drink, four to disputes over money, three to women, one to race antagonism.&quot;&lt;/p&gt;
 
 &lt;p&gt;A further classification is given, and the whole chapter, indeed, the whole book, should be read by every writer of detective fiction.&lt;/p&gt;
 
@@ -864,7 +1264,7 @@
 
 &lt;p&gt;The most interesting motives are doubtless money, love and revenge; but the ramifications of these include hate, jealousy, greed, safety, ambition, inheritance and many others—in fact, the whole category of human emotions.&lt;/p&gt;
 
-&lt;p&gt;Occasionally there is what might be called a freakish motive, such as the homicidal mania of The Whispering Man; or the curious motive of the criminal in the &quot;Big Bow Mystery.&quot;&lt;/p&gt;
+&lt;p&gt;Occasionally there is what might be called a freakish motive, such as the homicidal mania of &quot;The Whispering Man&quot;; or the curious motive of the criminal in the &quot;Big Bow Mystery.&quot;&lt;/p&gt;
 
 &lt;p&gt;But these are sporadic instances. The soundest motives are the best, and in most cases the soundest are the simplest. Murder is the result of one of the most primitive impulses in man; and though the working out of the plot may be subtle, it is wise, so far as is possible, to have the motive simple, straightforward and strong.&lt;/p&gt;
 
@@ -872,7 +1272,10 @@
 
 &lt;p&gt;Let the motive be as carefully concealed as you like, but offer adroit hints and veiled allusions that the astute reader may catch if he can, and when at last the motive is revealed, let it be a logical and sound one, and, above all, let it be adequate.&lt;/p&gt;
 
+&lt;p id=&quot;theend&quot;&gt;~ The End ~
+
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Aug 2016 00:00:00 -0500</pubDate>
         <link>https://www.talesofmurder.comlocalhost:3000/murderwiki/the-motive/</link>
@@ -954,173 +1357,6 @@
         <pubDate>Mon, 29 Aug 2016 00:00:00 -0500</pubDate>
         <link>https://www.talesofmurder.comlocalhost:3000/murderwiki/the-handling-of-the-crime/</link>
         <guid isPermaLink="true">https://www.talesofmurder.comlocalhost:3000/murderwiki/the-handling-of-the-crime/</guid>
-        
-        
-        <category>murderwiki</category>
-        
-      </item>
-    
-      <item>
-        <title>Structure</title>
-        <description>&lt;section id=&quot;toc&quot; class=&quot;toc&quot;&gt;
-  &lt;header&gt;
-    &lt;h6&gt;Table of Contents&lt;/h6&gt;
-  &lt;/header&gt;
-&lt;div id=&quot;drawer&quot;&gt;
-&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#length&quot; id=&quot;markdown-toc-length&quot;&gt;Length&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-short-story-and-the-novel&quot; id=&quot;markdown-toc-the-short-story-and-the-novel&quot;&gt;The Short-Story and the Novel&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#singleness-of-plot-in-the-detective-story&quot; id=&quot;markdown-toc-singleness-of-plot-in-the-detective-story&quot;&gt;Singleness of Plot in the Detective Story&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-question-of-length&quot; id=&quot;markdown-toc-the-question-of-length&quot;&gt;The Question of Length&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-narrator-in-the-detective-story&quot; id=&quot;markdown-toc-the-narrator-in-the-detective-story&quot;&gt;The Narrator in the Detective Story&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-setting&quot; id=&quot;markdown-toc-the-setting&quot;&gt;The Setting&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-  &lt;/div&gt;
-&lt;/section&gt;
-&lt;p&gt;&lt;!-- table-of-contents --&gt;&lt;/p&gt;
-
-&lt;p&gt;In the construction of our story we must consider the question of length.&lt;/p&gt;
-
-&lt;h2 id=&quot;length&quot;&gt;Length&lt;/h2&gt;
-
-&lt;p&gt;First, and in the opinion of many authorities best there is the short-story. With exceptions, the best mystery stories are short-stories. A short-story lends itself peculiarly to a mystery plot, principally because it is not easy to keep wonder and curiosity alive through a long story.&lt;/p&gt;
-
-&lt;p&gt;Again, many detective stories fall naturally into the length of a novelette—say 30,000 words.&lt;/p&gt;
-
-&lt;p&gt;Then there is a two-or three-part story, which differs from the novelette in construction, even when of the same length.&lt;/p&gt;
-
-&lt;p&gt;Another form is the serial, in which each installment must have its own climax, all leading to the final surprise.&lt;/p&gt;
-
-&lt;p&gt;And last of all, there is the full-sized book, where the interest may or may not be broken before the denouement and solution.&lt;/p&gt;
-
-&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
-
-&lt;h2 id=&quot;the-short-story-and-the-novel&quot;&gt;The Short-Story and the Novel&lt;/h2&gt;
-
-&lt;p&gt;Of making many books concerning and dissecting the short- story there is no end. As many probably there are regarding the construction of the novel; and between these two forms they tell us there is a great gulf fixed. But the fixing of this gulf is largely a matter of opinion, and the opinions are somewhat diversified.&lt;/p&gt;
-
-&lt;p&gt;One writer explains the intrinsic difference between a short- story and a story that is merely short. He holds that a short- story is by no means a condensed novel, but is different in kind from a novel. The novelette, however, he contends is a brief novel.&lt;/p&gt;
-
-&lt;p&gt;Another writer, following this distinction, goes so far as to say that were the novelette condensed to one half or less of its usually accepted length it would still be a novel and not a short-story.&lt;/p&gt;
-
-&lt;p&gt;Conversely, were a short-story expanded indefinitely it could never become a novel.&lt;/p&gt;
-
-&lt;p&gt;The foundation of this distinction lies in the principle that a short-story is founded on a unity of impression. It relates, more or less definitely, a single episode; while a novel is a series of correlated episodes, bearing on a single motive. The number of words in a piece of fiction has absolutely no part in determining its nomenclature.&lt;/p&gt;
-
-&lt;p&gt;Poe's distinction that a novel cannot be read at a sitting and a short-story can, is not entirely valid. For &quot;a sitting&quot; is surely a most uncertain division of time. To the busy man a sitting may be a half an hour; to the idle woman it may be half a day; while to the &quot;shut-in&quot; it is continuous and interminable. Moreover, in the case of a thrilling Mystery Story, a reader's sitting would be prolonged, even in spite of imperative duty calls, because of the desire to reach the solution of the mystery.&lt;/p&gt;
-
-&lt;p&gt;Again, as a distinction, we are told that the novel is expansive and the short-story intensive. Perhaps an illustration might be made by likening the novel to a map of the United States, and the short-story to a single state on the map viewed under a magnifying glass.&lt;/p&gt;
-
-&lt;p&gt;But these differentiations regarding short-stories and novels are fully explained and discussed in books exclusively devoted to such technique. And though the fine distinctions therein drawn are of highest importance to other branches of fiction, they are almost, if not entirely, negligible in the case of Detective Stories. For the inherent difference between a novel and a short-story is one of plot. Whereas, since Detective Stories have but one solitary plot,—&quot;the problem and its solution,11—the difference in the detective short-story or the detective novel is merely that of length.&lt;/p&gt;
-
-&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
-
-&lt;h2 id=&quot;singleness-of-plot-in-the-detective-story&quot;&gt;Singleness of Plot in the Detective Story&lt;/h2&gt;
-
-&lt;p&gt;The single plot that makes a Detective Story may be likened to an accordion; it may be pulled out to an extraordinary length, or compressed to a minimum. A detective novel may have minor complications, more characterization and more elaborate setting; but the plot must not vary from the plot of a detective short-story, being only the propounding of the riddle and the revealing of its answer. The longer the story the more numerous and bewildering the conditions of the riddle and the windings of the maze, but all tend definitely to the one end,—the answer.&lt;/p&gt;
-
-&lt;p&gt;In a short-story the plot rushes on breathlessly, bare and straight to its end. In a novelette there is more room for side- lights, more time for slower development, and more scope for minor issues; while a full-sized book still further amplifies these possibilities. But in these three forms the main thread must go on, without halt, in an ever rising crescendo of interest to the climax.&lt;/p&gt;
-
-&lt;p&gt;If the work is to be published in two or three parts, or if it is a longer serial, then the plan is so far changed as to present a definite climax at the end of each installment. But these must be all minor climaxes and all bearing successively and cumulatively on the final revelation.&lt;/p&gt;
-
-&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
-
-&lt;h2 id=&quot;the-question-of-length&quot;&gt;The Question of Length&lt;/h2&gt;
-
-&lt;p&gt;Now, in writing detective fiction, unlike other kinds, the length of his story is entirely at the option of the author. For the detective plot possesses the characteristics of a piece of string; it differs from its fellows only in length. The story of &quot;The Moonstone&quot; could have been told in a hundred pages, but Wilkie Collins gives it five hundred. &quot;The Murders in the Rue Morgue&quot; could have been a full-sized book as well as &quot;The Leavenworth Case.&quot; The inquest scene in the latter fills seventy pages, while Poe's story details the inquest in six pages.&lt;/p&gt;
-
-&lt;p&gt;Conan Doyle's stories are short because he uses the single incident of the crime and the single impression of its solution, with an absence of any detail not absolutely necessary. Sherlock Holmes himself, who is often a medium for his author's views, says that he could do in twenty-four hours detective work on which Lecoq occupied six months. This is true enough, but the reason is that, as we have previously pointed out, Lecoq figured in a novel while Sherlock had to do his work expeditiously in the confines of a short-story.&lt;/p&gt;
-
-&lt;p&gt;Gaboriau chose to write novels, and so in connection with the problem and its solution he makes use of side issues of all sorts; even including the past history of his characters, subordinate plots, and various byways of conjecture or misleadings.&lt;/p&gt;
-
-&lt;p&gt;So we see the length of a Mystery Story is entirely at the pleasure of the performer, without the hampering rules laid down for the writers of ether types of fiction. Say the plot depends upon a cypher interest. Conan Doyle did the story of the &quot;Dancing Men&quot; in a short-story; Poe's &quot;Gold Bug&quot; is a novelette; while James DeMille's &quot;The Cryptogram&quot; is a very long book.&lt;/p&gt;
-
-&lt;p&gt;It may be because Detective Stories are the work of artisans rather than artists that they can be fitted to such a Procrustean bed of literature. But though a sponge may be the size of your head or compressed to the size of your fist, it is the same sponge and comprises and includes the same material and value.&lt;/p&gt;
-
-&lt;p&gt;Of course this general principle must be taken with limitations. Some of Conan Doyle's short-stories could not be made into satisfactory books, while others could easily be. As in other fiction, a slight incident is not enough for a novel, but a great incident is. A missing Christmas goose might not be of sufficient interest to fill a book, when a murder mystery is. Perhaps w e may say a simple mystery indicates a short-story length, while a complex riddle, or one made complex by side issues means a novel.&lt;/p&gt;
-
-&lt;p&gt;And yet it is here that art steps in. A master hand can make a great interest out of a simple mystery, where a tyro could not succeed. Generally speaking, the short-story must differ from the novel in scope and structure. In detective fiction it differs in scope only; for the main structure is always the same.&lt;/p&gt;
-
-&lt;p&gt;Writers of the technique of fiction tell us that another difference between the short-story and the novel lies in the fact that the novel must be a love story, while the short-story need not deal with romance at all. Applied to detective fiction, this may be adapted to mean that a love interest is possible, though not imperative in a novel or a novelette; but a short-story has no reason for romance and no room for it, unless it is a necessary premise to the conditions of the story.&lt;/p&gt;
-
-&lt;p&gt;As a matter of absolute measurement, perhaps we may call four thousand words an ideal length for a short-story. A novelette should be thirty or thirty-five thousand words long; while a book may run as near as you wish to one hundred thousand words.&lt;/p&gt;
-
-&lt;p&gt;The length of Poe's &quot;Gold Bug,&quot; nearly fifteen thousand words, would not be an acceptable size to editors of the present day. And though great writers may be a law unto themselves in this matter, it is wise to arrange a story in accordance with the editors' preferences.&lt;/p&gt;
-
-&lt;p&gt;Houdini, the magician, in speaking of his own principles of legerdemain, said: &quot;It is more difficult to support admiration than to excite it,&quot; and so it is more difficult to hold an intellectual curiosity than to arouse it.&lt;/p&gt;
-
-&lt;p&gt;In his introduction to an excellent collection of mystery stories, Mr. Julian Hawthorne has written so discerningly on this subject that we quote from his article:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&quot;I need hardly point out that there is a distinction and a difference between short riddle stories and long ones—novels. The former require far more technical art for their proper development; the enigma cannot be posed in so many ways, but must be stated once for all; there cannot be false scents, or but a few of them; there can be small opportunity for character drawing, and all kinds of ornament and comment must be reduced to their very lowest terms. Here, indeed, as everywhere, genius will have its way; and while a merely talented writer would deem it impossible to tell the story of 'The Gold Bug1 in less than a volume, Poe could do it in a few thousand words, and yet appear to have said everything worth saying. In the case of the Sherlock Holmes tales, they form a series, and our previous knowledge of the hero enables the writer to dispense with much description and accompaniment that would be necessary had that eminent personage been presented in only a single complication of events. Each special episode of the great analyst's career can therefore be handled with the utmost economy, and yet fill all the requirements of intelligent interest and comprehension. But, as a rule, the riddle novel approaches its theme in a spirit essentially other than that which inspires the short tale. We are given, as it were, a wide landscape instead of a detailed genre picture. The number of the dramatis personae is much larger, and the parts given to many of them may be very small, though each should have his or her necessary function in the general plan. It is much easier to create perplexity on these terms; but on the other hand, the riddle novel demands a power of vivid character portrayal and of telling description which are not indispensable in the briefer narrative.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&quot;The fault of all riddle novels is that they inevitably involve two kinds of interest, and can seldom balance these so perfectly that one or the other of them shall not suffer. The mind of the reader becomes weary in its frequent journeys between human characters on one side and the mysterious events on the other, and would prefer the more single-eyed treatment of the short tale. Wonder too is a very tender and short-lived emotion, and sometimes perishes after a few pages. Curiosity is tougher; but that, too, may be baffled too long, and end by tiring of the pursuit while it is yet in its early stages.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Many excellent plots, admirable from the constructive point of view, have been wasted by stringing them out too far; the reader recognizes their merit, but loses his enthusiasm on account of a sort of monotony of strain; he wickedly turns to the concluding chapter, and the game is up.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&quot;'The Woman in White,' by Wilkie Collins, was published about 1860, I think, in weekly installments, and certainly they were devoured with insatiable appetite by many thousands of readers. But I doubt whether a book of similar merit could command such a following to-day; and I will even confess that I have myself never read the concluding parts, and do not know to this day who the woman was or what were the wrongs from which she so poignantly suffered.&quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Stories which ought to be shorter are sometimes made into novels by long and often tedious interpolations.&lt;/p&gt;
-
-&lt;p&gt;&quot;A Study in Scarlet,&quot; one of Conan Doyle's best stories, is unduly spun out by an interpolation which lasts from page 110 to 184. Likewise Gaboriau's &quot;The Mystery of Orcival&quot; has an interpolation from page 104 to 188. These extraneous narratives usually go back and tell of an episode that happened years before the scene of the story, and they are both uninteresting and inartistic.&lt;/p&gt;
-
-&lt;p&gt;As a rule, an author of detective fiction writes either short- stories or novels, but rarely both. Conan Doyle's only mystery novel is &quot;The Hound of the Baskervilles;&quot; while Gaboriau and Anna Katharine Green invariably write novels.&lt;/p&gt;
-
-&lt;p&gt;So we conclude that length is a matter of taste, and the detective fiction writer may use his own judgment as to the length of his works.&lt;/p&gt;
-
-&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
-
-&lt;h2 id=&quot;the-narrator-in-the-detective-story&quot;&gt;The Narrator in the Detective Story&lt;/h2&gt;
-
-&lt;p&gt;The Teller of the Detective Story is an important factor in its technique. Many a good plot is spoiled because it is narrated by the wrong person.&lt;/p&gt;
-
-&lt;p&gt;Poe, with his quick sense of fitness, chose the narrator best calculated for the exploitation of his clever Dupin. This was a stroke of real genius, for the reader becomes acquainted with the principal through the subordinate. He is taught to look upon the work of a detective intelligently; taught to appreciate and understand it. He knows when it is time to applaud, because the narrator tells him. It is a pity that this narrator is nameless, for as Mrs. Harris, with even less personality, is a household word, so his name would have been. It is this narrator who rouses our interest, tantalizes our impatience, and piques our curiosity, in harmony with his own halting almost unbelieving observance of the marvels revealed to him. He teaches us to be amazed at the proper time and then at the proper time he explains what so amazed us.&lt;/p&gt;
-
-&lt;p&gt;Dr. Watson, narrator of the Sherlock Holmes stories, is a parallel character, though in no sense an imitation or plagiarism. The conditions of the revelations to be made require just such a person to make them; and without a doubt, Sherlock Holmes would have had his Dr. Watson even if Dupin had never had his.&lt;/p&gt;
-
-&lt;p&gt;Aside from the glory and honor cast upon the hero by this humble but adoring satellite, this means of narration has another decided advantage. Since the detective confides in his friend or not, as he chooses, the author can reveal or conceal facts as he chooses, and so mislead the reader at will. What the subordinate does not know he can not tell, and thus is the secret preserved. Again, the subordinate being but fallible, may surmise mistakenly. So then does the reader, and again the author's ends are served.&lt;/p&gt;
-
-&lt;p&gt;Sometimes the author prefers that the tale be told in the third person, but even so, the character of &quot;Harris&quot; is still usually in evidence. Often he is a reporter, for this gives him opportunity to go uninvited, yet free from the stigma of idle curiosity into the scenes of interest. A reporter eager for a &quot;scoop&quot; for his paper, sets a fine example of alert interest and close scrutiny for the reader to profit by.&lt;/p&gt;
-
-&lt;p&gt;In the foreword to &quot;The Silent Bullet&quot; the hero detective picks out his reporter and tells him how useful he will be to him in his work. &quot;The Thinking Machine&quot; has the reporter &quot;Hutchinson Hatch,&quot; while &quot;Rouletabille&quot; has a clever reporter named &quot;Sainclair.&quot;&lt;/p&gt;
-
-&lt;p&gt;Of course the story may be told directly from the mouth of the author. But the proportion of this manner of telling is not so large in Detective Story work as in other fiction; because there are secrets to be preserved. Not only the main secret of the mystery, but also the secrets of what the strange proceedings of the detective may mean. And if the author is telling the tale, it is manifestly difficult for him to preserve an ingenuous and veracious manner, though this may be done if the author maintains a certain aloofness and an arbitrary standard of what to tell and what not.&lt;/p&gt;
-
-&lt;p&gt;Gaboriau's stories are all told in the third person; so are DuBoisgobey's and many of Anna Katharine Green's. Gaston Leroux uses this form and so does Mr. Webster in &quot;The Whispering Man.&quot;&lt;/p&gt;
-
-&lt;p&gt;&quot;The Moonstone&quot; is a conglomeration of forms. The narrator is changed to suit the needs of the author, and the book is made up of the stories of the diaries of several people interested; &quot;The Woman in White&quot; follows the same narrative method. &quot;The Leavenworth Case&quot; is also told by various people, and sometimes in diary form.&lt;/p&gt;
-
-&lt;p&gt;While not always effective in other fiction, the diary is a most useful form for Detective Stories. For secrets can be confided to a diary, and though thus revealed to the reader, they are not disclosed to the other characters in the book; which is frequently a necessary condition. While never used for the whole book, the diary form often appears on certain pages of the story. &quot;The Mystery of the Yellow Room,&quot; &quot;The Hound of the Baskervilles,&quot; and many of our best authors' works show more or less of the useful and often necessary diary form.&lt;/p&gt;
-
-&lt;p&gt;But whatever narrator is chosen, let the choice be made after careful consideration of the conditions of the story. If there is a great surprise which must be concealed until the end, the narrator must be kept in ignorance of it until the end. If the story hinges on the marvelous brain work of a transcendent detective, give him a Dr. Watson to expatiate on it and to be awed by it. If a scientific or other straightforward recital of procedure, it may be told by the author. These points can best be learned and understood by reading the works of the best authors and noting what kind of narrator they choose and why.&lt;/p&gt;
-
-&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
-
-&lt;h2 id=&quot;the-setting&quot;&gt;The Setting&lt;/h2&gt;
-
-&lt;p&gt;The setting of the story will of course depend on the plot; but, other things being equal, do not choose too low life for your scenes. The facts of a murder are in themselves sufficiently unattractive to make it unnecessary to add to the distastefulness of the story by unpleasant surroundings. Let the people in your story be at least fairly well to do, of at least moderately good position and of a decent education. Unless absolutely necessary to have it otherwise, let the house or the scene of the crime be attractive or interesting, and let even the subordinate characters be of refined and intelligent type. For one reader who enjoys tales of slum life there are a dozen who prefer ladies and gentlemen, if not lords and ladies.&lt;/p&gt;
-
-&lt;p&gt;It may be argued that murders or other crimes do not occur in high life as frequently as among the lower classes. This point may be open to discussion; but it would make no difference what the decision might be. Detective Stories are not realistic, and if the author choose to have his murder committed in a community of gentle-folk, he is entirely at liberty to do so.&lt;/p&gt;
-
-&lt;p&gt;It goes without saying that the locality and social customs of the story must be those with which the author is familiar. A Detective Story depends so much on the logic and plausibility of its conditions, that a vague or uncertain touch on the practical or material details greatly mars the effect.&lt;/p&gt;
-
-&lt;p&gt;Let us see to it, then, that our setting and our atmosphere are free from mistake or anachronism. Economy of attention demands that we keep the reader's mind wholly intent on the solution of the problem; and this may not be done if we allow questionable or contradictory work on the minor interests.&lt;/p&gt;
-
-&lt;p id=&quot;theend&quot;&gt;~ The End ~
-&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
-&lt;/p&gt;
-</description>
-        <pubDate>Mon, 29 Aug 2016 00:00:00 -0500</pubDate>
-        <link>https://www.talesofmurder.comlocalhost:3000/murderwiki/structure/</link>
-        <guid isPermaLink="true">https://www.talesofmurder.comlocalhost:3000/murderwiki/structure/</guid>
         
         
         <category>murderwiki</category>
@@ -1470,6 +1706,7 @@
 &lt;div id=&quot;drawer&quot;&gt;
 &lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#the-plot-is-the-story&quot; id=&quot;markdown-toc-the-plot-is-the-story&quot;&gt;The Plot is the Story&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#constructing-the-plot&quot; id=&quot;markdown-toc-constructing-the-plot&quot;&gt;Constructing the Plot&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#maintaining-suspense&quot; id=&quot;markdown-toc-maintaining-suspense&quot;&gt;Maintaining Suspense&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#planning-the-story&quot; id=&quot;markdown-toc-planning-the-story&quot;&gt;Planning the Story&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#the-question-of-humor&quot; id=&quot;markdown-toc-the-question-of-humor&quot;&gt;The Question of Humor&lt;/a&gt;&lt;/li&gt;
@@ -1502,7 +1739,7 @@
 
 &lt;p&gt;But we have shown earlier in the book that while a detective story, even if poorly written, may interest and amuse, it is not literature unless it shows that superiority of intellectual attainment demanded by the critics or scholars.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Constructing the Plot&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;constructing-the-plot&quot;&gt;Constructing the Plot&lt;/h2&gt;
 
 &lt;p&gt;But referring now to the plot, let the young writer be careful that he plans his story with absolute logic and sequence. Poe tells us that it was his &quot;design to render it manifest that no one point in its composition is referable either to accident or intuition; that the work proceeded, step by step, to its completion with the precision and rigid consequence of a mathematical problem.&quot;&lt;/p&gt;
 
@@ -1517,7 +1754,15 @@
 &lt;p&gt;Here is another valuable point in construction given us by Poe:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&quot;The design of mystery, however, being once determined upon by an author, it becomes imperative, first that no undue or inartistical means be employed to conceal the secret of the plot; and, secondly, that the secret be well kept. Now, when, at page 16, we read that &quot;the body of poor Mr. Rudge, the steward, was found&quot; months after the outrage, etc., we see that Mr. Dickens has been guilty of no misdemeanor against art in stating what was not the fact; since the falsehood is put into the mouth of Solomon Daisy, and given merely as the impression of thus individual and of the public. The writer has not asserted it in his own person, but ingeniously conveyed an idea (false in itself, yet a belief in which is necessary for the effect of the tale) by the mouth of one of his characters. The case is different, however, when Mrs. Rudge is repeatedly denominated &quot;the widow.&quot; It is the author who, himself, frequently so terms her. This is disingenuous and inartistical; accidentally so, of course.&quot;&lt;/p&gt;
+  &lt;p&gt;&quot;The design of mystery, however, being once determined upon by an author, it becomes imperative, first that no undue or inartistical means be employed to conceal the secret of the plot; and, secondly, that the secret be well kept. Now, when, at page 16, we read that &quot;the body of poor Mr. Rudge, the steward, was found&quot; months after the outrage, etc., we see that Mr. Dickens has been guilty of no misdemeanor against art in stating what was not the fact; since the falsehood is put into the mouth of Solomon Daisy, and given merely as the impression of thus individual and of the public.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The writer has not asserted it in his own person, but ingeniously conveyed an idea (false in itself, yet a belief in which is necessary for the effect of the tale) by the mouth of one of his characters.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The case is different, however, when Mrs. Rudge is repeatedly denominated &quot;the widow.&quot; It is the author who, himself, frequently so terms her. This is disingenuous and inartistical; accidentally so, of course.&quot;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;An exactly parallel idea to this may be noticed in &quot;The Leavenworth Case.&quot; Harwell, the private secretary, is a witness at the inquest. Also, he is the murderer. In the very beginning of the book the question is put to him:&lt;/p&gt;
@@ -1532,7 +1777,9 @@
   &lt;p&gt;&quot;Certainly not; as I am not the man who killed him!&quot;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Now, he was the man who killed him, and had the author told the reader he was not, it would have been infringing on the rights of the reader. But it is perfectly legitimate that the character in the book should make this false statement, by way of not incriminating himself. By this device the reader is not only convinced that this Harwell is innocent, but feels a warming sympathy toward the suspected man. Harwell's status now being established in the reader's mind, as that of injured innocence, he is at liberty to figure prominently all through the book, yet never arouse the reader's sleeping suspicion until the author so wills it.&lt;/p&gt;
+&lt;p&gt;Now, he was the man who killed him, and had the author told the reader he was not, it would have been infringing on the rights of the reader. But it is perfectly legitimate that the character in the book should make this false statement, by way of not incriminating himself&lt;/p&gt;
+
+&lt;p&gt;By this device the reader is not only convinced that this Harwell is innocent, but feels a warming sympathy toward the suspected man. Harwell's status now being established in the reader's mind, as that of injured innocence, he is at liberty to figure prominently all through the book, yet never arouse the reader's sleeping suspicion until the author so wills it.&lt;/p&gt;
 
 &lt;p&gt;This point is a strong one to a conscientious writer of detective fiction—to learn at the end of the volume that the real culprit is the person who has been before you throughout, but whom you never have dreamed of suspecting.&lt;/p&gt;
 
@@ -1542,7 +1789,9 @@
 
 &lt;p&gt;In &quot;The Whispering Man,&quot; who would guess or even deduce that the clever detective is himself the criminal? Note how deftly he is introduced to the reader, because &quot;he is destined to play a large and most romantic part in the solution of the mystery, and his queer, brilliant, eccentric personality is to appear very often in the ensuing pages.&quot;&lt;/p&gt;
 
-&lt;p&gt;But this hint gives the reader no suspicion that the man thus introduced is really the criminal, nor does he suspect it until the very last. This book is rather more subtly constructed than &quot;Hand and Ring,&quot; in that the motive for the crime is shown in the beginning of the book; though so skilfully veiled that even an experienced reader might be excused for not discerning it. The author, Henry Kitchell Webster, calls this his favorite of all the books he has written. He says, and very truly, that &quot;he has played fair with his readers, given them every bit of information-all the clues to the identity of the person who committed the crime—that he himself has, but managing to lead their attention away from the real culprit until the desired moment for climax and revelation has arrived.&lt;/p&gt;
+&lt;p&gt;But this hint gives the reader no suspicion that the man thus introduced is really the criminal, nor does he suspect it until the very last. This book is rather more subtly constructed than &quot;Hand and Ring,&quot; in that the motive for the crime is shown in the beginning of the book; though so skilfully veiled that even an experienced reader might be excused for not discerning it.&lt;/p&gt;
+
+&lt;p&gt;The author, Henry Kitchell Webster, calls this his favorite of all the books he has written. He says, and very truly, that &quot;he has played fair with his readers, given them every bit of information — all the clues to the identity of the person who committed the crime — that he himself has, but managing to lead their attention away from the real culprit until the desired moment for climax and revelation has arrived.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&quot;In this kind of story when the big smash comes the reader should be able to go back in the story, and having reread all that goes up to the climax be able to unravel each clue which leads to the climax.&quot;&lt;/p&gt;
@@ -1567,7 +1816,15 @@
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&quot;I think perhaps my particular trick is to keep the reader in suspense not so much as to what is going to happen as to how it is going to happen. I may add that it also seems necessary to me that every mystery should be approached from at least two angles; say, an amateur detective and a professional one, for instance; and that a great part of the interest of the story lies in the conflict between them, victory leaning first toward one and then toward the other. When I start a story I write it clear through, working regularly every day, (though it takes the lash sometimes) and then going back to do the dovetailing. There must be no loose ends; every joint must fit and there must be no superfluous lumber. A detective story ought to run a swift, straight course from start to finish. It isn't a leisurely stroll through the country, it's a hundred yard dash! And you may have noted that in &quot;The Boule Cabinet&quot; there isn't a hint of love interest; love interest is dead weight unless it is an essential part of the plot; and one can't carry much dead weight and win a hundred yard dash.&quot;&lt;/p&gt;
+  &lt;p&gt;&quot;I think perhaps my particular trick is to keep the reader in suspense not so much as to what is going to happen as to how it is going to happen. I may add that it also seems necessary to me that every mystery should be approached from at least two angles; say, an amateur detective and a professional one, for instance; and that a great part of the interest of the story lies in the conflict between them, victory leaning first toward one and then toward the other.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When I start a story I write it clear through, working regularly every day, (though it takes the lash sometimes) and then going back to do the dovetailing. There must be no loose ends; every joint must fit and there must be no superfluous lumber.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A detective story ought to run a swift, straight course from start to finish. It isn't a leisurely stroll through the country, it's a hundred yard dash! And you may have noted that in &quot;The Boule Cabinet&quot; there isn't a hint of love interest; love interest is dead weight unless it is an essential part of the plot; and one can't carry much dead weight and win a hundred yard dash.&quot;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Mr. Stevenson succinctly expresses the true principles of detective fiction; and by adhering to these, the young writer is travelling in the right path.&lt;/p&gt;
@@ -1587,66 +1844,74 @@
 &lt;p&gt;Henry Kitchell Webster gives perhaps a more definite formula than those above quoted:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;BEFORE WRITING: 1. Plan original crime, method, and motive of the murderer. 2. Create, with this as a nucleus, sub-plots relating to several persons who by coincidence are drawn to the place or are connected with the victim, in different ways.&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;BEFORE WRITING:&lt;/strong&gt; 1. Plan original crime, method, and motive of the murderer. 2. Create, with this as a nucleus, sub-plots relating to several persons who by coincidence are drawn to the place or are connected with the victim, in different ways.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;THEN WRITE. 1. Introduction. 2. Murder discovery. 3.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Then take up the least likely suspect first, followed by others. 4. Hero Detective enters, decides, arrests and explains.&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;THEN WRITE:&lt;/strong&gt; 1. Introduction. 2. Murder discovery. 3.Then take up the least likely suspect first, followed by others. 4. Hero Detective enters, decides, arrests and explains.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Mr. Gelett Burgess constructs his stories by architectural diagrams. The first story in his book, &quot;The Master of Mysteries,&quot; (published anonymously) is &quot;The Missing John Hudson&quot;—We subjoin its preliminary plan:&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;(Murder)
-(A) d)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;C) d)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;(Theft)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&quot;The Missing John Hudson&quot;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;a, b, c, d = Clues A, B, C, D = Hypotheses&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;image__inpostL&quot;&gt;
+  &lt;img id=&quot;GBurgess&quot; src=&quot;/assets/img/GBurgess-construct.png&quot; alt=&quot;&quot; width=&quot;100%&quot; /&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Another well-known writer gives this very definite formula:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Preliminaries. Status quo. Introduction of dramatis personae.&lt;/p&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Preliminaries. Status quo. Introduction of dramatis personae.&lt;/li&gt;
+  &lt;/ol&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Birth of Plot. Assembly of actors and assignment of parts.&lt;/p&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Birth of Plot. Assembly of actors and assignment of parts.&lt;/li&gt;
+  &lt;/ol&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Tentative separation of sheep from goats, intentionally misleading.&lt;/p&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Tentative separation of sheep from goats, intentionally misleading.&lt;/li&gt;
+  &lt;/ol&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The Crime,—shot into the story like a bomb.&lt;/p&gt;
+  &lt;ol&gt;
+    &lt;li&gt;The Crime—shot into the story like a bomb.&lt;/li&gt;
+  &lt;/ol&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Gropings for murderer, on part of the police, coroner, friends, relatives and amateur detective.&lt;/p&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Gropings for murderer, on part of the police, coroner, friends, relatives and amateur detective.&lt;/li&gt;
+  &lt;/ol&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Failure of everybody. Call in Transcendent Detective.&lt;/p&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Failure of everybody. Call in Transcendent Detective.&lt;/li&gt;
+  &lt;/ol&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;He glances about, announces that the facts are thus and so and proves that the facts are thus and so.&lt;/p&gt;
+  &lt;ol&gt;
+    &lt;li&gt;He glances about, announces that the facts are thus and so and proves that the facts are thus and so.&lt;/li&gt;
+  &lt;/ol&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Discreet removal of the villain by suicide, accident or otherwise.&lt;/p&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Discreet removal of the villain by suicide, accident or otherwise.&lt;/li&gt;
+  &lt;/ol&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Marriage of the girl to the amateur detective. (This is invariable and imperative!)&lt;/p&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Marriage of the girl to the amateur detective. (This is invariable and imperative!)&lt;/li&gt;
+  &lt;/ol&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
@@ -1655,14 +1920,16 @@
 
 &lt;p&gt;All of the foregoing formulae, kindly contributed by their authors, cannot fail to be of use to the beginning writer of Detective Stories. They all agree in the principal points, and are quite in line with Poe's strict laws.&lt;/p&gt;
 
-&lt;p&gt;The rights of the reader must be kept in mind by the author. It is not fair to mislead the reader until he is up against a blank wall. A false clue must lead in an obvious and seemingly logical direction. Then the false clue must be detected, as a natural consequence of the mistaken lead, and the right clues brought into view. It is not fair to make an innocent character appear guilty or vice versa, but it is quite right if the character make himself appear so. A witness who stammers and hesitates, may be guilty or may be innocently embarrassed. That is for the reader to judge.&lt;/p&gt;
+&lt;p&gt;The rights of the reader must be kept in mind by the author. It is not fair to mislead the reader until he is up against a blank wall. A false clue must lead in an obvious and seemingly logical direction. Then the false clue must be detected, as a natural consequence of the mistaken lead, and the right clues brought into view.&lt;/p&gt;
+
+&lt;p&gt;It is not fair to make an innocent character appear guilty or vice versa, but it is quite right if the character make himself appear so. A witness who stammers and hesitates, may be guilty or may be innocently embarrassed. That is for the reader to judge.&lt;/p&gt;
 
 &lt;p&gt;And just in proportion to the cleverness and subtlety of the author's inventive genius, will the reader be duly and rightfully bewildered, or misled, and the game be well played.&lt;/p&gt;
 
 &lt;p&gt;Prof. Max Dessoir, in a very fine article on &quot;The Psychology of Conjuring,&quot; writes as follows:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&quot;By awakening interest in some unimportant detail, the conjurer concentrates that attention on some false point, or negatively, diverts it from the main object, and we all know the senses of an inattentive person are pretty dull… When causing the disappearance of some object, the conjurer counts one, two, three, because, the attention of the public being diverted to three, they do not notice what happens at one and two… A specially successful method of diversion is founded on the human craze for imitation… The conjurer counts on this in many cases. He always looks in the direction where he wants the attention of the public, and does everything himself which he wants the public to do… If the trick is in the left hand, the conjurer turns sharply to the person to the right, presuming correctly that the spectators will make the same movement, and will not notice what is going on in the left hand… Every sharp, short remark will, for a moment, at least, divert the eyes from the hands and direct them to the mouth, according to the above-mentioned law of imitation.&quot;&lt;/p&gt;
+  &lt;p&gt;&quot;By awakening interest in some unimportant detail, the conjurer concentrates that attention on some false point, or negatively, diverts it from the main object, and we all know the senses of an inattentive person are pretty dull … When causing the disappearance of some object, the conjurer counts one, two, three, because, the attention of the public being diverted to three, they do not notice what happens at one and two … A specially successful method of diversion is founded on the human craze for imitation … The conjurer counts on this in many cases. He always looks in the direction where he wants the attention of the public, and does everything himself which he wants the public to do … If the trick is in the left hand, the conjurer turns sharply to the person to the right, presuming correctly that the spectators will make the same movement, and will not notice what is going on in the left hand … Every sharp, short remark will, for a moment, at least, divert the eyes from the hands and direct them to the mouth, according to the above-mentioned law of imitation.&quot;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;These most valuable directions may be helpfully adapted to the writing of Detective Stories. The author is, in a way, a conjuror, with an avowed intent to hoodwink his audience.&lt;/p&gt;
@@ -1678,7 +1945,15 @@
 &lt;p&gt;Mr. Zangwill wrote only one Detective Story, but that one is unique; and in plot far and away cleverer than any tale of a Transcendent Detective. Though professing to care little for this Detective Story of his, he says in the preface to its second edition:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&quot;'Big Bow Mystery1 seems to me an excellent murder story, as murder stories go, for, while as sensational as the most of them, it contains more humor and character creation than the best. Indeed, the humor is too abundant. Mysteries should be sedate and sober. There should be a pervasive atmosphere of horror and awe such as Poe manages to create. Humor is out of tone; it would be more artistic to preserve a somber note throughout. But I was a realist in those days, and in real life mysteries occur to real persons with their individual humors, and mysterious circumstances are apt to be complicated by comic.&quot;&lt;/p&gt;
+  &lt;p&gt;&quot;'Big Bow Mystery' seems to me an excellent murder story, as murder stories go, for, while as sensational as the most of them, it contains more humor and character creation than the best.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Indeed, the humor is too abundant. Mysteries should be sedate and sober. There should be a pervasive atmosphere of horror and awe such as Poe manages to create. Humor is out of tone; it would be more artistic to preserve a somber note throughout.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;But I was a realist in those days, and in real life mysteries occur to real persons with their individual humors, and mysterious circumstances are apt to be complicated by comic.&quot;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
@@ -1695,11 +1970,13 @@
 
 &lt;p&gt;Nothing is more annoying to the trained reader than a long chapter of explanation after the revelation. We have sometimes more than one chapter of the dead criminal's written confession, and our wonder and curiosity also being dead, we take little interest in the perusal.&lt;/p&gt;
 
-&lt;p&gt;Unless this post-mortem confession is inevitable to your plot, so arrange it that the motives and methods are explained just before the climax instead of just after, Conan Doyle beautifully escaped this situation in &quot;A Study in Scarlet/' by reserving Sherlock Holmes' explanation of his own work until after the long and wearisome interpolation revealing the motive of the crime. The reader waded through, or skimmed through those chapters, because spurred on by his desire to learn the re-solution of the problem, to which he knew the answer.&lt;/p&gt;
+&lt;p&gt;Unless this post-mortem confession is inevitable to your plot, so arrange it that the motives and methods are explained just before the climax instead of just after, Conan Doyle beautifully escaped this situation in &quot;A Study in Scarlet&quot; by reserving Sherlock Holmes' explanation of his own work until after the long and wearisome interpolation revealing the motive of the crime. The reader waded through, or skimmed through those chapters, because spurred on by his desire to learn the resolution of the problem, to which he knew the answer.&lt;/p&gt;
 
 &lt;p&gt;But Conan Doyle is not at his best in mystery novels. The short-story is his forte. In &quot;The Hound of the Baskervilles&quot; the author realizes often that the action must be retarded, and Sherlock Holmes for once in his life is obliged to bungle. About a third of the way through the book. Holmes indulges in a shrug and a rueful smile. &quot;Snap goes our third thread, and we end where we began,&quot; said he.&lt;/p&gt;
 
-&lt;p&gt;Never in a short-story would he have made his third thread snap, nor would he, indeed, have had any third thread; the first would have led to the desired goal. But in a book, threads must be multiplied and snapped and tangled to make the larger web. In &quot;The Hound of the Baskervilles&quot; we are treated to descriptions of scenery. We learn that &quot;Rolling pasture lands curved upwards on either side of us, and old gabled houses peeped out from amid the thick green foliage, but behind the peaceful and sunlit country-side there rose, ever dark against the evening sky, the long, gloomy curve of the moor, broken by the jagged and sinister hills.&quot; In a short-story these things would have been left to the imagination, for lack of room.&lt;/p&gt;
+&lt;p&gt;Never in a short-story would he have made his third thread snap, nor would he, indeed, have had any third thread; the first would have led to the desired goal. But in a book, threads must be multiplied and snapped and tangled to make the larger web.&lt;/p&gt;
+
+&lt;p&gt;In &quot;The Hound of the Baskervilles&quot; we are treated to descriptions of scenery. We learn that &quot;Rolling pasture lands curved upwards on either side of us, and old gabled houses peeped out from amid the thick green foliage, but behind the peaceful and sunlit country-side there rose, ever dark against the evening sky, the long, gloomy curve of the moor, broken by the jagged and sinister hills.&quot; In a short-story these things would have been left to the imagination, for lack of room.&lt;/p&gt;
 
 &lt;p&gt;A further consideration is that, in the book, unnecessary though acceptable characters had to be introduced, such as Selden and his wife's brother. A love interest is introduced around the beautiful Miss Stapleton. The device of Watson's diary report is introduced to delay the decisions of Sherlock Holmes. And the mysterious &quot;L.L.&quot; is invented for the same reason. But so accustomed is Conan Doyle to the quick action of a short-story that these forced delays hamper him.&lt;/p&gt;
 
@@ -1715,7 +1992,11 @@
 
 &lt;p&gt;It is always unpleasant to contemplate the hanging or the electrocuting of the fiction criminal. For this reason he not infrequently takes poison (which he has ready in his pocket), as soon as he is discovered, and dies peacefully, close upon the last words of his confession. This is one of the conventions adopted to spare the reader's feelings. For a criminal that can hold the reader's interest throughout the story is often too attractive a character to be permitted a horrible taking off.&lt;/p&gt;
 
-&lt;p&gt;But these conventions and devices and unwritten laws of the technique of the Mystery Story can only be learned—or, at least, can best be learned—from the thoughtful reading of the works of the masters in this field. The beauty and value of these creations cannot be appreciated by the casual or untrained reader. Only a connoisseur in the art of detective fiction can appreciate and intelligently enjoy the skill with which a great author plays with his readers. It may be likened to the skilled fisherman playing with trout. Or perhaps it is better symbolized by these remarks of the Great Herrman when speaking of his handcuff tricks:&lt;/p&gt;
+&lt;p&gt;But these conventions and devices and unwritten laws of the technique of the Mystery Story can only be learned—or, at least, can best be learned—from the thoughtful reading of the works of the masters in this field.&lt;/p&gt;
+
+&lt;p&gt;The beauty and value of these creations cannot be appreciated by the casual or untrained reader. Only a connoisseur in the art of detective fiction can appreciate and intelligently enjoy the skill with which a great author plays with his readers.&lt;/p&gt;
+
+&lt;p&gt;It may be likened to the skilled fisherman playing with trout. Or perhaps it is better symbolized by these remarks of the Great Herrman when speaking of his handcuff tricks:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&quot;Common sense alone does not entitle a person to judge competently of the safety of fetters; only the man who is familiar with the technique of knots and the different ways of tying can express an opinion. To decide whether a closure is right or not, requires technical knowledge.&lt;/p&gt;
@@ -1727,159 +2008,14 @@
 
 &lt;p&gt;And so, the reader who is unversed in the arts and crafts of detective fiction cannot be expected to value the skill shown in the great presentations of The Problem and its Solution.&lt;/p&gt;
 
+&lt;p id=&quot;theend&quot;&gt;~ The End ~
+
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Aug 2016 00:00:00 -0500</pubDate>
         <link>https://www.talesofmurder.comlocalhost:3000/murderwiki/plots/</link>
         <guid isPermaLink="true">https://www.talesofmurder.comlocalhost:3000/murderwiki/plots/</guid>
-        
-        
-        <category>murderwiki</category>
-        
-      </item>
-    
-      <item>
-        <title>Persons in the Story</title>
-        <description>&lt;section id=&quot;toc&quot; class=&quot;toc&quot;&gt;
-  &lt;header&gt;
-    &lt;h6&gt;Table of Contents&lt;/h6&gt;
-  &lt;/header&gt;
-&lt;div id=&quot;drawer&quot;&gt;
-&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-victim&quot; id=&quot;markdown-toc-the-victim&quot;&gt;The Victim&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-criminal&quot; id=&quot;markdown-toc-the-criminal&quot;&gt;The Criminal&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#faulty-portrayal-of-the-criminal&quot; id=&quot;markdown-toc-faulty-portrayal-of-the-criminal&quot;&gt;Faulty Portrayal of the Criminal&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-secondary-detective&quot; id=&quot;markdown-toc-the-secondary-detective&quot;&gt;The Secondary Detective&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-heroine-and-the-element-of-romance&quot; id=&quot;markdown-toc-the-heroine-and-the-element-of-romance&quot;&gt;The Heroine and the Element of Romance&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-police&quot; id=&quot;markdown-toc-the-police&quot;&gt;The Police&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-supernumeraries&quot; id=&quot;markdown-toc-the-supernumeraries&quot;&gt;The Supernumeraries&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-  &lt;/div&gt;
-&lt;/section&gt;
-&lt;p&gt;&lt;!-- table-of-contents --&gt;&lt;/p&gt;
-
-&lt;p&gt;Admitting that, according to a consensus of opinion, a murder mystery makes the most interesting plot for a Detective Story, let us consider the characters that necessarily belong to such a plot.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-victim&quot;&gt;The Victim&lt;/h2&gt;
-
-&lt;p&gt;De Quincey has pointed out, in his entertaining essay, that the victim of the crime should be selected with great care. Let us then, in planning our story, first decide upon the victim. Shall we choose a man or a woman—old or young?&lt;/p&gt;
-
-&lt;p&gt;A favorite victim with the writers of Detective Fiction is an elderly man, perhaps a banker, or some other wealthy citizen of importance to the community. This is a reasonable choice, for the character has the regard and interest of his fellow townsmen, without too great sympathy on the part of the reader.&lt;/p&gt;
-
-&lt;p&gt;Again, a charming young woman may be chosen for this role, but in this case the reader must not be allowed to know and love her before the tragedy.&lt;/p&gt;
-
-&lt;p&gt;The point to be remembered by the author is that the victim must be of the greatest possible importance generally, yet not specifically in the sympathy of the reader. Indeed, the victim, if beautiful or worthy, must be almost or entirely a stranger to the reader. But if the victim be wicked or unattractive, it matters not how great the reader's acquaintance with him. In a word, the reader must be averse to or indifferent to the victim, in order that he-may be satisfied with the conditions of the story.&lt;/p&gt;
-
-&lt;p&gt;Undoubtedly Poe reached the height of perfection in his choice, when he selected a mother and a daughter for the victims of the &quot;Rue Morgue.&quot; What could be more dramatic? And yet as the reader knew nothing and never learned anything of these two people except their names, casually named in a newspaper report, he could not feel a personal grief at their death.&lt;/p&gt;
-
-&lt;p&gt;We accept the deceased gentleman of Doyle's &quot;The Hound of the Baskervilles&quot; or the murdered bride of Green's &quot;The Filigree Ball&quot; or the brutally-assassinated &quot;Widow Lerouge&quot; by Ga- boriau, because they are all strangers to us, and we know they are a necessary part, indeed, the very foundation of the machinery of the story.&lt;/p&gt;
-
-&lt;p&gt;So guard against introducing the victim too long before the murder, or allowing him or her to engage too deeply the reader's sympathy or admiration.&lt;/p&gt;
-
-&lt;p&gt;This is not so likely to be the case in a short-story as in a novel. There are few, if any, of Conan Doyle's victims for whom we have any personal feeling whatever. Indeed, they are usually dead when the story begins, unless the problem may be a matter of preventing the crime.&lt;/p&gt;
-
-&lt;p&gt;Select your victim for his or her intrinsic worth or prominence and the sympathetic interest he or she may have for the other characters of the story, but not for the reader.&lt;/p&gt;
-
-&lt;p&gt;In &quot;The Leavenworth Case&quot; and &quot;Hand and Ring,&quot; these principles are strictly observed. In &quot;The Big Bow Mystery,&quot; the horrible deed is committed on a man we know nothing of, and one who is quite as much a lay figure as is a tailor's dummy.&lt;/p&gt;
-
-&lt;p&gt;In &quot;The Mystery of the Yellow Room,&quot; the victim is a beautiful young woman who has our entire sympathy and admiration, but the situation is saved because she is not really killed in the attempt at murder.&lt;/p&gt;
-
-&lt;p&gt;An occasional device is to have the victim apparently a good and kind old gentleman, most foully murdered. But later it transpires that the seemingly good and kind victim was in reality a very bad man, and was killed in justice and righteous indignation.&lt;/p&gt;
-
-&lt;p&gt;Conan Doyle as a rule makes his victim an inconspicuous and even uninteresting character—oftenest, perhaps, a bad old man. When, as in the case of &quot;The Speckled Band,&quot; the intended victim is a young woman, the tragedy is whisked around and the villain proves to be the victim.&lt;/p&gt;
-
-&lt;p&gt;All this is entirely legitimate and advisable. The ideal victim is one in whom we have no personal interest, but whose importance we easily recognize.&lt;/p&gt;
-
-&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
-
-&lt;h2 id=&quot;the-criminal&quot;&gt;The Criminal&lt;/h2&gt;
-
-&lt;p&gt;The next character to be chosen must be our criminal. Here again is one, who, if he is to be convicted, must not be too deeply in the reader's sympathy. And yet he must be a worthwhile character; it is old-fashioned, now, to have the crime committed by the butler or the private secretary. The drawing of the criminal calls for fine shading and strong effects. He must be both intelligent and ingenious, in order to give the Transcendent Detective a foeman worthy of his steel. The reader must have no liking or pity for him. In his perfection he should be what Poe calls, &quot;that monstrum horrendum, an unprincipled man of genius.&quot;&lt;/p&gt;
-
-&lt;p&gt;Moreover, he must be cleverly drawn in order to conceal his identity from the reader until the last. He must appear to be what he is not, and he must not appear to be what he is; and this calls for Machiavelian cunning on the part of both criminal and author. The identity of the criminal, disclosed at the last, must be the greatest surprise of the story.&lt;/p&gt;
-
-&lt;p&gt;This is marvellously well accomplished in &quot;Hand and Ring&quot; and &quot;Big Bow Mystery.&quot; In both these books the reader cannot possibly guess the criminal, although he is inconspicuously in plain view from the very beginning. But so adroitly is his identity concealed and so definitely is he made to appear what he is not, that detection by the reader is not possible. To be sure, in neither book is the motive so much as hinted at until the final disclosures, and this is not quite in accordance with the unwritten law of the Detective Story. But it is forgivable in the books mentioned, because of their splendid workmanship and original plot.&lt;/p&gt;
-
-&lt;p&gt;In &quot;The Leavenworth Case,&quot; written many years ago, we have one of the earliest and best examples of the private secretary criminal. Here, too, he is before our eyes from the very beginning, yet we suspect everyone else in the book before we think of him.&lt;/p&gt;
-
-&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
-
-&lt;h2 id=&quot;faulty-portrayal-of-the-criminal&quot;&gt;Faulty Portrayal of the Criminal&lt;/h2&gt;
-
-&lt;p&gt;Gaboriau was at fault in this matter in the &quot;Widow Lerouge.&quot; By the time we are half through the book and long before any hint of the true state of affairs is necessary, we are forced to the inevitable conclusion of the guilt of Noel, start ling as that theory seems on its face, simply because Noel is the only possible person who has consistently avoided being the object of suspicion. A still greater mistake is when during the course of a story every character is at some time suspected and then cleared of suspicion, and at the end we learn that the crime is committed by a person of whom we have never heard.&lt;/p&gt;
-
-&lt;p&gt;Conan Doyle employs this hitherto unknown criminal frequently. Usually he is some old man who had known and quarreled with his old friend, the victim, many years before. For instance, in &quot;The Adventure of Black Peter&quot; and in &quot;The Five Orange Pips,&quot; these are the circumstances. But Conan Doyle's motive is the exploitation of the powers of his Transcendent Detective in discovering the unheard-of criminal, and so in his case the end justified the means. But ordinarily, and especially in a book, it is bad workmanship to absent the criminal from the scene until the last.&lt;/p&gt;
-
-&lt;p&gt;Notwithstanding the criminal of the Rue Morgue murders, it is ill-advised to have a freakish or a superhuman agency. The imitators of Poe's masterpiece have not been successful, though many have impressed members of the Simian tribe into their service as criminals.&lt;/p&gt;
-
-&lt;p&gt;The ideal criminal is a sane, respectable and well-educated man, like Lawyer Orcutt, or Mr. Grodman. Such as these escape the reader's suspicion by seeming to belong among the reputable characters of the story.&lt;/p&gt;
-
-&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
-
-&lt;h2 id=&quot;the-secondary-detective&quot;&gt;The Secondary Detective&lt;/h2&gt;
-
-&lt;p&gt;The Transcendent Detective being of such importance as to require a chapter to himself, we come next to the sub ordinate detective. He is usually a Central Office Man, or a young reporter, or a lawyer with a taste for detective work. He serves as a foil for the higher detective's glories. He makes mistakes for the other to correct. He starts false trails to lead the reader astray and to give the superior detective opportunity to scoff at him and to set him right. This character may not be a detective at all, but simply a &quot;Greek Chorus,&quot; like Dr. Watson, or like Hutchinson Hatch in &quot;The Thinking Machine,&quot; or Walter Jameson in the &quot;Silent Bullet.&quot; But usually this character is a detective who variously hinders or assists, as Sweetwater with Mr. Gryce, or Mr. Barnes with Mr. Mitchel.&lt;/p&gt;
-
-&lt;p&gt;This secondary detective character is, at times and quite effectively, a woman. In &quot;That Affair Next Door&quot; this role is taken by Miss Amelia Butterworth, who is also the teller of the story. In &quot;The Master of Mysteries,&quot; Astro is aided and abetted in his charlatanry by a beautiful young woman called Valeska. In a clever series of stories called &quot;Tales from the Red Ledger,&quot; the Transcendent Detective is helped at times by a mysterious and vaguely-pictured woman known as &quot;The Orchid.&quot;&lt;/p&gt;
-
-&lt;p&gt;But invariably it is a good device to have a major and a minor detective character, that by comparison or contrast their leads and misleads may further the author's ends.&lt;/p&gt;
-
-&lt;p&gt;The suspects are highly important characters in our Detective Story. They appear one after another, few or many, according to the length of the story. As each suspect is brought forward, the reader must be made to feel certain that this is the criminal. Then a doubt is raised or positive innocence is shown, and the next suspect is brought forward.&lt;/p&gt;
-
-&lt;p&gt;In a tale of simple construction, the suspects will come forward, a, b, c, d. The first three are eventually proved innocent and D is the criminal.&lt;/p&gt;
-
-&lt;p&gt;A more complex plot would have D wrongly accused and proved innocent and show that, after all, C was the criminal. In this case the reader must be made to insist to himself that he knew it was C all the time, even though the case looked pretty black against D. Or, a clever dodge is to suspect the characters in order, and though A was exonerated long ago, prove at the last that he was the real criminal after all.&lt;/p&gt;
-
-&lt;p&gt;It is the variations of these plans that make for interest in a Detective Story, and the characterization of these suspects has much to do with the success of the plot. The breathless fear that the criminal may be the beautiful but headstrong young woman; the ever rising suspicion that the criminal is the handsome, manly hero; the lurking doubt of the nephew who inherits; the distrust of certain old family servants all these serve to keep interest alive and curiosity piqued.&lt;/p&gt;
-
-&lt;p&gt;The principal characteristics, then, of our criminal must be his own importance, his dramatic personality, and his successful concealment until the denouement.&lt;/p&gt;
-
-&lt;p&gt;These rules are not inflexible for short-stories, where there is less room for characterization than in books. The criminals in Conan Doyle's stories, like the victims, have little personality, because the fierce light that beats upon Sherlock Holmes leaves most of the other characters in shadow. But in a full- sized novel, where characterization is an important factor of the workmanship, the criminal's make-up is of vital importance.&lt;/p&gt;
-
-&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
-
-&lt;h2 id=&quot;the-heroine-and-the-element-of-romance&quot;&gt;The Heroine and the Element of Romance&lt;/h2&gt;
-
-&lt;p&gt;As to the advisability of a heroine, authorities differ. The true economy of the Detective Story forbids the introduction of romance, especially in short-stories. The purists hold that the single-minded artist in detective fiction must not introduce two kinds of interest, for they can seldom be so perfectly balanced that one or the other shall not surer. The mind of the reader does not wish to jump continually from the solution of the problem to a love interest, and back again.&lt;/p&gt;
-
-&lt;p&gt;On the other hand, some writers deem it necessary to introduce a charming young woman who has little to do with the story, and who invariably marries the subordinate detective. The truth is, the magazine editors are largely to blame for this use of romance. In their inexorable demand for &quot;a happy ending,&quot; they insist upon those wedding bells at the end of the story, that their joyful peals may drown the sound of the sentence pronounced on the criminal.&lt;/p&gt;
-
-&lt;p&gt;But Poe and Conan Doyle and all their worth-while successors omit the element of romance, except where it is an inherent part of the plot. Otherwise, romance in a Detective Story is wasteful and ridiculous excess. The whole intent of the problem and its solution is to engage the attention of the reader to the very utmost, and if this be successfully done, the reader has no nook or comer of his attention vacant to accommodate this love interest.&lt;/p&gt;
-
-&lt;p&gt;But if, as in &quot;A Scandal in Bohemia,&quot; the beautiful woman is an integral part of the story, then she may be introducer and expatiated upon at the pleasure of the author.&lt;/p&gt;
-
-&lt;p&gt;In the story just referred to, this point is marvelously well taken in these opening words:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;To Sherlock Holmes she is always the woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise, but admirably balanced mind. He was, I take it, the most perfect reasoning and observing machine that the world has seen; but, as a lover, he would have placed himself in a false position.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;He never spoke of the softer passions, save with a gibe and a sneer. They were admirable things for the observer-excellent for drawing the veil from men's motives and actions. But for the trained reasoner to admit such intuitions into his own delicate and finely adjusted temperament was to introduce a distracting factor which might throw a doubt upon all his mental results. Grit in a sensitive instrument, or a crack in one of his own high- power lenses, would not be more disturbing than a strong emotion in a nature such as his. And yet there was but one woman to him and that woman was the late Irene Adler, of dubious and questionable memory.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Though expressing it strongly, it is true that extraneous romance in a Detective Story is like grit in a sensitive instrument, or a crack in a high-power lens. But, of course, in a novel or even a novelette the case is altered. Here we require a setting of picturesque complexity. And a love interest, properly managed, and woven into the mystery plot is almost a necessity.&lt;/p&gt;
-
-&lt;p&gt;But the introduction of the feminine element in a Detective Story is subject to certain and definite rules. A victim she may be, a suspect she may be, but only in rare cases and when exceptionally well done, should she be the criminal. As a suspect, a feminine character gives opportunity for sympathetic thrills, but the experienced reader of detective stories feels fairly sure that an attractive feminine suspect is not the real criminal.&lt;/p&gt;
-
-&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
-
-&lt;h2 id=&quot;the-police&quot;&gt;The Police&lt;/h2&gt;
-
-&lt;p&gt;Members of the police force are inevitable characters in Detective Fiction and have been presented in every possible light from a realistic picture of the actual Inspector to the ignorant and fanciful author's conception of the same. As these strong arms of the law must appear on our pages, let us endeavor to know whereof we speak, and learn a few simple and primitive facts about these people before we endeavor to portray them. It is amusing to read some of the absurd effects given to these clearly defined and easily recognized American citizens. Make them as picturesque as possible; give them dramatic, even humorous personality, but do not endow them with absurd responsibilities or official powers.&lt;/p&gt;
-
-&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
-
-&lt;h2 id=&quot;the-supernumeraries&quot;&gt;The Supernumeraries&lt;/h2&gt;
-
-&lt;p&gt;As to the supernumerary characters, the author must exercise his own taste and judgment, and he has fine scope for both. Of less importance in a short-story, they require merely to be kept in the background; but in a novel, they have their exits and their entrances, and play many, though subordinate parts. Each of these characters must have a positive and definite reason for being, and, if at all prominent, must be an inherent part of the plot. They are not to be scamped or slurred over in workmanship, for they are as important a part of the whole as the setting of a jewel or the binding of a book. They are the pence of a Detective Story, and must be taken care of; though in this case it does not follow that the pounds will take care of themselves.&lt;/p&gt;
-
-&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
-</description>
-        <pubDate>Mon, 29 Aug 2016 00:00:00 -0500</pubDate>
-        <link>https://www.talesofmurder.comlocalhost:3000/murderwiki/persons-in-the-story/</link>
-        <guid isPermaLink="true">https://www.talesofmurder.comlocalhost:3000/murderwiki/persons-in-the-story/</guid>
         
         
         <category>murderwiki</category>
