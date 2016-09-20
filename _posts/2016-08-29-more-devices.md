@@ -2,11 +2,17 @@
 layout: post_mw
 layoutTag: post
 title: "More Devices"
+subtitle:
+book: The Techniques of the Mystery
+chapter: Chapter 26
 author: Carolyn Wells
-date: 2016-08-29-16
+pubdate: 1913
+date: 2016-08-29
 category: murderwiki
-excerpt: Chapter 16 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+excerpt: A Detective Story Writer uses many devices to lead the detective and the reader down many paths, some of which are legitimate, but others that are mere red herrings.
+image: /assets/img/pocketwatch.jpg
+caption: "A trite and greatly worn device is the watch that stopped presumably when the crime was committed.
+"
 genre: The Techniques of the Mystery
 wordcount: 4730
 ---
@@ -20,10 +26,6 @@ wordcount: 4730
 {:toc}
 </div>
 </section> <!-- table-of-contents -->
-
-Chapter 16
-
-# MORE DEVICES
 
 ## Tabulated Clues
 
@@ -53,7 +55,7 @@ Anna Katharine Green frequently makes use of listed statistics. In &quot;That Af
 
 >My reasons for not thinking it an accident:
 
->If it bad been an accident and she had pulled the cabinet over upon herself, she would have been found with her feet pointing towards the wall where the cabinet had stood.
+>If it had been an accident and she had pulled the cabinet over upon herself, she would have been found with her feet pointing towards the wall where the cabinet had stood.
 
 >(But her feet were towards the door and her head under the cabinet.)
 
@@ -117,36 +119,38 @@ One of the cleverest lists, for the purpose of telling the story is one in &quot
 
 >Taking a piece of paper, I jotted down the leading causes of suspicion as follows:
 
->Her late disagreement with her uncle, and evident estrangement from him, as testified to by Mr. Harwell.
+>One: Her late disagreement with her uncle, and evident estrangement from him, as testified to by Mr. Harwell.
 
->The mysterious disappearance of one of the servants of the house.
+>Two: The mysterious disappearance of one of the servants of the house.
 
->The forcible accusation made by her cousin—over- heard, however, only by Mr. Gryce and myself.
+>Three: The forcible accusation made by her cousin—overheard, however, only by Mr. Gryce and myself.
 
->Her equivocation in regard to the handkerchief found stained with pistol smut on the scene of the tragedy.
+>Four: Her equivocation in regard to the handkerchief found stained with pistol smut on the scene of the tragedy.
 
->Her refusal to speak in regard to the paper which she was supposed to have taken from Mr. Leavenworth&#39;s table immediately upon the removal of the body.
+>Five: Her refusal to speak in regard to the paper which she was supposed to have taken from Mr. Leavenworth&#39;s table immediately upon the removal of the body.
 
->The finding of the library key in her possession.
+>Six: The finding of the library key in her possession.
 
 >&quot;A dark record,&quot; I involuntarily decided, as I looked it over; but even in doing so began jotting down on the other side of the sheet the following explanatory notes:
 
->Disagreements and even estrangements between relatives are common. Cases where such disagreements and estrangements have led to crime, rare.
+>One: Disagreements and even estrangements between relatives are common. Cases where such disagreements and estrangements have led to crime, rare.
 
->The disappearance of Hannah points no more certainly in one direction than another.
+>Two: The disappearance of Hannah points no more certainly in one direction than another.
 
 >If Mary&#39;s private accusation of her cousin was forcible and convincing, her public declaration that she neither knew nor suspected who might be the author of this crime, was equally so. To be sure, the former possessed the advantage of being uttered spontaneously, but it was likewise true that it was spoken under momentary excitement, without foresight of the consequences, and possibly without due consideration of the facts.
 
->5. An innocent man or woman, under the influence of terror, will often equivocate in regard to matters that seem to criminate.
+>Three: An innocent man or woman, under the influence of terror, will often equivocate in regard to matters that seem to criminate.
 
 Here much of the problem is clearly stated in the first half of the list, and the working out of the solution is definitely indicated in the second part.
 
-Listed suggestions are more useful in books than in short- stories; for in the former the complexities of the plot are more likely to need occasional rounding up and recalling to view.
+Listed suggestions are more useful in books than in short-stories; for in the former the complexities of the plot are more likely to need occasional rounding up and recalling to view.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 
 ## Worn-out Devices
 
+### The Stopped Watch
+{: .no_toc}
 A trite and greatly worn device is the watch that stopped presumably when the crime was committed.
 
 Here is a typical use of this incident quoted from R. Ottolengui&#39;s &quot;The Crime of the Century&quot;:
@@ -173,17 +177,21 @@ This device has been used so often that the astute reader now disregards the evi
 
 In &quot;The Whispering Man,&quot; by Henry Kitchell Webster, a large office clock seen in a mirror, makes twenty minutes before twelve appear to be twenty minutes after twelve, which leads to worth-while complications, and proves a clever device.
 
-In Brander Matthews&#39; story, &quot;The Twinkling of an Eye,&quot; a clock is used to conceal and manipulate a camera for the purposes of detection.
+In Brander Matthews&#39; story, &quot;The Twinkling of an Eye,&quot; a clock is used to conceal and manipulate a camera for the purposes of detection. Any such original application of commonplace material is worth-while in detective fiction.
 
-Any such original application of commonplace material is worth-while in detective fiction.
+### The Clumsily-Upset Table
+{: .no_toc}
 
 Another maneuvre that has lost its grip on the attention of the trained reader, is the clumsily-upset table.
 
 In &quot;The Reigate Puzzle,&quot; Dr. Watson tells us;
 
->&quot;Near the foot of the bed stood a dish of oranges and a carafe of water. As we passed it. Holmes, to my unutterable astonishment, leaned over in front of me and deliberately knocked the whole thing over. The glass smashed into a thousand pieces and the fruit rolled about into every corner of the room. You&#39;ve done it now, Watson,&quot; said he, coolly. &quot;A pretty mess you&#39;ve made of the carpet.&quot;
+>&quot;Near the foot of the bed stood a dish of oranges and a carafe of water. As we passed it, Holmes, to my unutterable astonishment, leaned over in front of me and deliberately knocked the whole thing over. The glass smashed into a thousand pieces and the fruit rolled about into every corner of the room. &quot;You&#39;ve done it now, Watson,&quot; said he, coolly. &quot;A pretty mess you&#39;ve made of the carpet.&quot;
 
 This incident was effective and of importance as Conan Doyle used it, but it has since been done so often as to have lost its power to surprise.
+
+### The Loudly Proclaimed Desire to Kill the Victim
+{: .no_toc}
 
 A hackneyed misleading device is that of high words between a victim and a suspect. In Chekhov&#39;s Russian story, &quot;The Safety Match,&quot; the author thus tries to cast suspicion on the valet.
 
@@ -205,7 +213,11 @@ Perhaps the longest roll of hackneyed devices in one book is found in &quot;That
 
 Disguise is not so much employed now as in former years when Lecoq was young. And the general public is now more keen to see through false whiskers than in the old days when Vidocq made his fame. Both these celebrated detectives were experts in the art of disguise. To quote from Vidocq&#39;s Memoirs:
 
->At last, by dint of much effort of memory, I recalled to mind one Germain, alias &quot;the Captain,&quot; who had been an intimate acquaintance of Noel&#39;s, and although our similarity was very slight, yet I determined on personating him. Germain, as well as myself, had often escaped from the Bagnes, and that was the only point of resemblance between us; he was about my age, but a smaller-framed man, he had dark brown hair, mine was light; he was thin, and I tolerably stout; his complexion was sallow, and mine fair, with a very clear skin; besides, Germain had an excessively long nose, took a vast deal of snuff which, begriming his nostrils outside, and stuffing them up within, gave him a peculiarly nasal tone of voice. I had much to do in personating Germain; but the difficulty did not deter me; my hair, cut a la mode des Bagnes, was dyed black, as well as my beard, after it had attained a growth of eight days; to embrown my countenance I washed it with white walnut liquor; and to perfect the imitation, I garnished my upper lip thickly with a kind of coffee grounds, which I plastered on by means of gum-arabic, and thus became as nasal in my twang as Germain himself. My feet were doctored with equal care; I made blisters on them by rubbing in a certain composition, of which I had obtained the receipt at Brest. I also made the marks of the fetters; and when all my toilet was finished, dressed myself in the suitable garb. I had neglected nothing which could complete the metamorphosis,—neither the shoes nor the marks of those horrid letters G.A.L. The costume was perfect.
+>At last, by dint of much effort of memory, I recalled to mind one Germain, alias &quot;the Captain,&quot; who had been an intimate acquaintance of Noel&#39;s, and although our similarity was very slight, yet I determined on personating him. Germain, as well as myself, had often escaped from the Bagnes, and that was the only point of resemblance between us; he was about my age, but a smaller-framed man, he had dark brown hair, mine was light; he was thin, and I tolerably stout; his complexion was sallow, and mine fair, with a very clear skin; besides, Germain had an excessively long nose, took a vast deal of snuff which, begriming his nostrils outside, and stuffing them up within, gave him a peculiarly nasal tone of voice
+
+>I had much to do in personating Germain; but the difficulty did not deter me; my hair, cut a la mode des Bagnes, was dyed black, as well as my beard, after it had attained a growth of eight days; to embrown my countenance I washed it with white walnut liquor; and to perfect the imitation, I garnished my upper lip thickly with a kind of coffee grounds, which I plastered on by means of gum-arabic, and thus became as nasal in my twang as Germain himself.
+
+>My feet were doctored with equal care; I made blisters on them by rubbing in a certain composition, of which I had obtained the receipt at Brest. I also made the marks of the fetters; and when all my toilet was finished, dressed myself in the suitable garb. I had neglected nothing which could complete the metamorphosis &mdash; neither the shoes nor the marks of those horrid letters G.A.L. The costume was perfect.
 
 >\* \* \*
 
@@ -223,9 +235,13 @@ Lecoq also depends largely on disguises for his successes. He says himself:
 
 And in &quot;File No. 113&quot; we are told:
 
->His amazement gave so singular an expression to his face that M. Lecoq could not restrain a smile. &quot;Then it was you!&quot; continued the bewildered detective; &quot;you were the stout gentleman at whom I stared, so as to impress his appearance upon my mind, and I never recognized you! You would make a superb actor, my chief, if you would go on the stage; but I was disguised too—very well disguised.&quot;
+>His amazement gave so singular an expression to his face that M. Lecoq could not restrain a smile.
 
->&quot;Very poorly disguised: it is only just to you that I should let you know what a failure it was, Fanferlot. Do you think that a huge beard and a blouse are a sufficient transformation? The eye is the thing to be changed—the eye! The art lies in being able to change the eye. That is the secret.&quot; This theory of disguise explained why the lynx-eyed Lecoq never appeared at the Prefecture of Police without his gold spectacles.
+>&quot;Then it was you!&quot; continued the bewildered detective; &quot;you were the stout gentleman at whom I stared, so as to impress his appearance upon my mind, and I never recognized you! You would make a superb actor, my chief, if you would go on the stage; but I was disguised too—very well disguised.&quot;
+
+>&quot;Very poorly disguised: it is only just to you that I should let you know what a failure it was, Fanferlot. Do you think that a huge beard and a blouse are a sufficient transformation? The eye is the thing to be changed—the eye! The art lies in being able to change the eye. That is the secret.&quot;
+
+This theory of disguise explained why the lynx-eyed Lecoq never appeared at the Prefecture of Police without his gold spectacles.
 
 >\* \* \*
 
@@ -275,10 +291,14 @@ But, better managed, a torn bit of paper is helpful in rousing the reader&#39;s 
 
 Conan Doyle goes farther, in using what seems to be part of a woman&#39;s name, &quot;Rache,&quot; but is really a whole word in German.
 
-Anna Katharine Green gives an original twist to this old idea in her title, &quot;One of My Sons.&quot; In truth, this phrase, found on a bit of paper and pointing directly to the criminal, was really part of the line, &quot;None of my Sons.&quot; It may be seen at a glance how the intent and the evidence of this line are purposely contradictory. The detective story is essentially dramatic, and therefore picturesque incidents and sensational situations are not only permissible, but advisable. The trained reader has learned to expect them. But unless they can be novel or original, there must be a skillful handling of the old devices. Likewise, there are certain stage properties with the use of which the author should be entirely familiar, and which he should be able to employ with grace and skill.
+Anna Katharine Green gives an original twist to this old idea in her title, &quot;One of My Sons.&quot; In truth, this phrase, found on a bit of paper and pointing directly to the criminal, was really part of the line, &quot;None of my Sons.&quot; It may be seen at a glance how the intent and the evidence of this line are purposely contradictory.
 
-The Weapon, the Papers, the Jewels, the Safe, the Alibi, are all his rightful belongings. So, too, the Lens, the Desk Blotter, the Waste Basket, the Cabman, the Deserted Wing, the Inquest, and the Mistaken Identity,—all are his, to manipulate at his pleasure.
+The detective story is essentially dramatic, and therefore picturesque incidents and sensational situations are not only permissible, but advisable. The trained reader has learned to expect them. But unless they can be novel or original, there must be a skillful handling of the old devices. Likewise, there are certain stage properties with the use of which the author should be entirely familiar, and which he should be able to employ with grace and skill.
 
-If he can afford to ignore such as these, and use The Monkey&#39;s Paw, or The Speckled Band, so much the better for his originality.
+The Weapon, the Papers, the Jewels, the Safe, the Alibi, are all his rightful belongings. So, too, the Lens, the Desk Blotter, the Waste Basket, the Cabman, the Deserted Wing, the Inquest, and the Mistaken Identity &mdash; all are his, to manipulate at his pleasure.
+
+If he can afford to ignore such as these, and use "The Monkey&#39;s Paw," or "The Speckled Band," so much the better for his originality.
+
+<p id="theend">~ The End ~
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>

@@ -2,11 +2,15 @@
 layout: post_mw
 layoutTag: post
 title: "Footprints and Fingerprints"
+subtitle:
+book: The Techniques of the Mystery
+chapter: Chapter 15
 author: Carolyn Wells
-date: 2016-08-29-16
+pubdate: 1913
+date: 2016-08-29
 category: murderwiki
-excerpt: Chapter 15 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+excerpt: "Without a doubt the most woefully overdone and mix-done evidence is that of footprints. The trouble began with Gaboriau and M. Lecoq."
+image: /assets/img/footprints-in-the-snow.jpg
 genre: The Techniques of the Mystery
 wordcount: 4730
 ---
@@ -25,7 +29,7 @@ wordcount: 4730
 
 Without a doubt the most woefully overdone and mix-done evidence is that of footprints.
 
-Perhaps with the exception of that one found by Robinson Crusoe, no footprints in fiction,—not even those left on the sands of time for that hypothetical forlorn and shipwrecked brother,—have been either plausible or, in their evidence, credible.
+Perhaps with the exception of that one found by Robinson Crusoe, no footprints in fiction &mdash; not even those left on the sands of time for that hypothetical forlorn and shipwrecked brother &mdash; have been either plausible or, in their evidence, credible.
 
 The trouble began with Gaboriau and M. Lecoq, for Poe never descended to the low level of footprints. But in &quot;Monsieur Lecoq,&quot; the stage is set on the very first page by the phrase, &quot;It had snowed heavily for the past few days and the thaw had now begun.&quot;
 
@@ -99,13 +103,11 @@ In another story, a subordinate tells Holmes that &quot;the garden path was satu
 
 >Holmes gave an ejaculation of impatience:
 
->&quot;It has been pouring rain and blowing a hurricane ever since/1 said he. &quot;It will be harder to read now than that palimpsest. Well, well, it can&#39;t be helped. What did you do, Hopkins after you had made certain that you had made certain of nothing?&quot;
+>&quot;It has been pouring rain and blowing a hurricane ever since,&qote; said he. &quot;It will be harder to read now than that palimpsest. Well, well, it can&#39;t be helped. What did you do, Hopkins after you had made certain that you had made certain of nothing?&quot;
 
 But, although harder than palimpsest reading, Mr. Holmes went to the grass border in question, and had no difficulty in reading it glibly. Here is the scene:
 
->&quot;This is the garden path of which I spoke, Mr. Holmes.
-
->I&#39;ll pledge my word there was no mark on it yesterday.&quot;
+>&quot;This is the garden path of which I spoke, Mr. Holmes. I&#39;ll pledge my word there was no mark on it yesterday.&quot;
 
 >&quot;On which side were the marks on the grass?&quot;
 
@@ -131,9 +133,9 @@ So astute are the deductions from these interlaced trails that a small portion o
 
 A kind-hearted though uneducated neighbor helps them out with the usual testimony as to weather observations:
 
->&quot;Well, as I said before, I went ter bed airly, seven o&#39;clock in fact; &#39;t was snowin&#39; hard then, an1 I &#39;lowed&#39;t would keep up all night; I slept purty sound but was waked up by the noise my girls made cornin&#39; in from a visit ter a neighbor&#39;s. You know how&#39;t is when a man&#39;s woke up?
+>&quot;Well, as I said before, I went ter bed airly, seven o&#39;clock in fact; &#39;t was snowin&#39; hard then, an' I &#39;lowed&#39;t would keep up all night; I slept purty sound but was waked up by the noise my girls made cornin&#39; in from a visit ter a neighbor&#39;s. You know how&#39;t is when a man&#39;s woke up?
 
->He&#39;s kinder crusty an1 more &#39;an all, can&#39;t tell whether he&#39;s slept ten hours or ten minutes. So as the girls went by my door, I growled out: &#39;An&#39;t you purty late gittin1 home?1 &#39;No pop, it&#39;s just nine o&#39;clock,&#39; come the answer. Seein&#39; as how I had a good night&#39;s rest before me, I felt a leetle mite pleasanter an&#39; in a&#39; easier tone I said: &#39;I s&#39;pose the snow&#39;s purty deep, an&#39;t it?&#39; &#39;Not very,&quot; says one on &#39;em, &#39;it stopped awhile ago, an&#39; the moon&#39;s out now!! That&#39;s all was said. But you see that shows it didn&#39;t snow after nine, tho&#39; ef you want it nearer, mebbe I kin find out from the girls.&quot;
+>He&#39;s kinder crusty an' more &#39;an all, can&#39;t tell whether he&#39;s slept ten hours or ten minutes. So as the girls went by my door, I growled out: &#39;An&#39;t you purty late gittin1 home?1 &#39;No pop, it&#39;s just nine o&#39;clock,&#39; come the answer. Seein&#39; as how I had a good night&#39;s rest before me, I felt a leetle mite pleasanter an&#39; in a&#39; easier tone I said: &#39;I s&#39;pose the snow&#39;s purty deep, an&#39;t it?&#39; &#39;Not very,&quot; says one on &#39;em, &#39;it stopped awhile ago, an&#39; the moon&#39;s out now!! That&#39;s all was said. But you see that shows it didn&#39;t snow after nine, tho&#39; ef you want it nearer, mebbe I kin find out from the girls.&quot;
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 
@@ -153,7 +155,7 @@ In &quot;The Quests of Paul Beck&quot; by M. McDonnell Bodkin, we find this exce
 
 >Mr. Strangely did not hear him at first, and he repeated the question. &quot;Well, no, he was rather light and wiry, but he had big feet if that&#39;s what you mean.&quot;
 
->&quot;Right,&quot; said Mr. Beck, &quot;here is a full footmark.&quot; He got up from his knees and walked on briskly, picking up the trail as if it were the &quot;scent&quot; of a paper-chase, though Strangely1 s eyes could find only a few vague marks amongst the grass. The track skirted the woods and led them to the banks of a deep, dumb river that ran slowly, level with its brim. Along the banks of the river the track led them for about a mile, tending always away from the house.
+>&quot;Right,&quot; said Mr. Beck, &quot;here is a full footmark.&quot; He got up from his knees and walked on briskly, picking up the trail as if it were the &quot;scent&quot; of a paper-chase, though Strangely's eyes could find only a few vague marks amongst the grass. The track skirted the woods and led them to the banks of a deep, dumb river that ran slowly, level with its brim. Along the banks of the river the track led them for about a mile, tending always away from the house.
 
 >Under the shelter of a clump of beech, Mr. Beck stopped short and began to cast about like a sporting dog that makes a dead set, weakens on it when he finds the bird has just left, and begins beating cautiously again. He examined every mark about the place with scrupulous care, went on about twenty yards to where the river was crossed by a new iron bridge, and walked a little with bent head on the further side.
 
@@ -167,7 +169,7 @@ For reading from footprints on grass, that is doing fairly well! He repeats his 
 
 >Early next morning Mr. Beck was on the scene of the murder—not the stolid Mr. Beck of the day before, but active, eager, every sense keenly alert.
 
->There was a curious suggestion about him of a well- trained setter dog when it is close upon the game—every nerve and muscle vibrant with suppressed excitement.
+>There was a curious suggestion about him of a well-trained setter dog when it is close upon the game—every nerve and muscle vibrant with suppressed excitement.
 
 >Like a setter he beat round the spot, searching the ground with his eyes. There had been much rain of late, and the ground was still soft enough to take and hold footprints. He found three or four prints, small and sharp, of the heel of a girl&#39;s shoe. He could even trace where Dick Ackland&#39;s foot had slipped and torn the sod as he stopped and turned on his way to the brook when he heard the second revolver shot.
 
@@ -183,7 +185,7 @@ Miss Mary E. Wilkins outdoes all competitors in her number of tabulated footprin
 
 No, indeed, that would not be likely in a Detective Story! So the Sergeant went hunting for footprints, with this gratifying result:
 
->Sergeant Edwardes1 report on the footprints near the spot where the body of Miss Judson was found, at 9.35 P.
+>Sergeant Edwardes' report on the footprints near the spot where the body of Miss Judson was found, at 9.35 P.
 
 >M., on October 17, 189-:
 
@@ -199,7 +201,7 @@ No, indeed, that would not be likely in a Detective Story! So the Sergeant went 
 
 >&quot;Bearers of a heavy weight, such as a dead body, walking together, invariably bear heavily upon the left foot, both those who are supporting it on the left, and those who are supporting it on the right side.
 
->&quot;Distinguishing the Footprints by their length, breadth, and the pattern of the nail marks upon them, I find that they are the footprints of five separate persons, all of them men. I also found, clearly impressed, the footprints of the victim herself.
+>&quot;Distinguishing the footprints by their length, breadth, and the pattern of the nail marks upon them, I find that they are the footprints of five separate persons, all of them men. I also found, clearly impressed, the footprints of the victim herself.
 
 >&quot;There had been heavy rain in the morning of the 17th, and the soil is a sticky clay. I examined it at daybreak on the morning of the 18th and, as it had not rained during the night, the impressions were as fresh as if they had just been made. By my orders no one had been allowed to come near the spot where the body was found during the night. Just outside the gate of the orchard, the grass has been long trodden away by passers-by, leaving the earth bare; and the patch of bare earth forms an area rather broader than the gate. On this area the body had fallen, and round about the spot where it had lain I found all the footprints on which I am reporting.
 
@@ -209,9 +211,7 @@ No, indeed, that would not be likely in a Detective Story! So the Sergeant went 
 
 >&quot;I therefore conclude that all three men came upon the spot only to carry away the body of the girl, and had no hand in her death.
 
->&quot;I argue the same from the footprints made by Mr. Jex.
-
->He also had borne more heavily with the left than with the right foot. He also, therefore, must have come on the spot only to bear off the body, and could have taken no part in the girl&#39;s murder.
+>&quot;I argue the same from the footprints made by Mr. Jex. He also had borne more heavily with the left than with the right foot. He also, therefore, must have come on the spot only to bear off the body, and could have taken no part in the girl&#39;s murder.
 
 >&quot;There are almost an exactly equal number of impressions, plain or faint, of the footprints of these four persons.
 
@@ -239,7 +239,7 @@ But the best disquisition on footprints and their value is found in &quot;The My
 
 Rouletabille&#39;s unerring perspicacity realizes the absurdity of much of this footprint evidence. He remarks on it thus:
 
->&quot;I awaited the coming of daylight and then went down to the front of the chateau, and made a detour, examining every trace of footsteps coming towards it or going from it. These, however, were so mixed and confusing that I could make nothing of them. Here I may make a remark,—I am not accustomed to attach an exaggerated importance to exterior signs left in the track of a crime.
+>&quot;I awaited the coming of daylight and then went down to the front of the chateau, and made a detour, examining every trace of footsteps coming towards it or going from it. These, however, were so mixed and confusing that I could make nothing of them. Here I may make a remark &mdash; I am not accustomed to attach an exaggerated importance to exterior signs left in the track of a crime.
 
 >&quot;The method which traces the criminal by means of the tracks of his footsteps is altogether primitive. So many footprints are identical. However, in the disturbed state of my mind, I did go into the deserted court and did look at all the footprints I could find there, seeking for some indication, as a basis for reasoning.
 
@@ -259,7 +259,11 @@ But the would-be author need not deem these footprint clues entirely unavailable
 
 More recent is the reading of thumb and fingerprints. The discovery of the individuality of fingerprints gave detectives a new field, both in fiction and in life.
 
-In a book of stories, &quot;Adventures of the World&#39;s Greatest Detectives,&quot; by George Barton, which are said by the author to be literally true, we have an astonishing coincidence. A detective found in a public house a drinking glass that had on it perfectly distinct marks of four fingers and a thumb. Following the trail, a cab was found, on the door of which were five distinct prints of four fingers and a thumb. After reproducing on sensitized paper, the two sets of imprints were found to be identical! This is a Scotland Yard story, but as the author confesses in his preface to &quot;a few pardonable embellishments,&quot; we can&#39;t help thinking that pardon is desired in this case. However, fingermarks are undoubtedly used largely in real detection, and have not yet been overdone in fiction. Indeed, our up-to-date criminals are said to wear rubber gloves so they will leave no prints. And in &quot;The Silent Bullet,&quot; by Arthur B. Reeve, we are told of an ingenious miscreant who &quot;painted his hands lightly with a liquid rubber which he had invented himself. It did all that rubber gloves would do, and yet left him the free use of his fingers with practically the same keenness of touch.&quot;
+In a book of stories, &quot;Adventures of the World&#39;s Greatest Detectives,&quot; by George Barton, which are said by the author to be literally true, we have an astonishing coincidence. A detective found in a public house a drinking glass that had on it perfectly distinct marks of four fingers and a thumb. Following the trail, a cab was found, on the door of which were five distinct prints of four fingers and a thumb. After reproducing on sensitized paper, the two sets of imprints were found to be identical!
+
+This is a Scotland Yard story, but as the author confesses in his preface to &quot;a few pardonable embellishments,&quot; we can&#39;t help thinking that pardon is desired in this case. However, fingermarks are undoubtedly used largely in real detection, and have not yet been overdone in fiction. Indeed, our up-to-date criminals are said to wear rubber gloves so they will leave no prints.
+
+And in &quot;The Silent Bullet,&quot; by Arthur B. Reeve, we are told of an ingenious miscreant who &quot;painted his hands lightly with a liquid rubber which he had invented himself. It did all that rubber gloves would do, and yet left him the free use of his fingers with practically the same keenness of touch.&quot;
 
 Another ingenious contrivance is described in a recent tale, where a very bad man gets a wax impression of another man&#39;s thumb and makes falsely incriminating prints in suspicious places.
 
@@ -282,5 +286,7 @@ By great good luck, the detective ran across the apple-biter again, took another
 The other apple-biter is in &quot;The Saintsbury Affair,&quot; by Roman Doubleday, and the details of the biting are much the same as in Mr. Morrison&#39;s story. This is an ingenious identification idea and any plan of such interesting nicety may be used in detective fiction. As Shakespeare&#39;s characters bite their thumbs when they choose, so may an all-wise author cause his puppets to bite apples at his own sweet will.
 
 In the Fictive Detectives&#39; Working Library, this Monograph on Apples and their Habits should stand beside Sherlock Holmes technical monographs.
+
+<p id="theend">~ The End ~
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>

@@ -2,11 +2,15 @@
 layout: post_mw
 layoutTag: post
 title: "Devious Devices"
+subtitle:
+book: The Techniques of the Mystery
 author: Carolyn Wells
-date: 2016-08-29-16
+pubdate: 1913
+date: 2016-08-29
 category: murderwiki
-excerpt: Chapter 14 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+excerpt: "Of the many devices introduced by detective writers to arrest and hold the readers&#39; attention, some are admittedly legitimate and used by best authors. Others are unfair; and still others were permissible but have become so hackneyed as to be taboo."
+image: /assets/img/Secret_Panel.png
+caption: "\"The secret panel in the wall. After BRADDON.\" Illustration for \"Selina Sedilia\" in Bret Harte's Condensed Novels."
 genre: The Techniques of the Mystery
 wordcount: 2443
 ---
@@ -31,7 +35,7 @@ Later this light snow was varied by &quot;a gentle rain, the first for two weeks
 
 In &quot;A Study in Scarlet&quot; there is a torrential downpour. This is in order to soften the clay of the garden path sufficiently to take footmarks; but it is a little overdone, for the torrents pour down all night, and would have obliterated any footprints save those made by a fictive criminal for the benefit of a fictive detective.
 
-This same rain is treated a little better by Miss Mary E. Wilkins in her story &quot;The Long Arm,11 for she relates &quot;There had been heavy rain in the morning of the 17th, and the soil is a sticky clay. I examined it at daybreak on the morning of the 18th and, as it had not rained during the night the footprints were as fresh as if they had just been made.&quot;
+This same rain is treated a little better by Miss Mary E. Wilkins in her story &quot;The Long Arm,&quot; for she relates &quot;There had been heavy rain in the morning of the 17th, and the soil is a sticky clay. I examined it at daybreak on the morning of the 18th and, as it had not rained during the night the footprints were as fresh as if they had just been made.&quot;
 
 This is the same accurately scheduled, time-lock rain, but it is a little more logical than the cloudburst variety.
 
@@ -51,7 +55,7 @@ Another trite incident is the finding of a pistol engraved with initials, near t
 
 To quote from a personal letter of Mr. Burton E. Stevenson:
 
->&quot;If I were to find a murdered man,—which the Lord forbid!—and should also discover beside the body a pistol with a name on it or a visiting card or a monogrammed watch charm, or anything else of a clearly identifying character, I should conclude at once that the person thus identified was not guilty. This is a weakness which often annoys me in the modern detective story. When the hero&#39;s cane is found in the bushes near the body, and everyone concludes that the hero is therefore guilty, I put the book down with a sigh of disappointment.&quot;
+>&quot;If I were to find a murdered man &mdash; which the Lord forbid!—and should also discover beside the body a pistol with a name on it or a visiting card or a monogrammed watch charm, or anything else of a clearly identifying character, I should conclude at once that the person thus identified was not guilty. This is a weakness which often annoys me in the modern detective story. When the hero&#39;s cane is found in the bushes near the body, and everyone concludes that the hero is therefore guilty, I put the book down with a sigh of disappointment.&quot;
 
 A fine example of this mistaken device is in &quot;The Villa Mystery, &quot; by Herbert Flowerdew:
 
@@ -105,19 +109,23 @@ Mr. Jacques Futrelle uses the thread clue with a little more plausibility, thoug
 
 >&quot;Possibly. Ask some cloth expert what he makes of it, then if it sounds promising look into it. Find out if by any possibility it can be any part of any garment worn by any person in the apartment house.&quot;
 
->&quot;But, it&#39;s so slight        &quot; Hatch began.
+>&quot;But, it&#39;s so slight &mdash; &quot; Hatch began.
 
 >&quot;I know,&quot; the other interrupted, tartly. &quot;It&#39;s slight, but I believe it is a part of the wearing apparel of the person, man or woman, who has four times attempted to kill Mr. Henley and who did kill the girl. Therefore it is important.&quot;
 
-Of course this thread led to the capture of the criminal, and as it was found caught in a rope near the scene of the crime it was a fairly good clue; but as a matter of fact, the threads of Turkish toweling are of fairly stout calibre, and are not likely to be broken off as they trail across a rope. So much depends on the plausibility of these clues, that not only care but common sense must be exercised in their selection. In the Thinking Machine story, another scarlet thread from the same bath-robe attached itself importantly and conspicuously to a metal corner of a trunk, and so by the trail of red threads the criminal was hunted down. Here again we see the beautiful workings of the salted mine. In real life those tell-tale threads would have stayed stubbornly in their own warp or woof; or if they did leave their rightful abiding place they would creep behind the bureau or somehow get into the dust bin undiscovered.
+Of course this thread led to the capture of the criminal, and as it was found caught in a rope near the scene of the crime it was a fairly good clue; but as a matter of fact, the threads of Turkish toweling are of fairly stout calibre, and are not likely to be broken off as they trail across a rope. So much depends on the plausibility of these clues, that not only care but common sense must be exercised in their selection.
 
-In Samuel Gardenhire&#39;s story, &quot;The Abduction of Mary Ellis,&quot; the discovery of the criminal hinges on a piece of brown wrapping-paper, on which the kidnappers wrote an advertisement asking for ransom. This paper, after passing through several hands, was examined microscopically by the Transcendent Detective, and he discovered wax and a strand or two of floss doll&#39;s hair. Now, think of the thousands of dolls that are bought and never leave a hair of their heads fastened by a bit of their own wax face to their wrapping paper! and then think of this doll intelligently leaving these traces at the critical juncture, where such a clue was necessary, and then judge for yourself the relationship between truth and fiction.
+In the Thinking Machine story, another scarlet thread from the same bath-robe attached itself importantly and conspicuously to a metal corner of a trunk, and so by the trail of red threads the criminal was hunted down. Here again we see the beautiful workings of the salted mine. In real life those tell-tale threads would have stayed stubbornly in their own warp or woof; or if they did leave their rightful abiding place they would creep behind the bureau or somehow get into the dust bin undiscovered.
 
-This habit of using shredded evidence is not confined to writers in our own language. An exceedingly good detective story is by a Russian, Anton Chekhov, and is called the &quot;Safety Match.&quot; There was a bushy burdock growing under the window, which was greatly trampled. On its upper branches. Detective Dukovski succeeded in finding some fine hairs of dark blue wool. Now, had the bushy burdock pulled out a jagged piece of woolen cloth we might have forgiven it, but to catch and hold up for inspection a few fine hairs is drawing too long a bow. However, they cut off these twigs of burdock and care fully wrapped them in paper in true conventional style. These few fine hairs lead directly to the trousers of the murderer and the naive author quite calmly acknowledges his debt to an illustrious predecessor: &quot;See what a fellow who has read Gaboriau can do!&quot; he exclaimed, which is not too self-depreciatory, for even in the same story he has adapted to his own use many more of Lecoq&#39;s devices.
+In Samuel Gardenhire&#39;s story, &quot;The Abduction of Mary Ellis,&quot; the discovery of the criminal hinges on a piece of brown wrapping-paper, on which the kidnappers wrote an advertisement asking for ransom. This paper, after passing through several hands, was examined microscopically by the Transcendent Detective, and he discovered wax and a strand or two of floss doll&#39;s hair.
+
+Now, think of the thousands of dolls that are bought and never leave a hair of their heads fastened by a bit of their own wax face to their wrapping paper! and then think of this doll intelligently leaving these traces at the critical juncture, where such a clue was necessary, and then judge for yourself the relationship between truth and fiction.
+
+This habit of using shredded evidence is not confined to writers in our own language. An exceedingly good detective story is by a Russian, Anton Chekhov, and is called the &quot;Safety Match.&quot; There was a bushy burdock growing under the window, which was greatly trampled. On its upper branches, Detective Dukovski succeeded in finding some fine hairs of dark blue wool. Now, had the bushy burdock pulled out a jagged piece of woolen cloth we might have forgiven it, but to catch and hold up for inspection a few fine hairs is drawing too long a bow. However, they cut off these twigs of burdock and care fully wrapped them in paper in true conventional style. These few fine hairs lead directly to the trousers of the murderer and the naive author quite calmly acknowledges his debt to an illustrious predecessor: &quot;See what a fellow who has read Gaboriau can do!&quot; he exclaimed, which is not too self-depreciatory, for even in the same story he has adapted to his own use many more of Lecoq&#39;s devices.
 
 The most logical and plausible instance of detection by the means of tiny threads for clues is found in Mary E. Wilkins&#39;s &quot;The Long Arm.&quot;
 
->&quot;I began to-day at the bottom—that is, with the room least likely to contain any clue, the parlour. I took a chalk-line and a yard-stick, and divided the floor into square yards, and every one of these squares I examined on my hands and knees. I found in this way literally nothing on the carpet but dust, lint, two common white pins, and three inches of blue sewing silk.
+>&quot;I began today at the bottom—that is, with the room least likely to contain any clue, the parlour. I took a chalk-line and a yard-stick, and divided the floor into square yards, and every one of these squares I examined on my hands and knees. I found in this way literally nothing on the carpet but dust, lint, two common white pins, and three inches of blue sewing silk.
 
 >&quot;At last I got the dustpan and brush, and yard by yard swept the floor. I took the sweepings in a white pasteboard box out into the yard in the strong sunlight, and examined them. There was nothing but dust and lint and five inches of brown woollen thread—evidently a ravelling of some dress material. The blue silk and the brown thread are the only possible clues which I found today and they are hardly possible. Rufus&#39;s wife can probably account for them.&quot;
 
@@ -130,5 +138,7 @@ It is wise to be careful in the use of shreds and threads that the author may no
 >He had been found dead in the garden of his villa just outside the town, with a stiletto between his shoulder blades and a piece of rough Irish tweed, obviously torn from his assailant&#39;s coat, clutched tightly in his hand.
 
 It would be interesting to see a hand that could tear a piece out of a coat of rough Irish tweed! The strength of such a clutch would put to blush the feats of the Murderer of the Rue Morgue.
+
+<p id="theend">~ The End ~
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>

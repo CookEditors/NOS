@@ -10,7 +10,7 @@ date: 2016-08-29
 category: murderwiki
 excerpt: A Detective Story depends so much on the logic and plausibility of its conditions, that a vague or uncertain touch on the practical or material details greatly mars the effect.
 image: /assets/img/A_Study_in_Scarlet_Friston_02.png
-caption: "As he spoke, his nimble fingers were flying here, there, and everywhere."<br>From 'A Study in Scarlet' by Sir Arthur Conan Doyle
+caption: "\"As he spoke, his nimble fingers were flying here, there, and everywhere.\"<br>From 'A Study in Scarlet' by Sir Arthur Conan Doyle"
 genre: The Techniques of the Mystery
 wordcount: 3421
 ---
@@ -182,4 +182,5 @@ It goes without saying that the locality and social customs of the story must be
 Let us see to it, then, that our setting and our atmosphere are free from mistake or anachronism. Economy of attention demands that we keep the reader&#39;s mind wholly intent on the solution of the problem; and this may not be done if we allow questionable or contradictory work on the minor interests.
 
 <p id="theend">~ The End ~
+
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
