@@ -63,7 +63,7 @@ Having told what he knew of the strange trio, Dr. Smith leaned forward and invit
 
 “As you know, a bomb was placed in a basement room of his house at Marsdale. It exploded at half-past nine on Wednesday night and wrecked his laboratory, which was situated upstairs.
 
-“But it was another explosion that gave the affair its really queer aspect. It occurred near the back garden wall of an adjoining empty house some three-quarters of an hour before the explosion at Rawson S place, killing a man and a woman, afterwards identified as Maurice Pollitt and Mrs. Vesey.
+“But it was another explosion that gave the affair its really queer aspect. It occurred near the back garden wall of an adjoining empty house some three-quarters of an hour before the explosion at Rawson's place, killing a man and a woman, afterwards identified as Maurice Pollitt and Mrs. Vesey.
 
 “A mongrel dog, of the terrier type, was found running about close to the scene of this fatality, and I believe you were one of the several patrons of that cafe who were able to identify the animal as Mrs. Vesey’s property.”
 
@@ -111,7 +111,7 @@ Hawke nodded.
 ### The Time-table Clue
 {: .chaptertitle }
 
-Detective-Inspector Gray called later, and informed Hawke a trifle wearily that he had been making inquiries at every restaurant and public-house in Mars- dale.
+Detective-Inspector Gray called later, and informed Hawke a trifle wearily that he had been making inquiries at every restaurant and public-house in Marsdale.
 
 “I’ve been inquiring if anybody saw two men, a woman and a dog on Wednesday evening. You’d think that a sufficiently unusual combination for one particular Wednesday evening in a small town, wouldn’t you? Well, the entire blessed populace of Marsdale seems to have resolved itself into cliques consisting of two men, a woman and a dog on this very special Wednesday evening.”
 
@@ -119,7 +119,7 @@ Hawke smiled and offered the disgruntled police officer a cigarette.
 
 “And you weren’t able to pick up any clues?”
 
-“There was one such group that called at ‘ The Brown Bear ’ at about half-past eight, and inquired for a timetable. They were strangers, and the landlord was able to agree to the description I gave him. But they dropped no hint of where they were meaning to go, and nobody at either the railway station or the bus depot is able to recall seeing anybody like Vesey leaving. It was a market day, and the town was a bit crowded.” Hawke had other work to dispose of, but half an hour after Gray’s departure he gave himself up to speculation about the affair, and after a few minutes’ thought and the study of a railway time-table he left the Hat and boarded a train to Marsdale.
+“There was one such group that called at ‘The Brown Bear’ at about half-past eight, and inquired for a timetable. They were strangers, and the landlord was able to agree to the description I gave him. But they dropped no hint of where they were meaning to go, and nobody at either the railway station or the bus depot is able to recall seeing anybody like Vesey leaving. It was a market day, and the town was a bit crowded.” Hawke had other work to dispose of, but half an hour after Gray’s departure he gave himself up to speculation about the affair, and after a few minutes’ thought and the study of a railway time-table he left the Hat and boarded a train to Marsdale.
 
 Some two hours later his assistant, Tommy Burke, received a phone message from him.
 
@@ -143,7 +143,7 @@ Hawke repeated Gray’s information concerning the people who had borrowed the t
 
 “I looked down the column for any marks which might indicate the destination, and there were three fingernail marks in that particular column. They were opposite Woodford, Bramley, and Risden; and I went to Woodford, and then Bramley. They were both small villages, and the ticket-collectors, who know everybody using the stations, had seen no one answering to the description of Vesey.
 
-It then occurred to me to see if I. could make some use of that mongrel. The beast had had a plain collar with no name on it, and was in the care of the Marsdale police. 1 returned and persuaded the superintendent there to lend it to me, and came on to Risden with it.”
+It then occurred to me to see if I could make some use of that mongrel. The beast had had a plain collar with no name on it, and was in the care of the Marsdale police. I returned and persuaded the superintendent there to lend it to me, and came on to Risden with it.”
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
@@ -156,7 +156,7 @@ It then occurred to me to see if I. could make some use of that mongrel. The bea
 
 It was certainly an idea, sir,” approved Tommy, “but the mongrel’s hardly in the bloodhound class, is it?”
 
-“Hardly,” said Hawke, “though it has some of the attributes of most classes. Anyhow, I brought it to Risden, and the first thing that happened as we were leaving Risden station was that it tried to bite the ticket-collector. ’ ’
+“Hardly,” said Hawke, “though it has some of the attributes of most classes. Anyhow, I brought it to Risden, and the first thing that happened as we were leaving Risden station was that it tried to bite the ticket-collector."
 
 “And what did the ticket-collector say?”
 
@@ -166,17 +166,17 @@ Tommy grinned, and nodded appreciatively.
 
 “Ha! A useful bite that!”
 
-“I questioned the man, and he vaguely recalled the three people I described, though he chiefly remembered the dog, winch had tried to remove a piece of his trouser-leg.”
+“I questioned the man, and he vaguely recalled the three people I described, though he chiefly remembered the dog, which had tried to remove a piece of his trouser-leg.”
 
 “Well, it was a start. What happened then?”
 
-“I decided to let the animal go its own way, and it led me on a tiresome jaunt half round the town. Then it went into that public - house over there.
+“I decided to let the animal go its own way, and it led me on a tiresome jaunt half round the town. Then it went into that public-house over there.
 
 “It trotted right across the bar, and went through closely-drawn curtains covering a doorway at the far end of the bar.
 
 “I was about to follow it when the barman stopped me, remarking that the inner room was private. I said nothing to him about the dog, and it was apparent that he had not noticed it. I was in there for about ten minutes, expecting that the dog would be chased out, but it wasn’t.
 
-“I then watched the place from outside,” went on Hawke, “and, presently, the dog was brought out by a man who had it on a lead. No, lie wasn’t Vesey. He was a small, slim man. I followed him for a short distance, and then stopped him and said that the dog looked like one that had been lost by an acquaintance of mine.”
+“I then watched the place from outside,” went on Hawke, “and, presently, the dog was brought out by a man who had it on a lead. No, it wasn’t Vesey. He was a small, slim man. I followed him for a short distance, and then stopped him and said that the dog looked like one that had been lost by an acquaintance of mine.”
 
 Tommy nodded eagerly.
 
@@ -209,9 +209,9 @@ Hawke slipped out of the car.
 
 The turns proved to be tricky, and Tommy had to back out of a blind road before he finally found the way.
 
-When lie reached the other road he found Hawke waiting anxiously.
+When he reached the other road he found Hawke waiting anxiously.
 
-“What’s delayed you?” he snapped, jumping in by Tommy’s side. “Head towards the main London road. A fellow who looked like Vesey joined the small man, and they got a saloon ear out of that little lock-up garage. They’re moving out—and going like the very dickens.”
+“What’s delayed you?” he snapped, jumping in by Tommy’s side. “Head towards the main London road. A fellow who looked like Vesey joined the small man, and they got a saloon car out of that little lock-up garage. They’re moving out—and going like the very dickens.”
 
 “Sorry, guv’nor; not my fault,” apologised Tommy. “Watch me step on it now, though!”
 
@@ -227,7 +227,7 @@ He eased up for a moment, but the blue saloon put on such pace that he had to ac
 
 “Get up a little closer,” urged Hawke. “I fancy they’ve been testing us to see whether we’re on their track, and they’re likely to dodge away off the main road.”
 
-Which course the fugitives adopted about live miles farther along; and, as soon as the saloon disappeared from view around a concealed turning, Tommy stepped heavily on the accelerator again.
+Which course the fugitives adopted about five miles farther along; and, as soon as the saloon disappeared from view around a concealed turning, Tommy stepped heavily on the accelerator again.
 
 The turning proved to be a narrow lane with overhanging hedgerows, and its tortuous character kept the other car from view for several minutes. Then, on topping the brow of a hill, Tommy suddenly applied the brakes and uttered a surprised exclamation.
 
@@ -247,7 +247,7 @@ He was running at full speed towards the saloon when Tommy accelerated once more
 
 Tommy understood the significance of the order as soon as it was uttered.
 
-“The bridge!” he gasped. “I suppose lie’s put an explosive under it. We shall lose ’em if we don’t get across, guv’nor. We’d hotter risk it.”
+“The bridge!” he gasped. “I suppose he’s put an explosive under it. We shall lose ’em if we don’t get across, guv’nor. We’d better risk it.”
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
@@ -258,13 +258,13 @@ Tommy understood the significance of the order as soon as it was uttered.
 ### When Murder Misfired
 {: .chaptertitle }
 
-The youth had scarcely finished speaking when lie found himself being bundled bodily out of the car.
+The youth had scarcely finished speaking when he found himself being bundled bodily out of the car.
 
 “Out you go,” growled Hawke, taking charge of the wheel. “The risk is all mine.”
 
 The Bentley was more than three hundred yards from the bridge when, after depositing Tommy in the road, Hawke sent it shooting forward.
 
-His chance lay in the fact of their having made extraordinarily good time in reaching the turning. The fugitives bad only had a narrow margin of time in which to act, and they had to allow a sufficient number of seconds to ensure their own safety.
+His chance lay in the fact of their having made extraordinarily good time in reaching the turning. The fugitives had only had a narrow margin of time in which to act, and they had to allow a sufficient number of seconds to ensure their own safety.
 
 The powerful car bounced crazily over the uneven road, and almost tipped into the hedge before roaring away on the last fifty-yard stretch.
 
@@ -286,7 +286,7 @@ At the top of the hill he caught up with the saloon, swerved, and jammed the sma
 
 The detective pitched half over the broken windscreen, recovered, and then jumped out of the car, prepared to engage in a struggle, for which, however, there was no need.
 
-The driver was unconscious, and his passenger, who proved to be Vesey, was dazed from a blow- on the side of the head.
+The driver was unconscious, and his passenger, who proved to be Vesey, was dazed from a blow on the side of the head.
 
 The dog, which was barking excitedly in the back of the saloon, appeared to have had yet another lucky escape from injury.
 
@@ -294,15 +294,15 @@ By the time Tommy arrived on the scene, having waded across the shallow stream, 
 
 The head of the organisation for which Vesey, his wife and Pollitt had been working was arrested the following day by officers of the Special Branch at Scotland Yard, and Vesey then told the story of the Marsdale business.
 
-“I’d seen what was going on between my wife and Pollitt,” he said, “and we were just about due for a bust- up. Anyway, to get on with the story. The three of us were sent to do that Rawson job, and after we’d reconnoitred I went to telephone to the boss to make sure there was no last-minute cancellation.
+“I’d seen what was going on between my wife and Pollitt,” he said, “and we were just about due for a bust-up. Anyway, to get on with the story. The three of us were sent to do that Rawson job, and after we’d reconnoitred I went to telephone to the boss to make sure there was no last-minute cancellation.
 
 “I’d left my wife and Pollitt waiting by that empty house when I went to telephone, and when I entered the grounds of Rawson’s house I was surprised to find Pollitt coming out, followed, a few yards in the rear, by the dog.
 
-“‘ It’s all clear,’ Pollitt whispered. * I’ve just had a final look round.’
+“ 'It’s all clear,’ Pollitt whispered.  'I’ve just had a final look round.' "
 
-“I then went round to the back and got in that basement window and placed the bomb where it would l>e most effective. Whilst I was doing so 1 hoard an explosion nearby. 1 rushed out, and, when 1 saw what had happened, 1 beat it for the station.
+“I then went round to the back and got in that basement window and placed the bomb where it would be most effective. Whilst I was doing so 1 hoard an explosion nearby. I rushed out, and, when I saw what had happened, I beat it for the station.
 
-“It dawned on me then that the flog had been carrying something in its mouth when it was following Pollitt out of the grounds, and 1 was able to recall that that something was oblong and brown. It was, in fact, one of our little high-explosive packets, though, being intent on the job in hand; I hadn’t connected it with that at the time.
+“It dawned on me then that the flog had been carrying something in its mouth when it was following Pollitt out of the grounds, and I was able to recall that that something was oblong and brown. It was, in fact, one of our little high-explosive packets, though, being intent on the job in hand; I hadn’t connected it with that at the time.
 
 “You see the little plot which Pollitt and my wife had hatched? Pollitt had set that time-bomb at the last minute when he saw me approaching, and slipped it into the basement.
 
