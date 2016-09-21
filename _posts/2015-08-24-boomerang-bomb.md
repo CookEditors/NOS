@@ -30,8 +30,6 @@ epub: LINK TO EPUB
 
 Before he met his frightful but not entirely unfitting death, Maurice Pollitt had had some life infused into him.
 
-[my fake edit]
-
 He was a young provincial who had had difficulty in making up his mind about himself, and he had become frightened of the ruthlessness of London life even while he was determined to overcome it and to satisfy the craving for adventure which had brought him from the comfortable, if modest, environment of his home town.
 
 Prior to his meeting a certain Mr. and Mrs. Vincent Vesey, he was not sufficiently bold to sit on top of the world, nor quite sufficiently abject to allow it to sit on him.
